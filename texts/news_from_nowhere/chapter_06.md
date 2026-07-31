@@ -61,7 +61,7 @@ morris: "However, I said nothing, except that I asked him to drive very slowly, 
 
 ne kulo sha lia. ha wei lo mioru thena ru welao wisola lokue nai. lo miona mua shia lo mo mioru thena ko ro wisola. noshi tholua karami womu wisola lokue nai. mua ra lo kosha nuora nua lo napuro milau nela lo keloa lureko milau neo lo miona ro se thinu sho to haolu.
 NAME kulo QUOT.COMP yes. PROX DAT PL beautiful thing INTS good exchange place be. PL person LOC 3SG PL CMPR beautiful thing FOC HAB exchange. near ancient authority home exchange place be. LOC DIST PL field food COM PL grain drink COORD PL rough fruit drink FRONT PL person HAB PASS put QUOT.COMP.CLOSE PST speak.
-(Guide said, "Yes. This is an excellent exchange-place for beautiful things, and people chiefly exchange the more beautiful things here. The exchange-place at the old authority-houses is nearby. There people set out field foods, grain drinks, and rougher fruit drinks.")
+("Yes," said Guide. "This is an excellent exchange-place for beautiful things, and people chiefly exchange the more beautiful things here. The exchange-place at the old authority-houses is nearby. There people set out field foods, grain drinks, and rougher fruit drinks.")
 morris: "\"Yes,\" said he, \"this is a very good market for pretty things, and is mostly kept for the handsomer goods, as the Houses-of-Parliament market, where they set out cabbages and turnips and such like things, along with beer and the rougher kind of wine, is so near.\""
 
 ne kulo mia to kuelo nila. shia sha wa thia soli thena kanu nela pilu rinu sho to thilou.
@@ -92,7 +92,7 @@ morris: "My face fell fifty per cent., and Dick, beholding me, said rather sharp
 
 ne kulo sha kia ne phemi. thia nosa hina phaelo sho to thilou.
 NAME kulo QUOT.COMP hello NAME phemi. 2SG now what feel QUOT.COMP.CLOSE PST inquire.
-(Guide asked, "Hello, Guest. What are you feeling now?")
+("Hello, Guest," asked Guide. "What are you feeling now?")
 morris: "\"Hilloa, Guest! what's the matter now?"
 
 wa tiso nireku nai.
@@ -102,12 +102,12 @@ morris: "Is it a wasp?\""
 
 mia sha tua. whekai mia ra thena to leiro sho to haolu.
 1SG QUOT.COMP no. CONTR 1SG DIST thing PST release QUOT.COMP.CLOSE PST speak.
-(I said, "No. But I left that thing behind.")
+("No," I said. "But I left that thing behind.")
 morris: "\"No,\" said I, \"but I've left it behind.\""
 
 ne kulo sha thia mua ha wisola lokue senao kire thena po pilu. no weshoru ma phaelo sho to haolu.
 NAME kulo QUOT.COMP 2SG LOC PROX exchange place same shape thing POT take. IMP anxious NEG feel QUOT.COMP.CLOSE PST speak.
-(Guide said, "You can take another thing of the same kind in this exchange-place. Do not feel anxious.")
+("You can take another thing of the same kind in this exchange-place," said Guide. "Do not feel anxious.")
 morris: "\"Well,\" said he, \"whatever you have left behind, you can get in this market again, so don't trouble yourself about it.\""
 
 mia pheo ha thimu selua to kelu. mia ha lo lokue waora keno to halemu. mia phirae luera punoa wisola terura nela ra thimu keluo wisola kiroa solae to ma rinu. thelao mia to teku haolu.
@@ -117,7 +117,7 @@ morris: "I had come to my senses by this time, and remembering the astounding cu
 
 mia sha mia wethalu. wa mia lo newu po pilu sho to thilou.
 1SG QUOT.COMP 1SG garment. Q 1SG PL new POT take QUOT.COMP.CLOSE PST inquire.
-(I asked, "My clothes. Could I take new ones?")
+("My clothes," I asked. "Could I take new ones?")
 morris: "\"My clothes--Couldn't I?"
 
 thia nila. thia pha lo shia hina se po phoa pho remo.
@@ -132,7 +132,7 @@ morris: "He didn't seem in the least inclined to laugh, but said quite gravely:"
 
 ne kulo sha no nosa newu wethalu ma pilu sho to haolu.
 NAME kulo QUOT.COMP IMP now new garment NEG take QUOT.COMP.CLOSE PST speak.
-(Guide said, "Do not take new clothes yet.")
+("Do not take new clothes yet," said Guide.)
 morris: "\"O don't get new clothes yet."
 
 mia phao phao phao tholua thena thonua nai. shia tha thia phea whu nosa nai so nila tho rinu.
@@ -162,7 +162,7 @@ morris: "So I merely said, \"O certainly, certainly.\""
 
 ne kulo sha welao. thia lo wisola womu muwi po nila. no ta whu thia rinu thena remo sho to haolu.
 NAME kulo QUOT.COMP good. 2SG PL exchange home interior POT see. IMP one REL 2SG want thing think QUOT.COMP.CLOSE PST speak.
-(Guide said pleasantly, "Good. You can see the inside of the exchange-houses. Think of something you want.")
+("Good," said Guide pleasantly. "You can see the inside of the exchange-houses. Think of something you want.")
 morris: "\"Well,\" said he, pleasantly, \"you may as well see what the inside of these booths is like: think of something you want.\""
 
 mia sha wa mia kurathi thumiro lirowa nela thumiro keli po pilu sho to thilou.
@@ -172,7 +172,7 @@ morris: "Said I: \"Could I get some tobacco and a pipe?\""
 
 ne kulo sha lia. mia misa phoe ha thia ma thilou sho to haolu.
 NAME kulo QUOT.COMP yes. 1SG why ANT PROX 2SG NEG inquire QUOT.COMP.CLOSE PST speak.
-(Guide said, "Of course. Why did I not ask you before?")
+("Of course," said Guide. "Why did I not ask you before?")
 morris: "\"Of course,\" said he; \"what was I thinking of, not asking you before?"
 
 melu ne selomi wei mia tha lo whu thumiro ma whunei miona kasuno nai tho ro shane. mia tha shia shewo nai tho sukima phaelo.
@@ -208,22 +208,22 @@ morris: "To her quoth Dick: \"Maiden, would you kindly hold our horse while we g
 
 whau lo mia muo womu wepu mia wei ne kulo sha hina mioru limoe sho to haolu.
 SIMUL PL 1SG INTO home go 1SG DAT NAME kulo QUOT.COMP what beautiful creature QUOT.COMP.CLOSE PST speak.
-(As we entered, I said to Guide, "What a beautiful creature.")
+("What a beautiful creature," I said to Guide as we entered.)
 morris: "\"What a beautiful creature!\" said I to Dick as we entered."
 
 ne kulo to liroa seniku. shia sha wa thia haolu serao kerou welisha kalora shelo sho to thilou.
 NAME kulo PST playful smile. 3SG QUOT.COMP Q 2SG speak old stone color horse signify QUOT.COMP.CLOSE PST inquire.
-(Guide smiled playfully and asked, "Does your speech signify the old grey horse?")
+(Guide smiled playfully. "Does your speech signify the old grey horse?" he asked.)
 morris: "\"What, old Greylocks?\" said he, with a sly grin."
 
 mia sha tua. tua. mia haolu solai welisha whila phelu miona shelo sho to haolu.
 1SG QUOT.COMP no. no. 1SG speak gold color hair hold person signify QUOT.COMP.CLOSE PST speak.
-(I said, "No, no. My speech signifies the person with gold-coloured hair.")
+("No, no," I said. "My speech signifies the person with gold-coloured hair.")
 morris: "\"No, no,\" said I; \"Goldylocks,--the lady.\""
 
 ne kulo sha lia. shia mioru nai sho to haolu.
 NAME kulo QUOT.COMP yes. 3SG beautiful be QUOT.COMP.CLOSE PST speak.
-(Guide said, "Yes. That person is beautiful.")
+("Yes," said Guide. "That person is beautiful.")
 morris: "\"Well, so she is,\" said he."
 
 shia sha sheloi mioru miona nai. lao theli miona ta tewema po phelu ha welao nai. lu he ha ma nai. mia tha lo whu wei senao miona lothea phaelo miona wiso kaworu po phoa tho sukima phaelo sho to haolu.
@@ -269,7 +269,7 @@ morris: "Within were a couple of children--a brown-skinned boy of about twelve, 
 
 ne kulo sha kia lo thiku phewani sho to haolu.
 NAME kulo QUOT.COMP hello PL small neighbor QUOT.COMP.CLOSE PST speak.
-(Guide said, "Good morning, little neighbours.")
+("Good morning, little neighbours," said Guide.)
 morris: "\"Good morning, little neighbours,\" said Dick."
 
 shia sha mia melu kurathi thumiro lirowa nela thumiro keli rinu. wa thia shia po naphe sho to thilou.
@@ -279,7 +279,7 @@ morris: "\"My friend here wants tobacco and a pipe; can you help him?\""
 
 ta lopia sha lia. mia po naphe sho to haolu. shia shena nela selua kire to phelu. ha wei mia monelu to nai.
 one child QUOT.COMP yes. 1SG POT help QUOT.COMP.CLOSE PST speak. 3SG calm COORD aware shape PST hold. PROX DAT 1SG amused PST be.
-(One child said, "Yes. I can help." The child held a calm, alert manner that amused me.)
+("Yes. I can help," said one child. The child held a calm, alert manner that amused me.)
 morris: "\"O yes, certainly,\" said the girl with a sort of demure alertness which was somewhat amusing."
 
 phirae lopia koma to rihe. shia sui laeno shemu mia kuewa wethalu to nila. shia menoa pheo teku shemu rulo to kelu nela shia koma phei mia to rato. shia tha shia phena ma phoa tho to ke sano.
@@ -304,12 +304,12 @@ morris: "But the girl took a dainty little basket from a shelf beside her, went 
 
 mia sha whekai thia shia pamolu to ma masue. mia hina phanoi na pilu sho to thilou.
 1SG QUOT.COMP CONTR 2SG 3SG weight PST NEG measure. 1SG what portion NEC take QUOT.COMP.CLOSE PST inquire.
-(I asked, "But you have not measured its weight. What portion should I take?")
+("But you have not measured its weight," I asked. "What portion should I take?")
 morris: "\"But you haven't weighed it,\" said I, \"and--and how much am I to take?\""
 
 lopia sha lao thia wea whu thia thumiro lirowa po ma pilu lokue po wepu. no thia lirupa pheno ka kelu sho to haolu.
 child QUOT.COMP BECAUSE 2SG TOWARD REL 2SG smoke leaf POT NEG take place POT go. IMP 2SG bag full CAUS become QUOT.COMP.CLOSE PST speak.
-(The child said, "Because you may travel to a place where you cannot get smoke-leaf, fill your bag.")
+("Because you may travel to a place where you cannot get smoke-leaf, fill your bag," said The child.)
 morris: "\"Why,\" she said, \"I advise you to cram your bag, because you may be going where you can't get Latakia."
 
 thia lirupa kua nai.
@@ -329,7 +329,7 @@ morris: "But the girl looked at it with some disdain, and said--"
 
 lopia sha kona phewani. mia wei thia thena sheo ra sophae wetha mo welao po loa sho to haolu. shia thue wisola womu to reshi wepu nela to turema. whau shia sio phirae lopia wepu shia wei shia shonui to whishela. lila ra lopia kelomi mishoa ra lopia koma to roke. thelao shia to rihe nela lue womu to wepu.
 child QUOT.COMP VOC neighbor. 1SG DAT 2SG thing THAN DIST cotton cloth CMPR good POT give QUOT.COMP.CLOSE PST speak. 3SG THROUGH exchange home PST fast go COORD PST return. SIMUL 3SG BESIDE different child go 3SG DAT 3SG ear PST whisper. PURP DIST child accept express DIST child head PST move. CONS 3SG PST rise COORD ABL home PST go.
-(The child said, "Neighbour, I can give you something better than that cotton cloth." The child hurried through the exchange-house and returned, whispering into the sibling's ear while passing. The sibling moved the head in acceptance, stood, and went out.)
+("Neighbour, I can give you something better than that cotton cloth," said the child. The child hurried through the exchange-house and returned, whispering into the sibling's ear while passing. The sibling moved the head in acceptance, stood, and went out.)
 morris: "\"Dear neighbour, I can give you something much better than that cotton rag.\" And she tripped up the shop and came back presently, and as she passed the boy whispered something in his ear, and he nodded and got up and went out."
 
 lopia thei thumai nela whalo thumai rulo kori lirupa to phelu. lirupa roe keru sima to se weshapi. shia sha mia wei thia ha to kanu. ha loami nai. mia wei thia shia so loa. shia mioru nai nela sheloi thena po phelu sho to haolu.
@@ -354,7 +354,7 @@ morris: "It was, in short, as pretty and gay a toy as I had ever seen; something
 
 whau mia shia to nila mia sha wao. ha wei mia wo phiro nai. ha wei theula muila ru karami miona li theali nai sho to haolu.
 SIMUL 1SG 3SG PST see 1SG QUOT.COMP wow. PROX DAT 1SG EXC elegant be. PROX DAT UNIV earth INTS authority person RESTR fitting be QUOT.COMP.CLOSE PST speak.
-(When I saw it, I said, "Wow. This is too elegant for me. It would suit only a person of very great authority over the whole world.")
+("Wow," I said when I saw it, "this is too elegant for me. It would suit only a person of very great authority over the whole world.")
 morris: "\"Dear me!\" said I, when I set eyes on it, \"this is altogether too grand for me, or for anybody but the Emperor of the World."
 
 sheno mia shia so wesaki. mia theula thimu lo thumiro keli ro wesaki.
@@ -369,12 +369,12 @@ morris: "The child seemed rather dashed, and said, \"Don't you like it, neighbou
 
 mia sha lia. mia shia ru kaeli sho to haolu.
 1SG QUOT.COMP yes. 1SG 3SG INTS like QUOT.COMP.CLOSE PST speak.
-(I said, "Yes. I certainly like it.")
+("Yes," I said. "I certainly like it.")
 morris: "\"O yes,\" I said, \"of course I like it.\""
 
 lopia sha welao. no shia pilu. no thia shia wesaki remole weshoru ma phaelo sho to haolu.
 child QUOT.COMP good. IMP 3SG take. IMP 2SG 3SG lose concept anxious NEG feel QUOT.COMP.CLOSE PST speak.
-(The child said, "Good. Then take it, and do not feel anxious about losing it.")
+("Good," said The child. "Then take it, and do not feel anxious about losing it.")
 morris: "\"Well, then, take it,\" said she, \"and don't trouble about losing it."
 
 lu thia shia wesaki. ha hina peloma po thola.
@@ -399,12 +399,12 @@ morris: "Dick laid his hand on my shoulder as I spoke, and turning I met his eye
 
 mia pheo laeno shemu sha mea. mia thia ru woraka sho to haolu. mia muo mia wethalu lirupa thumiro keli to thinu. whekai mia tha mia pheo teku shemu neo karami miona po whano tho la sukima phaelo.
 1SG POST long moment QUOT.COMP thanks. 1SG 2SG INTS appreciate QUOT.COMP.CLOSE PST speak. 1SG INTO 1SG garment bag smoke device PST put. CONTR 1SG DECL.COMP 1SG POST short moment FRONT authority person POT stand DECL.COMP.CLOSE ATTEN fear feel.
-(At last I said, "Thank you. I greatly appreciate you," and put the smoke-device into my pocket. Even then I felt a small fear that I might soon stand before a person of authority.)
+("Thank you. I greatly appreciate you," I said at last, and put the smoke-device into my pocket. Even then I felt a small fear that I might soon stand before a person of authority.)
 morris: "\"Thank you so very much,\" I said at last, effusively, as I put the pipe in my pocket, not without a qualm of doubt as to whether I shouldn't find myself before a magistrate presently."
 
 lopia sha ru whelani sho to haolu. shia pharea miona phena haolu kire to wile. ha kire ru kuelo to nai.
 child QUOT.COMP INTS welcome QUOT.COMP.CLOSE PST speak. 3SG adult person kind speak shape PST play. PROX shape INTS curious PST be.
-(The child said, "You are very welcome," playing at the kind manners of an adult. This manner was wonderfully curious.)
+("You are very welcome," said the child, playing at the kind manners of an adult. This manner was wonderfully curious.)
 morris: "\"O, you are so very welcome,\" said the little lass, with an affectation of grown-up manners at their best which was very quaint."
 
 shia sha mia tha phea lo thia serao miona pheloma ru siora nai tho phaelo. shekoi lao tha lo thia lue wuero moriwhe to shua tho nuwi nai mia ha siora phaelo sho to haolu.
@@ -414,7 +414,7 @@ morris: "\"It is such a pleasure to serve dear old gentlemen like you; especiall
 
 mia sha lia kona mioru phewani. mia wea sheloi lokue ki wepu sho to haolu.
 1SG QUOT.COMP yes VOC beautiful neighbor. 1SG TOWARD MANY place PFV go QUOT.COMP.CLOSE PST speak.
-(I said, "Yes, dear neighbour. I have travelled to many places.")
+("Yes, dear neighbour," I said. "I have travelled to many places.")
 morris: "\"Yes, my dear,\" quoth I, \"I have been a great traveller.\""
 ```
 
@@ -430,7 +430,7 @@ morris: "As I told this lie from pure politeness, in came the lad again, with a 
 
 shai shia lomea nilua nai ha lopia theula phelui to haolu. lopia sha kona lo phewani. lao phea lo thia phemi mawha philo mua ha lokue ro shua phoe lo thia wepu. pi no nua lo mia ta lopha milau sho to haolu.
 CONC 3SG sibling shy be PROX child UNIV word PST speak. child QUOT.COMP VOC PL neighbor. BECAUSE AS PL 2SG guest NONE day LOC PROX place HAB come ANT PL 2SG go. POL IMP COM PL 1SG one vessel drink QUOT.COMP.CLOSE PST speak.
-(Although the sibling was shy, this child spoke every word. The child said, "Neighbours, because guests like you do not come here every day, before you go, please drink one vessel with us.")
+(Although the sibling was shy, this child spoke every word. "Neighbours, because guests like you do not come here every day, before you go, please drink one vessel with us," the child said.)
 morris: "\"Neighbours,\" said the girl (who did all the talking, her brother being very shy, clearly) \"please to drink a glass to us before you go, since we do not have guests like this every day.\""
 
 lopia nia wonepa whalo palu to thinu. shia muo wi laeno noru kurathi whelina welisha lureko milau to thesa seluto.
@@ -445,17 +445,17 @@ morris: "Nothing loth, I drank, for I was thirsty with the hot day; and thinks I
 
 mia sha kona lo thiku phewani. wa thia nua lo mia ta lopha ma milau sho to thilou.
 1SG QUOT.COMP VOC PL small neighbor. Q 2SG COM PL 1SG one vessel NEG drink QUOT.COMP.CLOSE PST inquire.
-(I asked, "Dear little neighbours, will you not drink a vessel with us?")
+("Dear little neighbours, will you not drink a vessel with us?" I asked.)
 morris: "\"Don't you drink a glass to us, dear little neighbours?\" said I."
 
 ta lopia sha mia lureko milau ma milau. mia tuko kaelo phialu mo kaeli. whekai mia thia sunai pula sho to haolu.
 one child QUOT.COMP 1SG fruit drink NEG drink. 1SG sour sweet water CMPR like. CONTR 1SG 2SG health wish QUOT.COMP.CLOSE PST speak.
-(One child said, "I do not drink fruit drink. I prefer sweet, sour water. But I wish you health.")
+("I do not drink fruit drink," said One child. "I prefer sweet, sour water. But I wish you health.")
 morris: "\"I don't drink wine,\" said the lass; \"I like lemonade better: but I wish your health!\""
 
 phirae lopia sha mia phirae milau mo kaeli sho to haolu.
 different child QUOT.COMP 1SG different drink CMPR like QUOT.COMP.CLOSE PST speak.
-(The other child said, "I prefer the other drink.")
+("I prefer the other drink," said The other child.)
 morris: "\"And I like ginger-beer better,\" said the little lad."
 
 mia tha lo lopia thorima kaeli to ki ma la helui tho to remo.
@@ -486,22 +486,22 @@ morris: "He explained to us that the maiden could not wait, and that he had take
 
 serao miona wei ne kulo sha thia wea kua wepu sho to thilou.
 old person DAT NAME kulo QUOT.COMP 2SG TOWARD where go QUOT.COMP.CLOSE PST inquire.
-(The elder asked Guide, "Where are you going?")
+("Where are you going?" asked The elder Guide.)
 morris: "\"Where are you going?\" said he to Dick."
 
 ne kulo sha wea ra lokue sho to haolu.
 NAME kulo QUOT.COMP TOWARD DIST place QUOT.COMP.CLOSE PST speak.
-(Guide answered, "Towards that place.")
+("Towards that place," answered Guide.)
 morris: "\"To Bloomsbury,\" said Dick."
 
 serao miona sha lu lo thia sonu nai ma rinu. mia nua lo thia so shua sho to haolu.
 old person QUOT.COMP COND PL 2SG alone be NEG want. 1SG COM PL 2SG FUT come QUOT.COMP.CLOSE PST speak.
-(The elder said, "If you two do not want to be alone, I will come with you.")
+("If you two do not want to be alone, I will come with you," said The elder.)
 morris: "\"If you two don't want to be alone, I'll come with you,\" said the old man."
 
 ne kulo sha welao. thia wei mia pha weno lue rolutha wepu rinu pho shane. mia rolutha so te ka kelu. no lo mia wepu sho to haolu.
 NAME kulo QUOT.COMP good. 2SG DAT 1SG INT.COMP when ABL wagon go want INT.COMP.CLOSE tell. 1SG wagon FUT CESS CAUS become. IMP PL 1SG go QUOT.COMP.CLOSE PST speak.
-(Guide said, "Good. Tell me when you want to leave the carriage, and I will stop it. Let us go.")
+("Good," said Guide. "Tell me when you want to leave the carriage, and I will stop it. Let us go.")
 morris: "\"All right,\" said Dick, \"tell me when you want to get down and I'll stop for you. Let's get on.\""
 ```
 
@@ -517,7 +517,7 @@ morris: "So we got under way again; and I asked if children generally waited on 
 
 ne kulo sha lu lo thena tumoa to ma nai. lo lopia sheloi shemu ha ro phoa. whekai lo shia theula thimu ha ro ma phoa sho to haolu.
 NAME kulo QUOT.COMP COND PL thing heavy PST NEG be. PL child MANY moment PROX HAB do. CONTR PL 3SG UNIV time PROX HAB NEG do QUOT.COMP.CLOSE PST speak.
-(Guide said, "When the things are not heavy, children often do this. But they do not do it all the time.")
+("When the things are not heavy, children often do this," said Guide. "But they do not do it all the time.")
 morris: "\"Often enough,\" said he, \"when it isn't a matter of dealing with heavy weights, but by no means always."
 
 lo lopia ha riola kaeli. lao lo shia roe manuwe sheloi phirae thena ro palo nela lo shia pha lo thena thela se pilewa nela luseri hina nai pho ro shonela ha wei lo shia monelu nela welao nai.
@@ -562,12 +562,12 @@ morris: "Queer names, ain't they?\""
 
 mia sha lia sho to haolu. mia to nulo remo. whekai serao miona to pa haolu.
 1SG QUOT.COMP yes QUOT.COMP.CLOSE PST speak. 1SG PST deep think. CONTR old person PST INCH speak.
-(I said, "Yes," and thought deeply. But the elder began to speak.)
+("Yes," I said, and thought deeply. But the elder began to speak.)
 morris: "\"Yes,\" said I, pondering much. But the old man broke in:"
 
 serao miona sha lia phewani. ha theula shewo nai. mia soli whu ra mokanu phelu miona serao to ki nila sho to haolu.
 old person QUOT.COMP yes neighbor. PROX UNIV true be. 1SG SOME REL DIST disease hold person old PST PFV see QUOT.COMP.CLOSE PST speak.
-(The elder said, "Yes, neighbour. All of that is true. I have seen some people who held that disease after they grew old.")
+("Yes, neighbour," said The elder. "All of that is true. I have seen some people who held that disease after they grew old.")
 morris: "\"Yes, all that is true, neighbour; and I have seen some of those poor women grown old."
 
 shia sha mia phao mua lo shia limu thimu lo shia ro sano. shia tha lo shia phea limu miona ru phirae to ti nai tho to shane. lo shia manuwe phea lo lemi wolea sima sholei to nai. lo shia pelio phea lo thiku lemi wolea to nai. lo shia norapi phea whu mua hieru kesho wiso lorea wi noru to nai. lo shia lemi phimei nela tiso nophae nela whilo meshoi to phelu. lo shia tha theula whu lo miona haolu sola phoa thena shia nuhe ka kelu tho ro peshu sho to haolu.
@@ -587,7 +587,7 @@ morris: "He stopped, and seemed to be musing on his past life, and then said:"
 
 serao miona sha wa thia tha lo miona mua luera thimu wei ra wesha mokanu weshoru to nai tho sano sho to thilou. shia sha lila lo mia lo shia theala lo mia sheloi tupeka to phelu sho to haolu.
 old person QUOT.COMP Q 2SG DECL.COMP PL person LOC past time DAT DIST lazy disease anxious PST be DECL.COMP.CLOSE know QUOT.COMP.CLOSE PST inquire. 3SG QUOT.COMP PURP PL 1SG PL 3SG heal PL 1SG MANY burden PST hold QUOT.COMP.CLOSE PST speak.
-(The elder asked, "Do you know that people were once anxious about that disease of laziness?" He said, "In order to heal them, we carried much burden.")
+("Do you know that people were once anxious about that disease of laziness?" He said, "In order to heal them, we carried much burden," asked The elder.)
 morris: "\"And do you know, neighbours, that once on a time people were still anxious about that disease of Idleness: at one time we gave ourselves a great deal of trouble in trying to cure people of it."
 
 wa thia soli ha remole nepha shelu ki ma theo.
@@ -597,12 +597,12 @@ morris: "Have you not read any of the medical books on the subject?\""
 
 lao serao miona wei mia to haolu mia sha tua sho to haolu.
 BECAUSE old person DAT 1SG PST speak 1SG QUOT.COMP no QUOT.COMP.CLOSE PST speak.
-(Because the elder was speaking to me, I said, "No.")
+("No," I said, because the elder was speaking to me.)
 morris: "\"No,\" said I; for the old man was speaking to me."
 
 serao miona sha lo miona tha ha mokanu lue tholua mokanu to manolu tho to ho remo. lao sheloi whu mokanu phelu miona phei lo phirae miona to se sonari ha mokanu ru welathi to ke nai. lo whu lo shia pheloma miona phirae mokanu phelu miona to ti nai. lila lo shia se miratu lo shia kuewa wethalu to wenuha sho to haolu.
 old person QUOT.COMP PL person DECL.COMP PROX disease ABL ancient disease PST stay DECL.COMP.CLOSE PST ASSUM think. BECAUSE MANY REL disease hold person AWAY PL different person PST PASS isolate PROX disease INTS contagious PST INFER be. PL REL PL 3SG serve person different disease hold person PST REP be. PURP PL 3SG PASS recognize PL 3SG strange garment PST wear QUOT.COMP.CLOSE PST speak.
-(The elder said, "People assumed that this disease survived from an ancient disease. Because many people who held it were isolated from others, the disease seemed very contagious. Those who served them reportedly held a different disease. They wore strange garments so that they could be recognised.")
+("People assumed that this disease survived from an ancient disease," said The elder. "Because many people who held it were isolated from others, the disease seemed very contagious. Those who served them reportedly held a different disease. They wore strange garments so that they could be recognised.")
 morris: "\"Well,\" said he, \"it was thought at the time that it was the survival of the old mediaeval disease of leprosy: it seems it was very catching, for many of the people afflicted by it were much secluded, and were waited upon by a special class of diseased persons queerly dressed up, so that they might be known."
 
 mulu weloni wethalu thoa lo shia wethalu to nai. ra lo mulu weloni wethalu roe mophi liru to se pilewa. ra liru mua luera torua phirae phelui to phelu.

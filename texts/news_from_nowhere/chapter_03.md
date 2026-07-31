@@ -407,7 +407,7 @@ morris: "but I was born and bred on the edge of Epping Forest; Walthamstow and W
 ```
 ne kulo muo haolu to pukate. shia sha ra lokue we mioru nai. sho to haolu.
 NAME kulo INTO speak PST break. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
-(Guide broke into the talk and said, "That place is beautiful too.")
+(Guide broke into the talk: "That place is beautiful too," he said.)
 morris: "\"A pretty place, too,\" broke in Dick;"
 
 ra ru loshi lokue nai. lao pheo sheloi womu leiro lo shiro ruloi thimu to ki phelu.
@@ -909,7 +909,7 @@ morris: "But Dick, old fellow, _Ne quid nimis_!  Don't overdo it!\""
 
 ne kulo sha hei. wa mia ha ho phoa. sho to haolu.
 NAME kulo QUOT.COMP hey. Q 1SG PROX ASSUM do. QUOT.COMP.CLOSE PST speak.
-(Guide said, "Come now, am I likely to?")
+("Come now, am I likely to?" said Guide.)
 morris: "\"Come now,\" said Dick, \"am I likely to?"
 
 wa mia mua theula muila mo ko kelomi miona ma nai.
@@ -939,7 +939,7 @@ morris: "I say, Bob, you must help me to defend him now.\""
 
 pheo teku maeli shia to theisa haolu. kona ne solai. lu thia ha na phelu. lo mia ha nai.
 POST short quiet 3SG PST loud speak. VOC NAME solai. COND 2SG PROX NEC hold. PL 1SG PROX be.
-(After a short quiet he cried out: "Here, Gold! Here we are, if you must have it!")
+("Here, Gold!" he cried out after a short quiet. "Here we are, if you must have it!")
 morris: "\"Here, Boffin,\" he cried out, after a pause; \"here we are, if you must have it!\""
 ```
 
@@ -1166,12 +1166,12 @@ morris: "O, he will be quite straightforward with you, for that matter.  Only fo
 
 ne selomi to muro haolu. kona ne kulo. mia tha shia lo nophi ru welao nai tho remo.
 NAME selomi PST stubborn speak. VOC NAME kulo. 1SG DECL.COMP 3SG PL story INTS good be DECL.COMP.CLOSE think.
-(Weaver said doggedly, "Well, Guide, I think his stories are very good.")
+("Well, Guide, I think his stories are very good," said Weaver doggedly.)
 morris: "\"Well, Dick,\" said the weaver, doggedly, \"I think his novels are very good.\""
 
 ne kulo sha thia ha shewo remo. sho to haolu. ta philea pelori wiso sholei.
 NAME kulo QUOT.COMP 2SG PROX true think. QUOT.COMP.CLOSE PST speak. one feather bird RECP gather.
-(Guide said, "Of course you think so." Birds of one feather gather together.)
+("Of course you think so," said Guide. Birds of one feather gather together.)
 morris: "\"Of course you do,\" said Dick; \"birds of a feather flock together;"
 
 tawi remo nela serao thimu lo nophi pai kolo whano.

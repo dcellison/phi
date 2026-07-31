@@ -314,7 +314,7 @@ morris: "And what is the glorious hall there, and what is the building on the so
 
 ne kulo sha li ha lo mia wisola lokue nai sho to haolu.
 NAME kulo QUOT.COMP RESTR PROX PL 1SG exchange place be QUOT.COMP.CLOSE PST speak.
-(Guide said, "This is only our exchange-place.")
+("This is only our exchange-place," said Guide.)
 morris: "\"O,\" said he, \"it is just our Hammersmith market;"
 
 lao lo mia ru thoru nai mia tha thia shia ru kaeli tho ru siora nai.
@@ -349,7 +349,7 @@ morris: "I hope you like it.\""
 
 mia sha lu he mia shia ma kaeli. mia tawimo nai sho to haolu.
 1SG QUOT.COMP COND IRR 1SG 3SG NEG like. 1SG foolish be QUOT.COMP.CLOSE PST speak.
-(I said, "If I did not like it, I would be foolish.")
+("If I did not like it, I would be foolish," I said.)
 morris: "\"I should be a fool if I didn't,\" said I."
 
 whau ne kulo to haolu shia menoa la rulo to kelu.
@@ -359,7 +359,7 @@ morris: "He blushed a little as he said:"
 
 shia sha lao mia ha lokue lorima to naphe mia we siora nai. mia lo whalo ponu to kealo sho to haolu.
 3SG QUOT.COMP BECAUSE 1SG PROX place build PST help 1SG ALSO joy be. 1SG PL large door PST create QUOT.COMP.CLOSE PST speak.
-(He said, "Because I helped build this place, I am glad too. I made the great doors.")
+("Because I helped build this place, I am glad too," he said. "I made the great doors.")
 morris: "\"I am glad of that, too, because I had a hand in it; I made the great doors,"
 
 lo ponu roe welotu keluo to se kealo. nia lo ponu lo lemi keru keluo sima to se thesa thinu.
@@ -434,7 +434,7 @@ morris: "so I stopped a minute, but presently went on:"
 
 mia sha mia tha mia mua wisola lokue lo whu phea lo kosha miona kire phelu miona po nila tho to remo. whekai mia lo shia ma nila. thelao mia ha thilou. shekoi mia whu thena wisola piru ma nila sho to haolu.
 1SG QUOT.COMP 1SG DECL.COMP 1SG LOC exchange place PL REL AS PL field person shape hold person POT see DECL.COMP.CLOSE PST think. CONTR 1SG PL 3SG NEG see. CONS 1SG PROX inquire. SPEC 1SG REL thing exchange trader NEG see QUOT.COMP.CLOSE PST speak.
-(I said, "I thought an exchange-place might have people who looked like field-dwellers. But I see none of them, so I ask. More precisely, I see no traders exchanging things.")
+("I thought an exchange-place might have people who looked like field-dwellers," I said. "But I see none of them, so I ask. More precisely, I see no traders exchanging things.")
 morris: "\"I ask because I do not see any of the country-looking people I should have expected to see at a market--I mean selling things there.\""
 ```
 
@@ -445,7 +445,7 @@ morris: "\"I ask because I do not see any of the country-looking people I should
 ```
 ne kulo sha mia pha thia hina kire miona po nila pho ma shelomu sho to haolu.
 NAME kulo QUOT.COMP 1SG INT.COMP 2SG what shape person POT see INT.COMP.CLOSE NEG understand QUOT.COMP.CLOSE PST speak.
-(Guide said, "I do not understand what sort of people you mean.")
+("I do not understand what sort of people you mean," said Guide.)
 morris: "\"I don't understand,\" said he, \"what kind of people you would expect to see;"
 
 mia pha thia kosha miona phelui hina reo pho we ma shelomu.
@@ -571,7 +571,7 @@ morris: "Why should you expect to see poorly people on the road?\""
 
 mia sha tua. tua. mia mokela miona ma shareo sho to haolu.
 1SG QUOT.COMP no. no. 1SG sick person NEG discuss QUOT.COMP.CLOSE PST speak.
-(I said, "No, no. I am not speaking of sick people.")
+("No, no," I said. "I am not speaking of sick people.")
 morris: "\"No, no,\" I said; \"I don't mean sick people."
 
 mia whu henoi panuri ma phelu miona shareo.
@@ -586,12 +586,12 @@ morris: "rough people.\""
 
 ne kulo to siora seniku. shia sha tua sho to haolu.
 NAME kulo PST joy smile. 3SG QUOT.COMP no QUOT.COMP.CLOSE PST speak.
-(Guide smiled merrily and said, "No.")
+(Guide smiled merrily. "No," he said.)
 morris: "\"No,\" said he, smiling merrily,"
 
 shia sha mia ma ru sano sho to haolu.
 3SG QUOT.COMP 1SG NEG INTS know QUOT.COMP.CLOSE PST speak.
-(He said, "I really do not know.")
+("I really do not know," he said.)
 morris: "\"I really do not know."
 
 ha theloa nai. thia kau mia phao phao phao na reshi wepu.

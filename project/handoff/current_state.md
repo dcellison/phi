@@ -152,7 +152,7 @@ Each fenced unit has four lines: Phi, exact gloss, derived English in parenthese
 
 D097 completed the six-chapter consistency sweep. It found the six chapters internally coherent and lexically consistent, with recurring nouns, structure, editorial metadata, and source-bound treatment already in agreement, and two conventions split cleanly at the chapter 3 and 4 boundary. Both are now ratified in one direction. Characters who recur have Phi onyms in every chapter, under the canon rule that a translation is the naming community for people who cannot accept a name. A continuing speech is framed once rather than re-attributed sentence by sentence. One hundred units changed, all six source reconstructions stayed exact, and no unit count moved.
 
-One difference was found and deliberately left alone: chapters 2 and 3 keep Morris's quote-first order in the derived English, while chapters 4 through 6 put the attribution first. Both layers carry the same attribution, so nothing is invented either way, and the maintainer has not ruled on which order the derived English should take.
+The derived English follows Morris's own order throughout, by the maintainer's ruling: where his sentence opens with the quotation, so does the English, and the attribution stays first only where he writes it first. Eighty lines in chapters 3 through 6 were turned around to match the order chapters 1 and 2 already kept. A multi-sentence speech takes the attribution after its first sentence, which is the shape chapter 2 established.
 
 Chapter 7 is the next translation work. Before drafting it, read the six-chapter sequence end to end: the onym set, the single-frame convention, and the established lexical choices live in those chapters rather than in a template.
 
