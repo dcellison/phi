@@ -137,7 +137,7 @@ A translation preserves the source's propositions, relations, images, and diffic
 
 A refusal answers a source without claiming to reproduce it. It must identify itself before the Phi passage, keep the source available, and make its departures visible rather than disguising them as equivalence.
 
-The literary shelf gives each work a declared relationship to its source. Translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Original Phi writing is the proper home for arguments that belong to Phi itself. *News from Nowhere* remains a separately maintained 32-chapter project under its current source-gap convention until Daniel reviews it.
+The literary shelf gives each work a declared relationship to its source. Translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Original Phi writing is the proper home for arguments that belong to Phi itself. The Ring Verse remains a separately labelled refusal. *News from Nowhere* is a separately maintained 32-chapter translation project; chapters 1 through 6 have each received a translation pass and a separate fidelity sweep, and the current task is their cross-chapter consistency review.
 
 In *News from Nowhere*, the narrator and the future people share the full vocabulary, including optional modules. Any new root keeps the three-syllable lexical ceiling; only a productive name may reach four syllables.
 
