@@ -1,8 +1,8 @@
 # nophi lue mawha lokue — News from Nowhere, ch. 3: The Guest House and Breakfast Therein
 
-*The narrator steps indoors, and Morris brings the new society down to table height. A well-built hall opens into a garden; three young hosts greet the stranger as if he had returned from a long journey; breakfast arrives without ceremony; and a carved inscription stands behind the table where his own century would have seated rank. Bread, `napa`, and rose, `perola`, furnish the meal and garden. The narrator becomes `ne phemi`, Guest; the housekeeper is `ne luwae`, Graceful; and the golden dustman's joke-name is `ne solai`, Gold, over `ne keruko`, Sturdy. Morris sorts the hosts by sex. Phi describes the people, their clothes, and the narrator's attention without creating those person classes; the source citations leave the distinction visible.*
+*Morris's third chapter brings the new society down to table height. The traveller studies the Guest House, meets its young hosts, eats breakfast, and finds his own century carved into the wall behind the table. The conversation wanders from Epping Forest to age, handwork, and old books before a golden dustman calls from the door. Details that belong to Morris's world stay exact in his lines, with Phi's description beside them.*
 
-*Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Morris's own original wording, so a reader can see exactly what the transmutation kept and what it changed.*
+*Each block below carries four lines: the Phi sentence, its word-by-word gloss, an English rendering derived from the Phi, and Morris's own wording. The two English lines let the reader compare what the Phi says with what Morris wrote.*
 
 ---
 
@@ -11,7 +11,7 @@
 ```
 lila mia ha womu ru nila mia noe lo phirae miona teku thimu to manolu.
 PURP 1SG PROX home INTS see 1SG BEHIND PL different person short time PST stay.
-(So that I could have a real stare at this house, I stayed a little while behind the others.)
+(To stare closely at this house, I stayed a little while behind the others.)
 morris: "I lingered a little behind the others to have a stare at this house,"
 
 phea whu mia wei thia to ki shane ha womu mua mia serao menui lokue to whano.
@@ -39,14 +39,14 @@ ABOVE PL window INS REL PASS cook clay PL person shape long PST go.
 (High above the windows, person-shapes of baked clay ran in a long band.)
 morris: "and high up above the windows there ran a frieze of figure subjects in baked clay,"
 
-lo kire to se ru welao kealo. lo thena roe kema nela nuwi to se kire.
-PL shape PST PASS INTS good create. PL thing INS strong COORD clear PST PASS shape.
-(The shapes were very well made, and shaped with a strength and clarity.)
+lo kire to se ru welao kealo. lo thena roe kema nela thenui to se kire.
+PL shape PST PASS INTS good create. PL thing INS strong COORD direct PST PASS shape.
+(The shapes were very well made, and shaped with strength and directness.)
 morris: "very well executed, and designed with a force and directness"
 
-mia mua newu riola ha kema mawha thimu to ki morae.
-1SG LOC new labor PROX strong NONE time PST PFV sense.
-(I had never sensed this strength in modern work before.)
+mia mua newu riola mawha thimu ha kema nela thenui to ki morae.
+1SG LOC new labor NONE time PROX strong COORD direct PST PFV sense.
+(I had never sensed this strength and directness in modern work before.)
 morris: "which I had never noticed in modern work before."
 
 mia lo kire thena to reshi miratu. mia lo thena to ru welao sano.
@@ -55,7 +55,7 @@ mia lo kire thena to reshi miratu. mia lo thena to ru welao sano.
 morris: "The subjects I recognised at once, and indeed was very particularly familiar with them."
 ```
 
-**Notes:** the house is read from the water-side in, and the transmutation keeps that order. Brick is the Babel text's `mueri kerou` (clay-stone). The lead roof is `tumoa keluo`, the heavy metal, as it was at the lead-works in the last chapter. Phi has no word for lead, so Morris keeps the metal while the narrator reports the weight he can infer. Tracery is stone shaped into threads (`kerou sima kire`), and the kitchen's own verb bakes the clay frieze: `whu se pharelo mueri`, clay that has been cooked. The frieze runs (`wepu`) along the wall. `miratu` gives the narrator his immediate recognition. Morris never says what he recognizes in the figures, or why he knows them so particularly well, and Phi leaves the door closed with him.
+**Notes:** the house is read from the water-side in. Brick is `mueri kerou`, clay-stone. Phi has no word for lead, so the roof is `tumoa keluo`, the heavy metal; Morris names the precise material. Tracery is stone shaped into threads (`kerou sima kire`), and the kitchen's own verb bakes the clay figures: `whu se pharelo mueri`, clay that has been cooked. The frieze runs (`wepu`) above the windows. `miratu` catches the narrator's immediate recognition, but Morris never says what he recognizes in the figures or why he knows them so particularly well. Phi does not improve upon his discretion.
 
 ## lona lokue — The hall
 
@@ -65,9 +65,9 @@ CONTR BECAUSE POST short moment PL 1SG INTO home PST go 1SG LOC one moment PROX 
 (But because after a short moment we had gone indoors, I took all this in within one moment.)
 morris: "However, all this I took in in a minute; for we were presently within doors,"
 
-lo mia mua whalo lona lokue to whano. lo miona roe sheloi thiku helu kerou tomae to ki lorima. toru lo wolea tholau to ka nila.
-PL 1SG LOC large meeting place PST stand. PL person INS MANY small smooth stone floor PST PFV build. roof PL wood bone PST CAUS see.
-(We stood in a great hall. Its floor had been built of many small smooth stones, and the roof showed its wooden bones.)
+lo mia mua lona lokue to whano. lo miona roe sheloi thiku helu kerou tomae to ki lorima. toru wolea kelo to se ma tawemi.
+PL 1SG LOC meeting place PST stand. PL person INS MANY small smooth stone floor PST PFV build. roof wood frame PST PASS NEG cover.
+(We stood in a hall. Its floor had been built of many small smooth stones, and the roof's wooden frame was uncovered.)
 morris: "and standing in a hall with a floor of marble mosaic and an open timber roof."
 
 mua whu lue luphore wuero phanoi mu wira to nai. whekai mua ra phanoi lo mulu kerou loriphi muo lo tholupi to kulo.
@@ -75,14 +75,14 @@ LOC REL ABL river far portion zero window PST be. CONTR LOC DIST portion PL low 
 (In the part far from the river there were no windows; but there, low stone rainbows guided into rooms.)
 morris: "There were no windows on the side opposite to the river, but arches below leading into chambers,"
 
-thue ta loriphi mia thepalu thiku to nila. thepalu noe womu to nai.
-THROUGH one rainbow 1SG garden small PST see. garden BEHIND home PST be.
-(Through one of the rainbows I saw a little of a garden, which lay beyond the house.)
+thue ta loriphi mia soli thepalu to nila. thepalu noe womu to nai.
+THROUGH one rainbow 1SG SOME garden PST see. garden BEHIND home PST be.
+(Through one of the rainbows I saw some of a garden, which lay beyond the house.)
 morris: "one of which showed a glimpse of a garden beyond,"
 
-leo lo loriphi laeno moru phanoi sheloi keru kolai to phelu.
-ABOVE PL rainbow long wall portion MANY bright pigment PST hold.
-(Above the rainbows, a long stretch of wall held much gay pigment.)
+leo lo loriphi laeno moru phanoi ru keru kolai to phelu.
+ABOVE PL rainbow long wall portion INTS bright pigment PST hold.
+(Above the rainbows, a long stretch of wall held brightly coloured pigment.)
 morris: "and above them a long space of wall gaily painted"
 
 mia tha lo miona nia wuloe mueri kolai to sepho tho to remo.
@@ -100,9 +100,9 @@ UNIV thing LOC PROX place beautiful PST be. PL person INS generous strong materi
 (Everything in this place was handsome, and it had been made of generous, strong material.)
 morris: "everything about the place was handsome and generously solid as to material;"
 
-lokue ru whalo to ma nai. lokue sheo whu mia sano lo whalo lona lokue mo thiku to po nai.
-place INTS large PST NEG be. place THAN REL 1SG know PL large meeting place CMPR small PST POT be.
-(The place was not very large; it was perhaps somewhat smaller than the great halls I had known.)
+lokue ru whalo to ma nai. lokue sheo whu mia sano ta whalo lona lokue mo thiku to po nai.
+place INTS large PST NEG be. place THAN REL 1SG know one large meeting place CMPR small PST POT be.
+(The place was not very large; it was perhaps somewhat smaller than one great hall I knew.)
 morris: "and though it was not very large (somewhat smaller than Crosby Hall perhaps),"
 
 whekai miona mua ha lokue whu korua ka rihe tholu nela ralu ro phaelo.
@@ -116,14 +116,14 @@ good build UNIV time DAT REL PL eye HAB take COORD anxious NEG be person PROX fe
 morris: "which satisfactory architecture always gives to an unanxious man who is in the habit of using his eyes."
 ```
 
-**Notes:** marble mosaic becomes the floor one can inspect, many small smooth stones built together. The open timber roof shows its wooden bones (`lo wolea tholau`), which is the skeleton Morris's "open" invites the eye to see. The arches are the last chapter's `kerou loriphi`, stone rainbows, but here they have work to do: they guide (`kulo`) into `tholupi`, rooms. Fresco remains the narrator's guess, pigment laid on physically soft clay, with `remo` keeping the inference honest. `muralo` lets material be material instead of asking "thing" to manage the distinction. The closing sentence keeps its long breath. The hall gives space and freedom (`tholu nela ralu`), the feeling lifts the heart, and good building gives it habitually (`ro`) to an unanxious person who habitually uses their eyes. Morris's sentence is about practiced attention, not luck. Crosby Hall yields to the comparison the narrator can still make: the great halls he had known.
+**Notes:** marble mosaic appears as a floor built of many small smooth stones. The open timber roof exposes its wooden frame (`wolea kelo`). The arches are `kerou loriphi`, stone rainbows, with the practical work of guiding (`kulo`) into `tholupi`, rooms. Fresco is the narrator's guess: pigment on physically soft clay, with `remo` marking the inference. The closing sentence runs long too. The hall offers space and freedom (`tholu nela ralu`), the feeling lifts the heart, and good building habitually brings it to an unanxious person who uses their eyes. Morris's sentence is about practised attention, not luck. Crosby Hall is exact in the source; Phi compares this room with the fine old hall the narrator remembers.
 
 ## ta shao himo — The three
 
 ```
-mia tha ha loshi lokue phemi womu lona lokue nai tho to sano.
-1SG DECL.COMP PROX joyful place guest home meeting place be DECL.COMP.CLOSE PST know.
-(I knew this pleasant place to be the hall of the Guest House.)
+mia tha ha nirelo lokue phemi womu lona lokue nai tho to nuwi sano.
+1SG DECL.COMP PROX pleasant place guest home meeting place be DECL.COMP.CLOSE PST clear know.
+(I knew plainly that this pleasant place was the hall of the Guest House.)
 morris: "In this pleasant place, which of course I knew to be the hall of the Guest House,"
 
 mua ha lokue ta shao limu miona wea ha wea ra to si reshi roke.
@@ -131,29 +131,29 @@ LOC PROX place one three-group young person TOWARD PROX TOWARD DIST PST IPFV fas
 (In it three young people were flitting here and there.)
 morris: "three young women were flitting to and fro."
 
-ha ta shao himo phea whu mia mua ha waora kelua to ki nila lo miona to ma nai. thelao mia lo miona to ru thesa nila.
-PROX one three-group HUM.CLF AS REL 1SG LOC PROX wondrous morning PST PFV see PL person PST NEG be. CONS 1SG PL person PST INTS careful see.
-(These three were not like any I had yet seen on this morning of wonders, so I looked at them very attentively.)
+mia mua ha waora kelua phoe ra shemu mua lo shia miona remole mu miona to ki nila. thelao mia lo miona to ru thesa nila.
+1SG LOC PROX wondrous morning ANT DIST moment LOC PL 3SG person concept zero person PST PFV see. CONS 1SG PL person PST INTS careful see.
+(Before that moment on this eventful morning, I had seen no person within their person-category. So I looked at them very attentively.)
 morris: "As they were the first of the sex I had seen on this eventful morning, I naturally looked at them very attentively,"
 
-lo thepalu nela lo lorima nela mia lo newu melu sheo lo miona mo welao to po ma nai.
-PL garden COORD PL build COORD 1SG PL new friend THAN PL person CMPR good PST POT NEG be.
-(And the gardens, the buildings, and my new friends could be no better than they.)
+lo thepalu nela lo lorima nela whu mue lo shia miona remole whano lo miona sheo lo shia mo welao to po ma nai.
+PL garden COORD PL build COORD REL OUT.OF PL 3SG person concept stand PL person THAN PL 3SG CMPR good PST POT NEG be.
+(Gardens, buildings, and people outside their person-category could be no better than they were.)
 morris: "and found them at least as good as the gardens, the architecture, and the male men."
 
-mia lo miona wethalu we to thesa nila. wetha lo miona to moli lomare. sheloi thiku thena lo miona to ma tumoa lomare.
-1SG PL person garment ALSO PST careful see. cloth PL person PST gentle embrace. MANY small thing PL person PST NEG heavy embrace.
-(I also took careful note of their dress. Cloth wrapped them gently; no heap of small things wrapped them heavily.)
+mia lo miona wethalu we to thesa nila. wetha lo miona to theali lomare. sheloi koma wethalu lo miona to ma tumoa lomare.
+1SG PL person garment ALSO PST careful see. cloth PL person PST fitting embrace. MANY head garment PL person PST NEG heavy embrace.
+(I also took careful note of their dress. Cloth wrapped them fittingly; many head garments did not bundle them up.)
 morris: "As to their dress, which of course I took note of, I should say that they were decently veiled with drapery, and not bundled up with millinery;"
 
-wethalu lo miona phea lima miona to lomare. mu miona lo miona phea meipa pheno to ka kelu.
-garment PL person AS alive person PST embrace. zero person PL person AS seat full PST CAUS become.
-(Their garments clothed them like living people; no one had stuffed them full, the way a seat is stuffed.)
+wethalu lo miona phea miona to lomare. mu miona lo miona phea meipa pheno to ka kelu.
+garment PL person AS person PST embrace. zero person PL person AS seat full PST CAUS become.
+(Their garments clothed them as people; no one had stuffed them full, the way a seat is stuffed.)
 morris: "that they were clothed like women, not upholstered like armchairs,"
 
-mua mia punoa sheloi miona phea meipa pheno ro kelu.
-LOC 1SG society MANY person AS seat full HAB become.
-(In my own world, many people habitually become as full-stuffed as seats.)
+mua mia punoa mua lo shia miona remole sheloi miona phea meipa pheno ro kelu.
+LOC 1SG society LOC PL 3SG person concept MANY person AS seat full HAB become.
+(In my own society, many people within their person-category habitually become as full-stuffed as seats.)
 morris: "as most women of our time are."
 
 lo wethalu thei tholua punoa wethalu kire nela serao punoa siloma wethalu kire to whano. whekai ha nuwi to nai. lo wethalu noe ha kire sola ra kire to ma wepu.
@@ -166,19 +166,19 @@ PL cloth light COORD bright PST be. PL cloth DAT season well PST be.
 (The cloths were light and gay, and well suited to the season.)
 morris: "the materials were light and gay to suit the season."
 
-lo miona nila ru loshi thena to nai. lo miona menoa kire ru phena nela siora to nai.
-PL person see INTS joyful thing PST be. PL person face shape INTS kind COORD joy PST be.
+lo miona nila ru nirelo thena to nai. lo miona menoa kire ru phena nela siora to nai.
+PL person see INTS pleasant thing PST be. PL person face shape INTS kind COORD joy PST be.
 (Seeing them was a truly pleasant thing: the expression of their faces was so kind and happy.)
 morris: "As to the women themselves, it was pleasant indeed to see them, they were so kind and happy-looking in expression of face,"
 
-lo miona weloni kema nela mioru kire to nai. lo miona ru wolu nela kema to ke nai.
-PL person body strong COORD beautiful shape PST be. PL person INTS healthy COORD strong PST INFER be.
-(Their bodies were strong and beautifully shaped, and they looked thoroughly healthy and strong.)
+lo miona weloni kema nela koru to nai. lo miona weloni mioru kire to nai. lo miona ru wolu nela kema to ke nai.
+PL person body strong COORD harmonious PST be. PL person body beautiful shape PST be. PL person INTS healthy COORD strong PST INFER be.
+(Their bodies were strong and well-knit, and beautifully shaped; they looked thoroughly healthy and strong.)
 morris: "so shapely and well-knit of body, and thoroughly healthy-looking and strong."
 
-theula mioru to nai. ta miona ru mioru to nai. shia menoa kire koru to nai.
-UNIV beautiful PST be. one person INTS beautiful PST be. 3SG face shape harmonious PST be.
-(All were comely; and one was very handsome, the shape of her face harmonious.)
+theula la mioru to nai. ta miona ru mioru to nai. shia menoa kire koru to nai.
+UNIV ATTEN beautiful PST be. one person INTS beautiful PST be. 3SG face shape harmonious PST be.
+(All were at least comely; and one was very handsome, the shape of her face harmonious.)
 morris: "All were at least comely, and one of them very handsome and regular of feature."
 
 lo miona whuo hasi wea lo mia to siora shua. mu nilua kire mua lo miona to nai.
@@ -186,25 +186,25 @@ PL person WITHOUT wait TOWARD PL 1SG PST joy come. zero shy shape LOC PL person 
 (They came toward us merrily and without waiting; there was no shape of shyness in them.)
 morris: "They came up to us at once merrily and without the least affectation of shyness,"
 
-ha ta shao himo mia manuwe to pilu. lo miona mia phea whu lue laeno laniru li nosa ki turema melu to nila.
-PROX one three-group HUM.CLF 1SG hand PST take. PL person 1SG AS REL ABL long journey RESTR now PFV return friend PST see.
-(These three took my hand, and they saw me as a friend only now returned from a long journey.)
+ha ta shao himo mia manuwe to pilu. lo miona ha manuwe to roke. lo miona mia phea whu lue laeno laniru li nosa ki turema melu to nila.
+PROX one three-group HUM.CLF 1SG hand PST take. PL person PROX hand PST move. PL person 1SG AS REL ABL long journey RESTR now PFV return friend PST see.
+(These three took my hand and moved it; they saw me as a friend only now returned from a long journey.)
 morris: "and all three shook hands with me as if I were a friend newly come back from a long journey:"
 
-whekai lao mia mua luera shero wethalu to si lomare mia tha lo miona roe thilou mirae mia wethalu nila tho to na morae. sheno mia roa wethalu mawha thimu thesa to nai.
-CONTR BECAUSE 1SG LOC past night garment PST IPFV embrace 1SG DECL.COMP PL person INS inquire eye 1SG garment see DECL.COMP.CLOSE PST NEC sense. ADD 1SG AROUND garment NONE time careful PST be.
-(But because I was still wearing last night's clothes, I could not help sensing that they looked at my garments with inquiring eyes. Besides, I had never been careful about dress.)
+whekai lao mia mua luera shero wethalu to si lomare mia tha lo miona roe whamoi mirae mia wethalu nila tho to na morae. sheno mia roa wethalu mawha thimu thesa to nai.
+CONTR BECAUSE 1SG LOC past night garment PST IPFV embrace 1SG DECL.COMP PL person INS doubt eye 1SG garment see DECL.COMP.CLOSE PST NEC sense. ADD 1SG AROUND garment NONE time careful PST be.
+(But because I was still wearing last night's clothes, I could not help sensing that they looked at my garments with doubtful eyes. Besides, I had never been careful about dress.)
 morris: "though I could not help noticing that they looked askance at my garments; for I had on my clothes of last night, and at the best was never a dressy person."
 ```
 
-**Notes:** this section carries the chapter's deepest refusal. Morris's narrator sorts the hall by sex: these are "the first of the sex I had seen," clothed "like women," and compared with "the male men." Canon has no gendered person-words, so the Phi keeps what the narrator observes: these three are new among everyone he has met, he studies them closely, and he judges that gardens, buildings, and friends could be no better. The armchair joke survives because `meipa` is a seat. No one has stuffed these people full the way a seat is stuffed, though the narrator's own society has apparently made a habit of trying. Their clothes stand between an ancient form and the simpler dress of a later old world; Morris keeps the numbered century. They imitate neither. `wolu` names the health the narrator thinks he sees instead of making present wellness carry the whole bodily judgment. The handshake keeps its complete simile, a friend returned from a long journey, while inquiring eyes supply the honest substance of "askance."
+**Notes:** Morris's narrator sorts the hall by sex: these are "the first of the sex I had seen," clothed "like women," and compared with "the male men." Phi has no gendered person-word for that classification. The narrator's old-world category therefore appears as `miona remole`, and the comparisons remain his. The armchair joke survives because `meipa` is a seat: nobody has stuffed these people as a seat is stuffed, though the narrator's society has made a habit of something like it. Their clothes stand between an ancient form and the simpler dress of a later old world; the numbered century is in Morris. `wolu` describes the health the narrator thinks he sees. The handshake retains its full simile of a friend returned from a long journey, while inquiring eyes provide the visible substance of "askance."
 
 ## kelua nurome — The breakfast
 
 ```
-ne selomi ta sola wi phelui to loa. pheo thena lo miona wei lo mia to reshi riola.
-NAME selomi one DISJ two word PST give. POST thing PL person DAT PL 1SG PST fast labor.
-(Weaver gave a word or two, and thereupon they bustled about for us.)
+selomi miona ta sola wi phelui to loa. pheo thena lo miona wei lo mia to reshi riola.
+weave person one DISJ two word PST give. POST thing PL person DAT PL 1SG PST fast labor.
+(The weaver gave a word or two, and thereupon they bustled about for us.)
 morris: "A word or two from Robert the weaver, and they bustled about on our behoof,"
 
 pheo teku shemu lo miona lo mia lo manuwe to pilu. lo miona lo mia kau whu mua lona lokue mo ko loshi phanoi whano wonepa to kulo.
@@ -232,19 +232,19 @@ PL rose size COORD PL rose quality ABL REL LOC PROX place HAB flourish rose INTS
 (Their size and quality were very different from the roses that used to grow in this place, but they were very like roses from an old farm garden.)
 morris: "very different in size and quality to what Hammersmith had been wont to grow, but very like the produce of an old country garden."
 
-shia lue ra muo nuora lokue to reshi wepu. shia nua whu se thesa kealo phielo noru to we turema.
-3SG ABL DIST INTO food place PST fast go. 3SG COM REL PASS careful create glass bowl PST ALSO return.
-(She hurried from there into the food-room, and came back once more with a glass bowl delicately made.)
+shia lue ra muo nuora lokue to reshi wepu. shia nua whu se thesa kealo phielo lopha to we turema.
+3SG ABL DIST INTO food place PST fast go. 3SG COM REL PASS careful create glass vessel PST ALSO return.
+(She hurried from there into the food-room, and came back once more with a delicately made glass vessel.)
 morris: "She hurried back thence into the buttery, and came back once more with a delicately made glass,"
 
-shia muo noru lo peloru to sepho. shia mua lo mia wonepa kesho noru to ka whano.
-3SG INTO bowl PL flower PST send. 3SG LOC PL 1SG table middle bowl PST CAUS stand.
-(She put the flowers into it, and set it standing in the midst of our table.)
+shia muo lopha lo peloru to sepho. shia mua lo mia wonepa kesho lopha to ka whano.
+3SG INTO vessel PL flower PST send. 3SG LOC PL 1SG table middle vessel PST CAUS stand.
+(She put the flowers into the vessel, and set it standing in the midst of our table.)
 morris: "into which she put the flowers and set them down in the midst of our table."
 
-whu we to ki rashelo phirae miona nua whalo lirowa to turema. nia lirowa sheloi rulo mirulo to nai. soli mirulo pai seroli to nai.
-REL ALSO PST PFV run different person COM large leaf PST return. ON leaf MANY red berry PST be. SOME berry NEAR mature PST be.
-(Another of them, who had also run off, came back with a great leaf; on it were heaped red berries, some of them only near their ripeness.)
+whu we to ki rashelo phirae miona nua whalo lirowa to turema. nia lirowa sheloi rulo mirulo to nai. soli mirulo li nosa seroli to nai.
+REL ALSO PST PFV run different person COM large leaf PST return. ON leaf MANY red berry PST be. SOME berry RESTR now mature PST be.
+(Another of them, who had also run off, came back with a great leaf; on it were heaped red berries, some of them only just ripe.)
 morris: "One of the others, who had run off also, then came back with a big cabbage-leaf filled with strawberries, some of them barely ripe,"
 
 sui shia nia wonepa lirowa to ka whano. shia sha ha nai. sho to haolu.
@@ -252,14 +252,14 @@ DUR 3SG ON table leaf PST CAUS stand. 3SG QUOT.COMP PROX be. QUOT.COMP.CLOSE PST
 (As she set the leaf on the table she said, "Here it is.")
 morris: "and said as she set them on the table, \"There, now;"
 
-phoe mia to rihe mia ha to remo.
-ANT 1SG PST rise 1SG PROX PST think.
+phoe mia mua ha kelua to rihe mia ha to remo.
+ANT 1SG LOC PROX morning PST rise 1SG PROX PST think.
 (I thought of this before I got up this morning.)
 morris: "I thought of that before I got up this morning;"
 
-whekai kona ne kulo mia tha ha kuewa miona muo thia luphonu kalei tho to nila. ha remo lue mia koma to lepa.
-CONTR VOC NAME kulo 1SG DECL.COMP PROX strange person INTO 2SG boat climb DECL.COMP.CLOSE PST see. PROX think ABL 1SG head PST fall.
-(But, Guide, I watched this stranger climbing into your boat, and the thought fell out of my head.)
+whekai kona luphonu miona mia tha ha kuewa miona muo thia luphonu kalei tho to nila. ha remo lue mia koma to lepa.
+CONTR VOC boat person 1SG DECL.COMP PROX strange person INTO 2SG boat climb DECL.COMP.CLOSE PST see. PROX think ABL 1SG head PST fall.
+(But, waterman, I watched this stranger climbing into your boat, and the thought fell out of my head.)
 morris: "but looking at the stranger here getting into your boat, Dick, put it out of my head;"
 
 thelao mia neo theula nuko pelori to ma kamo.
@@ -267,23 +267,23 @@ CONS 1SG FRONT UNIV black bird PST NEG arrive.
 (So I did not arrive before all the blackbirds.)
 morris: "so that I was not before _all_ the blackbirds:"
 
-whekai ha phina mirulo phea whu thia mua ha kelua mua theula lokue po hekawi mirulo welao nai.
-CONTR PROX FEW berry AS REL 2SG LOC PROX morning LOC UNIV place POT find berry good be.
-(Still, these few are as good as any berries you could find anywhere this morning.)
+whekai ha phina mirulo phea whu thia mua ha kelua mua ha lokue po hekawi mirulo welao nai.
+CONTR PROX FEW berry AS REL 2SG LOC PROX morning LOC PROX place POT find berry good be.
+(Still, these few are as good as any berries you could find in this place this morning.)
 morris: "however, there are a few about as good as you will get them anywhere in Hammersmith this morning.\""
 
-ne selomi shia koma to phena palo. lo mia kelua nurome to pa nuola.
-NAME selomi 3SG head PST kind touch. PL 1SG morning meal PST INCH eat.
-(Weaver patted her head kindly, and we fell to on our breakfast.)
+selomi miona shia koma to phena palo. lo mia kelua nurome to pa nuola.
+weave person 3SG head PST kind touch. PL 1SG morning meal PST INCH eat.
+(The weaver patted her head kindly, and we fell to on our breakfast.)
 morris: "Robert patted her on the head in a friendly manner; and we fell to on our breakfast,"
 
-nurome siloma to nai. whekai nuora to se ru thesa pharelo. lo miona roe sheloi thesa nia wonepa nuora to ki ka whano.
-meal simple PST be. CONTR food PST PASS INTS careful cook. PL person INS MANY careful ON table food PST PFV CAUS stand.
+nurome siloma to nai. whekai nuora to se ru thesa pharelo. lo miona roe ru thesa nia wonepa nuora to ki ka whano.
+meal simple PST be. CONTR food PST PASS INTS careful cook. PL person INS INTS careful ON table food PST PFV CAUS stand.
 (The meal was simple enough, but its food was most delicately cooked and had been set on the table with much care.)
 morris: "which was simple enough, but most delicately cooked, and set on the table with much daintiness."
 
-napa ko ru welao to nai. sheloi phirae kire napa to nai.
-bread FOC INTS good PST be. MANY different shape bread PST be.
+napa ko ru welao to nai. soli phirae kire napa to nai.
+bread FOC INTS good PST be. SOME different shape bread PST be.
 (The bread especially was very good, and there were breads of several different kinds.)
 morris: "The bread was particularly good, and was of several different kinds,"
 
@@ -292,13 +292,13 @@ one shape large COORD thick COORD dark COORD sweet farmer home bread PST be. PRO
 (One kind was the big, close, dark, sweet-tasting farmhouse bread, and that one was most to my liking.)
 morris: "from the big, rather close, dark-coloured, sweet-tasting farmhouse loaf, which was most to my liking,"
 
-phirae kire lo lemi napa phea thiku phui to nai. mia mua wuero ronua silawo ha kire napa to ki nuola.
-different shape PL thin bread AS small flute PST be. 1SG LOC far south village PROX shape bread PST PFV eat.
-(Another kind was thin breads like little flutes; I had eaten that kind in a far southern town.)
+phirae kire lo lemi napuro napa leko phea thiku phui to nai. mia mua wuero ronua silawo ha kire napa to ki nuola.
+different shape PL thin grain bread surface AS small flute PST be. 1SG LOC far south village PROX shape bread PST PFV eat.
+(Another kind was thin grain-bread crusts like little flutes; I had eaten that kind in a far southern town.)
 morris: "to the thin pipe-stems of wheaten crust, such as I have eaten in Turin."
 ```
 
-**Notes:** `nurome` makes breakfast a meal, and `nuora` names the food on the table. `tholupi` gives the hurried host real rooms to pass through. The roses differ in `ponalu`, size, and Work `kirero`, quality, exactly where Morris makes both comparisons. `perola` (rose) was coined at the flowers' first entrance because the rose recurs across the book; within the hour, the same flowers return as the color of a person's lips. The word opens on `peloru` (flower), the family it crowns. `napa` (bread) is the other coin, two syllables from `napuro` (grain) because bread belongs to the daily round. Morris's farmhouse loaf keeps its four descriptions, while the pipe-stems become thin breads shaped like little flutes (`phea thiku phui`). Turin becomes the far southern town where the narrator ate them. The strawberries are red berries (`rulo mirulo`) on a great leaf. The berry stays at species-list distance, but the blackbirds compose exactly (`lo nuko pelori`) because the joke needs them racing the housekeeper to the fruit. Her thought of the berries falls out of her head (`lue mia koma to lepa`) when the stranger climbs into the boat. The buttery is the food-place, and the delicate glass is a carefully made bowl in the middle of the table.
+**Notes:** with `nurome`, breakfast is a meal; `nuora` is the food on the table, and `tholupi` are the rooms the hurried host passes through. The roses differ in `ponalu`, size, and `kirero`, quality, exactly where Morris makes both comparisons. `perola` is the rose that later supplies the colour of a person's lips, while `napa` is the daily bread. Morris's farmhouse loaf has all four descriptions. The pipe-stems are thin breads shaped like little flutes (`phea thiku phui`), with Turin exact in the source and a far southern town in Phi. Strawberries stay at species-list distance as red berries on a great leaf. Blackbirds compose exactly (`lo nuko pelori`) because the joke needs them racing the housekeeper to the fruit. Her thought of the berries falls out of her head (`lue mia koma to lepa`) when the stranger climbs into the boat. The buttery is the food-place, and the delicate glass is a carefully made vessel in the middle of the table.
 
 ## lo thekiro — The writing on the wall
 
@@ -318,9 +318,9 @@ LOC PL write one REL 1SG INTS know name PST be. PROX name 1SG UNIV write PST CAU
 (In it was a name I knew well, and that name made me read the whole writing through. It ran like this:)
 morris: "and a familiar name in it forced me to read it through. Thus it ran:"
 
-kona lo phemi nela lo phewani. mua ha phemi womu lokue shalimo haolu tholupi to whano. no roe phielo wei ha halemu milau. mua wirae lumae.
-VOC PL guest COORD PL neighbor. LOC PROX guest home place alliance speak room PST stand. IMP INS glass DAT PROX remember drink. LOC spring end.
-(Guests and neighbors: on the place of this Guest-house stood the speaking-room of the alliance. Drink a glass to the memory! At spring's end.)
+kona lo phemi nela lo phewani. mua ha phemi womu lokue shalimo haolu tholupi to whano. no roe phielo wei ha halemu milau.
+VOC PL guest COORD PL neighbor. LOC PROX guest home place alliance speak room PST stand. IMP INS glass DAT PROX remember drink.
+(Guests and neighbors: on the place of this Guest-house stood the speaking-room of the alliance. Drink a glass to the memory!)
 morris: "\"_Guests and neighbours_, _on the site of this Guest-hall once stood the lecture-room of the Hammersmith Socialists_.  _Drink a glass to the memory_!  _May 1962_.\""
 
 sui mia ha lo thekiro theo whu mia phaelo thena shane wei thia kethua nai.
@@ -328,25 +328,25 @@ DUR 1SG PROX PL write read REL 1SG feel thing tell DAT 2SG hard be.
 (It is difficult to tell you what I felt as I read these words.)
 morris: "It is difficult to tell you how I felt as I read these words,"
 
-lao wi mia melu mia to kuelo nila mia tha mia menoa mia korua roke to ka nila tho to ho remo. thei lo mia maeli teku thimu to manolu.
-BECAUSE two 1SG friend 1SG PST curious see 1SG DECL.COMP 1SG face 1SG heart move PST CAUS see DECL.COMP.CLOSE PST ASSUM think. BETWEEN PL 1SG quiet short time PST stay.
-(Because both my friends looked curiously at me, I suppose my face showed the moving of my heart. Quiet stayed between us for a little while.)
+lao wi mia melu mia to kuelo nila mia tha mia menoa mia korua ru roke to ka nila tho to ho remo. thei lo mia maeli teku thimu to manolu.
+BECAUSE two 1SG friend 1SG PST curious see 1SG DECL.COMP 1SG face 1SG heart INTS move PST CAUS see DECL.COMP.CLOSE PST ASSUM think. BETWEEN PL 1SG quiet short time PST stay.
+(Because both my friends looked curiously at me, I suppose my face showed how deeply my heart was moved. Quiet stayed between us for a little while.)
 morris: "and I suppose my face showed how much I was moved, for both my friends looked curiously at me, and there was silence between us for a little while."
 ```
 
-**Notes:** this is the chapter's still center. The Hammersmith Socialists' lecture-room is `shalimo haolu tholupi`, the speaking-room of the alliance where the narrator's past stood. Morris plants a familiar name in the inscription but never tells the reader which one, so `ta whu mia ru sano nomei`, a name I knew well, is enough. The date "May 1962" is the one place the refused calendar touches the inscription. Phi keeps what the season can honestly hold: `mua wirae lumae`, at spring's end, a date-line fragment in a date-line's place. What a count of years cannot say, the chapter has already said in stone and roses. The narrator's heart moves (`korua roke`), his face seems to show it (`ka nila`), and `ho` keeps that last claim as his own supposition. The High Table becomes the elders' table. Its honor stays; the college and its ranks go.
+**Notes:** this is the chapter's still centre. The Hammersmith Socialists' lecture-room is `shalimo haolu tholupi`, the speaking-room of the alliance that once stood here. Morris plants a familiar name in the inscription but never tells the reader which one, so `ta whu mia ru sano nomei`, a name I knew well, respects his silence. The conventional date "May 1962" sits exact in the source line rather than turning into a guessed season. The narrator's heart moves (`korua roke`), his face seems to show it (`ka nila`), and `ho` marks that last claim as his own supposition. The High Table is the table his old society would have called the elders' table; the Oxford college is where Morris put it.
 
 ## ne phemi — The guest's name
 
 ```
-luphonu miona sheo ne selomi mo welao keno to phelu. whekai ha phirae thiku to nai. pheo teku shemu ne selomi wei mia to la keloa haolu.
-boat person THAN NAME selomi CMPR good custom PST hold. CONTR PROX different small PST be. POST short moment NAME selomi DAT 1SG PST ATTEN rough speak.
+luphonu miona sheo selomi miona mo welao keno to phelu. whekai ha phirae thiku to nai. pheo teku shemu selomi miona wei mia to la keloa haolu.
+boat person THAN weave person CMPR good custom PST hold. CONTR PROX different small PST be. POST short moment weave person DAT 1SG PST ATTEN rough speak.
 (The ferryman had better manners than the weaver, but the difference was small; presently the weaver spoke to me a little roughly.)
 morris: "Presently the weaver, who was scarcely so well mannered a man as the ferryman, said to me rather awkwardly:"
 
-kona phemi. lo mia pha lo mia thia hina shemui pho ma sano. wa mua thia nomei thilou soli peloma nai.
-VOC guest. PL 1SG INT.COMP PL 1SG 2SG what utter INT.COMP.CLOSE NEG know. Q LOC 2SG name inquire SOME harmful be.
-("Guest, we do not know what to call you. Is there some harm in the asking of your name?")
+kona phemi. lo mia pha lo mia thia hina shemui pho ma sano. wa thia nomei thilou soli keno pukate nai.
+VOC guest. PL 1SG INT.COMP PL 1SG 2SG what utter INT.COMP.CLOSE NEG know. Q 2SG name inquire SOME custom break be.
+("Guest, we do not know what to call you. Would asking your name be some breach of good manners?")
 morris: "\"Guest, we don't know what to call you: is there any indiscretion in asking you your name?\""
 
 mia sha mia we ha nomei nuwi ma sano. sho to haolu.
@@ -354,9 +354,9 @@ mia sha mia we ha nomei nuwi ma sano. sho to haolu.
 ("Well," said I, "even I do not know it clearly myself.")
 morris: "\"Well,\" said I, \"I have some doubts about it myself;"
 
-pi no thelao mia phea ne phemi shemui. ha mia lumani nomei nai.
-POL IMP CONS 1SG AS NAME phemi utter. PROX 1SG family name be.
-(So please call me Guest, which is my family's name.)
+pi no thelao mia phea ne phemi shemui. ha mia lumani nomei nai. thia nila.
+POL IMP CONS 1SG AS NAME phemi utter. PROX 1SG family name be. 2SG see.
+(So please call me Guest, which is my family's name. You see.)
 morris: "so suppose you call me Guest, which is a family name, you know,"
 
 lu lo thia rinu. lo thia nia ha ta phirae nomei po tiwa.
@@ -364,14 +364,14 @@ COND PL 2SG want. PL 2SG ON PROX one different name POT tie.
 (And if you please, you may tie another name onto it.)
 morris: "and add William to it if you please.\""
 
-ne kulo roe koma wei mia phena kiroa to loa. whekai la weshoru kire leo ne selomi menoa to wepu. shia to haolu. su mia thilou wei thia peloma ma nai. whekai thia lue kua shua. pi no wei mia shane. mia roa ha kire lo thena kuelo nai. mia welao remotha phelu. mia shelu remotha phelu.
-NAME kulo INS head DAT 1SG kind sign PST give. CONTR ATTEN anxious shape ABOVE NAME selomi face PST go. 3SG PST speak. OPT 1SG inquire DAT 2SG harmful NEG be. CONTR 2SG ABL where come. POL IMP DAT 1SG tell. 1SG AROUND PROX shape PL thing curious be. 1SG good reason hold. 1SG book reason hold.
-(Guide gave me a kind head-sign, but a slightly anxious look passed over the weaver's face. He said: "I hope my asking does you no harm; but would you tell me where you come from? I am curious about such things, and I hold good reasons: book-reasons.")
+luphonu miona roe koma wei mia phena kiroa to loa. whekai la weshoru kire leo selomi miona menoa to wepu. shia to haolu. su mia thilou wei thia peloma ma nai. whekai thia lue kua shua. pi no wei mia shane. mia roa ha kire lo thena kuelo nai. mia lo shelu welao remotha phelu.
+boat person INS head DAT 1SG kind sign PST give. CONTR ATTEN anxious shape ABOVE weave person face PST go. 3SG PST speak. OPT 1SG inquire DAT 2SG harmful NEG be. CONTR 2SG ABL where come. POL IMP DAT 1SG tell. 1SG AROUND PROX shape PL thing curious be. 1SG PL book good reason hold.
+(The waterman gave me a kind head-sign, but a slightly anxious look passed over the weaver's face. He said: "I hope my asking does you no harm; but would you tell me where you come from? I am curious about such things, and I have good bookish reasons.")
 morris: "Dick nodded kindly to me; but a shade of anxiousness passed over the weaver's face, and he said--\"I hope you don't mind my asking, but would you tell me where you come from? I am curious about such things for good reasons, literary reasons.\""
 
-ne kulo phou wonepa roe paloi shia to si pesa. ha ru nuwi to nai. whekai shia ru nilua to ma kelu. shia mia lo haolu to therua hasi.
-NAME kulo BELOW table INS foot 3SG PST IPFV push. PROX INTS clear PST be. CONTR 3SG INTS shy PST NEG become. 3SG 1SG PL speak PST eager wait.
-(Guide was quite clearly pushing at him with his foot under the table; but he was not much abashed, and awaited my words eagerly.)
+luphonu miona phou wonepa roe paloi shia to si pesa. ha ru nuwi to nai. whekai shia ru nilua to ma kelu. shia mia lo haolu to la therua hasi.
+boat person BELOW table INS foot 3SG PST IPFV push. PROX INTS clear PST be. CONTR 3SG INTS shy PST NEG become. 3SG 1SG PL speak PST ATTEN eager wait.
+(The waterman was quite clearly pushing at him with his foot under the table; but he was not much abashed, and awaited my words somewhat eagerly.)
 morris: "Dick was clearly kicking him underneath the table; but he was not much abashed, and awaited my answer somewhat eagerly."
 
 mia tha mia lue ha lokue shua tho haolu to pa thueli.
@@ -379,9 +379,9 @@ mia tha mia lue ha lokue shua tho haolu to pa thueli.
 (As for me, I was just about to blurt out that I came from this very place.)
 morris: "As for me, I was just going to blurt out \"Hammersmith,\""
 
-whekai mia tha ha lo haolu muo tiwa sima ruela lo mia so kolua tho to remo.
-CONTR 1SG DECL.COMP PROX PL speak INTO tie thread path PL 1SG FUT carry DECL.COMP.CLOSE PST think.
-(When I bethought me: these words would carry us into a path of tied threads.)
+whekai mia tha ha lo haolu muo lo phirae porua remo tiwa lo mia so kolua tho to remo.
+CONTR 1SG DECL.COMP PROX PL speak INTO PL different purpose think tie PL 1SG FUT carry DECL.COMP.CLOSE PST think.
+(Then I thought that these words would carry us into a tangle of thoughts made by different purposes.)
 morris: "when I bethought me what an entanglement of cross purposes that would lead us into;"
 
 thelao mia laeno shemu to pilu. mia ta peshu to thesa kealo. thiku theloa ha peshu thema to nai. mia to haolu.
@@ -389,8 +389,8 @@ CONS 1SG long moment PST take. 1SG one lie PST careful create. small truth PROX 
 (So I took time and carefully made a lie; a little truth was that lie's guardian; and I said:)
 morris: "so I took time to invent a lie with circumstance, guarded by a little truth, and said:"
 
-mia sha mia lue ha lo muila ru laeno thimu wuero to nai. thelao lo thena wei mia nosa kuewa ke nai. sho to haolu.
-1SG QUOT.COMP 1SG ABL PROX PL earth INTS long time far PST be. CONS PL thing DAT 1SG now strange INFER be. QUOT.COMP.CLOSE PST speak.
+mia sha thia nila. mia lue ha lo muila ru laeno thimu wuero to nai. thelao lo thena wei mia nosa kuewa ke nai. sho to haolu.
+1SG QUOT.COMP 2SG see. 1SG ABL PROX PL earth INTS long time far PST be. CONS PL thing DAT 1SG now strange INFER be. QUOT.COMP.CLOSE PST speak.
 ("You see, I have been away from these lands so long a time that things seem strange to me now.")
 morris: "\"You see, I have been such a long time away from Europe that things seem strange to me now;"
 
@@ -400,34 +400,29 @@ CONTR 1SG LOC large forest edge PST born. PL person LOC DIST place 1SG PST nurtu
 morris: "but I was born and bred on the edge of Epping Forest; Walthamstow and Woodford, to wit.\""
 ```
 
-**Notes:** the naming policy meets its most important case in the narrator himself. Morris has him choose "Guest," a family name that is also plainly what he is. Phi reaches the same choice by its own rule: he becomes `ne phemi`, Guest, named by his welcome and seated in the `phemi womu` that shares the word. His uncertainty about the name survives because a person displaced by a century has good cause to hesitate. "And add William to it if you please" keeps the permission to tie on a second name, while William dissolves. It is the author's own name smuggled into the book, a wink that belongs to English. The weaver offers `remotha`, reasons, of the bookish sort, and `weshoru` catches the anxiety in his look without enlarging it into fear. The lie with circumstance takes three short sentences because the narrator needs the time. He pauses, carefully makes a `peshu`, lie, and gives it a little `theloa`, truth, as guardian. Europe becomes these lands. Epping Forest remains a great forest at whose edge he was born, while Walthamstow and Woodford leave behind the two villages the sentence needs.
+**Notes:** the narrator chooses "Guest," a family name that is also plainly what he is. This supplies the bearer acceptance Phi requires, so `ne phemi` is a proper name rather than an adaptation assigned by the translator. His uncertainty survives because a person displaced by a century has good cause to hesitate. William is exact in Morris; Phi permits another name to be tied on. The weaver offers `remotha`, bookish reasons, and `weshoru` catches the anxiety in his look without enlarging it into fear. The lie with circumstance takes three short sentences because the narrator needs the time: he pauses, carefully makes a `peshu`, lie, and sets a little `theloa`, truth, as its guardian. Europe is these lands. Epping Forest is a great forest at whose edge he was born; Morris names Walthamstow and Woodford.
 
 ## shelira — The forest
 
 ```
-ne kulo muo haolu to pukate. shia sha ra lokue we mioru nai. sho to haolu.
-NAME kulo INTO speak PST break. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
-(Dick broke into the talk: "A pretty place, too," he said.)
+luphonu miona muo haolu to pukate. shia sha ra lokue we mioru nai. sho to haolu.
+boat person INTO speak PST break. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
+(The waterman broke into the talk: "A pretty place, too," he said.)
 morris: "\"A pretty place, too,\" broke in Dick;"
 
 ra ru loshi lokue nai. lao pheo sheloi womu leiro lo shiro ruloi thimu to ki phelu.
 DIST INTS joyful place be. BECAUSE POST MANY home release PL tree flourish time PST PFV hold.
 (A very jolly place, since after the clearing of many houses the trees have had time to grow again.)
-morris: "\"a very jolly place, now that the trees have had time to grow again"
+morris: "\"a very jolly place, now that the trees have had time to grow again since the great clearing of houses in 1955.\""
 
-sheloi womu leiro phoe pai ta rei wi lau torua to kelu.
-MANY home release ANT NEAR one eighty-one-group two twenty-seven-group year PST become.
-(That clearing of many houses happened near a hundred and thirty-five years ago.)
-morris: "since the great clearing of houses in 1955.\""
-
-maeli ne selomi ka po ma manolu. shia to haolu.
-quiet NAME selomi CAUS POT NEG stay. 3SG PST speak.
+maeli selomi miona ka po ma manolu. shia to haolu.
+quiet weave person CAUS POT NEG stay. 3SG PST speak.
 (Quiet could not hold the weaver; he spoke:)
 morris: "Quoth the irrepressible weaver:"
 
-kona phena phewani. thia phoe sheloi torua ra shelira to sano.
-VOC kind neighbor. 2SG ANT MANY year DIST forest PST know.
-("Dear neighbor, you knew that forest many years ago.")
+kona phena phewani. thia phoe soli torua ra shelira to sano.
+VOC kind neighbor. 2SG ANT SOME year DIST forest PST know.
+("Dear neighbor, you knew that forest some years ago.")
 morris: "\"Dear neighbour, since you knew the Forest some time ago,"
 
 lo miona tha mua ra serao punoa lo miona theula shiro koma to ro kati tho ti haolu. wa ha shewo nai. pi no wei mia shane.
@@ -435,9 +430,9 @@ PL person DECL.COMP LOC DIST old society PL person UNIV tree head PST HAB cut DE
 (People say, at second hand, that in that old world the trees all had their heads cut. Is this true? Please tell me.)
 morris: "could you tell me what truth there is in the rumour that in the nineteenth century the trees were all pollards?\""
 
-ha thilou mia serao thimu lioru sano lothea to kawepa.
-PROX inquire 1SG old time life know love PST catch.
-(This question caught my love of old-time nature-lore.)
+ha thilou mia serao thimu lioru sano phanoi to kawepa.
+PROX inquire 1SG old time life know portion PST catch.
+(This question caught my old-time natural-history side.)
 morris: "This was catching me on my archaeological natural-history side,"
 
 mia pha mia kua nai pho nela pha mia weno nai pho to ma remo. mia muo mera to lepa. thelao mia to pa haolu.
@@ -445,19 +440,19 @@ mia pha mia kua nai pho nela pha mia weno nai pho to ma remo. mia muo mera to le
 (I gave no thought to where, and when, I was; I fell into the net, and began on it.)
 morris: "and I fell into the trap without any thought of where and when I was; so I began on it,"
 
-mua ra thimu ra ru mioru miona wea mia to shua. shia nia tomae lo kaelo whinu heru thiku loremi to si thiwera.
-LOC DIST time DIST INTS beautiful person TOWARD 1SG PST come. 3SG ON floor PL sweet smell herb small branch PST IPFV scatter.
-(Meanwhile the handsome one came toward me; she had been scattering little branches of sweet-smelling herbs on the floor.)
+lila shia sheluo mua ra thimu ra ru mioru miona wea mia to shua. shia nia tomae lo kaelo whinu heru thiku loremi to si thiwera.
+PURP 3SG listen LOC DIST time DIST INTS beautiful person TOWARD 1SG PST come. 3SG ON floor PL sweet smell herb small branch PST IPFV scatter.
+(Meanwhile the handsome one came toward me to listen; she had been scattering little branches of sweet-smelling herbs on the floor.)
 morris: "while one of the girls, the handsome one, who had been scattering little twigs of lavender and other sweet-smelling herbs about the floor, came near to listen,"
 
-lila shia sheluo shia noe mia to whano. shia manuwe nia mia talua to nai.
-PURP 3SG listen 3SG BEHIND 1SG PST stand. 3SG hand ON 1SG shoulder PST be.
-(She stood behind me to listen, with her hand on my shoulder.)
+shia noe mia to whano. shia manuwe nia mia talua to nai.
+3SG BEHIND 1SG PST stand. 3SG hand ON 1SG shoulder PST be.
+(She stood behind me, with her hand on my shoulder.)
 morris: "and stood behind me with her hand on my shoulder,"
 
-mua ra manuwe shia soli heru to phelu. mia lopia thimu ha heru nomei to sano.
-LOC DIST hand 3SG SOME herb PST hold. 1SG child time PROX herb name PST know.
-(In that hand she held some of an herb whose name my boyhood had known.)
+mua ra manuwe shia soli heru to phelu. mia roe phirae nomei ha heru to ro shemui.
+LOC DIST hand 3SG SOME herb PST hold. 1SG INS different name PROX herb PST HAB utter.
+(In that hand she held some of an herb which I used to call by another name.)
 morris: "in which she held some of the plant that I used to call balm:"
 
 ha heru kema kaelo whinu wei mia mia lopia thimu lo thorui philo to ka halemu.
@@ -465,8 +460,8 @@ PROX herb strong sweet smell DAT 1SG 1SG child time PL beginning day PST CAUS re
 (Its strong sweet smell brought back to me the very first days of my child-time.)
 morris: "its strong sweet smell brought back to my mind my very early days"
 
-mia ra nuora thepalu we to halemu. mia whu noe kaelo heru phanoi leo moru ruloi lo whalo shilu lureko we to halemu. theula lopia ha lo halemu tiwa po reshi nila.
-1SG DIST food garden ALSO PST remember. 1SG REL BEHIND sweet herb portion ABOVE wall flourish PL large blue fruit ALSO PST remember. UNIV child PROX PL remember tie POT fast see.
+mia ra nuora thepalu we to halemu. mia whu noe kaelo heru phanoi leo moru ruloi lo whalo shilu lureko we to halemu. theula lopia ha lo halemu tiwa so reshi nila.
+1SG DIST food garden ALSO PST remember. 1SG REL BEHIND sweet herb portion ABOVE wall flourish PL large blue fruit ALSO PST remember. UNIV child PROX PL remember tie FUT fast see.
 (I remembered the kitchen-garden too, and the great blue fruits that grew on the wall beyond the sweet-herb bed. Every child will see this tying-together of memories at once.)
 morris: "in the kitchen-garden at Woodford, and the large blue plums which grew on the wall beyond the sweet-herb patch,--a connection of memories which all boys will see at once."
 
@@ -480,9 +475,9 @@ LOC 1SG child time COORD POST DIST long time two portion different PST be. one p
 ("In my childhood, and long after, two parts were different: one around a very old house, and one at a high place. Almost the whole forest was made up of trees cut at the crown, with dense small trees among them.")
 morris: "\"When I was a boy, and for long after, except for a piece about Queen Elizabeth's Lodge, and for the part about High Beech, the Forest was almost wholly made up of pollard hornbeams mixed with holly thickets."
 
-whekai phoe pai ta lau torua whalo silawo punoki leo ra shelira karami to pilu.
-CONTR ANT NEAR one twenty-seven-group year large village institution ABOVE DIST forest authority PST take.
-(But near twenty-seven years ago, the great city's institution took authority over the forest.)
+whekai phoe pai wi phoi wi shao ta torua whalo silawo punoki leo ra shelira karami to pilu.
+CONTR ANT NEAR two nine-group two three-group one year large village institution ABOVE DIST forest authority PST take.
+(But about twenty-five years ago, the great city's institution took authority over the forest.)
 morris: "But when the Corporation of London took it over about twenty-five years ago,"
 
 lo miona koma kati to te phoa. ha kati serao laenu shereni phanoi to nai.
@@ -500,9 +495,9 @@ CONTR 1SG LOC MANY past year DIST place PST NEG see. one moment different PST be
 (But for many years now I had not seen the place; one time was different, when we of the alliance went for pleasure to that high place.)
 morris: "But I have not seen the place now for many years, except once, when we Leaguers went a pleasuring to High Beech."
 
-mua ra shemu mia tha lo miona leo theula ra lokue to ki lorima tho to nila. ra lokue to ki ru moluki. ha nila mia to ru wakomi.
-LOC DIST moment 1SG DECL.COMP PL person ABOVE UNIV DIST place PST PFV build DECL.COMP.CLOSE PST see. DIST place PST PFV INTS transform. PROX see 1SG PST INTS surprise.
-(Then I saw that people had built over the whole place; it was utterly altered; and that sight shocked me deeply.)
+mua ra shemu mia tha lo miona leo theula ra lokue to ki lorima tho to nila. ra lokue to ki moluki. ha nila mia to ru wakomi.
+LOC DIST moment 1SG DECL.COMP PL person ABOVE UNIV DIST place PST PFV build DECL.COMP.CLOSE PST see. DIST place PST PFV transform. PROX see 1SG PST INTS surprise.
+(Then I saw that people had built over the whole place; it had been altered; and that sight shocked me deeply.)
 morris: "I was very much shocked then to see how it was built-over and altered;"
 
 mua ta noshi philo lo mia tha whu mioru thiku nila lo miona ra shelira thepalu ka kelu thueli tho to ti hea.
@@ -510,19 +505,24 @@ LOC one near day PL 1SG DECL.COMP REL beautiful small see PL person DIST forest 
 (And the other day we heard it said that the people who see beauty small meant to make the forest into a garden.)
 morris: "and the other day we heard that the philistines were going to landscape-garden it."
 
-whekai thia tha lo miona to te lorima nela lo shiro nosa ruloi tho haolu. ha lo haolu wei mia ru welao nai. mua ra shemu mia ne kulo tawi to reshi halemu. mia haolu to reshi tapu. mia remo tiwa to phaelo.
-CONTR 2SG DECL.COMP PL person PST CESS build COORD PL tree now flourish DECL.COMP.CLOSE speak. PROX PL speak DAT 1SG INTS good be. LOC DIST moment 1SG NAME kulo count PST fast remember. 1SG speak PST fast close. 1SG think tie PST feel.
-(But what you say, that the building has ceased and the trees now flourish, is only too good news to me. At that point I suddenly remembered Dick's count of years; I stopped short and felt my thoughts tangle.)
-morris: "But what you were saying about the building being stopped and the trees growing is only too good news;--only you know--\" At that point I suddenly remembered Dick's date, and stopped short rather confused."
+whekai thia tha lo miona to te lorima nela lo shiro nosa ruloi tho haolu. ha lo haolu wei mia ru welao nai. thia nila.
+CONTR 2SG DECL.COMP PL person PST CESS build COORD PL tree now flourish DECL.COMP.CLOSE speak. PROX PL speak DAT 1SG INTS good be. 2SG see.
+(But what you say, that the building has ceased and the trees now flourish, is only too good news to me. You see.)
+morris: "But what you were saying about the building being stopped and the trees growing is only too good news;--only you know--\""
+
+mua ra shemu mia luphonu miona tawi to reshi halemu. mia haolu to reshi tapu. mia remo tiwa to phaelo.
+LOC DIST moment 1SG boat person count PST fast remember. 1SG speak PST fast close. 1SG think tie PST feel.
+(At that point I suddenly remembered the waterman's count; I stopped short and felt my thoughts tangle.)
+morris: "At that point I suddenly remembered Dick's date, and stopped short rather confused."
 ```
 
-**Notes:** the "great clearing of houses" is `sheloi womu leiro`, the clearing of many houses, which puts the scale in the houses instead of giving physical size to the release. `sheluo` also lets the nearby host listen rather than merely hear. Pollarding is described through trees whose heads are cut, `whu koma se kati shiro`. The cutting formed part of `serao laenu shereni`, an old commons entitlement. That relation preserves Morris's legal claim without reducing it to a sharing custom. The institution of the great city takes `karami`, authority, over the forest; the act acquires no borrowed care or legitimacy. The rumor rides `ti`, and the weaver asks whether it is true. Morris's philistines become people who see beauty small. His exact year 1955 stays in the source line, while Phi gives the elapsed interval relevant to the conversation. The named lodge, hill, and herb remain descriptive memories. Blue plums and sweet-smelling herbs finish the chain that `halemu tiwa` ties together.
+**Notes:** the "great clearing of houses" is `sheloi womu leiro`, the clearing of many houses, which puts the scale where Morris puts it. Pollarding is cutting the crowns of trees. The old practice formed part of `serao laenu shereni`, an old commons entitlement, and the institution of the great city takes `karami`, authority, over the forest. The wording reports both relations without endorsing either. Rumour rides `ti`, and the weaver asks whether it is true. The year 1955 is exact in Morris's line; the Phi ternary phrase `pai wi phoi wi shao ta torua` gives about twenty-five years. The lodge and hill are descriptive places in Phi. Hornbeams, holly, and balm retain their precise identities in the source, while Phi follows the remembered trees and herb. Blue plums and sweet-smelling herbs finish the chain that `halemu tiwa` ties together.
 
 ## wia torua — How many years
 
 ```
-ne selomi mia remo tiwa to ma morae. shia roa shia miso keno pukate pai selua to ke nai. shia to reshi haolu.
-NAME selomi 1SG think tie PST NEG sense. 3SG AROUND 3SG REFL custom break NEAR aware PST INFER be. 3SG PST fast speak.
+therua selomi miona mia remo tiwa to ma morae. shia roa shia miso keno pukate pai selua to ke nai. shia to reshi haolu.
+eager weave person 1SG think tie PST NEG sense. 3SG AROUND 3SG REFL custom break NEAR aware PST INFER be. 3SG PST fast speak.
 (The eager weaver did not notice my confusion; he seemed almost aware of his own breach of custom, and said hastily:)
 morris: "The eager weaver didn't notice my confusion, but said hastily, as if he were almost aware of his breach of good manners,"
 
@@ -531,24 +531,24 @@ CONTR 2SG how many year hold.
 ("But, I say: how many years do you hold?")
 morris: "\"But, I say, how old are you?\""
 
-ne kulo nela ra mioru miona to pa theisa hola.
-NAME kulo COORD DIST beautiful person PST INCH loud laugh.
-(Dick and the pretty girl both burst out laughing.)
+luphonu miona nela ra limu mioru miona to pa theisa hola.
+boat person COORD DIST young beautiful person PST INCH loud laugh.
+(The waterman and the pretty young host both burst out laughing.)
 morris: "Dick and the pretty girl both burst out laughing,"
 
-ne selomi kuewa ha keno pukate moli to ka ke kelu.
-NAME selomi strange PROX custom break gentle PST CAUS INFER become.
-(Weaver's strangeness, it seemed, made the breach a gentle one.)
+lao selomi miona kuewa to nai lo miona shia ke po tholira.
+BECAUSE weave person strange PST be PL person 3SG INFER POT forgive.
+(Because the weaver was eccentric, it seemed that people might forgive him.)
 morris: "as if Robert's conduct were excusable on the grounds of eccentricity;"
 
-ne kulo mua hola kesho to haolu.
-NAME kulo LOC laugh middle PST speak.
-(And Dick said amidst his laughter:)
+luphonu miona mua hola kesho to haolu.
+boat person LOC laugh middle PST speak.
+(And the waterman said amidst his laughter:)
 morris: "and Dick said amidst his laughter:"
 
-kona ne selomi. no te thilou. ha phemi thilou welao ma nai.
-VOC NAME selomi. IMP CESS inquire. PROX guest inquire good NEG be.
-("Hold hard, Weaver: cease the asking. This questioning of guests will not do.")
+kona selomi miona. no te thilou. ha phemi thilou welao ma nai.
+VOC weave person. IMP CESS inquire. PROX guest inquire good NEG be.
+("Hold hard, weaver: cease the asking. This questioning of guests will not do.")
 morris: "\"Hold hard, Bob; this questioning of guests won't do."
 
 sheloi sano thia ka thenoi.
@@ -556,14 +556,14 @@ MANY know 2SG CAUS falls-short.
 ("Why, much learning is making you fall short.")
 morris: "Why, much learning is spoiling you."
 
-thia phea lo palowe kealo miona mua lo tawimo serao nophi nai.
-2SG AS PL shoe create person LOC PL foolish old story be.
-(You are like the shoe-makers in the silly old stories.)
+thia phea whu punoa ru moluki rinu lo palowe kealo miona mua lo tawimo serao nophi nai.
+2SG AS REL society INTS transform want PL shoe create person LOC PL foolish old story be.
+(You are like the shoe-makers who wanted deep social change in the silly old stories.)
 morris: "You remind me of the radical cobblers in the silly old novels,"
 
-ra lo miona wei riola sano phou paloi theula welao keno to ti pesa.
-DIST PL person DAT labor know BELOW foot UNIV good custom PST REP push.
-(Those men, so the story-writers report, pushed all good custom underfoot in the chase of useful knowledge.)
+lo lophae tha lila shia kelasu sano sheraki ra lo miona theula welao keno phou paloi pesa to thueli tho ti shane.
+PL storyteller DECL.COMP PURP 3SG usable know search DIST PL person UNIV good custom BELOW foot push PST intend DECL.COMP.CLOSE REP tell.
+(The story-writers report that those people intended to push every good custom underfoot in order to seek useful knowledge.)
 morris: "who, according to the authors, were prepared to trample down all good manners in the pursuit of utilitarian knowledge."
 
 mia tha thia roe tawi remo thia koma to ki ka tiwa tho pa remo.
@@ -576,9 +576,9 @@ thia whu serao punoa loa nela pilu shane lo tawimo serao shelu we to ki muholi. 
 (And you have been grubbing too into those idiotic old books that tell of the old world's giving and taking. He he!)
 morris: "and with grubbing into those idiotic old books about political economy (he he!),"
 
-thelao thia pha thela phoa pho po ma ru sano.
-CONS 2SG INT.COMP how do INT.COMP.CLOSE POT NEG INTS know.
-(So that you hardly know how to behave.)
+thelao thia pha thela phoa pho la sano.
+CONS 2SG INT.COMP how do INT.COMP.CLOSE ATTEN know.
+(So that you scarcely know how to behave.)
 morris: "that you scarcely know how to behave."
 
 lila thia lue meraku lo thiku mera po sawa thia nosa mue womu riola na pilu.
@@ -586,39 +586,39 @@ PURP 2SG ABL brain PL small net POT wash 2SG now OUT.OF home labor NEC take.
 (Really, you must now take up some open-air work, so that you may wash the little nets out of your brain.)
 morris: "Really, it is about time for you to take to some open-air work, so that you may clear away the cobwebs from your brain.\""
 
-ne selomi to phena hola. ra miona wea shia to wepu. shia ne selomi meshoi to moli palo. shia roe hola haoni to haolu.
-NAME selomi PST kind laugh. DIST person TOWARD 3SG PST go. 3SG NAME selomi cheek PST gentle touch. 3SG INS laugh voice PST speak.
-(The weaver laughed good-humouredly; and the girl went up to him, patted his cheek gently, and spoke with laughter in her voice:)
+selomi miona to phena hola. ra limu miona wea shia to wepu. shia selomi miona meshoi to moli palo. shia roe hola haoni to haolu.
+weave person PST kind laugh. DIST young person TOWARD 3SG PST go. 3SG weave person cheek PST gentle touch. 3SG INS laugh voice PST speak.
+(The weaver laughed good-humouredly; and the young host went up to him, patted his cheek gently, and spoke with laughter in her voice:)
 morris: "The weaver only laughed good-humouredly; and the girl went up to him and patted his cheek and said laughingly,"
 
-soa. shia phea ha to thowia.
-sorry. 3SG AS PROX PST born.
+halu. shia phea ha to thowia.
+aww. 3SG AS PROX PST born.
 ("Poor fellow! He was born like this.")
 morris: "\"Poor fellow! he was born so.\""
 
-mia thiku remo tiwa to phaelo. whekai lao lo phirae miona to hola mia we to hola. lao mia lo miona weshoru ma nai siora nela welao korua to nila mia we to hola.
-1SG small think tie PST feel. CONTR BECAUSE PL different person PST laugh 1SG ALSO PST laugh. BECAUSE 1SG PL person anxious NEG be joy COORD good heart PST see 1SG ALSO PST laugh.
-(I was a little puzzled. But because the others laughed, I laughed too. Because I saw their unanxious happiness and good temper, I laughed with them.)
+mia thiku remo tiwa to phaelo. whekai lao lo phirae miona to hola mia we to hola. sheno lao mia lo miona weshoru ma nai siora nela welao korua to nila mia nirelo to phaelo. thelao mia we to hola.
+1SG small think tie PST feel. CONTR BECAUSE PL different person PST laugh 1SG ALSO PST laugh. ADD BECAUSE 1SG PL person anxious NEG be joy COORD good heart PST see 1SG pleasant PST feel. CONS 1SG ALSO PST laugh.
+(I was a little puzzled. I laughed because the others did; and seeing their unanxious happiness and good temper gave me pleasure, so I laughed for that reason too.)
 morris: "As for me, I was a little puzzled, but I laughed also, partly for company's sake, and partly with pleasure at their unanxious happiness and good temper;"
 
-ne selomi wei mia soa haolu to si thesa kealo. phoe shia ha haolu mia to haolu.
-NAME selomi DAT 1SG sorry speak PST IPFV careful create. ANT 3SG PROX speak 1SG PST speak.
-(Robert was getting an apology ready for me; before he could speak it, I said:)
+selomi miona wei mia solae to si thesa kealo. phoe shia ha haolu mia to haolu.
+weave person DAT 1SG explain PST IPFV careful create. ANT 3SG PROX speak 1SG PST speak.
+(The weaver was preparing an excuse for me; before he could speak it, I said:)
 morris: "and before Robert could make the excuse to me which he was getting ready, I said:"
 
-kona lo phewani.
-VOC PL neighbor.
+whekai kona lo phewani.
+CONTR VOC PL neighbor.
 ("But neighbours,")
 morris: "\"But neighbours\""
 
-mia ha haolu to ki kawepa.
-1SG PROX speak PST PFV catch.
+mia ha phelui to ki kawepa.
+1SG PROX word PST PFV catch.
 (I had caught up that word.)
 morris: "(I had caught up that word),"
 
-lu mia po lonae. mia roe siora lonae. no wei mia whu lo thia rinu sheloi thilou sepho. ha wei mia loshi thena nai.
-COND 1SG POT respond. 1SG INS joy respond. IMP DAT 1SG REL PL 2SG want MANY inquire send. PROX DAT 1SG joyful thing be.
-(When I can answer, I answer with joy: send me as many questions as you please; it is fun for me.)
+lu mia po lonae. mia lonae ma naweri. no wei mia whu lo thia rinu sheloi thilou sepho. ha wei mia loshi thena nai.
+COND 1SG POT respond. 1SG respond NEG refuse. IMP DAT 1SG REL PL 2SG want MANY inquire send. PROX DAT 1SG joyful thing be.
+(When I can answer, I do not refuse: send me as many questions as you please; it is fun for me.)
 morris: "\"I don't in the least mind answering questions, when I can do so: ask me as many as you please; it's fun for me."
 
 lu lo thia rinu. mia roa mia lopia thimu ra shelira wei lo thia theula so shane.
@@ -626,9 +626,9 @@ COND PL 2SG want. 1SG AROUND 1SG child time DIST forest DAT PL 2SG UNIV FUT tell
 (I will tell you everything about the forest of my boyhood, if you please.)
 morris: "I will tell you all about Epping Forest when I was a boy, if you please;"
 
-soli miona miso lo torua ro ma shane. mia ra miona ma nai. thelao mia misa ma shane.
-SOME person REFL PL year HAB NEG tell. 1SG DIST person NEG be. CONS 1SG why NEG tell.
-(Some people never tell their own years; I am not that person; so why should I not tell you?)
+soli miona miso lo torua ro ma shane. mia ra miona ma nai. thia nila. thelao mia misa ma shane.
+SOME person REFL PL year HAB NEG tell. 1SG DIST person NEG be. 2SG see. CONS 1SG why NEG tell.
+(Some people never tell their own years; I am not one of them, you see, so why should I not tell you?)
 morris: "and as to my age, I'm not a fine lady, you know, so why shouldn't I tell you?"
 
 mia pai wi lau wi torua phelu.
@@ -636,8 +636,8 @@ mia pai wi lau wi torua phelu.
 (I hold hard on fifty-six years.)
 morris: "I'm hard on fifty-six.\""
 
-shai shia roa welao keno lo haolu li nosa to hea ne selomi roe wakomi sha wao sho to na laeno shemui.
-CONC 3SG AROUND good custom PL speak RESTR now PST hear NAME selomi INS surprise QUOT.COMP wow QUOT.COMP.CLOSE PST NEC long utter.
+shai shia roa welao keno lo haolu li nosa to hea selomi miona roe wakomi sha wao sho to na laeno shemui.
+CONC 3SG AROUND good custom PL speak RESTR now PST hear weave person INS surprise QUOT.COMP wow QUOT.COMP.CLOSE PST NEC long utter.
 (In spite of having only now heard the words about good custom, the weaver could not help giving a long "wow" of astonishment.)
 morris: "In spite of the recent lecture on good manners, the weaver could not help giving a long \"whew\" of astonishment,"
 
@@ -651,24 +651,24 @@ mia lue ta miona wea phirae miona roe remo tiwa mirae to nila. mua lumae mia to 
 (I looked from one to the other with puzzled eyes, and at last said:)
 morris: "while I looked from one to the other in a puzzled manner, and at last said:"
 
-pi no wei mia shane. hina thenoi. thia tha mia lue lo thia sano rinu tho sano. no hola. no whekai wei mia we shane.
-POL IMP DAT 1SG tell. what falls-short. 2SG DECL.COMP 1SG ABL PL 2SG know want DECL.COMP.CLOSE know. IMP laugh. IMP CONTR DAT 1SG ALSO tell.
-("Tell me, please: what is amiss? You know I want to learn from you. And please laugh; only tell me too.")
+pi no wei mia shane. hina thenoi. thia tha mia lue lo thia sano rinu tho sano. pi no hola. pi no wei mia shane.
+POL IMP DAT 1SG tell. what falls-short. 2SG DECL.COMP 1SG ABL PL 2SG know want DECL.COMP.CLOSE know. POL IMP laugh. POL IMP DAT 1SG tell.
+("Tell me, please: what is amiss? You know I want to learn from you. Please laugh, but tell me.")
 morris: "\"Tell me, please, what is amiss: you know I want to learn from you.  And please laugh; only tell me.\""
 
-lo miona nosa to shewo hola. mia we to hola. lao mia lo remo phea luera to nai.
-PL person now PST true laugh. 1SG ALSO PST laugh. BECAUSE 1SG PL think AS past PST be.
-(Well, they did laugh, and I joined them again, my reasons being as before.)
+lo miona nosa to shewo hola. lao mia luera wi remotha to phelu mia we to hola.
+PL person now PST true laugh. BECAUSE 1SG past two reason PST hold 1SG ALSO PST laugh.
+(They did laugh, and because I still had the same two reasons as before, I joined them again.)
 morris: "Well, they _did_ laugh, and I joined them again, for the above-stated reasons."
 
-mua lumae ra mioru miona roe moli haoni to haolu.
-LOC end DIST beautiful person INS gentle voice PST speak.
-(But at last the pretty woman spoke, with a gentle, coaxing voice:)
+whekai mua lumae ra mioru miona roe moli nela sharemi haoni to haolu.
+CONTR LOC end DIST beautiful person INS gentle COORD persuade voice PST speak.
+(But at last the beautiful person spoke with a gentle, coaxing voice:)
 morris: "But at last the pretty woman said coaxingly--"
 
-shia keloa nai. soa. whekai mia wei thia shia remo po shane.
-3SG rough be. sorry. CONTR 1SG DAT 2SG 3SG think POT tell.
-("Well, well, he is rude, poor fellow! But I may as well tell you what he is thinking:")
+shia keloa nai. halu. whekai thia nila. mia wei thia shia remo po shane.
+3SG rough be. aww. CONTR 2SG see. 1SG DAT 2SG 3SG think POT tell.
+("Well, well, he is rude, poor fellow! But, you see, I may as well tell you what he is thinking:")
 morris: "\"Well, well, he _is_ rude, poor fellow! but you see I may as well tell you what he is thinking about:"
 
 shia tha thia sheo thia lo torua mo serao ke nai tho remo.
@@ -686,29 +686,29 @@ thia lo haolu ha to ka nuwi nila. thia mua whu lo miona wiso phena ma nai lo mui
 (And your own words showed it clearly: you have journeyed in lands where people are not kind to one another.)
 morris: "and clearly from all you have been saying, in unsocial countries."
 
-lu miona thoa whu nuhe phaelo lo miona menui. shia serao reshi kelu. lo miona ha sheloi shemu ti haolu. ha shewo ho nai.
-COND person AMONG REL sadness feel PL person dwell. 3SG old fast become. PL person PROX MANY moment REP speak. PROX true ASSUM be.
-(If a person lives among people who feel sadness, they grow old quickly. People have often said this, and no doubt it is true.)
+lu miona thoa whu nuhe phaelo lo miona menui. shia serao ru reshi kelu. lo miona ha sheloi shemu ti haolu. ha nuwi shewo nai.
+COND person AMONG REL sadness feel PL person dwell. 3SG old INTS fast become. PL person PROX MANY moment REP speak. PROX clear true be.
+(If a person lives among people who feel sadness, they grow old very quickly. People have often said this, and it is plainly true.)
 morris: "It has often been said, and no doubt truly, that one ages very quickly if one lives amongst unhappy people."
 
-sheno lo miona tha mua ha muila ronua phanoi miona mioru ro manolu tho ti haolu.
-ADD PL person DECL.COMP LOC PROX earth south portion person beautiful HAB stay DECL.COMP.CLOSE REP speak.
-(Also they say that in the south of this land a person's good looks stay.)
+sheno lo miona tha ha muila ronua phanoi wei miona mioru manolu welao lokue nai tho ti haolu.
+ADD PL person DECL.COMP PROX earth south portion DAT person beautiful stay good place be DECL.COMP.CLOSE REP speak.
+(They also say that the south of this land is a good place for a person's beauty to remain.)
 morris: "Also they say that southern England is a good place for keeping good looks.\""
 
-shia menoa rulo to kelu. shia sha mia wia torua phelu. thia hina remo sho to haolu.
-3SG face red PST become. 3SG QUOT.COMP 1SG how many year hold. 2SG what think QUOT.COMP.CLOSE PST speak.
+shia menoa rulo to kelu. shia sha thia pha mia wia torua phelu pho remo. sho to haolu.
+3SG face red PST become. 3SG QUOT.COMP 2SG INT.COMP 1SG how many year hold INT.COMP.CLOSE think. QUOT.COMP.CLOSE PST speak.
 (She blushed, and said: "How many years do you think I hold?")
 morris: "She blushed and said: \"How old am I, do you think?\""
 
-lo miona theula thimu wei mia tha miona lo torua phea miona nila kire nai tho to ti haolu.
-PL person UNIV time DAT 1SG DECL.COMP person PL year AS person see shape be DECL.COMP.CLOSE PST REP speak.
-("Well," quoth I, "I have always been told that a person's years are as the person's look,")
+lo miona theula thimu wei mia tha mua ta mia punoa miona remole miona lo torua phea miona nila kire nai tho to ti haolu.
+PL person UNIV time DAT 1SG DECL.COMP LOC one 1SG society person concept person PL year AS person see shape be DECL.COMP.CLOSE PST REP speak.
+("Well," quoth I, "I have always been told that, within one person-category of my society, a person's years are as the person's look,")
 morris: "\"Well,\" quoth I, \"I have always been told that a woman is as old as she looks,"
 
-thelao whuo peloma nela whuo ru kaelo haolu mia tha thia wi phoi wi torua phelu tho haolu.
-CONS WITHOUT harmful COORD WITHOUT INTS sweet speak 1SG DECL.COMP 2SG two nine-group two year hold DECL.COMP.CLOSE speak.
-(So without offence, and without over-sweet words, I should say that you hold twenty years.)
+thelao whuo peloma nela whuo ru kaelo haolu mia tha thia wi phoi wi torua phelu tho po haolu.
+CONS WITHOUT harmful COORD WITHOUT INTS sweet speak 1SG DECL.COMP 2SG two nine-group two year hold DECL.COMP.CLOSE POT speak.
+(So without offence, and without over-sweet words, I might say that you hold twenty years.)
 morris: "so without offence or flattery, I should say that you were twenty.\""
 
 shia to siora hola. shia to haolu.
@@ -726,14 +726,14 @@ mia ta lau ta phoi wi shao torua phelu.
 (I hold forty-two years.)
 morris: "to wit, that I am forty-two.\""
 
-mia shia to ru nila. lue shia meliphe hola we to lepa.
-1SG 3SG PST INTS see. ABL 3SG music laugh ALSO PST fall.
+mia shia to ru nila. mia lue shia meliphe hola we to natu.
+1SG 3SG PST INTS see. 1SG ABL 3SG music laugh ALSO PST pull.
 (I stared at her, and drew musical laughter from her again.)
 morris: "I stared at her, and drew musical laughter from her again;"
 
-whekai ha ru nila thua to nai. mu thesa sima nia shia menoa to nai.
-CONTR PROX INTS see fair PST be. zero careful thread ON 3SG face PST be.
-(But I might well stare: there was not one thread of care on her face.)
+whekai ha ru nila thua to nai. mu weshoru sima nia shia menoa to nai.
+CONTR PROX INTS see fair PST be. zero anxious thread ON 3SG face PST be.
+(But I might well stare: there was not one line of care on her face.)
 morris: "but I might well stare, for there was not a careful line on her face;"
 
 shia hisae phea tholau helu to nai. lo shia meshoi pheno nela sorui kire to nai. lo shia phimei phea whu shia to ki kolua lo perola rulo to nai.
@@ -741,9 +741,9 @@ shia hisae phea tholau helu to nai. lo shia meshoi pheno nela sorui kire to nai.
 (Her skin was smooth as polished bone, her cheeks full and round, her lips as red as the roses she had brought in.)
 morris: "her skin was as smooth as ivory, her cheeks full and round, her lips as red as the roses she had brought in;"
 
-shia mioru lo pelio lue talua tei manuwe kiparu kema to nai. shia wei riola lue lo pelio wethalu to ki leiro.
-3SG beautiful PL arm ABL shoulder UNTIL hand joint strong PST be. 3SG DAT labor ABL PL arm garment PST PFV release.
-(Her beautiful arms were firm and strong from shoulder to wrist; she had bared them for her work.)
+shia mioru lo pelio lue talua tei manuwe kiparu kema nela koru to nai. shia wei riola lue lo pelio wethalu to ki leiro.
+3SG beautiful PL arm ABL shoulder UNTIL hand joint strong COORD harmonious PST be. 3SG DAT labor ABL PL arm garment PST PFV release.
+(Her beautiful arms were firm and well-knit from shoulder to wrist; she had bared them for her work.)
 morris: "her beautiful arms, which she had bared for her work, firm and well-knit from shoulder to wrist."
 
 phou mia nila shia menoa la rulo to kelu. whekai ha nuwi to nai. shia mia phea whu wi lau wi phoi wi shao wi torua phelu miona to ki nila.
@@ -756,8 +756,8 @@ CONS PURP PROX moment gentle go 1SG PST speak.
 (So, to pass it off, I said:)
 morris: "so to pass it off I said--"
 
-ra serao haolu we shewo to kelu. thia muo keloa thilou mia to natu. mia ha to na ma kelomi.
-DIST old speak ALSO true PST become. 2SG INTO rough inquire 1SG PST pull. 1SG PROX PST NEC NEG accept.
+thia nila. ra serao haolu we shewo to kelu. thia muo keloa thilou mia to natu. mia ha to na ma kelomi.
+2SG see. DIST old speak ALSO true PST become. 2SG INTO rough inquire 1SG PST pull. 1SG PROX PST NEC NEG accept.
 ("Well, you see, the old saying is proved right again: you tempted me into a rude question, and I ought not to have allowed it.")
 morris: "\"Well, you see, the old saw is proved right again, and I ought not to have let you tempt me into asking you a rude question.\""
 
@@ -771,8 +771,8 @@ VOC PL friend. old COORD young. 1SG now 1SG labor NEC take.
 ("Well, friends, old and young: I must get to my work now.")
 morris: "\"Well, lads, old and young, I must get to my work now."
 
-pheo teku thimu sheloi riola mua ha so kamo. mia tha mia kau lumae ha riola reshi kolua tho rinu.
-POST short time MANY labor LOC PROX FUT arrive. 1SG DECL.COMP 1SG ALL end PROX labor fast carry DECL.COMP.CLOSE want.
+pheo teku thimu lo mia mua ha la mehalu so nai. mia tha mia kau lumae ha riola reshi kolua tho rinu.
+POST short time PL 1SG LOC PROX ATTEN busy FUT be. 1SG DECL.COMP 1SG ALL end PROX labor fast carry DECL.COMP.CLOSE want.
 (We shall be rather busy here presently, and I want to carry my work quickly to its end.)
 morris: "We shall be rather busy here presently; and I want to clear it off soon,"
 
@@ -781,8 +781,8 @@ BECAUSE 1SG LOC past day beautiful old book PST INCH read 1SG DECL.COMP 1SG LOC 
 (For I began to read a pretty old book yesterday, and I want to get on with it this morning.)
 morris: "for I began to read a pretty old book yesterday, and I want to get on with it this morning:"
 
-thelao mia nosa pholeni.
-CONS 1SG now depart.
+thelao pao.
+CONS goodbye.
 (So good-bye for the present.)
 morris: "so good-bye for the present.\""
 
@@ -797,14 +797,14 @@ DUR 3SG go 3SG ABL PL 1SG table sun bright portion PST take. one old storyteller
 morris: "taking (as Scott says) at least part of the sun from our table as she went."
 ```
 
-**Notes:** the ages are the section's machinery, and the ternary numerals carry all four. The narrator is close to fifty-six (`pai wi lau wi torua`), guesses twenty for his companion (`wi phoi wi`), hears forty-two (`ta lau ta phoi wi shao`), and is mistaken for a person of eighty (`wi lau wi phoi wi shao wi`). Phi can express each value exactly; `pai` belongs only to the source's "hard on" approximation. The question itself is canon's `thia wia torua phelu.`, asked by the one person in the room whose manners sit loosely. `selua` makes him almost aware of that breach, and `ke` leaves the awareness as the narrator's inference. Morris's "fine lady" becomes the behavior the phrase points towards: some people never tell their age, and this person does. His proverb about a woman's age becomes a reported saying about a `miona`, person, with `ti` keeping it at arm's length. Flattery is over-sweet speech (`ru kaelo haolu`), but the compliment is searched for rather than already found. Her concession is `thua`, fairness. In the portrait, ivory becomes smooth bone while `meshoi`, `phimei`, and `manuwe kiparu` give cheek, lip, and wrist their own bodies. The earlier "cobwebs" likewise reach `meraku`, brain. Her parting keeps yesterday's book, the work she means to finish, and the sun she takes from the table. Morris credits that last theft to Scott; Phi credits an old storyteller.
+**Notes:** the ages are this section's machinery, and the ternary numerals carry all four. The narrator is close to fifty-six (`pai wi lau wi torua`), guesses twenty for his companion (`wi phoi wi`), hears forty-two (`ta lau ta phoi wi shao`), and is mistaken for a person of eighty (`wi lau wi phoi wi shao wi`). The question itself is canon's `thia wia torua phelu.`, asked by the one person in the room whose manners sit loosely. `selua` makes him almost aware of that breach, and `ke` leaves the awareness as the narrator's inference. Morris's saying about a woman's age is still a reported old saying about a gendered person category. It has not quietly become advice about everyone. Flattery is over-sweet speech (`ru kaelo haolu`), but the compliment is searched for, not conveniently found. In the portrait, ivory is smooth bone while `meshoi`, `phimei`, and `manuwe kiparu` give cheek, lip, and wrist their own bodies. Her parting includes yesterday's book, the work she means to finish, and the sunlight she seems to take from the table. Morris credits Scott; Phi credits an old storyteller, with the name exact in the source.
 
 ## selomi nela tawi remo — Weaving and mathematics
 
 ```
-pheo shia pholeni ne kulo to haolu.
-POST 3SG depart NAME kulo PST speak.
-(When she was gone, Dick said:)
+pheo shia pholeni luphonu miona to haolu.
+POST 3SG depart boat person PST speak.
+(When she was gone, the waterman said:)
 morris: "When she was gone, Dick said"
 
 kona phemi. wa thia wei ha melu ta sola wi thilou ma sepho. nosa thia thilou thimu nai. ha thua nai.
@@ -812,8 +812,8 @@ VOC guest. Q 2SG DAT PROX friend one DISJ two inquire NEG send. now 2SG inquire 
 ("Now, guest, won't you send a question or two to our friend here? Now is your asking-time; that is only fair.")
 morris: "\"Now guest, won't you ask a question or two of our friend here?  It is only fair that you should have your turn.\""
 
-ne selomi sha mia roe siora so lonae. sho to haolu.
-NAME selomi QUOT.COMP 1SG INS joy FUT respond. QUOT.COMP.CLOSE PST speak.
+selomi miona sha mia roe siora so lonae. sho to haolu.
+weave person QUOT.COMP 1SG INS joy FUT respond. QUOT.COMP.CLOSE PST speak.
 ("I shall answer them very gladly," said the weaver.)
 morris: "\"I shall be very glad to answer them,\" said the weaver."
 
@@ -832,9 +832,9 @@ mia roa ha theko mewali nai sola to nai.
 (As I am interested in it. Or: I was.)
 morris: "as I am--or was--interested in it.\""
 
-shia sha mua ra mia wei thia ru welao so ma nai. mia ha ho remo. sho to haolu.
-3SG QUOT.COMP LOC DIST 1SG DAT 2SG INTS good FUT NEG be. 1SG PROX ASSUM think. QUOT.COMP.CLOSE PST speak.
-("Oh," said he, "there I shall not be of much use to you, I am afraid.")
+shia sha mua ra mia wei thia ru kelasu so ma nai. mia ha ke remo. sho to haolu.
+3SG QUOT.COMP LOC DIST 1SG DAT 2SG INTS usable FUT NEG be. 1SG PROX INFER think. QUOT.COMP.CLOSE PST speak.
+("Oh," said he, "there I shall not be of much use to you, I fear.")
 morris: "\"Oh,\" said he, \"I shall not be of much use to you there, I'm afraid."
 
 mia li roe keli weloa selomi.
@@ -842,9 +842,9 @@ mia li roe keli weloa selomi.
 (I only weave with a mechanical loom.)
 morris: "I only do the most mechanical kind of weaving,"
 
-mia phea theko miona thenoi. mia phea ne kulo ma nai.
-1SG AS craft person falls-short. 1SG AS NAME kulo NEG be.
-(And in fact, as a craftsman I fall short, unlike Guide here.)
+mia phea theko miona thenoi. mia phea ha thesani miona ma nai.
+1SG AS craft person falls-short. 1SG AS PROX skill person NEG be.
+(And in fact, as a craftsperson I fall short, unlike this skilled person here.)
 morris: "and am in fact but a poor craftsman, unlike Dick here."
 
 sheno mia roe keli wei lo shelu thiku riola. whekai mua mo thesa shelu riola mia thenoi.
@@ -862,9 +862,9 @@ CONS 1SG TOWARD REL 1SG like PL different thing PST NEC turn. 1SG count think PS
 (So I have had to turn toward other things that I have a taste for, and have taken to mathematics.)
 morris: "so I have had to turn to other things that I have a taste for, and have taken to mathematics;"
 
-sheno mia roa ra serao punoa lumae thimu shea nela womu lioru shelu si thekiro. mia tha ha shelu phoe whu lo miona wiso peloma phoa thimu muila kire ka nila tho thueli.
-ADD 1SG AROUND DIST old society end time peace COORD home life book IPFV write. 1SG DECL.COMP PROX book ANT REL PL person RECP harmful do time earth shape CAUS see DECL.COMP.CLOSE intend.
-(I am also writing a book about the peace and home-life of that old world's last days. More than anything, I want it to show the shape of the land from before the time when people did harm to one another.)
+sheno mia roa ra serao punoa lumae thimu shea nela womu lioru shelu si thekiro. mia ha shelu kealo mo ko remotha to phelu. mia tha ha shelu phoe whu lo miona wiso peloma phoa thimu muila kire ka nila tho thueli.
+ADD 1SG AROUND DIST old society end time peace COORD home life book IPFV write. 1SG PROX book create CMPR FOC reason PST hold. 1SG DECL.COMP PROX book ANT REL PL person RECP harmful do time earth shape CAUS see DECL.COMP.CLOSE intend.
+(I am also writing a book about the peace and home-life of that old world's last days. My chief reason for making it is to show the shape of the land from before the time when people did harm to one another.)
 morris: "and also I am writing a sort of antiquarian book about the peaceable and private history, so to say, of the end of the nineteenth century,--more for the sake of giving a picture of the country before the fighting began than for anything else."
 
 thelao mia wei thia roa ra shelira lo thilou to sepho.
@@ -877,14 +877,14 @@ mia ha thekao. thia mia lo remo to la tiwa. whekai thia lo sano mia ru mewali to
 (I confess it: you have rather tangled my thoughts, though what you knew made me deeply interested.)
 morris: "You have rather puzzled me, I confess, though your information was so interesting."
 
-su whekai lo mia mua whu ne kulo ha ma nai thimu mo haolu.
-OPT CONTR PL 1SG LOC REL NAME kulo PROX NEG be time CMPR speak.
-(But later on, I hope, we may have some more talk together, at a time when friend Guide is not here.)
+su whekai lo mia mua whu luphonu miona ha ma nai thimu mo haolu.
+OPT CONTR PL 1SG LOC REL boat person PROX NEG be time CMPR speak.
+(But later on, I hope, we may have some more talk together, at a time when the waterman is not here.)
 morris: "But later on, I hope, we may have some more talk together, when our friend Dick isn't here."
 
-mia tha shia mia phea whuo siora shelu riola miona nila tho sano. lao mia thiku manuwe thesani phelu shia mia thiku nila.
-1SG DECL.COMP 3SG 1SG AS WITHOUT joy book labor person see DECL.COMP.CLOSE know. BECAUSE 1SG small hand skill hold 3SG 1SG small see.
-(I know he sees me as a joyless book-work man. Because I have little skill with my hands, he holds me in contempt.)
+mia tha shia mia phea la shelu riola miona nila tho sano. lao mia thiku manuwe thesani phelu shia mia thiku nila.
+1SG DECL.COMP 3SG 1SG AS ATTEN book labor person see DECL.COMP.CLOSE know. BECAUSE 1SG small hand skill hold 3SG 1SG small see.
+(I know he sees me as rather a book-work man. Because I have little skill with my hands, he holds me in contempt.)
 morris: "I know he thinks me rather a grinder, and despises me for not being very deft with my hands:"
 
 ha nosa keno nai.
@@ -902,19 +902,19 @@ DIST time foolish UNIV REL INS PL hand POT labor person PST small see.
 (For the foolishness of that day held in contempt everyone who could work with their hands.)
 morris: "for the stupidity of that day, which despised everybody who _could_ use his hands."
 
-no whekai kona ne kulo ha serao haolu halemu. mu thena wo sheloi na nai.
-IMP CONTR VOC NAME kulo PROX old speak remember. zero thing EXC MANY NEC be.
-(But Dick, old fellow: remember the old saying. Nothing must be too much!)
+no whekai kona luphonu miona ha serao haolu halemu. no wo phoa.
+IMP CONTR VOC boat person PROX old speak remember. IMP EXC do.
+(But, old waterman, remember the old saying. Do not overdo it!)
 morris: "But Dick, old fellow, _Ne quid nimis_!  Don't overdo it!\""
 
-ne kulo sha wa mia ha ho phoa. sho to haolu.
-NAME kulo QUOT.COMP Q 1SG PROX ASSUM do. QUOT.COMP.CLOSE PST speak.
-("Come now, am I likely to?" said Dick.)
+luphonu miona sha hei. wa mia ha ho phoa. sho to haolu.
+boat person QUOT.COMP hey. Q 1SG PROX ASSUM do. QUOT.COMP.CLOSE PST speak.
+("Come now, am I likely to?" said the waterman.)
 morris: "\"Come now,\" said Dick, \"am I likely to?"
 
-wa mia whu mo ko kelomi miona ma nai.
-Q 1SG REL CMPR FOC accept person NEG be.
-(Am I not the most tolerant man in the world?)
+wa mia mua theula muila mo ko kelomi miona ma nai.
+Q 1SG LOC UNIV earth CMPR FOC accept person NEG be.
+(Am I not the most tolerant person in the world?)
 morris: "Am I not the most tolerant man in the world?"
 
 wa mia nuloe ma nai. lu thia mia tawi remo ka ma sano nela thia mia muo thia newu mioru sano ka ma wepu. mia nuloe nai.
@@ -927,25 +927,25 @@ COND 1SG INS 1SG gold COORD steel COORD fire blow device COORD good small hammer
 (So long as I may make a little beauty with my gold and steel, and the fire-blowing pipe, and the nice little hammer, I am content.)
 morris: "and let me do a little practical aesthetics with my gold and steel, and the blowpipe and the nice little hammer?"
 
-hei. phirae thilou miona wea thia shua. kona mia phemi. soa.
-hey. different inquire person TOWARD 2SG come. VOC 1SG guest. sorry.
+whekai hei. phirae thilou miona wea thia shua. kona mia phemi. halu.
+CONTR hey. different inquire person TOWARD 2SG come. VOC 1SG guest. aww.
 (But, hillo! Here comes another questioner for you, my poor guest.)
 morris: "But, hillo! here comes another questioner for you, my poor guest."
 
-kona ne selomi. thia mia naphe na loa. lo mia shia thema na nai.
-VOC NAME selomi. 2SG 1SG help NEC give. PL 1SG 3SG guardian NEC be.
-(I say, Weaver: you must help me. We must stand guardian over him now.)
+kona selomi miona. thia mia naphe na loa. lo mia wei shia thema na nai.
+VOC weave person. 2SG 1SG help NEC give. PL 1SG DAT 3SG guardian NEC be.
+(I say, weaver: you must help me. We must stand as his guardians now.)
 morris: "I say, Bob, you must help me to defend him now.\""
 
-pheo teku maeli shia to theisa haolu. kona ne solai. lu thia ha na phelu. lo mia ha nai.
-POST short quiet 3SG PST loud speak. VOC NAME solai. COND 2SG PROX NEC hold. PL 1SG PROX be.
-(After a short quiet he cried out: "Here, Gold! Here we are, if you must have it!")
+pheo teku maeli shia to theisa haolu. kona solai muhena miona. lu thia ha na phelu. lo mia ha nai.
+POST short quiet 3SG PST loud speak. VOC gold dust person. COND 2SG PROX NEC hold. PL 1SG PROX be.
+(After a short quiet he cried out: "Here, golden dustman! Here we are, if you must have it!")
 morris: "\"Here, Boffin,\" he cried out, after a pause; \"here we are, if you must have it!\""
 ```
 
-**Notes:** the weaver's account begins at the loom. He weaves `roe keli weloa`, with a mechanical loom, and calls himself a poor `theko miona`, craftsperson. Printing and composing remain device-work for books, a genuine simplification of a craft distinction for which Phi has no press vocabulary. Machine printing begins to `lumeo`, die, while Morris's plague of book-making remains a sickness that is waning. The weaver's book concerns the old world's end-time peace and home-life. Its purpose carries the novel's first glimpse of the coming war chapters: "before the fighting began" becomes the time before people did harm to one another (`lo miona wiso peloma phoa`). Dick's contempt is `thiku nila`, see-small. The weaver admits to little `manuwe thesani`, skill with the hands, which is precisely where Dick judges him. `whepelo`, retaliation, describes the present fashion of returning the old world's contempt for handwork. "Ne quid nimis" needs no Latin. The old saying already sounds at home here: nothing must be too much. Dick's forge keeps its gold and `teshilo` (steel). A fire-blowing device, small hammer, and little beauty complete it. The guest receives `thema`, guardianship, where other languages might reach for armor. Boffin then arrives as `ne solai`, Gold, with his friends' joke worn as brightly as everything else.
+**Notes:** the weaver's account begins at the loom. He weaves `roe keli weloa`, with a mechanical loom, and calls himself a poor `theko miona`, craftsperson. Printing and composing are both device-work for books, a real loss of technical distinction where Phi has no press vocabulary. Machine printing begins to `lumeo`, die, while Morris's plague of book-making is a sickness that wanes with it. The weaver's book concerns the old world's final peace and home-life. "Before the fighting began" is the time before people harmed one another (`lo miona wiso peloma phoa`), a description of the source event rather than a new martial root. The weaver admits to little `manuwe thesani`, skill with the hands, which is precisely where the waterman judges him. `whepelo`, retaliation, names the present fashion of returning the old world's contempt for handwork. The Latin maxim is exact in Morris; Phi says directly, "Do not overdo it." Gold, steel, a fire-blowing device, and a small hammer furnish the forge. The guest receives `thema`, guardianship, where Morris says defend. Then the dustman arrives. He looks much as if sunlight had dressed itself for breakfast.
 
-## ne solai — Gold
+## solai wethalu miona — The person in gold
 
 ```
 mia leo talua to rato. mua whu thue lona lokue ruemi sileta keru soli thena to keru tiripe. mia ha to nila.
@@ -953,8 +953,8 @@ mia leo talua to rato. mua whu thue lona lokue ruemi sileta keru soli thena to k
 (I looked over my shoulder, and saw something flash and gleam in the sunlight that lay across the hall.)
 morris: "I looked over my shoulder, and saw something flash and gleam in the sunlight that lay across the hall;"
 
-thelao mia miso to rato. mia whuo reshi whu nia kerou tomae moli thalo horae miona to nila.
-CONS 1SG REFL PST turn. 1SG WITHOUT fast REL ON stone floor gentle walk radiant person PST see.
+thelao mia miso to rato. mia roe ralu whu nia kerou tomae sheru thalo horae miona to nila.
+CONS 1SG REFL PST turn. 1SG INS free REL ON stone floor slow walk radiant person PST see.
 (So I turned round, and at my ease saw a splendid figure sauntering slowly over the stone floor.)
 morris: "so I turned round, and at my ease saw a splendid figure slowly sauntering over the pavement;"
 
@@ -968,14 +968,14 @@ CONS sun ABL 3SG PST bright quiver. 3SG AS REL INS gold garment PASS embrace per
 (So that the sun flashed back from him, as if he were a man wrapped all in garments of gold.)
 morris: "so that the sun flashed back from him as if he had been clad in golden armour."
 
-shia raelu to nai. shia whila nuko to nai. shia ru mioru to nai.
-3SG tall PST be. 3SG hair black PST be. 3SG INTS beautiful PST be.
+shia raelu to nai. shia whila nuelo to nai. shia ru mioru to nai.
+3SG tall PST be. 3SG hair dark PST be. 3SG INTS beautiful PST be.
 (The man himself was tall, dark-haired, and exceedingly handsome.)
 morris: "The man himself was tall, dark-haired, and exceedingly handsome,"
 
 shia menoa kire phea lo phirae miona menoa kire phena to nai. whekai shia roe la thoru kire to roke.
 3SG face shape AS PL different person face shape kind PST be. CONTR 3SG INS ATTEN proud shape PST move.
-(His face was no less kindly in expression than the others', but he moved with that somewhat haughty bearing.)
+(His face was no less kindly in expression than the others', but he moved with that somewhat haughty demeanor.)
 morris: "and though his face was no less kindly in expression than that of the others, he moved with that somewhat haughty mien"
 
 ru mioru ha kire wei theula miona ro loa.
@@ -993,8 +993,8 @@ shia lo laeno tolae to welura. shia pelio leo meipa to ka ruemi.
 (He stretched out his long legs and hung his arm over the chair.)
 morris: "stretching out his long legs and hanging his arm over the chair"
 
-raelu nela kema lo miona roe ha moli luwae kire whuo miso nila po roke.
-tall COORD strong PL person INS PROX gentle graceful shape WITHOUT REFL see POT move.
+raelu nela kema lo miona roe ha sheru luwae kire whuo miso nila po roke.
+tall COORD strong PL person INS PROX slow graceful shape WITHOUT REFL see POT move.
 (Tall and well-built people may move in that slowly graceful way without ever watching themselves.)
 morris: "in the slowly graceful way which tall and well-built people may use without affectation."
 
@@ -1008,9 +1008,9 @@ shia wei mia koma mulu kiroa to luwae loa. shia to haolu.
 (He bowed gracefully to me and said:)
 morris: "He bowed gracefully to me and said--"
 
-mia tha thia ra phemi nai tho nuwi nila. ne luwae roa thia wei mia li nosa to ki haolu.
-1SG DECL.COMP 2SG DIST guest be DECL.COMP.CLOSE clear see. NAME luwae AROUND 2SG DAT 1SG RESTR now PST PFV speak.
-("I see clearly that you are the guest of whom Graceful has just told me.")
+mia tha thia ra phemi nai tho nuwi nila. ta phemi womu miona roa thia wei mia li nosa to ki haolu.
+1SG DECL.COMP 2SG DIST guest be DECL.COMP.CLOSE clear see. one guest home person AROUND 2SG DAT 1SG RESTR now PST PFV speak.
+("I see clearly that you are the guest of whom one of the Guest House people has just told me.")
 morris: "\"I see clearly that you are the guest, of whom Annie has just told me,"
 
 thia lue whu lo mia sola lo mia keno ma sano wuero muila to kamo.
@@ -1018,14 +1018,14 @@ thia lue whu lo mia sola lo mia keno ma sano wuero muila to kamo.
 (You have come from some far country that does not know of us, or of our ways.)
 morris: "who have come from some distant country that does not know of us, or our ways of life."
 
-mia phina thilou phelu. thelao mia tha thia wei mia po lonae tho ho remo.
-1SG FEW inquire hold. CONS 1SG DECL.COMP 2SG DAT 1SG POT respond DECL.COMP.CLOSE ASSUM think.
-(I have a few questions, and I daresay you would not mind answering me.)
+mia phina thilou phelu. thelao mia tha thia wei mia lonae ma naweri tho ho remo. thia nila.
+1SG FEW inquire hold. CONS 1SG DECL.COMP 2SG DAT 1SG respond NEG refuse DECL.COMP.CLOSE ASSUM think. 2SG see.
+(I have a few questions, and I daresay you would not mind answering me. You see.)
 morris: "So I daresay you would not mind answering me a few questions; for you see--\""
 
-mua ha ne kulo muo haolu to pukate. pi kona ne solai. no ha nosa leiro.
-LOC PROX NAME kulo INTO speak PST break. POL VOC NAME solai. IMP PROX now release.
-(Here Guide broke in: "Please, Gold! Let it alone for the present.")
+mua ha luphonu miona muo haolu to pukate. tua. pi kona solai muhena miona. no ha nosa leiro.
+LOC PROX boat person INTO speak PST break. no. POL VOC gold dust person. IMP PROX now release.
+(Here the waterman broke in: "No. Please, golden dustman! Let it alone for the present.")
 morris: "Here Dick broke in: \"No, please, Boffin! let it alone for the present."
 
 thia tha phemi siora nela therilu phelu tho rinu. ha nuwi nai.
@@ -1033,49 +1033,49 @@ thia tha phemi siora nela therilu phelu tho rinu. ha nuwi nai.
 (Of course you want the guest to hold joy and rest.)
 morris: "Of course you want the guest to be happy and comfortable;"
 
-whekai shia roa miso lo newu keno nela lo newu miona remo tiwa si phaelo. lu shia pheo theula kire thilou na lonae. ha thela po kelu.
-CONTR 3SG AROUND REFL PL new custom COORD PL new person think tie IPFV feel. COND 3SG POST UNIV shape inquire NEC respond. PROX how POT become.
-(But he still feels his thoughts tangled about the new customs and people around him; if he must answer all kinds of questions, how can that be?)
+whekai shia roa miso lo newu keno nela lo newu miona remo tiwa si phaelo. lu shia theula kire thilou lonae tupeka na phelu. ha thela po kelu.
+CONTR 3SG AROUND REFL PL new custom COORD PL new person think tie IPFV feel. COND 3SG UNIV shape inquire respond burden NEC hold. PROX how POT become.
+(But he still feels his thoughts tangled about the new customs and people around him; if he must bear the burden of answering every kind of question, how can that be?)
 morris: "and how can that be if he has to trouble himself with answering all sorts of questions while he is still confused with the new customs and people about him?"
 
-mia kau whu shia miso po thilou lokue shia so kolua. mua ra lokue lo miona wei shia so lonae.
-1SG ALL REL 3SG REFL POT inquire place 3SG FUT carry. LOC DIST place PL person DAT 3SG FUT respond.
+tua. tua. mia kau whu shia miso po thilou lokue shia so kolua. mua ra lokue lo miona wei shia so lonae.
+no. no. 1SG ALL REL 3SG REFL POT inquire place 3SG FUT carry. LOC DIST place PL person DAT 3SG FUT respond.
 (No, no: I am going to carry him where he can ask questions himself, and there people will give him answers.)
 morris: "No, no: I am going to take him where he can ask questions himself, and have them answered;"
 
-ra lokue mia phao phao phao womu nai. shia mua whalo silawo kesho menui.
-DIST place 1SG parent parent parent home be. 3SG LOC large village middle dwell.
-(That place is the house of my parent's parent's parent, who dwells in the middle of the great town.)
+mua ra lokue mia phao phao phao menui. shia mua whalo silawo kesho menui.
+LOC DIST place 1SG parent parent parent dwell. 3SG LOC large village middle dwell.
+(At that place my parent's parent's parent dwells, in the middle of the great town.)
 morris: "that is, to my great-grandfather in Bloomsbury:"
 
-wei ha thia mu haolu phelu. mia ha sano.
-DAT PROX 2SG zero speak hold. 1SG PROX know.
+wei ha thia mu haolu po phelu. mia ha sano.
+DAT PROX 2SG zero speak POT hold. 1SG PROX know.
 (And I am sure you can have nothing to say against that.)
 morris: "and I am sure you can't have anything to say against that."
 
-no thelao kau ne woru womu wepu. no lao mia miso kalora so kulo wei mia rolutha pilu.
-IMP CONS ALL NAME woru home go. IMP BECAUSE 1SG REFL horse FUT guide DAT 1SG wagon take.
-(So instead of bothering, go out to Keeper's; because I shall drive the horse myself, get a carriage for me.)
+no thelao mue womu wepu. no wei mia rolutha pilu. lao mia miso kau ra lokue ha phemi so kolua.
+IMP CONS OUT.OF home go. IMP DAT 1SG wagon take. BECAUSE 1SG REFL ALL DIST place PROX guest FUT carry.
+(So instead of bothering, go out and get a carriage for me, because I shall carry this guest to that place myself.)
 morris: "So instead of bothering, you had much better go out to James Allen's and get a carriage for me, as I shall drive him up myself;"
 
-pi no wei ne woru shane. su lao mia sheo rolutha luphonu po ru mo welao kulo shia wei mia ra serao kerou welisha kalora loa.
-POL IMP DAT NAME woru tell. OPT BECAUSE 1SG THAN wagon boat POT INTS CMPR good guide 3SG DAT 1SG DIST old stone color horse give.
-(And please tell Keeper that, because I can guide a boat much better than a wagon, he may give me the old grey.)
+pi no wei ra miona shane. su lao mia sheo rolutha luphonu po ru mo welao kulo shia wei mia ra serao kerou welisha kalora loa.
+POL IMP DAT DIST person tell. OPT BECAUSE 1SG THAN wagon boat POT INTS CMPR good guide 3SG DAT 1SG DIST old stone color horse give.
+(And please tell that person that, because I can guide a boat much better than a wagon, he may give me the old grey.)
 morris: "and please tell Jim to let me have the old grey, for I can drive a wherry much better than a carriage."
 
-no rihe. kona serao melu. no whuo nuhe wepu. lo mia phemi wei thia nela thia lo nophi miso so manolu.
-IMP rise. VOC old friend. IMP WITHOUT sadness go. PL 1SG guest DAT 2SG COORD 2SG PL story REFL FUT stay.
-(Jump up, old fellow, and go without sadness: our guest will keep himself for you and your stories.)
+no rihe. kona serao melu. no whuo nuhe wepu. lo mia phemi wei thia nela thia lo nophi so manolu.
+IMP rise. VOC old friend. IMP WITHOUT sadness go. PL 1SG guest DAT 2SG COORD 2SG PL story FUT stay.
+(Jump up, old fellow, and go without sadness: our guest will remain for you and your stories.)
 morris: "Jump up, old fellow, and don't be disappointed; our guest will keep himself for you and your stories.\""
 
-mia ne kulo to ru nila. shia wei ha thunoa miona phea serao melu to haolu. shia haolu we teku to nai. ha mia to wakomi.
-1SG NAME kulo PST INTS see. 3SG DAT PROX dignified person AS old friend PST speak. 3SG speak ALSO short PST be. PROX 1SG PST surprise.
-(I stared at Guide: he spoke to so dignified-looking a personage as to an old friend, and shortly at that; and this astonished me.)
+mia luphonu miona to ru nila. shia wei ha thunoa miona phea serao melu to haolu. shia haolu we teku to nai. ha mia to wakomi.
+1SG boat person PST INTS see. 3SG DAT PROX dignified person AS old friend PST speak. 3SG speak ALSO short PST be. PROX 1SG PST surprise.
+(I stared at the waterman: he spoke to so dignified-looking a personage as to an old friend, and shortly at that; and this astonished me.)
 morris: "I stared at Dick; for I wondered at his speaking to such a dignified-looking personage so familiarly, not to say curtly;"
 
-shai shia nomei lue lo serao nophi shua mia tha ha miona ha lo kuewa miona wheo kowela miona nai tho to remo.
-CONC 3SG name ABL PL old story come 1SG DECL.COMP PROX person PROX PL strange person elder council person be DECL.COMP.CLOSE PST think.
-(For though his name came out of the old stories, I thought this man must be at the least an elder-councillor of these strange people.)
+shai shia ru sano nomei lue lo serao nophi shua mia tha ha miona ha lo kuewa miona wheo kowela miona na nai tho to remo.
+CONC 3SG INTS know name ABL PL old story come 1SG DECL.COMP PROX person PROX PL strange person elder council person NEC be DECL.COMP.CLOSE PST think.
+(For though his well-known name came out of the old stories, I thought this man must be at the least an elder-councillor of these strange people.)
 morris: "for I thought that this Mr. Boffin, in spite of his well-known name out of Dickens, must be at the least a senator of these strange people."
 
 whekai shia to rihe. shia sha lia. kona serao rewa miona. whu thia kaeli. sho to haolu. mua ha philo mia phina riola phelu.
@@ -1083,35 +1083,30 @@ CONTR 3SG PST rise. 3SG QUOT.COMP yes. VOC old oar person. REL 2SG like. QUOT.CO
 (However, he got up and said: "All right, old oar-wearer: whatever you like. This is not one of my busy days.)
 morris: "However, he got up and said, \"All right, old oar-wearer, whatever you like; this is not one of my busy days;"
 
-shia wei mia roe la thoru koma mulu kiroa to loa.
-3SG DAT 1SG INS ATTEN proud head low sign PST give.
-(Here he gave me a somewhat condescending bow of the head.)
-morris: "and though\" (with a condescending bow to me)"
+shia wei mia roe la thoru koma mulu kiroa to loa. shai ha sheloi sano phemi haolu pheo ha so kamo mia tha shia thia rolia thaluni na reshi nila tho thekao.
+3SG DAT 1SG INS ATTEN proud head low sign PST give. CONC PROX MANY know guest speak POST PROX FUT arrive 1SG DECL.COMP 3SG 2SG worth kin NEC fast see DECL.COMP.CLOSE acknowledge.
+(He gave me a somewhat condescending bow. Though my pleasure of talking with this learned guest must come later, I admit that he ought to see your worthy kinsman as soon as possible.)
+morris: "and though\" (with a condescending bow to me) \"my pleasure of a talk with this learned guest is put off, I admit that he ought to see your worthy kinsman as soon as possible."
 
-nua ha sheloi sano phemi haolu pheo ha so kamo. whekai mia thekao. shia thia rolia thaluni na reshi nila.
-COM PROX MANY know guest speak POST PROX FUT arrive. CONTR 1SG acknowledge. 3SG 2SG worth kin NEC fast see.
-(And though my pleasure of a talk with this learned guest must come after this, I admit that he ought to see your worthy kinsman as soon as may be.)
-morris: "\"my pleasure of a talk with this learned guest is put off, I admit that he ought to see your worthy kinsman as soon as possible."
-
-sheno lo miona wei shia so lonae. pheo thena shia wei mia po mo welao lonae.
-ADD PL person DAT 3SG FUT respond. POST thing 3SG DAT 1SG POT CMPR good respond.
-(Besides, perhaps he will be the better able to answer my questions after his own have been answered.)
+sheno pheo lo miona wei shia lo thilou lonae shia wei mia po mo welao lonae.
+ADD POST PL person DAT 3SG PL inquire respond 3SG DAT 1SG POT CMPR good respond.
+(Besides, after people answer his questions, perhaps he will answer mine better.)
 morris: "Besides, perhaps he will be the better able to answer _my_ questions after his own have been answered.\""
 
-pheo thena shia to rato. shia mue lona lokue to luwae wepu.
-POST thing 3SG PST turn. 3SG OUT.OF meeting place PST graceful go.
-(And therewith he turned and swung himself gracefully out of the hall.)
+pheo thena shia to rato. shia miso mue lona lokue to ka roke.
+POST thing 3SG PST turn. 3SG REFL OUT.OF meeting place PST CAUS move.
+(And therewith he turned and swung himself out of the hall.)
 morris: "And therewith he turned and swung himself out of the hall."
 ```
 
-**Notes:** the golden dustman enters as light before he enters as a person: something quivering brightly (`tiripe`, the river's own sparkle-verb) in sunlight that lies (`ruemi`) across the hall. Morris gives him the scene's one martial image, golden armor. Phi keeps what the eye can report, a person wrapped in gold garments, while the intended use that defines armor stays in the source. Copious and elegant both describe the working, so they stand together in the manner position as `ru lorua nela phiro`; `lorua` measures plenty against what a place or need asks, which is what covering a surcoat in gold thread does, where `sheloi` would only count the threads. His portrait follows the last chapter's grammar. "Both men and women" becomes `theula miona`, everyone, and the suspected "senator" becomes `wheo kowela miona`, an elder-council person. Rank yields to role. `thunoa` gives Gold his dignified look without stretching pride across his whole appearance. `lonae` also keeps answering distinct from hearing questions or giving words. The Dickens allusion survives at Morris's own depth, a name out of the old stories known to narrator and hosts alike. `ne luwae` (Graceful) appears in Boffin's mouth at Morris's moment for Annie. Jim, keeper of the gray horse, is `ne woru` (Keeper), and the animal itself is `kerou welisha kalora`, the stone-colored horse. Dick's boat joke lands unchanged: he guides (`kulo`) a boat better than a wagon. Boffin's "old oar-wearer" returns as the old oar-man. "Without affectation" remains `whuo miso nila`, without watching oneself. Phi names the act and lets the pose fend for itself.
+**Notes:** the golden dustman enters as light before he enters as a person: something quivering brightly (`tiripe`) in sunlight that lies (`ruemi`) across the hall. Morris gives him the scene's one martial image, golden armour. Phi reports what the narrator can see, a person wrapped in gold garments; the exact comparison is in Morris's line. Copious and elegant both describe the embroidery, so they stand together as `ru lorua nela phiro`. "Both men and women" becomes everyone only where the claim itself is universal. The suspected senator is `wheo kowela miona`, an elder-council person. This reports the narrator's inference about office without importing the title. Annie and Jim are exact in Morris's lines; so are Dick, Boffin, and the Dickens allusion. Phi refers to them by their present relations: a Guest House person, the waterman, the golden dustman, or the keeper of the carriage. The grey horse is `kerou welisha kalora`, stone-coloured horse. "Without affectation" is `whuo miso nila`, without watching oneself. The phrase names the act and lets the pose fend for itself.
 
 ## solai muhena miona — The golden dustman
 
 ```
-pheo shia wepu mia to haolu. wa ha thilou kanelu nai. ne solai hina miona nai.
-POST 3SG go 1SG PST speak. Q PROX inquire err be. NAME solai what person be.
-(When he was well gone, I said: "Is it a wrong step to ask what Gold is?")
+pheo shia wuero wepu mia to haolu. wa ha thilou kanelu nai. ra miona hina riola phoa.
+POST 3SG far go 1SG PST speak. Q PROX inquire err be. DIST person what labor do.
+(When he was well gone, I said: "Is it wrong to ask what work that person does?")
 morris: "When he was well gone, I said: \"Is it wrong to ask what Mr. Boffin is?"
 
 shia nomei mia whu mia lo serao nophi theo sheloi loshi thimu ka halemu.
@@ -1119,29 +1114,29 @@ shia nomei mia whu mia lo serao nophi theo sheloi loshi thimu ka halemu.
 (His name, by the way, makes me remember many pleasant hours I passed reading the old stories.)
 morris: "whose name, by the way, reminds me of many pleasant hours passed in reading Dickens.\""
 
-ne kulo to hola. shia sha lia. lia. wei lo mia we ha phoa. sho to haolu. mia tha thia ha nomei shelomu tho nila.
-NAME kulo PST laugh. 3SG QUOT.COMP yes. yes. DAT PL 1SG ALSO PROX do. QUOT.COMP.CLOSE PST speak. 1SG DECL.COMP 2SG PROX name understand DECL.COMP.CLOSE see.
-(Dick laughed. "Yes, yes," said he, "it does the same for us. I see you take the name's meaning.")
+luphonu miona to hola. shia sha lia. lia. wei lo mia we ha phoa. sho to haolu. mia tha thia ha nomei shelomu tho nila.
+boat person PST laugh. 3SG QUOT.COMP yes. yes. DAT PL 1SG ALSO PROX do. QUOT.COMP.CLOSE PST speak. 1SG DECL.COMP 2SG PROX name understand DECL.COMP.CLOSE see.
+(The waterman laughed. "Yes, yes," said he, "it does the same for us. I see you take the name's meaning.")
 morris: "Dick laughed.  \"Yes, yes,\" said he, \"as it does us.  I see you take the allusion."
 
-shia shewo nomei ne solai ma nai. shia shewo nomei ne keruko nai. lao shia muhena riola miona nai lo mia wei monelu shia phea ne solai shemui. lao shia roe ru keru wethalu miso ro lomare lo mia wei monelu shia phea ne solai shemui. lao shia phea lue ru serao punoa solai lomare miona nia miso sheloi solai ro pilu lo mia wei monelu shia phea ne solai shemui.
-3SG true name NAME solai NEG be. 3SG true name NAME keruko be. BECAUSE 3SG dust labor person be PL 1SG DAT amused 3SG AS NAME solai utter. BECAUSE 3SG INS INTS bright garment REFL HAB embrace PL 1SG DAT amused 3SG AS NAME solai utter. BECAUSE 3SG AS ABL INTS old society gold embrace person ON REFL MANY gold HAB take PL 1SG DAT amused 3SG AS NAME solai utter.
-(His real name is not Gold: his true name is Sturdy. Because he is a dust-work man, we call him Gold for the fun of it. Because he wraps himself in very bright clothes, we call him Gold. Because he takes onto himself as much gold as a gold-wrapped man of a much older society, we call him Gold.)
+lo mia roe monelu shia phea phirae nomei ro shemui. ha shia shewo nomei ma nai. lao shia muhena riola miona nai lo mia ha ro phoa. lao shia roe ru keru wethalu miso ro lomare lo mia ha ro phoa. lao shia phea lue ru serao punoa solai lomare miona nia miso sheloi solai ro pilu lo mia ha ro phoa.
+PL 1SG INS amused 3SG AS different name HAB utter. PROX 3SG true name NEG be. BECAUSE 3SG dust labor person be PL 1SG PROX HAB do. BECAUSE 3SG INS INTS bright garment REFL HAB embrace PL 1SG PROX HAB do. BECAUSE 3SG AS ABL INTS old society gold embrace person ON REFL MANY gold HAB take PL 1SG PROX HAB do.
+(We jokingly call him by a different name. It is not his true name. We do this because he is a dust-work man, because he wraps himself in very bright clothes, and because he puts on as much gold as a gold-wrapped person of a much older society.)
 morris: "Of course his real name is not Boffin, but Henry Johnson; we only call him Boffin as a joke, partly because he is a dustman, and partly because he will dress so showily, and get as much gold on him as a baron of the Middle Ages."
 
-lu shia kaeli. shia misa po ma phoa. lo mia shia phirae melu nai. thelao lo mia nua shia monelu haolu.
-COND 3SG like. 3SG why POT NEG do. PL 1SG 3SG different friend be. CONS PL 1SG COM 3SG amused speak.
-(As why should he not, if he likes? Only, we are his special friends, so of course we jest with him.)
+lu shia kaeli. shia misa po ma phoa. li lo mia shia phirae melu nai. thelao lo mia nua shia monelu haolu. thia nila.
+COND 3SG like. 3SG why POT NEG do. RESTR PL 1SG 3SG different friend be. CONS PL 1SG COM 3SG amused speak. 2SG see.
+(As why should he not, if he likes? Only we are his special friends, so of course we jest with him. You see.)
 morris: "As why should he not if he likes? only we are his special friends, you know, so of course we jest with him.\""
 
-pheo ha mia laeno thimu to maeli manolu. whekai ne kulo to mo haolu.
-POST PROX 1SG long time PST quiet stay. CONTR NAME kulo PST CMPR speak.
-(I held my tongue for some time after that; but Dick went on:)
+pheo ha mia soli thimu to maeli manolu. whekai luphonu miona to mo haolu.
+POST PROX 1SG SOME time PST quiet stay. CONTR boat person PST CMPR speak.
+(I held my tongue for some time after that; but the waterman went on:)
 morris: "I held my tongue for some time after that; but Dick went on:"
 
-shia ru welao miona nai. thia shia na lothea.
-3SG INTS good person be. 2SG 3SG NEC love.
-("He is a capital fellow, and you can't help loving him.")
+shia ru welao miona nai. thia shia na kaeli.
+3SG INTS good person be. 2SG 3SG NEC like.
+("He is a capital fellow, and you cannot help liking him.")
 morris: "\"He is a capital fellow, and you can't help liking him;"
 
 whekai ta thenoi mua shia nai. shia serao punoa lothea lo nophi ro thekiro.
@@ -1149,9 +1144,9 @@ CONTR one falls-short LOC 3SG be. 3SG old society love PL story HAB write.
 (But he has one weakness: he keeps writing stories enamored of the old society.)
 morris: "but he has a weakness: he will spend his time in writing reactionary novels,"
 
-shia tha miso ra serao thimu welisha shewo ka nila tho ru thoru phaelo. shia ha phea sha thimu welisha sho shemui.
-3SG DECL.COMP REFL DIST old time color true CAUS see DECL.COMP.CLOSE INTS proud feel. 3SG PROX AS QUOT.COMP time color QUOT.COMP.CLOSE utter.
-(And he feels great pride that he shows that old time's color truly; "the time's color" is what he utters it as.)
+shia tha miso ra serao thimu welisha shewo ka nila tho ru thoru nai. shia ha phea sha thimu welisha sho shemui.
+3SG DECL.COMP REFL DIST old time color true CAUS see DECL.COMP.CLOSE INTS proud be. 3SG PROX AS QUOT.COMP time color QUOT.COMP.CLOSE utter.
+(And he is very proud of showing that old time's color truly; "the time's color" is what he calls it.)
 morris: "and is very proud of getting the local colour right, as he calls it;"
 
 shia tha thia lue whu lo miona sahu muila phanoi kamo tho remo. mua ra lokue lo miona nuhe phaelo. thelao lo miona lophae mewali ka kelu.
@@ -1164,18 +1159,18 @@ CONS 3SG DECL.COMP 3SG ABL 2SG SOME know POT take DECL.COMP.CLOSE think.
 (He thinks he might take some knowledge out of you.)
 morris: "he thinks he might get some information out of you."
 
-shia wei thia ru nuwi so haolu. whekai teo. mia wei thia miso therilu ha haolu.
-3SG DAT 2SG INTS clear FUT speak. CONTR watch out. 1SG DAT 2SG REFL rest PROX speak.
+shia wei thia ru thenui so haolu. whekai teo. mia wei thia miso therilu ha haolu.
+3SG DAT 2SG INTS direct FUT speak. CONTR watch out. 1SG DAT 2SG REFL rest PROX speak.
 (O, he will be quite straightforward with you, for that matter. But watch out! I say this for your own comfort.)
 morris: "O, he will be quite straightforward with you, for that matter.  Only for your own comfort beware of him!\""
 
-ne selomi to muro haolu. mia tha shia lo nophi ru welao nai tho remo.
-NAME selomi PST stubborn speak. 1SG DECL.COMP 3SG PL story INTS good be DECL.COMP.CLOSE think.
+selomi miona to muro haolu. mia tha shia lo nophi ru welao nai tho remo.
+weave person PST stubborn speak. 1SG DECL.COMP 3SG PL story INTS good be DECL.COMP.CLOSE think.
 ("Well, Dick," said the weaver doggedly, "I think his stories are very good.")
 morris: "\"Well, Dick,\" said the weaver, doggedly, \"I think his novels are very good.\""
 
-ne kulo sha thia ha shewo remo. sho to haolu. ta philea pelori wiso sholei.
-NAME kulo QUOT.COMP 2SG PROX true think. QUOT.COMP.CLOSE PST speak. one feather bird RECP gather.
+luphonu miona sha thia ha shewo remo. sho to haolu. ta philea pelori wiso sholei.
+boat person QUOT.COMP 2SG PROX true think. QUOT.COMP.CLOSE PST speak. one feather bird RECP gather.
 ("Of course you do," said Dick. "Birds of one feather gather together.")
 morris: "\"Of course you do,\" said Dick; \"birds of a feather flock together;"
 
@@ -1184,13 +1179,13 @@ count think COORD old time PL story NEAR equal stand.
 (Mathematics and old-time stories stand near equality.)
 morris: "mathematics and antiquarian novels stand on much the same footing."
 
-whekai shia we shua.
-CONTR 3SG ALSO come.
+whekai shia we wea ha shua.
+CONTR 3SG ALSO TOWARD PROX come.
 (But here he comes again.)
 morris: "But here he comes again.\""
 ```
 
-**Notes:** Boffin's plain source name becomes `ne keruko`, Sturdy, while the joke-name becomes `ne solai`, Gold, and the Golden Dustman composes as `solai muhena miona`. The old stories and the narrator's happy reading-hours supply the allusion to Dickens. The phrase `serao punoa lothea lo nophi` calls his "reactionary novels" stories enamored of the old society, rather than stories merely set there. The phrase "local colour" becomes the quoted `thimu welisha`, time-color. Dick promises plain speech and immediately sounds `teo`, enough; the proverb still gathers birds of one feather with one another.
+**Notes:** Boffin's real name and his friends' literary joke stay in Morris's line. Phi says that they jokingly call him by a different name and gives the three reasons in the source: his work with dust, his showy clothes, and his fondness for wearing gold. Neither English name becomes a Phi onym. The old stories and the narrator's happy reading-hours carry the allusion to Dickens. `serao punoa lothea lo nophi` describes the "reactionary novels" as stories enamoured of the old society, rather than merely set there. "Local colour" is the quoted `thimu welisha`, time-colour. The waterman promises plain speech and immediately sounds `teo`, enough; the proverb still gathers birds of one feather with one another.
 
 ## rolutha — The carriage
 
@@ -1205,9 +1200,9 @@ CONS UNIV 1SG PST rise. PL 1SG INTO door place PST go.
 (So we all got up and went into the porch.)
 morris: "so we all got up and went into the porch,"
 
-mua neo ra lokue nua kema kerou welisha kalora rolutha lo mia to hasi. mia ha rolutha to na morae.
-LOC FRONT DIST place COM strong stone color horse wagon PL 1SG PST wait. 1SG PROX wagon PST NEC sense.
-(Before it, with a strong grey horse in the shafts, a carriage stood waiting for us, and I could not help noticing it.)
+mua neo ra lokue rolutha lo mia to hasi. thei rolutha wi laeno wolea kema kerou welisha kalora to whano. mia ha rolutha to na morae.
+LOC FRONT DIST place wagon PL 1SG PST wait. BETWEEN wagon two long wood strong stone color horse PST stand. 1SG PROX wagon PST NEC sense.
+(Before it a carriage stood waiting for us. Between its two long wooden shafts stood a strong grey horse, and I could not help noticing the carriage.)
 morris: "before which, with a strong grey horse in the shafts, stood a carriage ready for us which I could not help noticing."
 
 rolutha phelo nela kelasu to nai. whekai mu whu mokela ka phaelo keloa mua rolutha to nai.
@@ -1225,9 +1220,9 @@ CONTR PROX wagon AS farmer wagon graceful COORD joyful shape PST be.
 (But this one was as graceful and pleasant in line as a farm waggon.)
 morris: "but was as graceful and pleasant in line as a Wessex waggon."
 
-lo mia muo rolutha to kalei. ne kulo nela mia.
-PL 1SG INTO wagon PST climb. NAME kulo COORD 1SG.
-(We got in, Guide and I.)
+lo mia muo rolutha to kalei. luphonu miona nela mia.
+PL 1SG INTO wagon PST climb. boat person COORD 1SG.
+(We got in, the waterman and I.)
 morris: "We got in, Dick and I."
 
 lila lo limu miona lo mia pholeni nila lo shia muo ponu lokue to ki shua. lo miona roe lo manuwe wei lo mia kiroa to loa.
@@ -1235,29 +1230,33 @@ PURP PL young person PL 1SG depart see PL 3SG INTO door place PST PFV come. PL p
 (The young ones, who had come into the porch to see our departing, waved their hands to us.)
 morris: "The girls, who had come into the porch to see us off, waved their hands to us;"
 
-ne selomi roe koma phena kiroa to loa. muhena miona phea sulai koma mulu kiroa to luwae loa.
-NAME selomi INS head kind sign PST give. dust person AS musician head low sign PST graceful give.
+selomi miona roe koma phena kiroa to loa. muhena miona phea sulai koma mulu kiroa to luwae loa.
+weave person INS head kind sign PST give. dust person AS musician head low sign PST graceful give.
 (The weaver nodded kindly; the dustman bowed as gracefully as a musician.)
 morris: "the weaver nodded kindly; the dustman bowed as gracefully as a troubadour;"
 
-ne kulo lo kalora tiwa to roke. lo mia to wepu.
-NAME kulo PL horse tie PST move. PL 1SG PST go.
-(Dick shook the reins, and we were off.)
+luphonu miona lo kalora tiwa to roke. lo mia to wepu.
+boat person PL horse tie PST move. PL 1SG PST go.
+(The waterman shook the reins, and we were off.)
 morris: "Dick shook the reins, and we were off."
 ```
 
-**Notes:** the carriage that will carry the next several chapters enters as `rolutha`, the wagon already in the lexicon. `kelasu` gives its handiness to the person using it, while `phelo` keeps the low weight separate. The "elegant" carriages of the narrator's century stay at tongs' length inside real quotation marks: `sha phiro sho`, the word "elegant" uttered. Their sickening vulgarity is roughness that causes sickness (`mokela ka phaelo keloa`). The Wessex waggon becomes the farmer's wagon its image depends on, the gray horse is stone-colored by the color rule, and the reins are the horse's ties (`lo kalora tiwa`). The troubadour bows as what he was, a musician (`sulai`). Morris gives the chapter no lingering farewell. The ties move, and we go.
+**Notes:** the carriage that will carry the next several chapters enters as `rolutha`, wagon. Its two long wooden shafts are explicit, with the strong grey horse standing between them. `kelasu` is the vehicle's handiness, while `phelo` separates out its low weight. The "elegant" carriages of the narrator's century stay inside quotation marks: `sha phiro sho`, the word elegant uttered. Their sickening vulgarity is roughness that causes sickness (`mokela ka phaelo keloa`). The Wessex waggon is a farmer's wagon in Phi, while Morris's line gives Wessex. The reins are the horse's ties (`lo kalora tiwa`), and the troubadour bows as a musician (`sulai`). Morris gives the chapter no lingering farewell. The ties move, and they go.
 
 ---
 
-## What the transmutation changed
+## Translation limits
 
-*The chapter keeps Morris's walk through the house, breakfast, inscription, forest talk, ages, work, mathematics, Gold's arrival, and the waiting carriage. Almost every source word appears in the adjacent citations. Exact dates, London places, Latin, and source names stay there when their identity matters more than a Phi approximation.*
+*The Phi follows the traveller from the house to the waiting carriage. It includes the breakfast and inscription, then follows the forest history, the questions about age, and the argument over handwork and books. Morris's wording sits beside every unit. Nothing source-bound disappears merely because Phi has to describe it.*
 
-*Two roots coined for the transmutation anchor the domestic center: \`napa\` (bread) and \`perola\` (rose). Household \`tholupi\` and \`nurome\` give it rooms and a meal. The hall remains \`lona lokue\`, meeting-place. Marble mosaic becomes many small smooth stones; the open timber roof shows wooden bones; arches are stone rainbows. Tracery is stone thread-work, and fresco is pigment on soft clay. Breakfast keeps its dark loaf, thin crusts, berries, and roses without becoming generic food.*
+| Source detail | Phi treatment |
+|---|---|
+| Hammersmith, Crosby Hall, Epping Forest, Walthamstow, Woodford, High Beech, Bloomsbury, Wessex, Turin, Dickens, Scott, Annie, Dick, Bob, Boffin, Henry Johnson, Jim, and William | Phi gives the place, relation, role, or allusion needed by the sentence. The exact names remain in Morris's lines. The one exception is `ne phemi`, Guest, because the narrator himself chooses it. |
+| May 1962, 1955, the fourteenth and nineteenth centuries, and the speakers' ages | Conventional dates and numbered centuries remain exact in the source. Elapsed years and ages that matter to the conversation are expressed exactly with Phi's ternary numerals. |
+| Marble mosaic, tracery, fresco, lead, armour, a High Table, a loom, printing, composing, a blowpipe, carriage shafts, and reins | Phi describes visible material, form, function, and relation. Some trade and architectural distinctions narrow where the lexicon has no dedicated root; Morris's adjacent wording identifies each precise label. |
+| Strawberries, roses, wheat, blackbirds, hornbeams, holly, balm, lavender, and plums | `perola`, `napa`, `napuro`, and `nuko pelori` carry recurring or composable distinctions. The remaining species stay exact in the source while Phi describes the fruit, tree, herb, colour, scent, or remembered setting that matters in the sentence. |
+| Women, male men, fine lady, gentleman, baron, senator, and troubadour | Phi marks the narrator's gendered categories where his comparison depends on them, but does not make them general person-words. Rank and social title become reported role, appearance, or inference. The source preserves every original label. |
+| Fighting, defence, revenge, reactionary novels, commoners' rights, and the Corporation's control of the forest | Phi reports the acts and relations without coining martial or coercive roots: people harm one another, guardianship protects the guest, retaliation answers contempt, a city institution takes authority, and an old commons entitlement ends. These are translations of Morris's claims, not corrections to them. |
+| Optional vocabulary | Specialised terms come from Household and Daily Life, Work, Craft, and Repair, Commons and Collective Governance, Accessibility and Participation, Ecological Systems and Material Life, and Philosophical Reasoning. |
 
-*Morris's gendered contrast is visible in his citations. Phi describes three young hosts, their draped clothes, strong arms, health, and ease without sorting people into women and men. The loss is real: part of Morris's argument about Victorian dress belongs to those categories. The Phi passage includes his comparison with upholstered armchairs and the narrator's startled attention, but it does not claim that the contrast is unchanged.*
-
-*Commons vocabulary keeps the forest history exact in its relations. The Corporation becomes a city institution taking authority over the forest, and commoners' rights become an old commons entitlement. The wording reports the power and the recognized claim without lending legitimacy to either. Later, Morris's revenge is \`whepelo\`, retaliation, while the old century's contempt for handwork uses \`thiku nila\`, see-small. Fighting in the weaver's book becomes people harming one another; the source gives the historical category beside it.*
-
-*The people take Phi-form names at the moments Morris gives them: Guest, Graceful, Guide, and Weaver. Gold and Sturdy follow when Boffin enters. Work vocabulary supplies the loom, practical skill, and the roses' quality; Accessibility supplies the carriage's usability. Gold's reactionary novels become stories enamored of the old society rather than stories merely set there. Mathematics is \`tawi remo\`, counting-thought, and machine printing is device-work for books. The carriage closes the chapter with the source's sickening vulgarity as roughness that causes sickness. This retrofit coins no new word.*
+*This chapter requires no new root. Where Phi must describe instead of label, the table says so. A smooth line that quietly changes Morris would cost more than the missing label.*

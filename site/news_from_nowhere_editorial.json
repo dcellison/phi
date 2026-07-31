@@ -116,7 +116,7 @@
         "file": "chapter_03.md",
         "number": 3,
         "title": "The Guest House and Breakfast Therein",
-        "method": "Transmutation",
+        "method": "Translation",
         "summary": "Breakfast at a guest house brings the new society down to table height. Talk wanders through old forests and handwork until a golden dustman arrives in time for the carriage.",
         "movements": [
           {
@@ -157,7 +157,7 @@
           },
           {
             "level": 2,
-            "title": "ne solai — Gold"
+            "title": "solai wethalu miona — The person in gold"
           },
           {
             "level": 2,
@@ -168,13 +168,15 @@
             "title": "rolutha — The carriage"
           }
         ],
-        "apparatus": "What the transmutation changed",
+        "apparatus": "Translation limits",
         "opening_paragraphs": 2,
         "interlinear_blocks": 12,
-        "interlinear_stanzas": 234,
+        "interlinear_stanzas": 233,
         "notes": 12,
-        "tables": 0,
-        "ledger_rows": [],
+        "tables": 1,
+        "ledger_rows": [
+          7
+        ],
         "inner_dividers": 1
       },
       {
