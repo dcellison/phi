@@ -407,7 +407,7 @@ morris: "but I was born and bred on the edge of Epping Forest; Walthamstow and W
 ```
 ne kulo muo haolu to pukate. shia sha ra lokue we mioru nai. sho to haolu.
 NAME kulo INTO speak PST break. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
-(Guide broke into the talk: "That place is beautiful too," he said.)
+(Guide broke into the talk. "That place is beautiful too," he said.)
 morris: "\"A pretty place, too,\" broke in Dick;"
 
 ra ru loshi lokue nai. lao pheo sheloi womu leiro lo shiro ruloi thimu to ki phelu.

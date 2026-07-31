@@ -630,9 +630,9 @@ DECL.COMP PL person labor NEG like DECL.COMP.CLOSE think INTS foolish be.
 (To imagine people not liking work is ridiculous.)
 morris: "Fancy people not liking to work!--it's too ridiculous."
 
-kona serao melu. thia we soli shemu riola kaeli. shia roe kalora kawhera keli roe lothea serao kalora to palo.
-VOC old friend. 2SG ALSO SOME moment labor like. 3SG INS horse coerce device INS love old horse PST touch.
-(Old friend, even you like work sometimes. He touched the old horse affectionately with a horse-coercion device.)
+shia sha kona serao melu. thia we soli shemu riola kaeli sho to haolu. shia roe kalora kawhera keli roe lothea serao kalora to palo.
+3SG QUOT.COMP VOC old friend. 2SG ALSO SOME moment labor like QUOT.COMP.CLOSE PST speak. 3SG INS horse coerce device INS love old horse PST touch.
+("Old friend, even you like work sometimes," he said, and touched the old horse affectionately with a horse-coercion device.)
 morris: "Why, even you like to work, old fellow--sometimes,\" said he, affectionately patting the old horse with the whip."
 
 shia sha hina kuewa mokanu. ra phelui theali po nai sho to haolu.
