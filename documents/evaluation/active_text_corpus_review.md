@@ -556,6 +556,40 @@ D092 rereads all 116 units from Morris through Phi, exact gloss, and derived Eng
 | Grammar and source integrity | Validate every revised sentence, keep every exact gloss machine-derived, and reconstruct the complete 6,237-character source body after the sweep | A clean parse is necessary but not sufficient. The second reading checks what each valid parse actually says. |
 | Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The sweep closes its gaps through existing vocabulary and transparent composition. |
 
+## Translation review: News from Nowhere, chapter 5
+
+Morris's fifth chapter has 273 aligned source units. Their citations reconstruct all 13,931 normalized source characters exactly and in order, with SHA-256 `878f136445ff20e608fe3f6d4702b2cf02c30151acb55c6faa0c6fe082da1aa3`. The completed Phi uses 373 unique forms. Sixteen optional roots carry 24 memberships across Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, Philosophical Reasoning, Systems and Shared Infrastructure, and Work, Craft, and Repair. The chapter adds no root, registered compound, module membership, or grammar.
+
+### Source-faithful translation
+
+D093 replaces the inherited adaptation with a translation and changes 125 first-pass units. Fourteen citation boundaries consolidate, leaving 277 first-pass units without losing or repeating a source character. The translation restores the physical journey, the complete argument about learning, and the architectural conclusion while keeping source identities in Morris's adjacent wording.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Road, wood, and geography | Restore the arcade, forest extent, named route, hills, narrow strip, wet plains, neighbouring forest, growing trees, heat, shade, scent, and slower travel | London place names, plaster, and most tree species remain exact with Morris; Phi states each visible or spatial relation around them. |
+| Children and summer life | Restore the complete age range, bodily form, enjoyment, shelters, fires, hanging pots, cottages, denied freedom, summer parties, self-directed activity, forest destinations, rough work, and exact fifty-year change | Historical people labels remain in Morris. Phi keeps every age and duration in ternary numerals without turning source categories into roots. |
+| School and education | Translate the learning-gathering, source word senses, coercive teaching places, teaching system, ancient etymology, frank admission, and narrator's contempt | English *school*, Latin *educere*, and the English polysemy remain in the witness; Phi carries the propositions without manufacturing a homonym. |
+| Skill, books, and writing | Restore swimming, cooking, mowing, thatching, work in wood, exchange-place keeping, mental work, learning to read, early writing, printing, handmade books, poems, and the lamb joke | Existing `thesani` distinguishes skill, while transparent phrases carry source craft labels that do not require roots. |
+| Languages, history, and chosen study | Restore every named-language relation, visitors' children, ancient languages, history teaching, reading guidance, cause and effect, mathematics, exact age thresholds, enjoyable work, and freedom from required bookishness | Named languages and Bob stay in Morris. Phi uses the full base and module lexicon for the relations under discussion. |
+| Book-students and Westminster | Restore Guest's silence and attention, Dick's complete defence of book-students, the intended question, rising ground, wooded sightline, familiar outline, shouted name, and surviving portion | Westminster Abbey remains Morris's name; Phi describes the building and the speakers' acts. |
+| Old buildings and public use | Restore the whole exterior, beautiful interior, memorial clearance more than one hundred years ago, obstruction, Parliament's uses, preservation community, objection, reasons, foil, other buildings, interior space, ornament, and work | The Houses of Parliament and St Paul's stay in Morris. Existing systems, governance, and craft vocabulary carries function and preservation. |
+| Vocabulary boundary | Add no root, module membership, registered compound, or grammar | Sixteen existing optional roots and transparent composition supply every distinction needed by the translation. |
+
+### Post-translation fidelity sweep
+
+D094 rereads every source, Phi, exact gloss, and derived-English unit after the first-pass snapshot is frozen at SHA-256 `27da98d78036ecd095e9fa23dab0a619112b89db81b6f8ba90186ce2d827517a`. Thirty-one first-pass units change, and four more citation boundaries consolidate into 273 final units. The final chapter has 136 units different from the inherited adaptation. The sweep preserves the complete source reconstruction and makes no lexical or grammatical addition.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Hidden valid parses | Rebuild the Broadway opening and remove pronoun uses after `pheo` that had shifted subject roles | The strict parser accepted the strings, but their valid trees did not support the derived English. Source fidelity requires reading the tree, not merely receiving a pass. |
+| Direction, motion, and agency | Restore descent towards lower ground, the north-east departure point, Guide's control of the slowing horse, passive tent pitching, and the clap on Guest's back | Each repair puts the actor, direction, or affected participant back where Morris placed it. |
+| Scope and degree | Put "all" on the learners rather than all history, use the superlative for the best books, restore "sometimes even," and place `li` outside the small quantity | Small scope errors changed propositions while leaving plausible English behind them. |
+| Dialogue and wordplay | Restore "yes," remove an invented fourth-meaning denial, join the laughter to Guide's admission, replace English discourse *well* rather than miscast `welao`, and clarify the repeated source word | The English polysemy remains source-bound, but every conversational turn still belongs in Phi. |
+| Cause and consequence | Join excuses to interest, freedom from objection to the ability to build elsewhere, and Dick's judgement of human energy to his reason | Standalone `lao` material had no main clause under the intended reading. The revised units obey modifier-first order and preserve the source relation. |
+| Buildings and time | Restore the whole exterior as spoiled years ago, public buildings rather than homes, service rather than recipients, an unpretentious form, and the exact priority between outdoor and indoor space | Current vocabulary already supplies the distinctions; the translation no longer relies on approximate derived English. |
+| Grammar and source integrity | Validate every revised sentence, retain machine-exact glosses, and reconstruct the complete source body after four citation consolidations | The final 273 citations preserve all 13,931 normalized source characters exactly. |
+| Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The second pass closes every finding through existing vocabulary, source boundaries, or transparent composition. |
+
 ## Contextual review: the drafted Phi book
 
 The drafted book comprises its cold open, chapters 1 through 7, and chapter 11. Eighteen fenced Phi examples appear across six of those files, with inline forms carrying the language through the others. Sixteen blocks remain exact, including the three Babel passages quoted in chapter 7. Two in the cold open change: service receives its direct word, and Dick's full answer now carries the tide into the Phi quotation.
@@ -678,5 +712,6 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/news_from_nowhere/chapter_02.md` | Book in progress | Reviewed | D087 translates all 235 source units, and D088 rereads each source, Phi, gloss, and derived-English unit. Nineteen first-pass units change; all 16,061 normalized source characters reconstruct exactly. |
 | `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | D089 translates all 233 source units, and D090 rereads each source, Phi, gloss, and derived-English unit. Twenty-four first-pass units change; all 19,028 normalized source characters reconstruct exactly. |
 | `texts/news_from_nowhere/chapter_04.md` | Book in progress | Reviewed | D091 translates all 116 source units, and D092 rereads each source, Phi, gloss, and derived-English unit. Twenty-six first-pass units change; all 6,237 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_05.md` | Book in progress | Reviewed | D093 translates 277 first-pass units, and D094 consolidates the final source partition to 273 while rereading every source, Phi, gloss, and derived-English unit. Thirty-one first-pass units change; all 13,931 normalized source characters reconstruct exactly. |
 
 Every current translation, refusal, original, and reviewed Morris chapter has received the review appropriate to its declared relationship with its source. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
