@@ -590,6 +590,40 @@ D094 rereads every source, Phi, exact gloss, and derived-English unit after the 
 | Grammar and source integrity | Validate every revised sentence, retain machine-exact glosses, and reconstruct the complete source body after four citation consolidations | The final 273 citations preserve all 13,931 normalized source characters exactly. |
 | Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The second pass closes every finding through existing vocabulary, source boundaries, or transparent composition. |
 
+## Translation review: News from Nowhere, chapter 6
+
+Morris's sixth chapter has 120 aligned source units. Their citations reconstruct all 14,771 normalized source characters exactly and in order, with SHA-256 `f013641ca6069aef961441960d2d8eaaa3854647a4fc89f613848d7d1aa3ea6d`. The completed Phi uses 399 unique forms. Seventeen optional roots carry 22 memberships across all eight modules. The chapter adds no root, registered compound, module membership, or grammar.
+
+### Source-faithful translation
+
+D095 replaces the inherited adaptation with a translation and changes 59 first-pass units. The 120 citation boundaries remain useful and unchanged. The translation restores the complete physical and social sequence while keeping exact source identities in Morris's adjacent wording.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Piccadilly and the exchange-place | Restore the street, displayed goods, arcades, public buildings, guest-houses, crowding, tradition, neighbouring market, and offer to shop | Phi describes exchange relations without adding roots for buying, selling, cash, or payment. Piccadilly, Italy, Parliament, and the source foods remain exact in Morris. |
+| Clothes and old exchange signs | Restore Guest's comparison, two rusted keys, dismay, Hammersmith memory, Annie relation, sharp question, social-economy lecture, clothing request, antiquarian great-grandparent, and scarecrow comparison | Metal signs and an old exchange system carry the material facts. Source names, purser, Edwardian coinage, and scarecrow remain adjacent. |
+| Love, harm, and recent death | Preserve the horse joke, patterned silk, shared love relation, possible mutual injury, stubborn choice, one-month interval, three deaths, and extinguished sunlight | Phi does not add a heroic category for fighting. Morris's Jack-and-Jill proverb and the division into two men and a woman remain exact in the citation. |
+| Children and gifts | Restore the room, exact ages, siblings, tobacco request, weight question, cotton cloth, embroidered leather bag, elaborate pipe, payment mistake, warning, thanks, and service dialogue | Existing household, craft, material, measurement, and exchange language carries the scene. Latakia, morocco, Japan, and the Emperor remain source identities. |
+| Drink and labour | Restore the tray, two glasses, straw-coloured drink, Rhine and Steinberg recognition, children's preferences, and workers coerced to drink spoiled liquor while making fine wine | Fruit drink and sweet-sour water give the available material relations. Rhine, Steinberg, lemonade, and ginger-beer stay exact in Morris. |
+| Elder and mock disease | Restore Bloomsbury, the carriage stop, easy booth work, provenance, inherited Idleness, coercive ancestry, compulsory treatment, bodily ridicule, claimed contagiousness, isolation, medicine, clothing, and final laughter | Evidentiality keeps reported, assumed, and believed claims in their speakers' mouths. Source disease names, leprosy, aperient, worsted velvet, plush, and gender and class labels remain visible. |
+| Full vocabulary | Use 17 existing optional roots with 22 memberships across all eight modules | Provenance, systems, medicine, coercion, authority, injury, household objects, and material processes receive direct words where current vocabulary already supplies them. |
+| Vocabulary boundary | Add no root, module membership, registered compound, or grammar | Transparent descriptions and adjacent source wording close every remaining gap. |
+
+### Post-translation fidelity sweep
+
+D096 rereads every source, Phi, exact gloss, and derived-English unit after the first-pass snapshot is frozen at SHA-256 `18f92cedadd606e09af87352b6c56b5c7e22de6070140bded594831d25c5c27c`. Twenty first-pass units change, leaving 66 final units different from the inherited adaptation. No citation boundary changes. The complete source reconstruction remains exact.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Hidden content gaps | Restore the people's lack of Guest's exchange system, his dismay, return to awareness, and Dick's unqualified judgement that changing clothes would be unfitting | The first-pass lines parsed, but their propositions omitted source content or weakened a speaker's force. |
+| Dialogue force | Replace exactness used as certainty, make the child's confidence explicit as knowledge, add the polite request frame, and preserve the negative medical-book question | `kiro` does not supply epistemic certainty, and positive and negative questions do not carry the same conversational force. |
+| Description and degree | Use elegance rather than beauty for the grand pipe, add the children's "somewhat" degree, restore the small arms, and make Dick's laughter loud as well as energetic | Current vocabulary supplies each distinction without borrowing the source label. |
+| Agency and labour | Mark Guest's willing acceptance of the drink, make the labourers themselves the makers, and replace an invalid possession reading with things that are not heavy | The valid first-pass structures did not yet preserve the source's participant roles. |
+| Disease report | State the claimed inheritance, repeat the treatment condition for the offspring claim, restore "now" and "sometimes," and give the medicine an explicit causal clause | The mock medical account remains complete while evidentiality prevents it from becoming Phi medicine. |
+| Violence and material objects | Describe the whip as a horse-coercion device and retain the narrator's final address to the reader | Transparent composition states the object's relation without coining a weapon term or omitting it. |
+| Grammar and source integrity | Regenerate all 120 glosses from the lexicon, validate every sentence, and reconstruct the full 14,771-character source body | A clean parse and exact gloss are necessary; the second reading checks the proposition each valid structure actually carries. |
+| Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The fidelity repairs use existing vocabulary, source boundaries, and transparent composition. |
+
 ## Contextual review: the drafted Phi book
 
 The drafted book comprises its cold open, chapters 1 through 7, and chapter 11. Eighteen fenced Phi examples appear across six of those files, with inline forms carrying the language through the others. Sixteen blocks remain exact, including the three Babel passages quoted in chapter 7. Two in the cold open change: service receives its direct word, and Dick's full answer now carries the tide into the Phi quotation.
@@ -713,5 +747,6 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | D089 translates all 233 source units, and D090 rereads each source, Phi, gloss, and derived-English unit. Twenty-four first-pass units change; all 19,028 normalized source characters reconstruct exactly. |
 | `texts/news_from_nowhere/chapter_04.md` | Book in progress | Reviewed | D091 translates all 116 source units, and D092 rereads each source, Phi, gloss, and derived-English unit. Twenty-six first-pass units change; all 6,237 normalized source characters reconstruct exactly. |
 | `texts/news_from_nowhere/chapter_05.md` | Book in progress | Reviewed | D093 translates 277 first-pass units, and D094 consolidates the final source partition to 273 while rereading every source, Phi, gloss, and derived-English unit. Thirty-one first-pass units change; all 13,931 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_06.md` | Book in progress | Reviewed | D095 translates all 120 source units, and D096 rereads each source, Phi, gloss, and derived-English unit. Twenty first-pass units change; all 14,771 normalized source characters reconstruct exactly. |
 
 Every current translation, refusal, original, and reviewed Morris chapter has received the review appropriate to its declared relationship with its source. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
