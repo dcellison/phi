@@ -39,7 +39,7 @@ Several surfaces cover neighbouring ground, but they do different work. Preserve
 | `primer/` | A graded first course built around use and exercises. |
 | `manual/` | The complete teaching and reference authority beneath canon and the lexicon. Generated Part VII views belong here. |
 | `pamphlets/` | Focused companions for one practice or feature. They are neither a miscellaneous document drawer nor the literary shelf. |
-| `texts/` | Phi literature, with every work labelled as translation, refusal, original, or part of the Morris project and every applicable source witness preserved. |
+| `texts/` | Phi literature, with every work labelled as translation, refusal, original, or a chapter in the *News from Nowhere* translation project, and every applicable source witness preserved. |
 | `book/` | Narrative nonfiction about Phi for a general reader, complete and published from cold open to close with a consolidated bibliography; its warmer chapter voice remains the register for revision, and the planning treatment is archived. |
 
 ## Worktree discipline
@@ -103,7 +103,7 @@ python3 scripts/validate_sentences.py --paths texts/example.md
 python3 scripts/validate_sentences.py --docs
 ```
 
-The full active Markdown scan remains a migration command because the literary and evaluation corpora predate the parser. Its boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
+The full active Markdown scan remains a migration command because the evaluation corpus predates the parser. As of pull request #674, `--docs` parses 5,543 complete examples and reports two diagnostics in `documents/evaluation/narrative_test_corpus.md`: PHS103 at line 46 and PHS115 at line 212. Triage each as parser or corpus before editing it. The parser's boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
 
 ## Focused test suites
 
@@ -247,7 +247,20 @@ The main validator checks that each `morris:` value occurs in `texts/news_from_n
 4. Join the normalized citations with one ASCII space and require character-for-character equality with the normalized source body.
 5. Report the citation count and both character lengths in the pull request body. Resolve any mismatch before publication.
 
-Chapter 5 is the reference receipt: 292 citations reconstruct 13,932 normalized characters on each side. This check established that every normalized source character belongs to one unit and keeps its order.
+The six translated chapters provide current reference receipts:
+
+| Chapter | Citations | Normalized characters |
+|---:|---:|---:|
+| 1 | 77 | 5,214 |
+| 2 | 235 | 16,061 |
+| 3 | 233 | 19,028 |
+| 4 | 116 | 6,237 |
+| 5 | 273 | 13,932 |
+| 6 | 120 | 14,771 |
+
+These checks establish that every normalized source character belongs to one unit and keeps its order. A fidelity sweep still has to compare the proposition carried by each valid Phi sentence with its citation and derived English; reconstruction proves coverage and order, not semantic accuracy.
+
+For the commissioned six-chapter consistency sweep, rerun reconstruction for all six chapters after any edit. Run `python3 scripts/validate_sentences.py --paths texts/news_from_nowhere/chapter_*.md`, regenerate the phonetic-neighbour baseline if attestations change, confirm the editorial counts in `site/news_from_nowhere_editorial.json`, and run the full site build before publication.
 
 ## Productive-name utility
 
