@@ -490,29 +490,38 @@ D088 rereads all 235 units from Morris through Phi, exact gloss, and derived Eng
 | Source image and physical path | Let the river eddy, the flowers send scent, and the scent flow like waves; let the soapworks hold smoke-sending paths | These transparent clauses recover Morris's image and chimney detail without asking one overloaded relative clause to carry them. |
 | Gloss and parser agreement | Keep all 235 exact glosses validator-derived and inspect the parse of every revised multi-clause stanza | The full-sentence parser reports no error, but the sweep also rejects valid parses whose words support a different reading from the derived English. |
 
-## Source-gap review: News from Nowhere, chapter 3
+## Translation review: News from Nowhere, chapter 3
 
-Morris's third chapter has 245 aligned source units. The revised Phi uses 406 unique forms. Fourteen optional roots enter with 15 memberships across five modules: Accessibility and Participation, Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, and Work, Craft, and Repair. Breakfast and the weaver's trade give those words honest work; most of the hall still speaks in base Phi.
+Morris's third chapter has 233 aligned source units. Their citations reconstruct all 19,028 normalized source characters exactly and in order. The completed Phi uses 424 unique forms. Sixteen optional roots carry 17 memberships across Accessibility and Participation, Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, Philosophical Reasoning, and Work, Craft, and Repair. The chapter adds no root, registered compound, module membership, or grammar.
 
-### Post-migration contextual retrofit
+### Source-faithful translation
 
-Forty-six aligned units change, and every `morris:` line remains byte-for-byte unchanged. A breakfast becomes a meal, a listener listens, and the mechanical weaver finally gets a loom. The pass coins no new root.
+D089 replaces the inherited adaptation with a translation and changes 116 final units. Two adjacent citation pairs consolidate and one long unit divides, leaving 233 citations without changing Morris's source partition. The translation restores details and relations that the inherited Phi had softened, reassigned, or placed only in derived English.
 
 | Question | Disposition | Reason |
 |---|---|---|
-| Recognition, rooms, texture, and material | Use `miratu`, Household `tholupi`, `wuloe`, and `muralo` | The narrator recognizes the frieze, arches lead into rooms, fresco lies on physically soft clay, and material no longer borrows the general noun for thing. |
-| Clothing, age, and health | Use `tholua`, retain `siloma`, and use `wolu` | The dress keeps an ancient form and a later simple form without inventing the numbered century in Phi. Health is an inferred bodily condition rather than a report that the hosts feel well now. |
-| Breakfast, size, and quality | Use Household `nurome`, base `ponalu`, and Work `kirero`; retain `nuora` for the food | The occasion is a meal, while the roses differ in the two respects Morris states. Food remains what is cooked and placed on the table. |
-| Anxiety, reasons, truth, and responses | Use `weshoru`, `remotha`, `theloa`, and `lonae` | Anxiety need not borrow fear, a literary reason is still a reason, truth is a noun in the guarded lie, and answering is a return turn rather than hearing or giving words. |
-| Forest scale and listening | Replace physical `whalo` with `sheloi` houses and use `sheluo` | Morris's clearing is great because many houses were removed. The nearby host comes to listen, an attended act, rather than merely receiving sound. |
-| Awareness, search, and bodily detail | Use `selua`, `sheraki`, `meraku`, `meshoi`, `phimei`, and `kiparu` | The weaver is almost aware of his breach, compliments are sought without being found in advance, and brain, cheek, lip, and wrist keep their source distinctions. |
-| Craft, interest, skill, and steel | Use `theko`, `mewali`, Work `weloa` and `thesani`, and `teshilo` | The weaver discusses a craft that interests the narrator, works at a mechanical loom, admits little hand skill, and leaves iron out of Dick's steel. |
-| Greatness, dignity, and friendship | Use intensifier `ru`, `thunoa`, and established `phirae melu` | Great beauty is intense beauty rather than physically large beauty. Gold looks dignified, while his friends are special in the same phrasing chapter 2 established. |
-| Notice and handiness | Use `morae` and Accessibility `kelasu` | The carriage catches the narrator's notice and proves handy in use. Low weight remains a separate quality under `phelo`. |
-| Transparent compositions | Keep stone rainbows, the fire-blowing device, the gray horse, the old oar-man, and the description of lead by inferred weight | These phrases remain more revealing than a narrow label. The exact metal and vanished occupations stay available in Morris's adjacent witness. |
-| Optional module reach | Use 14 roots with 15 memberships across five modules | Accessibility contributes `kelasu`; Commons contributes six roots; Ecological contributes `telo`; Household contributes `nurome` and `tholupi`; Work contributes five roots and shares `telo`. No module is added merely to raise the count. |
-| Source boundaries and peace linguistics | Preserve Morris's exact dates, places, gendered sorting, armor, and fighting language beside the established adaptation choices | Phi reports authority, harm, retaliation, and guardianship without cleaning the narrator's politics or importing martial vocabulary for the golden coat. |
-| Active dependencies | Update the chapter notes, review ledger, progress records, handoff, and phonetic-neighbour attestations | All 245 source units retain their exact Morris lines. The literary retrofit is complete, and the drafted-book review now carries its method and vocabulary forward. |
+| House, hall, and architecture | Restore the roof frame, window height, glimpse of the garden, bright pigment, direct design, material quality, and the scale of the remembered hall | Visible form belongs in Phi even when lead, fresco, tracery, and Crosby Hall remain exact in Morris's adjacent wording. |
+| Hosts, clothing, and bodies | Preserve the narrator's gendered classifications as source-bound concepts while restoring drapery, millinery, bodily strength, regular features, the handshake, and the doubtful look at his clothes | Phi does not need gendered person roots, but translation cannot silently universalize or remove Morris's categories. |
+| Breakfast and inscription | Restore the rooms, flowers, berries, bread crust, first meal, delicate glass, familiar name, complete inscription, and the narrator's degree of feeling | Turin, Hammersmith, the Socialists, and May 1962 remain exact in the source while Phi carries every relation around them. |
+| Name and place boundaries | Keep `ne phemi` because the narrator chooses Guest; refer to every other person by a current role or relation | Annie, Dick, Bob, Boffin, Henry Johnson, Jim, and the English place names remain Morris's forms. The translator assigns no onym on another person's behalf. |
+| Forest history and age | Express about twenty-five years and all four personal ages exactly, restore the commons entitlement and city authority, and retain the narrator's old-world person categories | Phi's ternary system carries the quantities. Conventional years, named places, botanical species, and gendered source labels remain beside it. |
+| Weaving, books, and handwork | Restore the loom, mechanical book-work, the weaver's chief purpose, little hand skill, retaliation, the forge, and the old maxim | Fighting is reported as people harming one another rather than receiving a martial root. The Latin and trade labels remain exact with Morris. |
+| The golden dustman | Restore his movement, clothes, questions, postponed conversation, work, literary joke, novels, and three reasons for his nickname | His English names remain source material. Phi uses the visible gold and his present work without turning either description into an onym. |
+| Carriage and departure | Restore the person driven, the carriage request, the shafts, the gray horse, low weight, handiness, quoted elegance, and final farewell | Wessex and troubadour remain precise in the source; Phi describes the farm wagon, musician, reins, and movement. |
+
+### Post-translation fidelity sweep
+
+D090 rereads all 233 units from Morris through Phi, exact gloss, and derived English. Twenty-four first-pass units change, leaving 130 final units different from the inherited chapter. The sweep preserves the complete source reconstruction and makes no lexical or grammatical addition.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| English polysemy and lexical force | Use fitting drapery, head garments, just-ripe berries, a natural-history side, direct speech, and sympathetic `halu`; distinguish an excuse from an apology | The first-pass forms were grammatical but carried gentleness, ripeness, love, clarity, or interpersonal regret that Morris had not supplied. |
+| Qualifiers and discourse turns | Restore "you know," eager and young referents, present "begin to think," goodbye, the well-known name, modal necessity, and deictic "here" | Small source words often carry stance or timing. Derived English may not add them when Phi is silent. |
+| Gendered proverb | Keep the saying about age within one old-world person category | Generalizing the saying to every person would impose Phi's preference on Morris rather than translate him. |
+| Clause relations and motion | Separate the parenthetical bow from the concessive delay; make the acknowledgement take its proposition; make the departing person move himself out of the hall | Each earlier line parsed, but its valid parse did not express the source relation shown in derived English. |
+| Degree and state | Attenuate general comeliness, make pride an adjective state, and retain the narrator's exact degree claims | `mioru`, `thoru`, `la`, and `ru` must carry the distinctions their English readings claim. |
+| Source and derived-English agreement | Remove unsupported living-person imagery, add the source-bound category where the old saying needs it, and revise every affected reading with its Phi | The English rendering explains the Phi sentence; it cannot borrow a more convenient sentence from Morris. |
+| Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The completed lexicon and transparent composition supply every repair. |
 
 ## Contextual review: the drafted Phi book
 
@@ -634,6 +643,6 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/velveteen_rabbit.md` | Translation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas and reconstruct the stored story in order. D083 rereads all 427 units after the translation conversion, changes eleven stanzas, and confirms the matching continuous reading without adding vocabulary. |
 | `texts/news_from_nowhere/chapter_01.md` | Book in progress | Reviewed | D086 checks every source, Phi, gloss, and derived-English unit; 77 citations reconstruct all 5,214 source characters, and 34 of D085's original units change without adding vocabulary or grammar. |
 | `texts/news_from_nowhere/chapter_02.md` | Book in progress | Reviewed | D087 translates all 235 source units, and D088 rereads each source, Phi, gloss, and derived-English unit. Nineteen first-pass units change; all 16,061 normalized source characters reconstruct exactly. |
-| `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
+| `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | D089 translates all 233 source units, and D090 rereads each source, Phi, gloss, and derived-English unit. Twenty-four first-pass units change; all 19,028 normalized source characters reconstruct exactly. |
 
 Every current translation, refusal, original, and reviewed Morris chapter has received the review appropriate to its declared relationship with its source. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
