@@ -183,8 +183,8 @@
         "file": "chapter_04.md",
         "number": 4,
         "title": "A Market by the Way",
-        "method": "Transmutation",
-        "summary": "The road through Hammersmith opens into a market without prices, where Dick's theatre doors and an old pun about poverty leave the traveller impressed, distracted, and thoroughly misunderstood.",
+        "method": "Translation",
+        "summary": "Hammersmith has traded King Street for meadows, gardens, and a market handsome enough to make Guest chuckle. Guide admits to making the theatre doors before an English pun about poverty leaves both travellers talking past each other.",
         "movements": [
           {
             "level": 2,
@@ -211,13 +211,15 @@
             "title": "henoi — Enough of what"
           }
         ],
-        "apparatus": "What the transmutation changed",
+        "apparatus": "Translation limits",
         "opening_paragraphs": 2,
         "interlinear_blocks": 6,
-        "interlinear_stanzas": 117,
+        "interlinear_stanzas": 116,
         "notes": 6,
-        "tables": 0,
-        "ledger_rows": [],
+        "tables": 1,
+        "ledger_rows": [
+          8
+        ],
         "inner_dividers": 1
       },
       {
