@@ -41,7 +41,7 @@ morris: "and was not surprised when my guide said briefly,"
 
 shia sha ha wisola lokue sho to haolu.
 3SG QUOT.COMP PROX exchange place QUOT.COMP.CLOSE PST speak.
-(He said, "This is the exchange-place.")
+("This is the exchange-place," he said.)
 morris: "\"Kensington Market.\""
 
 pheo ha lo mia muo teku womu ruela to wepu.
@@ -124,9 +124,9 @@ PROX REL PL 1SG TOWARD go forest portion garden name hold.
 (The part of the forest we are approaching holds the name Gardens.)
 morris: "This part we are just coming to is called Kensington Gardens;"
 
-ne kulo sha whekai mia pha ha shelira phanoi misa thepalu nomei phelu pho ma sano sho to haolu.
-NAME kulo QUOT.COMP CONTR 1SG INT.COMP PROX forest portion why garden name hold INT.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
-(Guide finished, "But why, I do not know.")
+whekai mia pha ha shelira phanoi misa thepalu nomei phelu pho ma sano.
+CONTR 1SG INT.COMP PROX forest portion why garden name hold INT.COMP.CLOSE NEG know.
+(But why, I do not know.)
 morris: "though why 'gardens' I don't know.\""
 
 mia tha mia sha ko mia sano sho haolu tho to la wilao.
@@ -317,7 +317,7 @@ morris: "but they were pleasant enough and fitting for the wood."
 
 mia sha ha lo womu sheloi lopia ke phelu sho to haolu.
 1SG QUOT.COMP PROX PL home MANY child INFER hold QUOT.COMP.CLOSE PST speak.
-(I said, "These houses must hold many children.")
+("These houses must hold many children," I said.)
 morris: "\"They must be pretty well stocked with children,\" said I,"
 
 mia wea sheloi lopia to thusemi.
@@ -327,7 +327,7 @@ morris: "pointing to the many youngsters about the way."
 
 ne kulo sha ha lo lopia lue noshi shelira womu li ma shua sho to haolu.
 NAME kulo QUOT.COMP PROX PL child ABL near forest home RESTR NEG come QUOT.COMP.CLOSE PST speak.
-(Guide said, "These children do not come only from the nearby forest houses.")
+("These children do not come only from the nearby forest houses," said Guide.)
 morris: "\"O,\" said he, \"these children do not all come from the near houses, the woodland houses,"
 
 lo shia lue roa kosha ro shua.
@@ -407,7 +407,7 @@ morris: "and then said,"
 
 shia sha mia wei thia ha theula shane sho to haolu.
 3SG QUOT.COMP 1SG DAT 2SG PROX UNIV tell QUOT.COMP.CLOSE PST speak.
-(He said, "I tell you all this.")
+("I tell you all this," he said.)
 morris: "\"I tell you all this,"
 
 lao mia tha lu mia haolu. mia lo thilou na lonae tho nila.
@@ -420,9 +420,9 @@ CONC 2SG PL 3SG NEG utter 2SG PL 3SG think.
 (Though you do not utter them, you think them.)
 morris: "which you are thinking, even if you are not speaking them out;"
 
-ne kulo sha whekai mia lumani miona wei thia ha so mo solae sho to haolu.
-NAME kulo QUOT.COMP CONTR 1SG family person DAT 2SG PROX FUT CMPR explain QUOT.COMP.CLOSE PST speak.
-(But my kinsman will explain more of this to you.")
+whekai mia lumani miona wei thia ha so mo solae.
+CONTR 1SG family person DAT 2SG PROX FUT CMPR explain.
+(But my kinsman will explain more of this to you.)
 morris: "but my kinsman will tell you more about it.\""
 ```
 
@@ -443,7 +443,7 @@ morris: "and so merely for the sake of tiding over an awkwardness and to say som
 
 mia sha ha lo lopia wei ra shonela sholei newai so nai sho to haolu.
 1SG QUOT.COMP PROX PL child DAT DIST learn gather fresh FUT be QUOT.COMP.CLOSE PST speak.
-(I said, "The children will be fresh for that learning-gathering.")
+("The children will be fresh for that learning-gathering," I said.)
 morris: "\"Well, the youngsters here will be all the fresher for school"
 
 mua keloi lumae lo shia wea shia so na turema.
@@ -453,12 +453,12 @@ morris: "when the summer gets over and they have to go back again.\""
 
 ne kulo sha ra shonela sholei sho to thilou.
 NAME kulo QUOT.COMP DIST learn gather QUOT.COMP.CLOSE PST inquire.
-(Guide asked, "That learning-gathering?")
+("That learning-gathering?" asked Guide.)
 morris: "\"School?\" he said;"
 
 shia sha lia. ha phelui wei thia hina reo phelu sho to haolu.
 3SG QUOT.COMP yes. PROX word DAT 2SG what meaning hold QUOT.COMP.CLOSE PST speak.
-(He said, "Yes. What meaning does that word hold for you?")
+("Yes," he said. "What meaning does that word hold for you?")
 morris: "\"yes, what do you mean by that word?"
 
 mia pha shia lo lopia wei thela phiremo pho ma nila.
@@ -513,17 +513,17 @@ morris: "so I said after a little fumbling,"
 
 mia sha mia ra phelui phea limu miona thumela terura to shemui sho to haolu.
 1SG QUOT.COMP 1SG DIST word AS young person teach system PST utter QUOT.COMP.CLOSE PST speak.
-(I said, "I used that word for a system of teaching young people.")
+("I used that word for a system of teaching young people," I said.)
 morris: "\"I was using the word in the sense of a system of education.\""
 
 ne kulo sha wa thia ra phelui shemui sho to phenui thilou.
 NAME kulo QUOT.COMP Q 2SG DIST word utter QUOT.COMP.CLOSE PST thoughtful inquire.
-(Guide asked thoughtfully, "That word?")
+("That word?" asked Guide thoughtfully.)
 morris: "\"Education?\" said he, meditatively,"
 
 shia sha mia ta tholua haluma pe sano. thelao mia tha ra phelui lue ta tholua phelui shua tho to ke sano sho to haolu.
 3SG QUOT.COMP 1SG one ancient language SUFF know. CONS 1SG DECL.COMP DIST word ABL one ancient word come DECL.COMP.CLOSE PST INFER know QUOT.COMP.CLOSE PST speak.
-(He said, "I know enough of one ancient language. So I can tell that this word must come from an ancient word.")
+("I know enough of one ancient language," he said. "So I can tell that this word must come from an ancient word.")
 morris: "\"I know enough Latin to know that the word must come from _educere_,"
 
 ra tholua phelui miona mue lokue kulo reo phelu.
@@ -559,7 +559,7 @@ morris: "and I said, rather contemptuously, \"Well, education means a system of 
 ```
 ne kulo sha misa we serao miona ma thumela sho to haolu.
 NAME kulo QUOT.COMP why ALSO old person NEG teach QUOT.COMP.CLOSE PST speak.
-(Guide said, "Why not teach old people too?")
+("Why not teach old people too?" said Guide.)
 morris: "\"Why not old people also?\" said he"
 
 shia mirae liroa to ka nila.
@@ -619,12 +619,12 @@ morris: "I can tell you they know plenty of things.\""
 
 mia sha whekai lo shia remo thela se thumela sho to thilou.
 1SG QUOT.COMP CONTR PL 3SG think how PASS teach QUOT.COMP.CLOSE PST inquire.
-(I asked, "But how are their minds taught?")
+("But how are their minds taught?" I asked.)
 morris: "\"Yes, but their mental education,"
 
-mia sha mia lo shia remo thumela reo phelu sho to haolu.
-1SG QUOT.COMP 1SG PL 3SG think teach meaning hold QUOT.COMP.CLOSE PST speak.
-(I said, "I mean the teaching of their minds.")
+mia lo shia remo thumela reo phelu.
+1SG PL 3SG think teach meaning hold.
+(I mean the teaching of their minds.)
 morris: "the teaching of their minds,\" said I,"
 
 mia ha phelui to phena solae.
@@ -634,12 +634,12 @@ morris: "kindly translating my phrase."
 
 ne kulo sha kona ne phemi sho to haolu.
 NAME kulo QUOT.COMP VOC NAME phemi QUOT.COMP.CLOSE PST speak.
-(Guide said, "Guest.")
+("Guest," said Guide.)
 morris: "\"Guest,\" said he,"
 
 shia sha thia ha lo whu mia shane riola po ma shonela sho to haolu.
 3SG QUOT.COMP 2SG PROX PL REL 1SG tell labor POT NEG learn QUOT.COMP.CLOSE PST speak.
-(He said, "Perhaps you have not learned the work I have been describing.")
+("Perhaps you have not learned the work I have been describing," he said.)
 morris: "\"perhaps you have not learned to do these things I have been speaking about;"
 
 lu ha shewo nai. no tha ha lo riola thesani ma phelona tho ma remo.
@@ -732,9 +732,9 @@ BECAUSE PROX write concept DAT 1SG interested be 1SG PFV wander. POL IMP 1SG for
 (Because the subject of writing interests me, I have wandered. Please forgive me.)
 morris: "but you must excuse me, for I am interested in this matter of writing,"
 
-ne kulo sha sheno mia po mioru thekiro sho to haolu.
-NAME kulo QUOT.COMP ADD 1SG POT beautiful write QUOT.COMP.CLOSE PST speak.
-(Guide finished, "And I can write a fair hand myself.")
+sheno mia po mioru thekiro.
+ADD 1SG POT beautiful write.
+(And I can write a fair hand myself.)
 morris: "being myself a fair-writer.\""
 ```
 
@@ -745,7 +745,7 @@ morris: "being myself a fair-writer.\""
 ```
 mia sha mia wea lo lopia turema sho to haolu.
 1SG QUOT.COMP 1SG TOWARD PL child return QUOT.COMP.CLOSE PST speak.
-(I said, "I will return to the children.")
+("I will return to the children," I said.)
 morris: "\"Well,\" said I, \"about the children;"
 
 lu lo shia theo nela thekiro pa sano. wa lo shia phirae thena phea haluma shonela.
@@ -755,7 +755,7 @@ morris: "when they know how to read and write, don't they learn something else--
 
 ne kulo sha lia sho to haolu.
 NAME kulo QUOT.COMP yes QUOT.COMP.CLOSE PST speak.
-(Guide said, "Of course.")
+("Of course," said Guide.)
 morris: "\"Of course,\" he said;"
 
 phoe lo shia po theo soli shemu lo shia we ta phirae haluma po haolu.
@@ -815,12 +815,12 @@ morris: "and rub their speech into one another.\""
 
 mia sha wa lo tholua haluma shonela sho to haolu.
 1SG QUOT.COMP Q PL ancient language learn QUOT.COMP.CLOSE PST speak.
-(I asked, "And do they learn the ancient languages?")
+("And do they learn the ancient languages?" I asked.)
 morris: "\"And the older languages?\" said I."
 
 ne kulo sha lia sho to haolu.
 NAME kulo QUOT.COMP yes QUOT.COMP.CLOSE PST speak.
-(Guide said, "Oh, yes.")
+("Oh, yes," said Guide.)
 morris: "\"O, yes,\" said he,"
 
 shelami shia nua lo nosa haluma wi tholua haluma ro shonela.
@@ -835,17 +835,17 @@ morris: "when they do anything more than merely pick up the latter.\""
 
 mia sha wa lo luera punoa nophi shonela sho to haolu.
 1SG QUOT.COMP Q PL past society story learn QUOT.COMP.CLOSE PST speak.
-(I asked, "And do they learn the stories of past societies?")
+("And do they learn the stories of past societies?" I asked.)
 morris: "\"And history?\" said I;"
 
 mia sha lo thia lo luera punoa nophi thela thumela sho to thilou.
 1SG QUOT.COMP PL 2SG PL past society story how teach QUOT.COMP.CLOSE PST inquire.
-(I asked, "How do you teach the stories of past societies?")
+("How do you teach the stories of past societies?" I asked.)
 morris: "\"how do you teach history?\""
 
 ne kulo sha lu miona po theo. shia lo whu kaeli shelu ro theo sho to haolu.
 NAME kulo QUOT.COMP COND person POT read. 3SG PL REL like book HAB read QUOT.COMP.CLOSE PST speak.
-(Guide said, "When a person can read, they read the books they like.")
+("When a person can read, they read the books they like," said Guide.)
 morris: "\"Well,\" said he, \"when a person can read, of course he reads what he likes to;"
 
 shia phirae miona wei pha roa ha remole lo mo ko welao shelu nai pho po reshi thilou.
@@ -865,17 +865,17 @@ morris: "\"Well,\" said I,"
 
 mia sha lo shia phirae hina shonela sho to thilou.
 1SG QUOT.COMP PL 3SG different what learn QUOT.COMP.CLOSE PST inquire.
-(I asked, "What else do they learn?")
+("What else do they learn?" I asked.)
 morris: "\"what else do they learn?"
 
-mia sha theula shia lo luera nophi ke ma shonela sho to haolu.
-1SG QUOT.COMP UNIV 3SG PL past story INFER NEG learn QUOT.COMP.CLOSE PST speak.
-(I said, "I suppose they do not all learn history.")
+theula shia lo luera nophi ke ma shonela.
+UNIV 3SG PL past story INFER NEG learn.
+(I suppose they do not all learn history.)
 morris: "I suppose they don't all learn history?\""
 
 ne kulo sha tua. tua sho to haolu.
 NAME kulo QUOT.COMP no. no QUOT.COMP.CLOSE PST speak.
-(Guide said, "No, no.")
+("No, no," said Guide.)
 morris: "\"No, no,\" said he;"
 
 soli miona lo luera nophi ma sone.
@@ -900,7 +900,7 @@ morris: "and you know,\" said my friend, with an amiable smile,"
 
 shia sha lo mia nosa phea ra ma nai sho to haolu.
 3SG QUOT.COMP PL 1SG now AS DIST NEG be QUOT.COMP.CLOSE PST speak.
-(He said, "We are not like that now.")
+("We are not like that now," he said.)
 morris: "\"we are not like that now."
 
 sheloi miona pha lo thena thela se lorima pho ro somela.
@@ -923,9 +923,9 @@ mia pha ha welao nai pho ma sano.
 (I do not know whether that is good.)
 morris: "if that be good;"
 
-sheno soli miona phea whu mia tha mua ra selomi miona nai tho to hea melu nai.
-ADD SOME person AS REL 1SG DECL.COMP LOC DIST weave person be DECL.COMP.CLOSE PST hear friend be.
-(And some people are like a friend whom I heard was a weaver there.)
+sheno soli miona phea whu mia roa ra ki hea melu ne selomi nai.
+ADD SOME person AS REL 1SG AROUND DIST PFV hear friend NAME selomi be.
+(And some people are like my friend Weaver yonder, of whom you have heard.)
 morris: "and some, as you heard about friend Bob yonder,"
 
 lo shia wei tawi remo sheloi thimu ro loa.
@@ -1061,7 +1061,7 @@ morris: "and went on meditatively:"
 
 shia sha shai lo shia pharea shelu thunai kelu mia tha ha wei lo shia ru peloma nai tho ma sano sho to haolu.
 3SG QUOT.COMP CONC PL 3SG adult book student become 1SG DECL.COMP PROX DAT PL 3SG INTS harmful be DECL.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
-(He said, "Even if they grow into book-students, I do not know that it harms them much.")
+("Even if they grow into book-students, I do not know that it harms them much," he said.)
 morris: "\"After all, I don't know that it does them much harm, even if they do grow up book-students."
 
 lo shia siora mua lo whu phina miona kanu riola nila ru nirelo nai.
@@ -1089,9 +1089,9 @@ PL 3SG UNIV person INTS eager teach. PL 3SG UNIV REL know HAB share.
 (They are eager to teach everyone and share all that they know.)
 morris: "and at the same time so anxious to teach everybody all that they know."
 
-shia sha mia lo whu ki haromi thunai ru kaeli sho to haolu.
-3SG QUOT.COMP 1SG PL REL PFV meet student INTS like QUOT.COMP.CLOSE PST speak.
-(He finished, "I like the students I have met enormously.")
+mia lo whu ki haromi thunai ru kaeli.
+1SG PL REL PFV meet student INTS like.
+(I like the students I have met enormously.)
 morris: "Really, I like those that I have met prodigiously.\""
 
 ha haolu wei mia ru kuewa to ke nai.
@@ -1126,12 +1126,12 @@ morris: "and I cried out, \"Westminster Abbey!\""
 
 ne kulo sha lia sho to haolu.
 NAME kulo QUOT.COMP yes QUOT.COMP.CLOSE PST speak.
-(Guide said, "Yes.")
+("Yes," said Guide.)
 morris: "\"Yes,\" said Dick,"
 
 shia sha ha whu lue ra lorima manolu phanoi nai sho to haolu.
 3SG QUOT.COMP PROX REL ABL DIST build stay portion be QUOT.COMP.CLOSE PST speak.
-(He said, "This is the part that remains of that building.")
+("This is the part that remains of that building," he said.)
 morris: "\"Westminster Abbey--what there is left of it.\""
 ```
 
@@ -1142,12 +1142,12 @@ morris: "\"Westminster Abbey--what there is left of it.\""
 ```
 mia sukima to phaelo. mia sha thia roa shia hina ki phoa sho to thilou.
 1SG fear PST feel. 1SG QUOT.COMP 2SG AROUND 3SG what PFV do QUOT.COMP.CLOSE PST inquire.
-(I felt terror and asked, "What have you done with it?")
+(I felt terror. "What have you done with it?" I asked.)
 morris: "\"Why, what have you done with it?\" quoth I in terror."
 
 ne kulo sha lo ko mia roa shia hina ki phoa sho to thilou.
 NAME kulo QUOT.COMP PL FOC 1SG AROUND 3SG what PFV do QUOT.COMP.CLOSE PST inquire.
-(Guide asked, "What have we done with it?")
+("What have we done with it?" asked Guide.)
 morris: "\"What have _we_ done with it?\" said he;"
 
 lo mia li phina ki phoa. lo mia shia hiso to ki ka kelu.
@@ -1200,9 +1200,9 @@ mia sha ra lo tholua karami lorima nai sho to haolu.
 (I exclaimed, "There are the old buildings of authority.")
 morris: "\"Why, there are the Houses of Parliament!"
 
-mia sha wa lo shia nosa kelitho phelu sho to thilou.
-1SG QUOT.COMP Q PL 3SG now function hold QUOT.COMP.CLOSE PST inquire.
-(I asked, "Do they still have a function?")
+wa lo shia nosa kelitho phelu.
+Q PL 3SG now function hold.
+(Do they still have a function?)
 morris: "Do you still use them?\""
 
 ne kulo to pa ru hola.
@@ -1227,7 +1227,7 @@ morris: "and said:"
 
 shia sha kona phewani. mia thia shelomu sho to haolu.
 3SG QUOT.COMP VOC neighbor. 1SG 2SG understand QUOT.COMP.CLOSE PST speak.
-(He said, "Neighbour, I understand you.")
+("Neighbour, I understand you," he said.)
 morris: "\"I take you, neighbour;"
 
 thia pha misa lo mia lo shia thiranu pho po waora phaelo.
@@ -1255,9 +1255,9 @@ shia sha lo shia porua phelu sho roe kapura to haolu.
 (He cried, "They have a use!")
 morris: "Use them!"
 
-shia sha lia. lo shia phea thiku wisola lokue ro nai sho to haolu.
-3SG QUOT.COMP yes. PL 3SG AS small exchange place HAB be QUOT.COMP.CLOSE PST speak.
-(He said, "Yes. They are used as a smaller exchange-place.")
+lia. lo shia phea thiku wisola lokue ro nai.
+yes. PL 3SG AS small exchange place HAB be.
+(Yes. They are used as a smaller exchange-place.)
 morris: "Well, yes, they are used for a sort of subsidiary market,"
 
 lo shia nolika mokathi phelure lokue we ro nai.
@@ -1405,9 +1405,9 @@ BECAUSE 1SG NONE end DAT PROX labor see 1SG DECL.COMP PL person energy DAT PROX 
 (Because I can see no end to the work in that direction, I do think human energy is chiefly suited to it.)
 morris: "and indeed I _do_ think that the energies of mankind are chiefly of use to them for such work; for in that direction I can see no end to the work,"
 
-ne kulo sha whekai wei sheloi phirae riola mia tha norui po nai tho nila sho to haolu.
-NAME kulo QUOT.COMP CONTR DAT MANY different labor 1SG DECL.COMP boundary POT be DECL.COMP.CLOSE see QUOT.COMP.CLOSE PST speak.
-(Guide finished, "But in many other kinds of work I can see a possible limit.")
+whekai wei sheloi phirae riola mia tha norui po nai tho nila.
+CONTR DAT MANY different labor 1SG DECL.COMP boundary POT be DECL.COMP.CLOSE see.
+(But in many other kinds of work I can see a possible limit.)
 morris: "while in many others a limit does seem possible.\""
 ```
 
@@ -1425,7 +1425,8 @@ morris: "while in many others a limit does seem possible.\""
 | Oak, sweet chestnut, plane, sycamore, and bracken | `pilomu` names the sycamore and `phero` the fern. The remaining species keep their exact identities in Morris. |
 | Plaster, arcade, cottages, gipsy fashion, and the named forests | Phi gives another building material, a roof on stone arch-shapes, small homes with an old name, temporary shelters, and two source-named forests. Morris supplies the precise labels. |
 | School, education, Latin *educere*, and the herring and painting senses | Phi refers to the source word, carries each stated meaning, and describes the institution as a teaching system. The English and Latin forms remain in Morris's wording. |
-| French, German, English, Welsh, Irish, Latin, Greek, and Bob | Their identities stay in the source. Phi describes their relations and refers to Bob through the weaver role established earlier. |
+| French, German, English, Welsh, Irish, Latin, and Greek | Their identities stay in the source, and Phi describes their relations. |
+| Bob | The weaver keeps the onym he was given at the guest house, `ne selomi`, with the exact name in Morris's line. |
 | Boys, girls, lads, men, slaves, fools, knaves, and great-grandfather | Phi uses children, youths, adults, people denied freedom, described conduct, and the three-generation kinship chain. Morris's categories remain visible beside it. |
 | Six, eight, sixteen, seventeen, four, fifteen, twenty, fifty, and more than one hundred years | Every count used in the argument appears directly in Phi ternary numerals. None is replaced with a vague duration. |
 | Westminster Abbey, the Houses of Parliament, and St Paul's | Morris keeps the names. Phi describes the building forms, former authority, present functions, preservation, and public use. |

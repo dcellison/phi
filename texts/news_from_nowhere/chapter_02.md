@@ -1168,9 +1168,9 @@ shia wei mia ru phena welao philo to haolu. shia wei miso melu to siora haolu.
 (He gave me good-day very civilly, and greeted his friend joyously--)
 morris: "He gave me good-day very civilly, and greeting his friend joyously, said:"
 
-kona luphonu miona. mua ha kelua hina nai.
-VOC boat person. LOC PROX morning what be.
-("Well, waterman, what is it this morning?")
+kona ne kulo. mua ha kelua hina nai.
+VOC NAME kulo. LOC PROX morning what be.
+("Well, Guide, what is it this morning?")
 morris: "\"Well, Dick, what is it this morning?"
 
 wa mia mia riola sola thia riola so pilu.
@@ -1183,9 +1183,9 @@ mia mua luera shero tha lila lo mia lo shalu kawepa lo mia wea luphore thorui we
 (I dreamed last night that we went towards the river's beginning in order to catch fish.)
 morris: "I dreamed last night that we were off up the river fishing.\""
 
-shia sha lia. kona selomi miona. thia muo mia riola so lepa. sho to haolu.
-3SG QUOT.COMP yes. VOC weave person. 2SG INTO 1SG labor FUT fall. QUOT.COMP.CLOSE PST speak.
-("All right, weaver," said my sculler. "You will drop into my place.")
+shia sha lia. kona ne selomi. thia muo mia riola so lepa. sho to haolu.
+3SG QUOT.COMP yes. VOC NAME selomi. 2SG INTO 1SG labor FUT fall. QUOT.COMP.CLOSE PST speak.
+("All right, Weaver," said my sculler. "You will drop into my place.")
 morris: "\"All right, Bob,\" said my sculler; \"you will drop into my place,"
 
 lu ha riola thia pushali. phirae miona we riola si sheraki. shia pai thia menui.
@@ -1218,9 +1218,9 @@ CONTR 3SG TOWARD 1SG PST turn. 3SG INS kind voice PST speak.
 (But turning to me, he said in a friendly voice--)
 morris: "but turning to me, said in a friendly voice:"
 
-kona phewani. thia nela melu luphonu miona soleha phelu. lo thia mua ha philo welao thimu so phelu. mia we so phelu.
-VOC neighbor. 2SG COORD friend boat person luck hold. PL 2SG LOC PROX day good time FUT hold. 1SG ALSO FUT hold.
-("Neighbour, both you and my waterman friend are lucky and will have a good time today, as indeed I shall too.")
+kona phewani. thia nela melu ne kulo soleha phelu. lo thia mua ha philo welao thimu so phelu. mia we so phelu.
+VOC neighbor. 2SG COORD friend NAME kulo luck hold. PL 2SG LOC PROX day good time FUT hold. 1SG ALSO FUT hold.
+("Neighbour, both you and friend Guide are lucky and will have a good time today, as indeed I shall too.")
 morris: "\"Neighbour, both you and friend Dick are lucky, and will have a good time to-day, as indeed I shall too."
 
 no lo thia nosa nua mia muo womu wepu. no soli nuora pilu. teo. lo thia mua siora nurome po sahu.
@@ -1249,7 +1249,7 @@ PL 1SG one three-group HUM.CLF TOWARD guest home door PST turn.
 morris: "And we all three turned toward the door of the Guest House."
 ```
 
-**Notes:** Morris's personal names stay exact in his lines. The Phi addresses Dick by his present relation, `luphonu miona`, waterman, and Bob as `selomi miona`, weaver; George Brightling is simply the other person looking for work. No adaptation is assigned on their behalf. `phui` is a flute and would be wrong for the bugle. Phi describes the instrument as `thiku shioli howeli haoni keli`, a small silver wind-voice device, while Morris's line supplies its precise identity. `whesu` blows two or three `theisa` and `nirelo` notes, loud and pleasant; Morris keeps the sharper auditory description. Work that exceeds the weaver's present capacity can `pushali`, overload, him, and Dick wants to `kulo`, guide, the stranger. The newcomer's hands `rohi`, rub, one another; wiping would require material to be cleared. `teo` warns against forgetting the meal without building a negative command. The closing `pa ma theomi` begins to withdraw trust from the narrator's own story just before the three people turn towards the guest-house door.
+**Notes:** Morris's personal names stay exact in his lines, and the people who recur also have a Phi onym: Dick is `ne kulo`, the weaver `ne selomi`. George Brightling passes through once and stays the other person looking for work. A name announced by `ne` designates its bearer and gains no dictionary meaning from doing so, which is why `kulo` still means guide everywhere else in the chapter. `phui` is a flute and would be wrong for the bugle. Phi describes the instrument as `thiku shioli howeli haoni keli`, a small silver wind-voice device, while Morris's line supplies its precise identity. `whesu` blows two or three `theisa` and `nirelo` notes, loud and pleasant; Morris keeps the sharper auditory description. Work that exceeds the weaver's present capacity can `pushali`, overload, him, and Dick wants to `kulo`, guide, the stranger. The newcomer's hands `rohi`, rub, one another; wiping would require material to be cleared. `teo` warns against forgetting the meal without building a negative command. The closing `pa ma theomi` begins to withdraw trust from the narrator's own story just before the three people turn towards the guest-house door.
 
 ---
 
