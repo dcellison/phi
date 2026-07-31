@@ -10,6 +10,7 @@
         "file": "chapter_01.md",
         "number": 1,
         "title": "Discussion and Bed",
+        "method": "Translation",
         "summary": "A political meeting dissolves into bad temper before the traveller takes the railway home. Along the Thames, a winter walk and a restless night bring him to the edge of Morris's changed England.",
         "movements": [
           {
@@ -41,14 +42,14 @@
             "title": "The report continues"
           }
         ],
-        "apparatus": "What the transmutation changed",
+        "apparatus": "Translation limits",
         "opening_paragraphs": 2,
         "interlinear_blocks": 7,
-        "interlinear_stanzas": 83,
+        "interlinear_stanzas": 79,
         "notes": 7,
         "tables": 1,
         "ledger_rows": [
-          11
+          6
         ],
         "inner_dividers": 1
       },
@@ -56,6 +57,7 @@
         "file": "chapter_02.md",
         "number": 2,
         "title": "A Morning Bath",
+        "method": "Transmutation",
         "summary": "Summer arrives overnight, and the Thames is suddenly fit for a swim. The traveller meets a waterman there; a handful of old coins soon reveals that ordinary exchange no longer follows the rules he knows.",
         "movements": [
           {
@@ -112,6 +114,7 @@
         "file": "chapter_03.md",
         "number": 3,
         "title": "The Guest House and Breakfast Therein",
+        "method": "Transmutation",
         "summary": "Breakfast at a guest house brings the new society down to table height. Talk wanders through old forests and handwork until a golden dustman arrives in time for the carriage.",
         "movements": [
           {
@@ -176,6 +179,7 @@
         "file": "chapter_04.md",
         "number": 4,
         "title": "A Market by the Way",
+        "method": "Transmutation",
         "summary": "The road through Hammersmith opens into a market without prices, where Dick's theatre doors and an old pun about poverty leave the traveller impressed, distracted, and thoroughly misunderstood.",
         "movements": [
           {
@@ -216,6 +220,7 @@
         "file": "chapter_05.md",
         "number": 5,
         "title": "Children on the Road",
+        "method": "Transmutation",
         "summary": "Children camp in Kensington wood, where a stray question about school opens into practical skill, books, languages, and chosen study. Westminster follows, along with Dick's cheerful defence of storing manure in Parliament.",
         "movements": [
           {
@@ -260,6 +265,7 @@
         "file": "chapter_06.md",
         "number": 6,
         "title": "A Little Shopping",
+        "method": "Transmutation",
         "summary": "Piccadilly looks reassuringly like a shopping street until the traveller tries to shop. Children answer his questions about money, weight, and payment with gifts; an elder then revives a sharp old satire about idleness, coerced work, and the people once judged unfit for it.",
         "movements": [
           {
