@@ -923,9 +923,9 @@ mia pha ha welao nai pho ma sano.
 (I do not know whether that is good.)
 morris: "if that be good;"
 
-sheno soli miona phea whu mia roa ra ki hea melu ne selomi nai.
-ADD SOME person AS REL 1SG AROUND DIST PFV hear friend NAME selomi be.
-(And some people are like my friend Weaver yonder, of whom you have heard.)
+sheno soli miona phea whu thia roa to hea ra melu ne selomi nai.
+ADD SOME person AS REL 2SG AROUND PST hear DIST friend NAME selomi be.
+(And some people are like friend Weaver yonder, about whom you heard.)
 morris: "and some, as you heard about friend Bob yonder,"
 
 lo shia wei tawi remo sheloi thimu ro loa.
