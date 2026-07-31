@@ -226,7 +226,7 @@
         "file": "chapter_05.md",
         "number": 5,
         "title": "Children on the Road",
-        "method": "Transmutation",
+        "method": "Translation",
         "summary": "Children camp in Kensington wood, where a stray question about school opens into practical skill, books, languages, and chosen study. Westminster follows, along with Dick's cheerful defence of storing manure in Parliament.",
         "movements": [
           {
@@ -258,13 +258,15 @@
             "title": "lo tholua womu — The old buildings"
           }
         ],
-        "apparatus": "What the transmutation changed",
+        "apparatus": "Translation limits",
         "opening_paragraphs": 2,
         "interlinear_blocks": 7,
-        "interlinear_stanzas": 291,
+        "interlinear_stanzas": 273,
         "notes": 7,
-        "tables": 0,
-        "ledger_rows": [],
+        "tables": 1,
+        "ledger_rows": [
+          8
+        ],
         "inner_dividers": 1
       },
       {
