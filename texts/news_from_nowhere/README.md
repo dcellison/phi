@@ -1,6 +1,6 @@
 # *News from Nowhere*
 
-William Morris's novel belongs here as one work. The book has 32 chapters; the first six are transmuted below, and later chapters will join the same sequence. The complete [source witness](source.txt) sits beside them so every chapter can cite one shared text.
+William Morris's novel belongs here as one work. The book has 32 chapters. Chapter 1 is translated below; chapters 2 through 6 retain their present source recastings until each receives the same translation work. Later chapters will join the sequence. The complete [source witness](source.txt) sits beside them so every chapter can cite one shared text.
 
 ## Chapters
 

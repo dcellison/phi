@@ -3924,6 +3924,7 @@ def load_news_editorial():
         "file",
         "number",
         "title",
+        "method",
         "summary",
         "movements",
         "apparatus",
@@ -3957,6 +3958,7 @@ def load_news_editorial():
             or filename != f"chapter_{expected_number:02d}.md"
             or not isinstance(chapter["title"], str)
             or not chapter["title"].strip()
+            or chapter["method"] not in {"Translation", "Transmutation"}
             or not isinstance(chapter["summary"], str)
             or not chapter["summary"].strip()
             or not isinstance(movements, list)
@@ -5329,7 +5331,7 @@ def apply_news_chapter_editorial(body, source, chapter, book):
 <header class="news-chapter-header">
   <div class="news-chapter-meta">
     <p class="news-book-kicker"><a href="index.html">{html_module.escape(book["english_title"])}</a></p>
-    <p class="news-chapter-position"><span>Transmutation</span><span>Chapter {chapter["number"]:02d} of {book["total_chapters"]:02d}</span></p>
+    <p class="news-chapter-position"><span>{html_module.escape(chapter["method"])}</span><span>Chapter {chapter["number"]:02d} of {book["total_chapters"]:02d}</span></p>
   </div>
   <div class="news-chapter-title-row">
     <div class="news-chapter-title-copy">
@@ -5557,7 +5559,7 @@ def news_book_index(readme_source, book):
         '<header class="news-book-header">'
         '<div class="news-book-meta">'
         '<p class="text-shelf-label">Phi texts</p>'
-        '<p class="news-book-method">Transmutation</p>'
+        '<p class="news-book-method">Work in progress</p>'
         "</div>"
         '<div class="news-book-title-row">'
         '<div class="news-book-title-copy">'
@@ -5586,7 +5588,7 @@ def news_book_index(readme_source, book):
         '<section class="news-book-catalogue" '
         'aria-labelledby="news-book-catalogue-heading">'
         '<header class="news-book-section-heading">'
-        '<p class="news-book-section-label">Current transmutation</p>'
+        '<p class="news-book-section-label">Reading sequence</p>'
         '<h2 id="news-book-catalogue-heading">Chapters available</h2>'
         "</header>"
         f'<ol class="news-book-chapter-list">{"".join(chapter_rows)}</ol>'

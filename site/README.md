@@ -37,7 +37,7 @@ Several of these checks reach outside this directory, which is what makes the fa
 | `primer_editorial.json` | `primer/README.md` | part labels, every story title, and the number of ladder tables |
 | `manual_editorial.json` | `manual/outline.md` | part titles, chapter titles, and chapter numbers running from 1 without gaps |
 | `texts_editorial.json` | `texts/catalogue.json` | the work's title, and a `form` compatible with its catalogued method |
-| `news_from_nowhere_editorial.json` | `texts/catalogue.json` and `texts/news_from_nowhere/` | title, method, and the exact sequence of chapter filenames |
+| `news_from_nowhere_editorial.json` | `texts/catalogue.json` and `texts/news_from_nowhere/` | book title, each chapter's method, and the exact sequence of chapter filenames |
 | `pamphlet_editorial.json` | `pamphlets/catalogue.json` | every complete pamphlet names a catalogued directory |
 
 So renaming a primer story or reordering a manual part is never a one-file edit. The contents page, the config, and the source all move together or the build says so.
