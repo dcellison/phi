@@ -321,7 +321,7 @@
       "variant": "standard"
     },
     "manual/part4_grammar/ch11_nouns/09_the_words_of_the_body.md": {
-      "shape": "h1,2,2,2,2,2,2;t2x16,2x17,2x11,2x9,2x5,3x2,3x5;f3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2;t2x16,2x17,2x11,2x7,2x5,3x2,3x5;f3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch11_nouns/10_the_words_of_the_heart.md": {
@@ -606,7 +606,7 @@
       "variant": "module_guide"
     },
     "manual/part7_reference/modules/ecological_systems_and_material_life.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x8,4x30,3x17;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x9,4x30,3x17;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "module_guide"
     },
     "manual/part7_reference/modules/household_and_daily_life.md": {
@@ -614,7 +614,7 @@
       "variant": "module_guide"
     },
     "manual/part7_reference/modules/medical_and_bodily_care.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x3,4x30,3x13;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x3,4x30,3x13;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "module_guide"
     },
     "manual/part7_reference/modules/philosophical_reasoning.md": {

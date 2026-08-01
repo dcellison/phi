@@ -125,7 +125,7 @@
 
 ## Ecological Systems and Material Life
 
-*56 words in this learning path.*
+*57 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -142,6 +142,7 @@
 | `liloni` | population | noun |
 | `litero` | ecosystem | noun |
 | `liweso` | ecological community | noun |
+| `lomathu` | manure | noun |
 | `luphano` | watershed | noun |
 | `lurepa` | nutrient | noun |
 | `luseri` | provenance | noun |
@@ -239,7 +240,7 @@
 
 ## Medical and Bodily Care
 
-*52 words in this learning path.*
+*54 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -257,6 +258,7 @@
 | `lurepa` | nutrient | noun |
 | `mikasu` | dose | noun |
 | `mokanu` | disease | noun |
+| `mokathi` | faeces | noun |
 | `morashi` | relapse | verb |
 | `mothami` | baseline | noun |
 | `murethi` | impairment | noun |
@@ -287,6 +289,7 @@
 | `thekamu` | intervene | verb |
 | `thelai` | balm | noun |
 | `thephaku` | inflammation | noun |
+| `tomewu` | urine | noun |
 | `welathi` | contagious | adjective |
 | `wenu` | tonic | noun |
 | `weshaku` | outbreak | noun |

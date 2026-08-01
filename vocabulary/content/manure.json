@@ -1,0 +1,35 @@
+{
+  "word": "lomathu",
+  "gloss": "manure",
+  "ipa": "/lo̞.ˈmä.θu/",
+  "syllables": [
+    "lo",
+    "ma",
+    "thu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "animal dung",
+    "soil amendment"
+  ],
+  "description": "Animal dung collected or kept for use on soil is 'lomathu'. Bedding may be mixed through it, and storage changes its condition before use. 'mokathi' (faeces) names what left a body; 'lomathu' follows that material into land care. Safety and nutrient balance still depend on the material and the place.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and release into middle-height back rounded 'o'. Close the lips for voiced 'm', carry resonance through the nose, and open into stressed central 'a'. Extend the tongue tip slightly between the teeth for unvoiced 'th' and finish with high-back rounded 'u'.",
+  "usage_notes": "Use 'lomathu' for animal dung handled as land material. 'mokathi' remains the direct bodily noun. 'thepalu morume muralo' describes managed decomposing garden material and need not contain dung. State the animal source and the material's condition when either matters.",
+  "examples": [
+    {
+      "phi": "ha lomathu ha kosha panoru.",
+      "translation": "This manure supports this field."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "Manure can return nutrients to soil, yet the same pile can burden nearby water. A loop may look closed on paper; storage and runoff can tell a less tidy story.",
+    "pre-industrial-wisdom": "Farmers and gardeners learned the condition of dung and bedding before either reached a field. Storage and season shaped when the material was ready for use."
+  },
+  "semantic_domains": {
+    "nature": "animal-derived material gathered for use in soil care",
+    "physical": "dung, sometimes mixed with bedding, held as a soil material"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

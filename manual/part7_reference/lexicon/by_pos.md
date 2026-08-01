@@ -317,7 +317,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (579)
+## noun (580)
 
 | Word | Gloss |
 |---|---|
@@ -445,6 +445,7 @@
 | `loesi` | oil |
 | `lohau` | dog |
 | `lokue` | place |
+| `lomathu` | manure |
 | `lomea` | sibling |
 | `lomeki` | fat |
 | `lomura` | liver |

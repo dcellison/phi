@@ -1404,7 +1404,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (248)
+## nature (249)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1458,6 +1458,7 @@
 | `litero` | ecosystem | relations among living beings and the materials, energy, water, and place around them |
 | `liweso` | ecological community | several living populations considered together in ecological relation |
 | `lohau` | dog | the domestic dog across breeds and living arrangements |
+| `lomathu` | manure | animal-derived material gathered for use in soil care |
 | `lorahu` | wolf | a wild canid closely related to the domestic dog |
 | `loremi` | branch | a woody growth extending from a trunk or another branch |
 | `lori` | vital | conditions and relations on which living systems depend |
@@ -1657,7 +1658,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (518)
+## physical (519)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1773,6 +1774,7 @@
 | `loa` | give | passing a material object into another person's use or keeping |
 | `loesi` | oil | a water-repelling substance with characteristic flow and texture |
 | `lomare` | embrace | arms, clothing, or another enclosing form surrounding a body or space |
+| `lomathu` | manure | dung, sometimes mixed with bedding, held as a soil material |
 | `lomeki` | fat | energy-storing and cushioning bodily tissue or separated animal material |
 | `lomura` | liver | a large abdominal organ involved in processing substances in the blood |
 | `lonai` | width | side-to-side extent across an object, opening, path, or body of water |

@@ -18,5 +18,8 @@
   ],
   "semantic_domains": {
     "physical": "liquid bodily waste released through the urinary tract"
-  }
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
 }

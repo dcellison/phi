@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** with 30 module roots coined here, 55 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 module roots coined here, 57 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
 
 ## Charter
 
@@ -75,6 +75,10 @@ The target-prose review migrates every inherited Ecological entry and returns to
 | Environmental parameters | `sumeri` temperature, `wimura` humidity, `keruma` illumination | A neutral thermal condition from hot, warm, cool, or cold judgement; water vapour in air from a wet surface or damp feeling; light received at a place or surface from the brightness or radiance of its source. |
 
 `sumeri` also joins Medical and Systems, `wimura` joins Systems, and `keruma` joins Accessibility and Systems. These memberships give each learning path the parameter it genuinely uses; they do not create a second definition. Exact measurements and instrument records retain their source form.
+
+## Manure in material life
+
+`lomathu` names animal dung collected or kept for the soil. Medical `mokathi` identifies what left a body, while composting describes a managed decomposition process that may involve no dung at all. Calling it manure places it in land care. Safe handling and a useful effect on this soil still have to be established; a tidy cycle cannot be assumed.
 
 ## Concepts Kept Compositional
 
