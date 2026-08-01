@@ -16,7 +16,7 @@ morris: "Up at the League, says a friend, there had been one night a brisk conve
 
 punoa moluki wireo philo hina so po kelu.
 society transform future day what FUT POT become.
-(On the morrow of society's transformation, what might happen?)
+(What might happen on the day after society's transformation?)
 morris: "as to what would happen on the Morrow of the Revolution,"
 
 mua shareo lumae soli phirae melu lo newu seroli punoa wireo remo ru kema to sherewa.
@@ -52,7 +52,7 @@ morris: "for those present being used to public meetings and after-lecture debat
 
 lu lo miona lo wiso remo ma sheluo. whekai lo miona li soli shemu tha nuawe haolu tho to mesatu. mawha miona tha lo miona lo wiso remo so sheluo tho ho po remo.
 COND PL person PL RECP think NEG listen. CONTR PL person RESTR SOME moment DECL.COMP together speak DECL.COMP.CLOSE PST try. NONE person DECL.COMP PL person PL RECP think FUT listen DECL.COMP.CLOSE ASSUM POT think.
-(If they did not listen to each other's opinions, they nevertheless attempted to speak all at once only sometimes. No one could reasonably expect them to listen to one another's opinions.)
+(If they did not listen to one another's thoughts, they nevertheless tried to speak all at once only some of the time. No one could reasonably expect them to listen to one another's thoughts.)
 morris: "if they did not listen to each others' opinions (which could scarcely be expected of them), at all events did not always attempt to speak all together,"
 
 lu lo miona lo whu lo shia kaeli thena shareo. mua nawea punoa tha theula miona nuawe haolu tho keno nai.
@@ -62,7 +62,7 @@ morris: "as is the custom of people in ordinary polite society when conversing o
 
 sheno wi shao himo miona mua lona to nai.
 ADD two three-group HUM.CLF person LOC meeting PST be.
-(For the rest, six people were present at the meeting.)
+(Also, six people were at the meeting.)
 morris: "For the rest, there were six persons present,"
 
 thelao theli miona lue shalimo phirae phanoi to shua.
@@ -72,27 +72,27 @@ morris: "and consequently six sections of the party were represented,"
 
 mua ta shao ta shalimo phanoi lo karami whakeru remo ru kema nela wiso phirae to nai.
 LOC one three-group one alliance portion PL authority object think INTS strong COORD RECP different PST be.
-(In four sections of the alliance, the authority-objecting views were strong and differed from one another.)
+(In four sections of the alliance, the views that objected to authority were strong and differed from one another.)
 morris: "four of which had strong but divergent Anarchist opinions."
 
 whu melu ru sano lue ta shalimo phanoi miona mua shareo thorui pai maeli to ti meilo.
 REL friend INTS know ABL one alliance portion person LOC discuss beginning NEAR quiet PST REP sit.
-(The friend reports that a man from one section of the alliance, whom he knows very well, sat almost silent at the discussion's beginning.)
+(The friend reports that a person from one section of the alliance, whom they know very well, sat almost silent at the discussion's beginning.)
 morris: "One of the sections, says our friend, a man whom he knows very well indeed, sat almost silent at the beginning of the discussion,"
 
 whekai shia pheo laeno shemu muo shareo to se natu.
 CONTR 3SG POST long moment INTO discuss PST PASS pull.
-(However, after a long while he was drawn into the discussion.)
+(However, after a long while they were drawn into the discussion.)
 morris: "but at last got drawn into it,"
 
 shia mua shareo lumae to ru theisa kapura.
 3SG LOC discuss end PST INTS loud shout.
-(At the discussion's end, he let out a forceful shout at great volume.)
+(At the discussion's end, they shouted very loudly.)
 morris: "and finished by roaring out very loud,"
 
 shia roe thiku nila tha theula phirae miona tawimo nai tho to ru keloa haolu.
 3SG INS small see DECL.COMP UNIV different person foolish be DECL.COMP.CLOSE PST INTS rough speak.
-(With contempt, he spoke very harshly, saying that all the others were foolish.)
+(Contemptuously and very harshly, they said that all the others were foolish.)
 morris: "and damning all the rest for fools;"
 ```
 
@@ -121,72 +121,72 @@ morris: "and then a lull,"
 
 shia sui maeli wei lo melu sha pao sho to ru noeli haolu.
 3SG DUR quiet DAT PL friend QUOT.COMP goodbye QUOT.COMP.CLOSE PST INTS warm speak.
-(During the lull, he said goodbye to the friends very warmly.)
+(During the lull, they said goodbye to the friends very warmly.)
 morris: "during which the aforesaid section, having said good-night very amicably,"
 
 shia kau whu mua whalo silawo sileta lumae phanoi nai womu to sonu wepu.
 3SG ALL REL LOC large village sun end portion be home PST alone go.
-(He went alone to his home in the western part of the great town.)
+(They went alone to their home in the western part of the great town.)
 morris: "took his way home by himself to a western suburb,"
 
 punoa lo mia to kawhera. thelao lo mia roe nurako to wepu. ha wepu keno to kelu.
 society PL 1SG PST coerce. CONS PL 1SG INS railway PST go. PROX go custom PST become.
-(Society coerced us. Consequently, we travelled by railway. This travel became customary.)
+(Society coerced us. Consequently, we travelled by railway, and the journey became a habit.)
 morris: "using the means of travelling which civilisation has forced upon us like a habit."
 
 shia mua whu phou muila wepu nurako rolutha to meilo. rolutha phea sulae heshowa sawa lokue to nai. sheloi whu reshi wepu miona nela whu nuloe ma nai miona thoa shia to nai.
 3SG LOC REL BELOW earth go railway wagon PST sit. wagon AS warm gas wash place PST be. MANY REL fast go person COORD REL content NEG be person AMONG 3SG PST be.
-(He sat in a railway carriage that travelled below the earth. The carriage was like a warm vapour-bathing place. He was among many hurried and discontented people.)
+(They sat in a railway carriage that travelled below the earth. The carriage was like a place for bathing in warm vapour. They were among many hurried and discontented people.)
 morris: "As he sat in that vapour-bath of hurried and discontented humanity, a carriage of the underground railway,"
 
 shia phea lo phirae miona sukaro to nai. shia phea lo phirae miona nuloe to ma nai.
 3SG AS PL different person hot PST be. 3SG AS PL different person content PST NEG be.
-(Like the other people, he was hot. Like them, he was discontented.)
+(Like the other people, they were hot. Like them, they were discontented.)
 morris: "he, like others, stewed discontentedly,"
 
 whau shia nupira to phaelo shia sheloi ru welao nela kithela themore ki themio. shai lo themore mua shia thumai lo lumae to ruemi shia mua noshi shareo lo shia to ki sahu.
 SIMUL 3SG shame PST feel 3SG MANY INTS good COORD valid argument PFV reflect. CONC PL argument LOC 3SG finger PL end PST lie down 3SG LOC near discuss PL 3SG PST PFV forget.
-(While he felt shame, he reflected on the many very good and valid arguments. Although the arguments had lain at the ends of his fingers, he had forgotten them in the recent discussion.)
+(While they felt shame, they reflected on the many very good and valid arguments. Although the arguments had been at their fingertips, they had forgotten them in the recent discussion.)
 morris: "while in self-reproachful mood he turned over the many excellent and conclusive arguments which, though they lay at his fingers' ends, he had forgotten in the just past discussion."
 
 whekai ha korua kire wei shia keno to nai. thelao shia mua ha teku thimu li to manolu.
 CONTR PROX heart shape DAT 3SG custom PST be. CONS 3SG LOC PROX short time RESTR PST stay.
-(But this frame of mind was familiar to him. Consequently, he stayed in it only a short time.)
+(But this frame of mind was familiar to them. Consequently, they stayed in it only a short time.)
 morris: "But this frame of mind he was so used to, that it didn't last him long,"
 
 lao shia roa miso kophinu to phaelo shia teku luroi to nai.
 BECAUSE 3SG AROUND REFL disgust PST feel 3SG short nervous PST be.
-(Because he felt disgust with himself, he was briefly uneasy.)
+(Because they felt disgusted with themself, they were briefly uneasy.)
 morris: "and after a brief discomfort, caused by disgust with himself"
 
 korua thero shia to ki pilu. ha wei shia we keno to nai.
 heart fire 3SG PST PFV take. PROX DAT 3SG ALSO custom PST be.
-(Heart-fire had taken him. This too was familiar to him.)
+(Heart-fire had taken hold of them. This too was familiar to them.)
 morris: "for having lost his temper (which he was also well used to),"
 
 shia shareo si themio.
 3SG discuss IPFV reflect.
-(He kept musing on the discussion.)
+(They kept musing on the discussion.)
 morris: "he found himself musing on the subject-matter of discussion,"
 
 whekai shia nuloe to si ma nai. shia mua korua nuhe to si phaelo.
 CONTR 3SG content PST IPFV NEG be. 3SG LOC heart sadness PST IPFV feel.
-(But he was still discontented. He still felt sadness in his heart.)
+(But they were still discontented. They still felt sadness in their heart.)
 morris: "but still discontentedly and unhappily."
 
 shia wei miso sha su mia wireo punoa ta philo li nila. su mia shia li nila sho to haolu.
 3SG DAT REFL QUOT.COMP OPT 1SG future society one day RESTR see. OPT 1SG 3SG RESTR see QUOT.COMP.CLOSE PST speak.
-("If only I could see just one day of the future society. If only I could see it," he said to himself.)
+(They said to themself, "If only I could see just one day of the future society. If only I could see it.")
 morris: "\"If I could but see a day of it,\" he said to himself; \"if I could but see it!\""
 
 sui shia lo phelui norelu nurako rolutha mua shia nurako lokue to te wepu.
 DUR 3SG PL word form railway wagon LOC 3SG railway place PST CESS go.
-(As he formed the words, the railway wagon stopped at his station.)
+(As they formed the words, the railway carriage stopped at their station.)
 morris: "As he formed the words, the train stopped at his station,"
 
 thalo ruela lue nurako lokue kau shia womu teku to nai. shia womu sio luphore la leo whu mioru ma nai whu lo suro panoru repha to nai.
 walk path ABL railway place ALL 3SG home short PST be. 3SG home BESIDE river ATTEN ABOVE REL beautiful NEG be REL PL rope support bridge PST be.
-(The walking path from the station to his home was short. His home stood beside the river, a little above a bridge that was not beautiful and was supported by ropes.)
+(The walk from the station to their home was short. Their home stood beside the river, a little above a bridge that was not beautiful and was supported by ropes.)
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge."
 ```
 
@@ -203,22 +203,22 @@ The wish is the chapter's first direct quotation. First-person `mia` sits inside
 ```
 shia mue nurako lokue to thiru.
 3SG OUT.OF railway place PST exit.
-(He went out of the railway's place.)
+(They left the railway station.)
 morris: "He went out of the station,"
 
 shia nuloe to si ma nai. shia mua korua nuhe to si phaelo.
 3SG content PST IPFV NEG be. 3SG LOC heart sadness PST IPFV feel.
-(He was still discontented. He still felt sadness in his heart.)
+(They were still discontented. They still felt sadness in their heart.)
 morris: "still discontented and unhappy,"
 
 shia sha su mia shia li nila. su mia shia li nila sho to si maeli haolu.
 3SG QUOT.COMP OPT 1SG 3SG RESTR see. OPT 1SG 3SG RESTR see QUOT.COMP.CLOSE PST IPFV quiet speak.
-("If only I could see it. If only I could see it," he kept saying quietly.)
+(They kept saying quietly, "If only I could see it. If only I could see it.")
 morris: "muttering \"If I could but see it! if I could but see it!\""
 
 melu tha phoe shia wea luphore laeno thalo whu nuloe ma nai whoa korua kire lue shia to ke lepa. tumoa lue shia we to ke lepa tho haolu.
 friend DECL.COMP ANT 3SG TOWARD river long walk REL content NEG be whole heart shape ABL 3SG PST INFER fall. heavy ABL 3SG ALSO PST INFER fall DECL.COMP.CLOSE speak.
-(The friend says that, before he had walked far towards the river, his whole discontented state of heart seemed to fall away from him. Heaviness seemed to fall away from him too.)
+(The friend says that, before they had walked far towards the river, their whole discontented frame of mind seemed to fall away. The heaviness seemed to fall away too.)
 morris: "but had not gone many steps towards the river before (says our friend who tells the story) all that discontent and trouble seemed to slip off him."
 
 shila thorui shero mioru to nai.
@@ -228,7 +228,7 @@ morris: "It was a beautiful night of early winter,"
 
 haowu pheo sukaro tholupi nela whu pothu nurako rolutha pe neri to nai. thelao ha newai to nai.
 air POST hot room COORD REL stink railway wagon SUFF cool PST be. CONS PROX fresh PST be.
-(After the hot room and the stinking railway carriage, the air was cool enough. So it was fresh.)
+(After the hot room and the stinking railway carriage, the air was cool enough to feel fresh.)
 morris: "the air just sharp enough to be refreshing after the hot room and the stinking railway carriage."
 
 howeli mua teku luera thimu lue sileta lumae wea nitho to ki la rato.
@@ -248,12 +248,12 @@ morris: "save a light fleck or two which went swiftly down the heavens."
 
 lunei limu mua waero kesho to nai.
 moon young LOC sky middle PST be.
-(A young moon was at the sky's middle.)
+(A young moon was halfway up the sky.)
 morris: "There was a young moon halfway up the sky,"
 
 whau shia kau womu wepu shia lunei ki nila.
 SIMUL 3SG ALL home go 3SG moon PFV see.
-(As he went home, he caught sight of the moon.)
+(As they went home, they caught sight of the moon.)
 morris: "and as the home-farer caught sight of it,"
 
 lunei thoa raelu serao welamu lo loremi phea whu se tiwa thena to nai.
@@ -263,7 +263,7 @@ morris: "tangled in the branches of a tall old elm,"
 
 shia whu shia mua to whano lokue to po ma ru halemu.
 3SG REL 3SG LOC PST stand place PST POT NEG INTS remember.
-(He could hardly call to mind the place he stood in.)
+(They could hardly call to mind where they were standing.)
 morris: "he could scarce bring to his mind"
 
 lokue mua whalo silawo shuna to nai. shia to rohemi nela mioru to ma nai.
@@ -273,7 +273,7 @@ morris: "the shabby London suburb where he was,"
 
 shia tha shia phea whu mua nirelo whu thoa lo kosha nai lokue nai miona nai tho to phaelo. ha lokue sheo whu shia to ki sano wuero kosha lokue mo nirelo to nai.
 3SG DECL.COMP 3SG AS REL LOC pleasant REL AMONG PL field be place be person be DECL.COMP.CLOSE PST feel. PROX place THAN REL 3SG PST PFV know far field place CMPR pleasant PST be.
-(He felt that he was like a person in a pleasant place among fields. This place was more pleasant than the distant countryside he had known.)
+(They felt as if they were in a pleasant place among fields, more pleasant than the distant countryside they had known.)
 morris: "and he felt as if he were in a pleasant country place--pleasanter, indeed, than the deep country was as he had known it."
 ```
 
@@ -288,17 +288,17 @@ As the man goes home, `whau` makes his glimpse of the moon simultaneous with the
 ```
 shia mua luphore kerime ki kamo.
 3SG LOC river shore PFV arrive.
-(He arrived at the river's shore.)
+(They arrived at the riverside.)
 morris: "He came right down to the river-side,"
 
 shia to teku manolu.
 3SG PST short stay.
-(He stayed a little while.)
+(They lingered for a little while.)
 morris: "and lingered a little,"
 
 shia leo mulu moru lunei keru luphore to somela.
 3SG ABOVE low wall moon bright river PST observe.
-(Over the low wall, he observed the moon-bright river.)
+(They looked over the low wall at the moonlit river.)
 morris: "looking over the low wall to note the moonlit river,"
 
 luphore pai raelu lunisa to nai.
@@ -308,37 +308,37 @@ morris: "near upon high water,"
 
 luphore kau mola sorui to rato. shia to keru tiripe.
 river ALL island circle PST turn. 3SG PST bright quiver.
-(The river turned in circles towards the island. It quivered brightly.)
+(The river eddied towards the island and quivered with light.)
 morris: "go swirling and glittering up to Chiswick Eyot:"
 
 shia whu phou shia mioru ma nai whu lo suro panoru repha to ma morae.
 3SG REL BELOW 3SG beautiful NEG be REL PL rope support bridge PST NEG sense.
-(He did not notice the bridge below him, which was not beautiful and was supported by ropes.)
+(They did not notice the bridge below them, which was not beautiful and was supported by ropes.)
 morris: "as for the ugly bridge below, he did not notice it"
 
 shia ra thena to ma remo.
 3SG DIST thing PST NEG think.
-(He did not think of that thing.)
+(They did not think of it.)
 morris: "or think of it,"
 
 whekai shia ta shemu wea luphore lumae luma sima holume to ti phaelo.
 CONTR 3SG one moment TOWARD river end lamp thread loss PST REP feel.
-(But for one moment, so the friend reports, he felt the loss of a line of lamps downstream.)
+(But for one moment, so the friend reports, they felt the absence of a line of lamps downstream.)
 morris: "except when for a moment (says our friend) it struck him that he missed the row of lights down stream."
 
 shia wea womu ponu to rato.
 3SG TOWARD home door PST turn.
-(He turned towards his house door.)
+(They turned towards their house door.)
 morris: "Then he turned to his house door"
 
 shia muo womu miso to ka koema.
 3SG INTO home REFL PST CAUS enter.
-(He let himself into the house.)
+(They let themself into the house.)
 morris: "and let himself in;"
 
 whau shia ponu tapu shia lo ru seloi nela kithela themore nela wireo nila to sahu. ra lo thena noshi shareo to ki ru lilea.
 SIMUL 3SG door close 3SG PL INTS insightful COORD valid argument COORD future see PST forget. DIST PL thing near discuss PST PFV INTS clarify.
-(As he closed the door, he forgot the highly insightful, valid arguments and the foresight. Those things had greatly clarified the recent discussion.)
+(As they closed the door, they forgot the highly insightful, valid arguments and the foresight. Those things had greatly clarified the recent discussion.)
 morris: "and even as he shut the door to, disappeared all remembrance of that brilliant logic and foresight which had so illuminated the recent discussion;"
 
 lue shareo mu thena to manolu.
@@ -358,7 +358,7 @@ morris: "that was now become a pleasure,"
 
 shia whu shea nela therilu phelu philo ki soliru. shia whu hiso nai philo we ki soliru. shia whu seniku phena phelu philo we ki soliru.
 3SG REL peace COORD rest hold day PFV hope. 3SG REL clean be day ALSO PFV hope. 3SG REL smile kind hold day ALSO PFV hope.
-(He hoped for days that held peace and rest. He also hoped for clean days, and for days that held a kindness which smiled.)
+(They hoped for days of peace and rest, for clean days, and for days of smiling kindness.)
 morris: "for days of peace and rest, and cleanness and smiling goodwill."
 ```
 
@@ -373,22 +373,22 @@ The homecoming has three acts: he turns towards his door, lets himself in, and f
 ```
 shia nua ha korua muo nuwera ki lepa.
 3SG COM PROX heart INTO bed PFV fall.
-(With this heart he tumbled into bed.)
+(In this state of heart, they tumbled into bed.)
 morris: "In this mood he tumbled into bed,"
 
 shia phea keno to pa reshi nulae.
 3SG AS custom PST INCH fast sleep.
-(As was his custom, he fell asleep quickly.)
+(As was their custom, they fell asleep quickly.)
 morris: "and fell asleep after his wont, in two minutes' time;"
 
 whekai shia whuo keno pheo teku shemu we to nowae.
 CONTR 3SG WITHOUT custom POST short moment ALSO PST awaken.
-(But, outside his custom, he woke again a short moment later.)
+(But contrary to their custom, they woke again a short while later.)
 morris: "but (contrary to his wont) woke up again not long after"
 
 ha kuewa ru waeli thena soli shemu whu welao nulae miona we wakomi.
 PROX strange INTS conscious thing SOME moment REL good sleep person ALSO surprise.
-(This strange, thoroughly awake condition sometimes surprises even those who sleep well.)
+(This strange state of complete wakefulness sometimes surprises even those who sleep well.)
 morris: "in that curiously wide-awake condition which sometimes surprises even good sleepers;"
 
 lo mia tha lo mia theula remori ru tiso nai tho phaelo.
@@ -398,37 +398,37 @@ morris: "a condition under which we feel all our wits preternaturally sharpened,
 
 theula whu lo mia mua theula luera thimu muo to koema nuhe remo tiwa wea ha ru tiso remori miso na pesa. sheno lo mia lioru nupira nela holume wea ha ru tiso remori miso na pesa.
 UNIV REL PL 1SG LOC UNIV past time INTO PST enter sadness think tie TOWARD PROX INTS sharp reason REFL NEC push. ADD PL 1SG life shame COORD loss TOWARD PROX INTS sharp reason REFL NEC push.
-(All the miserable confusions we have ever entered insist on pushing themselves towards this intensely sharp faculty of reason. The shames and losses of our lives do so as well.)
+(All the miserable tangles we have ever entered push themselves upon this intensely sharp reason. The shames and losses of our lives do so as well.)
 morris: "while all the miserable muddles we have ever got into, all the disgraces and losses of our lives, will insist on thrusting themselves forward for the consideration of those sharpened wits."
 
 shia mua ha thena tei pai kaeli thorui to si ti ruemi.
 3SG LOC PROX thing UNTIL NEAR like beginning PST IPFV REP lie down.
-(In this state, so the friend tells it, he lay on until he had nearly begun to like it.)
+(In this state, so the friend tells it, they lay on until they had nearly begun to like it.)
 morris: "In this state he lay (says our friend) till he had almost begun to enjoy it:"
 
 lo shia tawimo phoa nophi shia monelu ki ka kelu.
 PL 3SG foolish do story 3SG amused PFV CAUS become.
-(The story of his foolish acts made him amused.)
+(The story of their foolish acts amused them.)
 morris: "till the tale of his stupidities amused him,"
 
 shia neo miso whu se tiwa lo sima to ru nuwi nila.
 3SG FRONT REFL REL PASS tie PL thread PST INTS clear see.
-(Before him, he saw the tied threads very clearly.)
+(Before them, they saw the tied threads very clearly.)
 morris: "and the entanglements before him, which he saw so clearly,"
 
 lo sima wei shia muo whu shia monelu ka kelu nophi miso pa selomi.
 PL thread DAT 3SG INTO REL 3SG amused CAUS become story REFL INCH weave.
-(The threads began to weave themselves into a story that amused him.)
+(The threads began to weave themselves into a story that amused them.)
 morris: "began to shape themselves into an amusing story for him."
 
 shia ta teli haoni ki hea. pheo thena shia wi teli haoni ki hea. pheo thena shia ta shao teli haoni ki hea.
 3SG one bell voice PFV hear. POST thing 3SG two bell voice PFV hear. POST thing 3SG one three-group bell voice PFV hear.
-(He heard one voice of the bell, then two, then three.)
+(They heard the bell sound once, then twice, then three times.)
 morris: "He heard one o'clock strike, then two and then three;"
 
 pheo thena shia we to pa nulae.
 POST thing 3SG ALSO PST INCH sleep.
-(After that, he slept again.)
+(After that, they slept again.)
 morris: "after which he fell asleep again."
 ```
 
@@ -443,27 +443,27 @@ The lying awake carries another parenthetical "says our friend," so `ti` returns
 ```
 melu tha shia lue ra nulae we to nowae tho haolu.
 friend DECL.COMP 3SG ABL DIST sleep ALSO PST awaken DECL.COMP.CLOSE speak.
-(The friend says that from that sleep he woke once more.)
+(The friend says that from that sleep they woke once more.)
 morris: "Our friend says that from that sleep he awoke once more,"
 
 pheo thena shia thue whu ru wakomi lo rulami to wepu.
 POST thing 3SG THROUGH REL INTS surprise PL adventure PST go.
-(After that, he went through adventures that truly surprise.)
+(After that, they went through truly surprising adventures.)
 morris: "and afterwards went through such surprising adventures"
 
 shia tha lo thena wei lo mia wemi nela we theula miona se na shane tho remo.
 3SG DECL.COMP PL thing DAT PL 1SG ally COORD ALSO UNIV person PASS NEC tell DECL.COMP.CLOSE think.
-(He thinks they should be told to our allies, and also to everyone.)
+(They think the adventures should be told to our allies and to everyone else.)
 morris: "that he thinks that they should be told to our comrades, and indeed the public in general,"
 
 thelao shia tha shia mua nosa lo thena shane tho repora.
 CONS 3SG DECL.COMP 3SG LOC now PL thing tell DECL.COMP.CLOSE propose.
-(Therefore, he proposes to tell them now.)
+(Therefore, they propose to tell these things now.)
 morris: "and therefore proposes to tell them now."
 
 whekai shia sha lu mia roe mia haoni lo thena shane. mia tha ha mo welao so nai tho remo. mia phea whu lo rulami to ki wepu wemi so haolu. mia ra wemi lo phaelo sheo theula phirae muila miona mo shelomu. mia shia lo rinu sheo theula phirae muila miona mo shelomu. thelao phirae keiro sheo ha keiro wei mia mo kethua so nai. ha keiro wei mia mo woeli so nai sho haolu.
 CONTR 3SG QUOT.COMP COND 1SG INS 1SG voice PL thing tell. 1SG DECL.COMP PROX CMPR good FUT be DECL.COMP.CLOSE think. 1SG AS REL PL adventure PST PFV go ally FUT speak. 1SG DIST ally PL feel THAN UNIV different earth person CMPR understand. 1SG 3SG PL want THAN UNIV different earth person CMPR understand. CONS different way THAN PROX way DAT 1SG CMPR hard FUT be. PROX way DAT 1SG CMPR natural FUT be QUOT.COMP.CLOSE speak.
-("If I tell these things in my own voice, I think that will be better. I will speak as though I were the ally who went through the adventures. I understand that ally's feelings better than every other person in the world. I understand that ally's desires better than every other person too. Therefore, another way would be harder for me than this one. This way would be more natural," he said.)
+(But they said, "If I tell these things in my own voice, I think that will be better. I will speak as though I were the ally who went through the adventures. I understand that ally's feelings better than every other person in the world. I understand that ally's desires better than every other person too. Therefore, another way would be harder for me than this one. This way would be more natural.")
 morris: "But, says he, I think it would be better if I told them in the first person, as if it were myself who had gone through them; which, indeed, will be the easier and more natural to me, since I understand the feelings and desires of the comrade of whom I am telling better than any one else in the world does."
 ```
 
