@@ -19,8 +19,8 @@ PURP PL person INTO PL home go PL thing FRONT PL careful shape window PST PASS p
 (Things had been placed before the carefully shaped windows to draw people into the houses. People stood and looked or went inside. Then they came out carrying tied parcels under their arms. It looked like the old exchange custom.)
 morris: "Wares were displayed in their finely designed fronts, as if to tempt people in, and people stood and looked at them, or went in and came out with parcels under their arms, just like the real thing."
 
-lila lo whu roe lo paloi wepu miona se shorupo phiro loriphi toru leo thalo ruela mua theli ruela phanoi to wepu. shia phea lo whu mua tholua wuero lokue to se lorima thena to nai.
-PURP PL REL INS PL foot go person PASS protect elegant rainbow roof ABOVE walk path LOC EACH path portion PST go. 3SG AS PL REL LOC ancient far place PST PASS build thing PST be.
+lila lo whu roe lo paloi wepu miona se shorupo phiro toreku toru leo thalo ruela mua theli ruela phanoi to wepu. shia phea lo whu mua tholua wuero lokue to se lorima thena to nai.
+PURP PL REL INS PL foot go person PASS protect elegant arch roof ABOVE walk path LOC EACH path portion PST go. 3SG AS PL REL LOC ancient far place PST PASS build thing PST be.
 (To protect people travelling on foot, an elegant roof of arches ran above the walking path on each side. It resembled structures built in distant old places.)
 morris: "On each side of the street ran an elegant arcade to protect foot-passengers, as in some of the old Italian cities."
 

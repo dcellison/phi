@@ -49,6 +49,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Metta Sutta close-translation repair | **DONE** | Four roots separate integrity from honesty, virtue from one good act, pleasure from joy, and craving from neutral desire. Transparent clauses now preserve conscientiousness, non-arrogance, reproof, inclusive beings, transverse direction, obstruction, and the full span of wakefulness. |
 | Gibran's On Work fidelity repair | **DONE** | The 32-unit citation stream remains complete. The translation repairs modifier scope, source intensity, causation, comparison, and derived English without adding a root. |
 | Gibran's On Love fidelity repair | **DONE** | The complete 35-unit source stream remains exact. Nineteen units change; base `ratenu` and `salenu` replace two material workarounds, while direct current vocabulary repairs loudness, sufficiency, desire, waking, midday, lips, portion, and deservingness. |
+| Architectural arch repair | **DONE** | Work `toreku` replaces the recurring rainbow comparison in five *News from Nowhere* chapters. Arcade and cloister remain arrangements of arches, roof, path, and surrounding building rather than second names for the span. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -159,6 +160,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Medical and Bodily Care module prose | D050 | **COVERED** | Thirty-one inherited roots now carry precise target prose. Personal reports, examined findings, intervention, illness course, public health, consent, and exact clinical sources remain distinct; sensitive areas and sudden loss of consciousness or control retain scenario gates. |
 | Accessibility and Participation module prose | D051 | **COVERED** | Ten inherited roots now carry precise target prose. Access, accommodation, barriers, communication forms, timing, and wayfinding keep agency and conditions visible, while exact identities and standards retain their sources and built-environment features keep a connected return point. |
 | Work, Craft, and Repair module prose | D052 | **COVERED** | Sixteen inherited roots now carry precise target prose. Work structure, practical capacity, evaluation, material flow, labour conditions, and repair relations remain distinct, while craft knowledge and exact legal, economic, credential, and technical identities keep their sources. |
+| Architectural arch repair | D099 | **COVERED** | Work `toreku` names the built span directly. Material remains an ordinary modifier, and an arcade or cloister keeps its larger arrangement visible through quantity, roof, path, and building relations. |
 
 ## Semantic batches and stable domains
 
@@ -230,6 +232,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Medical and Bodily Care module prose | `activity`, `cognition`, `community`, `nature`, `physical`, `temporal` | A person's report, an examined finding, a bodily process, a course through time, a care act, and an institutional source remain separate claims. |
 | Accessibility and Participation module prose | `activity`, `cognition`, `communication`, `community`, `creation`, `physical`, `spatial`, `temporal` | Access, sensory information, communication form, practical use, participation, environmental condition, and timing remain distinct even when one barrier joins several of them. |
 | Work, Craft, and Repair module prose | `activity`, `aesthetic`, `cognition`, `communication`, `community`, `creation`, `physical`, `spatial`, `temporal` | A practical act, made object, work relation, learned capacity, evaluation, material condition, place, and change through time remain separate routes through one undertaking. |
+| Architectural arch repair | `creation`, `spatial` | The made span and the opening it crosses are both retrieval routes; a rainbow comparison belongs to appearance rather than structural identity. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -1852,6 +1855,20 @@ The translation carries the whole 35-unit source sequence. Its citation stream r
 
 The batch adds two base roots and no module membership, registered compound, function word, or grammar. It also makes the event/result reading of `phanoi` explicit in that entry's usage notes. `ratenu` and `salenu` pass the lexical ceiling, character and phonetic collision checks, retired-form search, and English-homonym review.
 
+## Architectural arch repair
+
+Five *News from Nowhere* chapters used `loriphi` (rainbow) for bridge supports, openings, arcades, and covered walks. The comparison caught the visible curve, but the surrounding source and architecture had to supply the structural meaning. A direct Work noun now lets the Phi carry that distinction itself.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Built span over an opening | new Work `toreku` and `CV-BUILD-02` | **IMPLEMENTED** | The noun covers curved and pointed arches that carry their own weight towards side supports, including arches used chiefly to give an opening its form. `kelo` remains the broader frame or supporting structure. |
+| Material | noun modifier before `toreku` | **COVERED** | `kerou toreku` names a stone arch. Brick, wood, metal, and other material descriptions use the same ordinary modifier-first pattern. |
+| Rainbow comparison | `loriphi` with an explicit comparison | **COVERED** | A speaker may compare an arch with a rainbow when its appearance invites the image. The metaphor no longer has to identify the structure. |
+| Arcade and cloister | `lo toreku`, roof, path, and building relations under `CV-BUILD-03` | **COMPOSITIONAL** | These are arrangements around a series of arches rather than additional kinds of arch. Morris keeps the exact historical labels while Phi states the visible construction and passage. |
+| Active corpus migration | chapters 2 through 6 of *News from Nowhere* | **IMPLEMENTED** | Eight architectural uses now say `toreku` directly. Actual optical rainbows keep `loriphi`, and every Morris citation remains unchanged. |
+
+The batch adds one optional Work root and no registered compound, base-vocabulary move, function word, or grammar. `toreku` clears the lexical ceiling, hard character-distance gate, advisory phonetic-neighbour scan, retired-form search, and English-homonym review.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1943,4 +1960,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 69 implemented decisions and 128 compositional decisions. It also preserves 31 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,299 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, and the stricter new-selection sweep is current through all four Gibran selections. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Choose the next source-led fidelity task deliberately. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 70 implemented decisions and 129 compositional decisions. It also preserves 31 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,300 lexicon entries follow the target prose contract. Sixteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, and the stricter new-selection sweep is current through all four Gibran selections. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Choose the next source-led fidelity task deliberately. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

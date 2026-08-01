@@ -633,6 +633,18 @@ D096 rereads every source, Phi, exact gloss, and derived-English unit after the 
 | Grammar and source integrity | Regenerate all 120 glosses from the lexicon, validate every sentence, and reconstruct the full 14,771-character source body | A clean parse and exact gloss are necessary; the second reading checks the proposition each valid structure actually carries. |
 | Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The fidelity repairs use existing vocabulary, source boundaries, and transparent composition. |
 
+## Cross-chapter architectural arch repair
+
+D099 reviews the architectural use of `loriphi` across *News from Nowhere* chapters 2 through 6. Eight Phi tokens used the optical rainbow as the only name for bridge supports, openings, arcades, and covered walks. Context made the intended form recoverable, but the Phi itself carried resemblance rather than construction.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Dedicated arch noun | Add Work `toreku` | The noun identifies a curved or pointed built span that carries its own weight towards supports on either side. `kelo` remains the broader frame, and material remains a modifier. |
+| Rainbow metaphor | Return `loriphi` to optical rainbows and explicit comparison | A stone rainbow remains available as an image, but it no longer has to name an architectural structure. |
+| Arcade and cloister | Keep the larger arrangement compositional | Arches, quantity, roof, path, wall, and surrounding building state the visible relations. Morris's exact historical labels remain adjacent. |
+| Corpus migration | Replace all eight architectural tokens in chapters 2 through 6 | Phi, exact glosses, notes, and limit tables now agree. The derived English already named arches where Phi's context licensed that ordinary reading. |
+| Source integrity | Preserve every Morris citation and unit boundary | All six chapter reconstructions retain their exact character counts and order. No grammar or registered compound changes. |
+
 ## Contextual review: the drafted Phi book
 
 The drafted book comprises its cold open, chapters 1 through 7, and chapter 11. Eighteen fenced Phi examples appear across six of those files, with inline forms carrying the language through the others. Sixteen blocks remain exact, including the three Babel passages quoted in chapter 7. Two in the cold open change: service receives its direct word, and Dick's full answer now carries the tide into the Phi quotation.
@@ -752,10 +764,10 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/ring_verse_refusal.md` | Refusal | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
 | `texts/velveteen_rabbit.md` | Translation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas and reconstruct the stored story in order. D083 rereads all 427 units after the translation conversion, changes eleven stanzas, and confirms the matching continuous reading without adding vocabulary. |
 | `texts/news_from_nowhere/chapter_01.md` | Book in progress | Reviewed | D086 checks every source, Phi, gloss, and derived-English unit; 77 citations reconstruct all 5,214 source characters, and 34 of D085's original units change without adding vocabulary or grammar. |
-| `texts/news_from_nowhere/chapter_02.md` | Book in progress | Reviewed | D087 translates all 235 source units, and D088 rereads each source, Phi, gloss, and derived-English unit. Nineteen first-pass units change; all 16,061 normalized source characters reconstruct exactly. |
-| `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | D089 translates all 233 source units, and D090 rereads each source, Phi, gloss, and derived-English unit. Twenty-four first-pass units change; all 19,028 normalized source characters reconstruct exactly. |
-| `texts/news_from_nowhere/chapter_04.md` | Book in progress | Reviewed | D091 translates all 116 source units, and D092 rereads each source, Phi, gloss, and derived-English unit. Twenty-six first-pass units change; all 6,237 normalized source characters reconstruct exactly. |
-| `texts/news_from_nowhere/chapter_05.md` | Book in progress | Reviewed | D093 translates 277 first-pass units, and D094 consolidates the final source partition to 273 while rereading every source, Phi, gloss, and derived-English unit. Thirty-one first-pass units change; all 13,932 normalized source characters reconstruct exactly. |
-| `texts/news_from_nowhere/chapter_06.md` | Book in progress | Reviewed | D095 translates all 120 source units, and D096 rereads each source, Phi, gloss, and derived-English unit. Twenty first-pass units change; all 14,771 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_02.md` | Book in progress | Reviewed | D087 translates all 235 source units, and D088 rereads each source, Phi, gloss, and derived-English unit. D099 gives the bridge its direct arch noun. All 16,061 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | D089 translates all 233 source units, and D090 rereads each source, Phi, gloss, and derived-English unit. D099 gives the hall its direct arch noun. All 19,028 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_04.md` | Book in progress | Reviewed | D091 translates all 116 source units, and D092 rereads each source, Phi, gloss, and derived-English unit. D099 gives the covered path its direct arch noun. All 6,237 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_05.md` | Book in progress | Reviewed | D093 translates 277 first-pass units, and D094 consolidates the final source partition to 273 while rereading every source, Phi, gloss, and derived-English unit. D099 gives the arcade its direct arch noun. All 13,932 normalized source characters reconstruct exactly. |
+| `texts/news_from_nowhere/chapter_06.md` | Book in progress | Reviewed | D095 translates all 120 source units, and D096 rereads each source, Phi, gloss, and derived-English unit. D099 gives the Piccadilly arcade its direct arch noun. All 14,771 normalized source characters reconstruct exactly. |
 
 Every current translation, refusal, original, and reviewed Morris chapter has received the review appropriate to its declared relationship with its source. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.

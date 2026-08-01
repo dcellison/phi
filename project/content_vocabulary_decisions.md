@@ -99,6 +99,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Gibran's On Giving fidelity repair](#gibran-s-on-giving-fidelity-repair) | complete | closed | 3 |
 | [Gibran's On Work fidelity repair](#gibran-s-on-work-fidelity-repair) | complete | closed | 3 |
 | [Gibran's On Love fidelity repair](#gibran-s-on-love-fidelity-repair) | complete | closed | 9 |
+| [Architectural arch repair](#architectural-arch-repair) | complete | closed | 2 |
 
 ## Core material qualities
 
@@ -939,6 +940,13 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-VALUE-03` | deservingness or desert as a judgement connecting an outcome to a person under stated grounds | Implemented | Philosophical Reasoning; Commons and Collective Governance | See the complete decision under [Gibran's On Giving fidelity repair](#gibran-s-on-giving-fidelity-repair). |
 | `CV-GRAIN-01` | threshing, sifting, husks, and related small-scale grain-cleaning operations | Compositional | base material actions beside Ecological, Household, and Work vocabulary | `kema palo`, `tawemi`, `leiro`, `mera`, `thue`, `ka roke`. Forceful contact can be paired with release of a covering, while movement through a net states sifting and the following separation. These clauses keep action and result visible in Gibran's grain-floor sequence. A named agricultural technique or grain product can retain its source identity when that exact practice matters. |
 | `CV-DEVOTION-01` | prayer and praise across distinct devotional, grateful, petitionary, and appreciative practices | Compositional | base speech, blessing, appreciation, song, and ritual vocabulary beside exact source traditions | `thorai`, `woraka`, `whaline`, `keluro`, `pharuki`, `melira`, `haolu`, `thoepa`. A prayer can bless, ask, thank, grieve, attend, or address a sacred referent; praise can appreciate, honour, celebrate, or sing. Phi states the act and its addressee instead of giving unlike practices one universal religious label, while a source keeps the inherited category and formula exact. |
+
+## Architectural arch repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-BUILD-02` | architectural arch as a built span over an opening | Implemented | Work, Craft, and Repair | Words: `toreku`. A rainbow comparison gives an arch's visible curve but not its built form or the way it carries weight towards side supports. The optional noun covers rounded and pointed arches in bridges, openings, and covered walks while leaving material and exact style to the surrounding phrase. |
+| `CV-BUILD-03` | arcade or cloister as an arrangement of arches, roof, and path | Compositional | Work arch vocabulary with base quantity and spatial relations | `lo toreku`, `toreku toru`, `phou toru thalo ruela`. An arcade is an arrangement rather than another kind of span. Phi can count the arches and state the roof, path, wall, or building around them, while an exact historical label remains in the adjacent source when its identity matters. |
 
 ## Prompt sources
 

@@ -220,8 +220,8 @@ AROUND build low roof PST stand.
 (A low roof surrounded the building.)
 morris: "except that it was surrounded by a lean-to"
 
-phou toru kerou loriphi thalo ruela to whano.
-BELOW roof stone rainbow walk path PST stand.
+phou toru kerou toreku thalo ruela to whano.
+BELOW roof stone arch walk path PST stand.
 (Beneath that roof stood a walking path of stone arches.)
 morris: "that clearly made an arcade or cloisters to it:"
 
@@ -231,7 +231,7 @@ ALSO PROX build PST PASS INTS elegant decorate.
 morris: "it also was most delicately ornamented."
 ```
 
-**Notes:** Broadway is recognisable because the roads still know where to meet. Here `lorima` names the public buildings, while the plain `womu` around them are homes. Courts are the open spaces between those buildings. The lead covering uses chapter 3's `tumoa keluo`, heavy metal; Morris supplies the exact metal, and Phi makes clear that it covers the roof. Buttresses are strong supporting wall-sections. The building has three architectural pedigrees, but Guest claims only that their best qualities seem to meet there and that none was copied outright. The octagon counts its eight wall-sections in ternary, `wi shao wi`. Florence belongs to Morris's sentence; Phi compares the outline with a distant city's ceremonial building. At ground level, arcade and cloister become a path beneath a low roof, carried by stone rainbows.
+**Notes:** Broadway is recognisable because the roads still know where to meet. Here `lorima` names the public buildings, while the plain `womu` around them are homes. Courts are the open spaces between those buildings. The lead covering uses chapter 3's `tumoa keluo`, heavy metal; Morris supplies the exact metal, and Phi makes clear that it covers the roof. Buttresses are strong supporting wall-sections. The building has three architectural pedigrees, but Guest claims only that their best qualities seem to meet there and that none was copied outright. The octagon counts its eight wall-sections in ternary, `wi shao wi`. Florence belongs to Morris's sentence; Phi compares the outline with a distant city's ceremonial building. At ground level, arcade and cloister become a path beneath a low roof, carried by stone arches.
 
 ## wisola lokue — The exchange-place
 
@@ -632,13 +632,13 @@ morris: "and we jogged along merrily eastward."
 |---|---|
 | Hammersmith, King Street, the Creek, the Broadway, Barn Elms, the Thames valley, Florence | The exact names stay with Morris. Phi identifies each place by role, relation, or visible form. |
 | The fourteenth century and the Gothic, Saracenic, and Byzantine traditions | The historical categories are Morris's. Phi gives an ancient time and three old styles whose best qualities seem to meet without direct copying. |
-| Plaster, lead, bronze, damascening, buttresses, arcade, cloisters, and baptistry | Morris supplies the precise labels. Phi gives wood and another material, heavy-metal covering, mixed metal, bright inlaid threads, supporting walls, a roofed path on stone arches, and a distant city's ceremonial building. |
+| Plaster, lead, bronze, damascening, buttresses, arcade, cloisters, and baptistry | Morris supplies the precise labels. Phi gives wood and another material, heavy-metal covering, mixed metal, bright inlaid threads, supporting walls, a roofed path on `toreku` arches, and a distant city's ceremonial building. |
 | Men, women, girls, and great-grandfather | These categories remain in the source lines. Phi describes the people, their clothes and appearance, and the three-generation kinship relation. |
 | Market, market carts, produce, selling, and sellers | `wisola lokue` is an exchange-place, `wisola rolutha` an exchange-wagon, and `wisola piru` an exchange trader. Field food and the visible act of exchange carry the rest without assuming money or price. |
 | Early peas | Phi gives fresh green seeds; Morris supplies the species and its early season. |
 | The "poor" and "poorly" pun | Phi states insufficient resources and sickness separately. Morris's English carries the shared sound that makes the misunderstanding possible. |
 | Greylocks | Phi addresses the stone-coloured horse. The personal name belongs to Morris. |
 
-*The chapter adds no root or grammar. Registered compounds supply clay-stone, mixed metal, boundary-door, exchange-place, and the Sun's beginning. Art-play-place composes freely for the theatre.*
+*Work `toreku` names the arches. Registered compounds supply clay-stone, mixed metal, boundary-door, exchange-place, and the Sun's beginning. Art-play-place composes freely for the theatre.*
 
 *The architecture still gets room to be architecture. The reader can follow the roof and buttresses, count the octagon as `wi shao wi`, walk beneath the outer arches, and stop with Guest at Guide's inlaid doors. One should not hurry a chuckle that Morris spent this much masonry earning.*

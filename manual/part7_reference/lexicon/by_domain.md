@@ -1090,7 +1090,7 @@
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `woru` | keeper | a person recognised as responsible for stated continuing care |
 
-## creation (173)
+## creation (174)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1249,6 +1249,7 @@
 | `tiwa` | tie | making a knot or secured bundle |
 | `toka` | hammer | a striking implement used to fit, drive, break, or shape material |
 | `torali` | tower | a tall structure assembled from material parts |
+| `toreku` | arch | a built span assembled or cut over an opening |
 | `toru` | roof | the upper covering built across a structure |
 | `tukelu` | recycle | transforming prior material for further making or use |
 | `weloa` | loom | a frame or machine that holds threads for weaving |
@@ -2257,7 +2258,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (183)
+## spatial (184)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2421,6 +2422,7 @@
 | `tomae` | floor | the lower usable plane within a room or occupied structure |
 | `tomora` | mountain | prominent high ground used in orientation and route finding |
 | `torali` | tower | a built form defined by substantial vertical extent |
+| `toreku` | arch | an architectural form crossing an opening between side supports |
 | `toru` | roof | the upper boundary of a building or shelter |
 | `tupi` | jump | a brief airborne path between positions |
 | `turema` | return | movement back towards a previous location |

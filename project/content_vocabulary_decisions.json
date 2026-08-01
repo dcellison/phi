@@ -1077,6 +1077,16 @@
         "CV-GRAIN-01",
         "CV-DEVOTION-01"
       ]
+    },
+    {
+      "id": "architectural-arch-repair",
+      "heading": "Architectural arch repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-BUILD-02",
+        "CV-BUILD-03"
+      ]
     }
   ],
   "candidates": [
@@ -5824,6 +5834,39 @@
       ],
       "batches": [
         "gibran-on-love-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-BUILD-02",
+      "concept": "architectural arch as a built span over an opening",
+      "status": "implemented",
+      "placement": "Work, Craft, and Repair",
+      "summary": "A rainbow comparison gives an arch's visible curve but not its built form or the way it carries weight towards side supports. The optional noun covers rounded and pointed arches in bridges, openings, and covered walks while leaving material and exact style to the surrounding phrase.",
+      "implementation": {
+        "words": [
+          "toreku"
+        ],
+        "files": [
+          "vocabulary/content/arch.json"
+        ]
+      },
+      "batches": [
+        "architectural-arch-repair"
+      ]
+    },
+    {
+      "id": "CV-BUILD-03",
+      "concept": "arcade or cloister as an arrangement of arches, roof, and path",
+      "status": "compositional",
+      "placement": "Work arch vocabulary with base quantity and spatial relations",
+      "summary": "An arcade is an arrangement rather than another kind of span. Phi can count the arches and state the roof, path, wall, or building around them, while an exact historical label remains in the adjacent source when its identity matters.",
+      "expressions": [
+        "lo toreku",
+        "toreku toru",
+        "phou toru thalo ruela"
+      ],
+      "batches": [
+        "architectural-arch-repair"
       ]
     }
   ],

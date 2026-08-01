@@ -317,7 +317,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (578)
+## noun (579)
 
 | Word | Gloss |
 |---|---|
@@ -847,6 +847,7 @@
 | `tomi` | pot |
 | `tomora` | mountain |
 | `torali` | tower |
+| `toreku` | arch |
 | `toru` | roof |
 | `torua` | year |
 | `tuleno` | frog |

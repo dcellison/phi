@@ -10,7 +10,7 @@ Every module word is an ordinary part of the lexicon. The [module lexicon](../le
 | Systems and Shared Infrastructure | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | 33 | 50 | `phelure` store |
 | Ecological Systems and Material Life | [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | 30 | 55 | `howenu` weather, `muralo` material, `panuri` resource |
 | Commons and Collective Governance | [Commons and Collective Governance](commons_and_collective_governance.md) | 29 | 55 | `sirami` record, `kawhera` coerce, `whepelo` retaliate |
-| Work, Craft, and Repair | [Work, Craft, and Repair](work_craft_and_repair.md) | 28 | 73 | `winora` plan, `hasoru` pending |
+| Work, Craft, and Repair | [Work, Craft, and Repair](work_craft_and_repair.md) | 28 | 74 | `winora` plan, `hasoru` pending |
 | Medical and Bodily Care | [Medical and Bodily Care](medical_and_bodily_care.md) | 30 | 52 | `lesawi` consent |
 | Accessibility and Participation | [Accessibility and Participation](accessibility_and_participation.md) | 30 | 46 | `sowelu` disabled |
 | Household and Daily Life | [Household and Daily Life](household_and_daily_life.md) | 30 | 44 | `mirewu` private |
