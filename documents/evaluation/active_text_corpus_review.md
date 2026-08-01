@@ -491,6 +491,10 @@ D088 rereads all 235 units from Morris through Phi, exact gloss, and derived Eng
 | Source image and physical path | Let the river eddy, the flowers send scent, and the scent flow like waves; let the soapworks hold smoke-sending paths | These transparent clauses recover Morris's image and chimney detail without asking one overloaded relative clause to carry them. |
 | Gloss and parser agreement | Keep all 235 exact glosses validator-derived and inspect the parse of every revised multi-clause stanza | The full-sentence parser reports no error, but the sweep also rejects valid parses whose words support a different reading from the derived English. |
 
+### Derived-English repair
+
+D098 rereads all 235 parenthetical English units from the Phi alone and changes 189. The repair removes gender and source-specific occupational wording supplied only by Morris, places quotation attribution where the Phi frame carries it, and replaces source-led or gloss-like English without changing any Phi line, exact gloss, citation, or unit boundary. The second pass also catches substantive drift: `sheloi` remains many rather than mostly, `hi` stays explicit evidence, `po ma` keeps its full negative force in the bridge comparisons, and the friends prepare themselves after many days rather than entering through a source-shaped negative construction.
+
 ## Translation review: News from Nowhere, chapter 3
 
 Morris's third chapter has 233 aligned source units. Their citations reconstruct all 19,028 normalized source characters exactly and in order. The completed Phi uses 424 unique forms. Sixteen optional roots carry 17 memberships across Accessibility and Participation, Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, Philosophical Reasoning, and Work, Craft, and Repair. The chapter adds no root, registered compound, module membership, or grammar.
