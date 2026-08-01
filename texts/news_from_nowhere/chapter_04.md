@@ -21,27 +21,27 @@ morris: "and were soon in the main road that runs through Hammersmith."
 
 lu he mia lue sio luphore lokue ma shua. mia pha mia kua nai pho po ma kethira.
 COND IRR 1SG ABL BESIDE river place NEG come. 1SG INT.COMP 1SG where be INT.COMP.CLOSE POT NEG infer.
-(Had I not come from the waterside, I could not have inferred where I was.)
+(Had I not come from the riverside, I could not have inferred where I was.)
 morris: "But I should have had no guess as to where I was, if I had not started from the waterside;"
 
 lao serao ruela to te nai mia pha mia kua nai pho po ma kethira.
 BECAUSE old path PST CESS be 1SG INT.COMP 1SG where be INT.COMP.CLOSE POT NEG infer.
-(Because the old street had vanished, I could not infer where I was.)
+(Because the old road had ceased to exist, I could not infer where I was.)
 morris: "for King Street was gone,"
 
 whalo ruela thue lo losha sileta pelowa nela lo whu phea thepalu se sorila muila to wepu.
 large path THROUGH PL wide sun meadow COORD PL REL AS garden PASS cultivate earth PST go.
-(The great road ran through wide sunlit meadows and cultivated earth like gardens.)
+(The great road ran through wide, sunlit meadows and ground cultivated like gardens.)
 morris: "and the highway ran through wide sunny meadows and garden-like tillage."
 
 lo mia thue phuliro to reshi wepu. phuliro lue phou muila phialu shoeka to ki se leiro.
 PL 1SG THROUGH stream PST fast go. stream ABL BELOW earth water route PST PFV PASS release.
-(We quickly crossed the stream, which had been released from its underground water-route.)
+(We quickly crossed the stream. It had been released from an underground waterway.)
 morris: "The Creek, which we crossed at once, had been rescued from its culvert,"
 
 whau lo mia thue ha mioru repha to wepu lo mia tha phialu lunisa pheno to si nai tho to hi nila.
 SIMUL PL 1SG THROUGH PROX beautiful bridge PST go PL 1SG DECL.COMP water tide full PST IPFV be DECL.COMP.CLOSE PST DIR see.
-(As we went over its beautiful bridge, we directly saw that its waters were still full with the tide.)
+(As we crossed the beautiful bridge, we saw for ourselves that the water was still full from the tide.)
 morris: "and as we went over its pretty bridge we saw its waters, yet swollen by the tide,"
 
 sheloi keru phirae ponalu luphonu phialu leko to tawemi.
@@ -56,17 +56,17 @@ morris: "There were houses about, some on the road, some amongst the fields"
 
 lo nirelo thiku ruela wea ha lo womu to mulu wepu.
 PL pleasant small path TOWARD PROX PL home PST low go.
-(Pleasant little lanes went down towards the houses.)
+(Pleasant little paths went down towards the houses.)
 morris: "with pleasant lanes leading down to them,"
 
 roa theli womu whu ruloi lorua thepalu to nai.
 AROUND EACH home REL flourish abundant garden PST be.
-(Around each house was an abundant, flourishing garden.)
+(Each house had a flourishing, abundant garden around it.)
 morris: "and each surrounded by a teeming garden."
 
 theula womu mioru noporu to phelu. theula womu ru keruko to nai.
 UNIV home beautiful design PST hold. UNIV home INTS sturdy PST be.
-(Every house had a beautiful design, and every house was very sturdy.)
+(Every house was beautifully designed and very sturdy.)
 morris: "They were all pretty in design, and as solid as might be,"
 
 whekai lo womu phea telo womu to ka nila.
@@ -76,7 +76,7 @@ morris: "but countryfied in appearance, like yeomen's dwellings;"
 
 soli womu phea lo whu sio luphore whano womu roe rulo mueri kerou to se lorima.
 SOME home AS PL REL BESIDE river stand home INS red clay stone PST PASS build.
-(Some houses were built of red clay-stone, like the houses beside the river.)
+(Some houses were built of red brick, like the houses beside the river.)
 morris: "some of them of red brick like those by the river,"
 
 whekai shelami womu roe wolea nela phirae muralo to se lorima.
@@ -86,27 +86,27 @@ morris: "but more of timber and plaster,"
 
 lo muralo tha lo womu phea ha se na lorima tho to phelona.
 PL material DECL.COMP PL home AS PROX PASS NEC build DECL.COMP.CLOSE PST require.
-(Those materials required the houses to be built in this manner.)
+(Those materials required the houses to be built that way.)
 morris: "which were by the necessity of their construction"
 
 thelao lo womu kire phea tholua senao muralo womu kire to nai.
 CONS PL home shape AS ancient same material home shape PST be.
-(Consequently, the houses had the forms of ancient houses made from the same materials.)
+(Consequently, the houses had forms like those of ancient houses made from the same materials.)
 morris: "so like mediaeval houses of the same materials"
 
 mia tha mia mua tholua thimu lima nai tho to ru phaelo.
 1SG DECL.COMP 1SG LOC ancient time alive be DECL.COMP.CLOSE PST INTS feel.
-(I felt very much as though I were alive in an ancient time.)
+(I felt strongly that I was alive in an ancient time.)
 morris: "that I fairly felt as if I were alive in the fourteenth century;"
 
 lo mia lo miona to haromi. lo mia sio phirae miona to wepu. lo shia wethalu ha phaelo to panoru.
 PL 1SG PL person PST meet. PL 1SG BESIDE different person PST go. PL 3SG garment PROX feel PST support.
-(We met people and passed beside others. Their clothes supported that feeling.)
+(We met people and passed others. Their clothing supported that feeling.)
 morris: "a sensation helped out by the costume of the people that we met or passed,"
 
 mawha wethalu mia thimu kire to phelu.
 NONE garment 1SG time shape PST hold.
-(No garment held the form of my own time.)
+(None of the clothes had the form of my own time.)
 morris: "in whose dress there was nothing \"modern.\""
 
 shelami miona keru wethalu to wenuha.
@@ -126,7 +126,7 @@ morris: "who were so well-looking, or even so handsome,"
 
 mia wei ne kulo tha ra lo miona ru mioru nai tho haolu to rinu. whekai mia ha phelui to kethua kupe.
 1SG DAT NAME kulo DECL.COMP DIST PL person INTS beautiful be DECL.COMP.CLOSE speak PST want. CONTR 1SG PROX word PST hard hide.
-(I wanted to tell Guide how beautiful those people were, but with difficulty I kept the words in.)
+(I wanted to tell Guide that those people were very beautiful, but it was hard to keep those words hidden.)
 morris: "that I could scarcely refrain my tongue from calling my companion's attention to the fact."
 
 mia soli phenui menoa to nila.
@@ -141,12 +141,12 @@ morris: "and in these I noticed great nobility of expression,"
 
 mia mawha whu la nuhe mishoa menoa to nila.
 1SG NONE REL ATTEN sadness express face PST see.
-(I saw no face that expressed even a trace of sadness.)
+(No face I saw expressed even slight sadness.)
 morris: "but none that had a glimmer of unhappiness,"
 
 lo mia sheloi miona to haromi. shelami miona whuo kupe lo siora to thenui mishoa.
 PL 1SG MANY person PST meet. MOST person WITHOUT hide PL joy PST direct express.
-(We met many people, and most expressed their joy openly and directly.)
+(We met many people. Most expressed their joy directly, without hiding it.)
 morris: "and the greater part (we came upon a good many people) were frankly and openly joyous."
 ```
 
@@ -157,7 +157,7 @@ morris: "and the greater part (we came upon a good many people) were frankly and
 ```
 lao lo ruela mua ha lokue haromi mia tha mia ha lokue miratu tho to remo.
 BECAUSE PL path LOC PROX place meet 1SG DECL.COMP 1SG PROX place recognize DECL.COMP.CLOSE PST think.
-(Because the roads still meet at this place, I thought I recognised it.)
+(Because the roads met here, I thought I recognized the place.)
 morris: "I thought I knew the Broadway by the lie of the roads that still met there."
 
 mua nitho ruela phanoi lo mulu lorima nela lo thei lo lorima whemoa lokue to whano.
@@ -172,7 +172,7 @@ morris: "but very handsomely built and ornamented,"
 
 lo lorima sheo roa lo mueli womu ru phirae to nai.
 PL build THAN AROUND PL plain home INTS different PST be.
-(They differed greatly from the plain houses around them.)
+(The buildings were very different from the plain houses around them.)
 morris: "and in that way forming a great contrast to the unpretentiousness of the houses round about;"
 
 leo ha lo mulu lorima whalo lona lokue ratenu toru to rihe. ha toru roe tumoa keluo to se tawemi.
@@ -182,7 +182,7 @@ morris: "while above this lower building rose the steep lead-covered roof"
 
 lo kema panoru moru phanoi nela lo raelu moru phanoi phou ha toru to whano.
 PL strong support wall portion COORD PL tall wall portion BELOW PROX roof PST stand.
-(Strong supporting wall-sections and higher parts of wall stood beneath that roof.)
+(Strong wall supports and tall sections of wall stood beneath that roof.)
 morris: "and the buttresses and higher part of the wall of a great hall,"
 
 lona lokue mua waora nela lorua senalu to se lorima.
@@ -197,7 +197,7 @@ morris: "of which one can say little more than that it seemed to me to embrace t
 
 shia ta senalu kire to ma phelu.
 3SG one style shape PST NEG hold.
-(It did not hold the form of any one style.)
+(It had the form of no single style.)
 morris: "though there was no copying of any one of these styles."
 
 mua ronua ruela phanoi whu wi shao wi moru phanoi phelu lorima to whano.
@@ -222,12 +222,12 @@ morris: "except that it was surrounded by a lean-to"
 
 phou toru kerou toreku thalo ruela to whano.
 BELOW roof stone arch walk path PST stand.
-(Beneath that roof stood a walking path of stone arches.)
+(Beneath that roof stood a walkway of stone arches.)
 morris: "that clearly made an arcade or cloisters to it:"
 
 we ha lorima to se ru phiro weshapi.
 ALSO PROX build PST PASS INTS elegant decorate.
-(This building too was decorated with great delicacy.)
+(This building too was decorated very elegantly.)
 morris: "it also was most delicately ornamented."
 ```
 
@@ -243,12 +243,12 @@ morris: "This whole mass of architecture which we had come upon so suddenly from
 
 ha lorima mua miso ru mioru kire to nai.
 PROX build LOC REFL INTS beautiful shape PST be.
-(The architecture itself was exquisitely beautiful.)
+(The architecture itself had a very beautiful form.)
 morris: "was not only exquisitely beautiful in itself,"
 
 sheno lo lorima heloi kealo nela lorua lioru to mishoa.
 ADD PL build generous create COORD abundant life PST express.
-(The buildings also expressed generous making and abundant life.)
+(The buildings also expressed generosity in their making and abundant life.)
 morris: "but it bore upon it the expression of such generosity and abundance of life"
 
 phoe ha mia mawha thimu ru rashowe to nai.
@@ -258,7 +258,7 @@ morris: "that I was exhilarated to a pitch that I had never yet reached."
 
 mia roe nirelo to maeli hola.
 1SG INS pleasant PST quiet laugh.
-(I chuckled quietly with pleasure.)
+(I laughed quietly with pleasure.)
 morris: "I fairly chuckled for pleasure."
 
 ne kulo ha to ke shelomu.
@@ -268,7 +268,7 @@ morris: "My friend seemed to understand it,"
 
 ne kulo to meilo. shia mia to si nila. shia roe nirelo nela lothea mewali to nai.
 NAME kulo PST sit. 3SG 1SG PST IPFV see. 3SG INS pleasant COORD love interested PST be.
-(Guide sat looking at me. His interest held pleasure and affection.)
+(Guide sat and kept looking at me with pleasant, loving interest.)
 morris: "and sat looking on me with a pleased and affectionate interest."
 
 lo mia thoa sheloi rolutha to te wepu.
@@ -278,7 +278,7 @@ morris: "We had pulled up amongst a crowd of carts,"
 
 mua lo rolutha mioru wolu lo miona to meilo. thoa lo shia lo lopia to meilo. lo shia ru keru wethalu to wenuha.
 LOC PL wagon beautiful healthy PL person PST sit. AMONG PL 3SG PL child PST sit. PL 3SG INTS bright garment PST wear.
-(Beautiful, healthy-looking people sat in the wagons, with children among them. They wore very bright clothes.)
+(Beautiful, healthy people sat in the wagons, with children among them. Those people wore very bright clothes.)
 morris: "wherein sat handsome healthy-looking people, men, women, and children very gaily dressed,"
 
 lo rolutha wisola rolutha to nai. ha nuwi to nai.
@@ -299,7 +299,7 @@ morris: "as they were full of very tempting-looking country produce."
 ```
 mia sha lao mia ha nuwi nila mia lila pha ha wisola lokue nai pho thilou ralu nai sho to haolu.
 1SG QUOT.COMP BECAUSE 1SG PROX clear see 1SG PURP INT.COMP PROX exchange place be INT.COMP.CLOSE inquire free be QUOT.COMP.CLOSE PST speak.
-(I said, "Because I see this clearly, I need not ask whether this is an exchange-place.")
+(I said, "Since I see this clearly, I need not ask whether this is an exchange-place.")
 morris: "I said, \"I need not ask if this is a market, for I see clearly that it is;"
 
 whekai ha hina wisola lokue nai. shia misa ru waora nai.
@@ -309,12 +309,12 @@ morris: "but what market is it that it is so splendid?"
 
 ra ru waora whalo lona lokue hina nai. ronua ruela phanoi lorima hina nai.
 DIST INTS wondrous large meeting place what be. south path portion build what be.
-(What is that glorious great hall, and what is the building on the south side of the road?)
+(What is that great hall that inspires such wonder? What is the building on the south side of the road?)
 morris: "And what is the glorious hall there, and what is the building on the south side?\""
 
 ne kulo sha li ha lo mia wisola lokue nai sho to haolu.
 NAME kulo QUOT.COMP RESTR PROX PL 1SG exchange place be QUOT.COMP.CLOSE PST speak.
-("This is only our exchange-place," said Guide.)
+(Guide said, "This is only our exchange-place.")
 morris: "\"O,\" said he, \"it is just our Hammersmith market;"
 
 lao lo mia ru thoru nai mia tha thia shia ru kaeli tho ru siora nai.
@@ -339,7 +339,7 @@ morris: "opposite Barn Elms."
 
 ha lorima shela wile lokue nai. shia mua lo mia kuri nai.
 PROX build art play place be. 3SG LOC PL 1SG right be.
-(This building is the theatre, the art-play place. It is on our right.)
+(This building is a theatre. It is on our right.)
 morris: "The building on our right hand is our theatre:"
 
 mia tha thia shia kaeli tho soliru.
@@ -349,32 +349,32 @@ morris: "I hope you like it.\""
 
 mia sha lu he mia shia ma kaeli. mia tawimo nai sho to haolu.
 1SG QUOT.COMP COND IRR 1SG 3SG NEG like. 1SG foolish be QUOT.COMP.CLOSE PST speak.
-("If I did not like it, I would be foolish," I said.)
+(I said, "If I did not like it, I would be foolish.")
 morris: "\"I should be a fool if I didn't,\" said I."
 
 whau ne kulo to haolu shia menoa la rulo to kelu.
 SIMUL NAME kulo PST speak 3SG face ATTEN red PST become.
-(As Guide spoke, his face became a little red.)
+(Guide's face grew a little red as they spoke.)
 morris: "He blushed a little as he said:"
 
 shia sha lao mia ha lokue lorima to naphe mia we siora nai. mia lo whalo ponu to kealo sho to haolu.
 3SG QUOT.COMP BECAUSE 1SG PROX place build PST help 1SG ALSO joy be. 1SG PL large door PST create QUOT.COMP.CLOSE PST speak.
-("Because I helped build this place, I am glad too," he said. "I made the great doors.")
+(They said, "Because I helped build this place, I am glad too. I made the great doors.")
 morris: "\"I am glad of that, too, because I had a hand in it; I made the great doors,"
 
 lo ponu roe welotu keluo to se kealo. nia lo ponu lo lemi keru keluo sima to se thesa thinu.
 PL door INS mix metal PST PASS create. ON PL door PL thin bright metal thread PST PASS careful put.
-(The doors were made from mixed metal, with thin threads of bright metal carefully set into them.)
+(The doors were made from mixed metal. Thin threads of bright metal were carefully placed on them.)
 morris: "which are of damascened bronze."
 
 mua ha philo wuero shemu lo mia lo ponu so po nilaki.
 LOC PROX day far moment PL 1SG PL door FUT POT inspect.
-(Perhaps at a later moment today we shall inspect the doors.)
+(We might inspect the doors later today.)
 morris: "We will look at them later in the day, perhaps:"
 
 whekai nosa lo mia na wepu.
 CONTR now PL 1SG NEC go.
-(But now we ought to go on.)
+(But now we must go.)
 morris: "but we ought to be getting on now."
 
 ha philo mua wisola lokue thurai ma nai.
@@ -384,12 +384,12 @@ morris: "As to the market, this is not one of our busy days;"
 
 lao mua phirae thimu thia mo miona so nila lo mia ha wisola lokue so mo welao nila.
 BECAUSE LOC different time 2SG CMPR person FUT see PL 1SG PROX exchange place FUT CMPR good see.
-(Because you will see more people at another time, we shall see this exchange-place better.)
+(We will get a better look at this exchange-place another time, because then you will see more people.)
 morris: "so we shall do better with it another time, because you will see more people.\""
 
 mia wei shia sha mea sho to haolu.
 1SG DAT 3SG QUOT.COMP thanks QUOT.COMP.CLOSE PST speak.
-(I said "thanks" to him.)
+(I said, "Thank you," to them.)
 morris: "I thanked him,"
 
 mia sha wa ha lo whu thoa lo kosha ro menui miona nai sho to haolu.
@@ -404,37 +404,37 @@ morris: "What very pretty girls there are amongst them.\""
 
 whau mia to haolu mia ta mioru miona menoa to nila.
 SIMUL 1SG PST speak 1SG one beautiful person face PST see.
-(While I spoke, I saw the face of a beautiful person.)
+(While I was speaking, I saw the face of one beautiful person.)
 morris: "As I spoke, my eye caught the face of a beautiful woman,"
 
 shia raelu to nai. shia nuelo whila nela whilo hisae to phelu.
 3SG tall PST be. 3SG dark hair COORD white skin PST hold.
-(The person was tall, with dark hair and white skin.)
+(They were tall, with dark hair and white skin.)
 morris: "tall, dark-haired, and white-skinned,"
 
 lila shia meluna nela sukaro philo keluro shia mioru whilo liro wethalu to wenuha.
 PURP 3SG season COORD hot day honor 3SG beautiful white green garment PST wear.
-(To honour the season and the hot day, the person wore a pretty pale-green garment.)
+(To honor the season and the hot day, they wore a beautiful pale-green garment.)
 morris: "dressed in a pretty light-green dress in honour of the season and the hot day,"
 
 shia wea mia to phena seniku.
 3SG TOWARD 1SG PST kind smile.
-(The person smiled kindly at me.)
+(They smiled kindly at me.)
 morris: "who smiled kindly on me,"
 
 mia tha shia wea ne kulo to mo phena seniku tho to remo.
 1SG DECL.COMP 3SG TOWARD NAME kulo PST CMPR kind smile DECL.COMP.CLOSE PST think.
-(I thought the person smiled still more kindly at Guide.)
+(I thought they smiled more kindly at Guide.)
 morris: "and more kindly still, I thought on Dick;"
 
 thelao mia ta teku shemu to manolu. whekai mia to wepu.
 CONS 1SG one short moment PST stay. CONTR 1SG PST go.
-(So I stayed still for a moment, but then I went on.)
+(So I paused for a moment, but then I went on.)
 morris: "so I stopped a minute, but presently went on:"
 
 mia sha mia tha mia mua wisola lokue lo whu phea lo kosha miona kire phelu miona po nila tho to remo. whekai mia lo shia ma nila. thelao mia ha thilou. shekoi mia whu thena wisola piru ma nila sho to haolu.
 1SG QUOT.COMP 1SG DECL.COMP 1SG LOC exchange place PL REL AS PL field person shape hold person POT see DECL.COMP.CLOSE PST think. CONTR 1SG PL 3SG NEG see. CONS 1SG PROX inquire. SPEC 1SG REL thing exchange trader NEG see QUOT.COMP.CLOSE PST speak.
-("I thought an exchange-place might have people who looked like field-dwellers," I said. "But I see none of them, so I ask. More precisely, I see no traders exchanging things.")
+(I said, "I thought I might see people who looked like field-dwellers at an exchange-place. But I see none of them, so I ask. Specifically, I see no traders exchanging things.")
 morris: "\"I ask because I do not see any of the country-looking people I should have expected to see at a market--I mean selling things there.\""
 ```
 
@@ -445,12 +445,12 @@ morris: "\"I ask because I do not see any of the country-looking people I should
 ```
 ne kulo sha mia pha thia hina kire miona po nila pho ma shelomu sho to haolu.
 NAME kulo QUOT.COMP 1SG INT.COMP 2SG what shape person POT see INT.COMP.CLOSE NEG understand QUOT.COMP.CLOSE PST speak.
-("I do not understand what sort of people you mean," said Guide.)
+(Guide said, "I do not understand what sort of people you might see.")
 morris: "\"I don't understand,\" said he, \"what kind of people you would expect to see;"
 
 mia pha thia kosha miona phelui hina reo pho we ma shelomu.
 1SG INT.COMP 2SG field person word what meaning INT.COMP.CLOSE ALSO NEG understand.
-(I also do not understand what you mean by the words 'country people.')
+(I also do not understand what the words "field people" mean to you.)
 morris: "nor quite what you mean by 'country' people."
 
 ha lo miona lo mia phewani nai.
@@ -470,7 +470,7 @@ morris: "There are parts of these islands which are rougher"
 
 lo muila sheo ha lokue mo pheralu phelu.
 PL earth THAN PROX place CMPR rain hold.
-(Those lands receive more rain than this place.)
+(Those lands have more rain than this place.)
 morris: "and rainier than we are here,"
 
 mua ra lo lokue lo miona mo keloa wethalu ro wenuha.
@@ -480,7 +480,7 @@ morris: "and there people are rougher in their dress;"
 
 ra lo miona sheo lo mia mo kema kire to nai. lo shia menoa lo howenu kire to phelu.
 DIST PL person THAN PL 1SG CMPR strong shape PST be. PL 3SG face PL weather shape PST hold.
-(Those people looked stronger than us, and their faces carried the marks of weather.)
+(Those people were more strongly built than we were, and their faces carried the marks of the weather.)
 morris: "and they themselves are tougher and more hard-bitten than we are to look at."
 
 whekai soli miona sheo lo mia kire ra lo miona kire mo kaeli.
@@ -490,52 +490,52 @@ morris: "But some people like their looks better than ours;"
 
 lo shia tha ra lo menoa mo phirae kire phelu tho shane. ha phelui to nai.
 PL 3SG DECL.COMP DIST PL face CMPR different shape hold DECL.COMP.CLOSE tell. PROX word PST be.
-(They say those faces have more distinctive form. That is the word they use.)
+(They say those faces have more distinctive shapes. That was the word.)
 morris: "they say they have more character in them--that's the word."
 
 ha kaeli thena nai. sheno lo lue ra lokue miona nela lo lue ha lokue miona wiso lumani ro ka kelu. ra lo lumani welao ro nai.
 PROX like thing be. ADD PL ABL DIST place person COORD PL ABL PROX place person RECP family HAB CAUS become. DIST PL family good HAB be.
-(It is a matter of liking. Besides, people from there and people from here often form families together. Those families usually turn out well.)
+(It is a matter of liking. Besides, people from there and people from here often form families together. Those families are usually good.)
 morris: "Well, it's a matter of taste.--Anyhow, the cross between us and them generally turns out well,\""
 
 ne kulo ha to phenui haolu.
 NAME kulo PROX PST thoughtful speak.
-(Guide added this thoughtfully.)
+(Guide said this thoughtfully.)
 morris: "added he, thoughtfully."
 
 shai mia lo mirae lue shia to rato mia shia to hea.
 CONC 1SG PL eye ABL 3SG PST turn 1SG 3SG PST hear.
-(Although my eyes had turned away from him, I heard him.)
+(Although my eyes turned away from them, I heard them.)
 morris: "I heard him, though my eyes were turned away from him,"
 
 ra mioru miona thue norui ponu to si wepu. ha mia lo mirae lue ne kulo to ka rato.
 DIST beautiful person THROUGH boundary door PST IPFV go. PROX 1SG PL eye ABL NAME kulo PST CAUS turn.
-(The beautiful person was disappearing through a gate, and this turned my eyes away from Guide.)
+(The beautiful person was going through a gate. That turned my eyes away from Guide.)
 morris: "for that pretty girl was just disappearing through the gate"
 
 shia newai liro thinoe pheno whalo wiru to phelu.
 3SG fresh green seed full large basket PST hold.
-(The person carried a large basket full of fresh green seeds.)
+(They carried a large basket full of fresh green seeds.)
 morris: "with her big basket of early peas,"
 
 mia ra kire pakiro nuhe to phaelo.
 1SG DIST shape sudden sadness PST feel.
-(I felt that sudden kind of sadness.)
+(I felt that kind of sudden sadness.)
 morris: "and I felt that disappointed kind of feeling which overtakes one"
 
 lu miona mua ruela whu miona theonu ka rato sola mioru nai menoa nila. shia tha mua mawha phirae thimu shia ra menoa so nila tho po remo. thelao shia ra kire nuhe po phaelo.
 COND person LOC path REL person attend CAUS turn DISJ beautiful be face see. 3SG DECL.COMP LOC NONE different time 3SG DIST face FUT see DECL.COMP.CLOSE POT think. CONS 3SG DIST shape sadness POT feel.
-(When someone sees in the street a face that catches their attention or is beautiful, they may think they will never see that face again. Then they may feel that kind of sadness.)
+(When someone sees a face in the street that catches their attention or is beautiful, they may think they will never see that face again. Then they may feel that kind of sadness.)
 morris: "when one has seen an interesting or lovely face in the streets which one is never likely to see again;"
 
 mia sui teku shemu maeli to nai.
 1SG DUR short moment quiet PST be.
-(I remained quiet for a little while.)
+(I was quiet for a short while.)
 morris: "and I was silent a little."
 
 pheo laeno shemu mia sha mia whu henoi panuri ma phelu miona shareo. mia mua ha lokue ta ha kire miona ki ma nila sho to haolu.
 POST long moment 1SG QUOT.COMP 1SG REL ENOUGH resource NEG hold person discuss. 1SG LOC PROX place one PROX shape person PFV NEG see QUOT.COMP.CLOSE PST speak.
-(At last I said, "I am speaking of people who do not have enough resources. In this place I have not seen one person of that kind.")
+(After a long while, I said, "I am speaking of people who do not have enough resources. I have not seen one person of that kind here.")
 morris: "At last I said: \"What I mean is, that I haven't seen any poor people about--not one.\""
 ```
 
@@ -546,17 +546,17 @@ morris: "At last I said: \"What I mean is, that I haven't seen any poor people a
 ```
 ne kulo shia komeri to la tiwa. shia tha shia ha ma shelomu tho to mishoa.
 NAME kulo 3SG forehead PST ATTEN tie. 3SG DECL.COMP 3SG PROX NEG understand DECL.COMP.CLOSE PST express.
-(Guide drew his brow together and showed that he did not understand.)
+(Guide's forehead drew together slightly, and they showed that they did not understand.)
 morris: "He knit his brows, looked puzzled,"
 
 shia sha tua. ha woeli nai sho to haolu.
 3SG QUOT.COMP no. PROX natural be QUOT.COMP.CLOSE PST speak.
-(He said, "No. Naturally.")
+(They said, "No. Naturally.")
 morris: "and said: \"No, naturally;"
 
 lu miona mokela nai. shia mua womu po manolu sola shia mua thepalu li mulu po thalo.
 COND person sick be. 3SG LOC home POT stay DISJ 3SG LOC garden RESTR low POT walk.
-(If a person is sick, they are likely to stay indoors, or at best walk low in the garden.)
+(If someone is sick, they may stay at home or, at most, crawl in the garden.)
 morris: "if anybody is poorly, he is likely to be within doors, or at best crawling about the garden:"
 
 whekai mia tha nosa mawha miona mokela nai tho sano.
@@ -566,12 +566,12 @@ morris: "but I don't know of any one sick at present."
 
 thia misa tha thia mua ruela mokela miona so nila tho remo.
 2SG why DECL.COMP 2SG LOC path sick person FUT see DECL.COMP.CLOSE think.
-(Why do you expect to see sick people on the road?)
+(Why do you think you will see sick people on the road?)
 morris: "Why should you expect to see poorly people on the road?\""
 
 mia sha tua. tua. mia mokela miona ma shareo sho to haolu.
 1SG QUOT.COMP no. no. 1SG sick person NEG discuss QUOT.COMP.CLOSE PST speak.
-("No, no," I said. "I am not speaking of sick people.")
+(I said, "No, no. I am not speaking of sick people.")
 morris: "\"No, no,\" I said; \"I don't mean sick people."
 
 mia whu henoi panuri ma phelu miona shareo.
@@ -586,17 +586,17 @@ morris: "rough people.\""
 
 ne kulo to siora seniku. shia sha tua sho to haolu.
 NAME kulo PST joy smile. 3SG QUOT.COMP no QUOT.COMP.CLOSE PST speak.
-(Guide smiled merrily. "No," he said.)
+(Guide smiled with joy and said, "No.")
 morris: "\"No,\" said he, smiling merrily,"
 
 shia sha mia ma ru sano sho to haolu.
 3SG QUOT.COMP 1SG NEG INTS know QUOT.COMP.CLOSE PST speak.
-("I really do not know," he said.)
+(They said, "I really do not know.")
 morris: "\"I really do not know."
 
 ha theloa nai. thia kau mia phao phao phao na reshi wepu.
 PROX truth be. 2SG ALL 1SG parent parent parent NEC fast go.
-(The truth is this: you must come quickly to my great-grandparent.)
+(The truth is this: you must go quickly to my great-grandparent.)
 morris: "The fact is, you must come along quick to my great-grandfather,"
 
 shia sheo mia thia so mo welao shelomu.
@@ -606,17 +606,17 @@ morris: "who will understand you better than I do."
 
 kona kerou welisha kalora. no wepu.
 VOC stone color horse. IMP go.
-(Come on, grey horse!)
+(Go, stone-coloured horse!)
 morris: "Come on, Greylocks!\""
 
 ne kulo lo kalora nira to ka tiripe.
 NAME kulo PL horse cord PST CAUS quiver.
-(Guide shook the horse-cords.)
+(Guide shook the reins.)
 morris: "Therewith he shook the reins,"
 
 lo mia wea sileta thorui to siora wepu.
 PL 1SG TOWARD sun beginning PST joy go.
-(We went merrily eastward.)
+(We went joyfully eastward.)
 morris: "and we jogged along merrily eastward."
 ```
 
