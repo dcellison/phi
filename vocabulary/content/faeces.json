@@ -22,5 +22,8 @@
   ],
   "semantic_domains": {
     "physical": "material expelled from the digestive tract"
-  }
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
 }

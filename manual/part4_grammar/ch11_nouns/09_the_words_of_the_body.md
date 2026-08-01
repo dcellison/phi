@@ -70,12 +70,12 @@ These nouns describe conditions, tissues, or fluids that speakers regularly loca
 | *kipona* | pain |
 | *siwe* | sweat |
 | *suhari* | saliva |
-| *tomewu* | urine |
-| *mokathi* | faeces |
 | *nuwesu* | mucus |
 | *lomeki* | fat |
 | *sunai* | health |
 | *puro* | strength |
+
+When a care report needs to name the substance itself, Medical and Bodily Care has *tomewu* (urine) and *mokathi* (faeces). The Household and Daily Life word *muneki* (latrine) names the ordinary place, so needing or going towards it does not require a clinical description.
 
 The registry carries *whalo thumai* (big finger, thumb), *mokura kesho* (belly-middle, navel), *paloi thumai* (foot-finger, toe), *mirae hisae* (eye-skin, eyelid), and *nophae phae* (nose-opening, nostril). Once *kiparu* supplies the joint, three more landmarks settle into place: *pelio kesho kiparu* (arm-middle joint, elbow), *manuwe kiparu* (hand-joint, wrist), and *paloi kiparu* (foot-joint, ankle). The pattern is useful, and the wrist and ankle have the courtesy to remember it together.
 

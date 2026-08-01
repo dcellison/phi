@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1300 words.*
+*1301 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -271,6 +271,7 @@
 | `lokane` | accessible | /lo̞.ˈkä.n̪e̞/ | adjective |
 | `lokue` | place | /lo̞.ˈku.e̞/ | noun |
 | `lomare` | embrace | /lo̞.ˈmä.re̞/ | verb |
+| `lomathu` | manure | /lo̞.ˈmä.θu/ | noun |
 | `lomea` | sibling | /lo̞.ˈme̞.ä/ | noun |
 | `lomeki` | fat | /lo̞.ˈme̞.ki/ | noun |
 | `lomura` | liver | /lo̞.ˈmu.rä/ | noun |

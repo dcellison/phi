@@ -571,7 +571,7 @@ D098 rereads all 116 parenthetical English units from the Phi alone and changes 
 
 ## Translation review: News from Nowhere, chapter 5
 
-Morris's fifth chapter has 273 aligned source units. Their citations reconstruct all 13,932 normalized source characters exactly and in order, with SHA-256 `83833a22560474b2e27985f6c10392cd3e545e09f73611f7c614d1ccf13a37fc`. The completed Phi uses 373 unique forms. Sixteen optional roots carry 24 memberships across Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, Philosophical Reasoning, Systems and Shared Infrastructure, and Work, Craft, and Repair. The chapter adds no root, registered compound, module membership, or grammar.
+Morris's fifth chapter has 273 aligned source units. Their citations reconstruct all 13,932 normalized source characters exactly and in order, with SHA-256 `83833a22560474b2e27985f6c10392cd3e545e09f73611f7c614d1ccf13a37fc`. The completed Phi uses 373 unique forms. Eighteen optional roots carry 26 memberships across Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, Philosophical Reasoning, Systems and Shared Infrastructure, and Work, Craft, and Repair. D099 and D100 later add `toreku` arch and `lomathu` manure without changing a source citation or unit boundary.
 
 ### Source-faithful translation
 
@@ -656,6 +656,20 @@ D099 reviews the architectural use of `loriphi` across *News from Nowhere* chapt
 | Arcade and cloister | Keep the larger arrangement compositional | Arches, quantity, roof, path, wall, and surrounding building state the visible relations. Morris's exact historical labels remain adjacent. |
 | Corpus migration | Replace all eight architectural tokens in chapters 2 through 6 | Phi, exact glosses, notes, and limit tables now agree. The derived English already named arches where Phi's context licensed that ordinary reading. |
 | Source integrity | Preserve every Morris citation and unit boundary | All six chapter reconstructions retain their exact character counts and order. No grammar or registered compound changes. |
+
+## Bodily waste placement and manure correction
+
+D100 returns to Morris's manure after the derived-English sweep made the inherited bodily reading impossible to miss. It changes one Phi line and its exact gloss and derived English in chapter 5. The Morris citation and all unit boundaries remain unchanged.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Urine and faeces | Move `tomewu` and `mokathi` from base study into Medical and Bodily Care | Direct substance words remain available for care, while a general learner need not study them for ordinary sanitation. |
+| Ordinary sanitation | Keep Household `muneki` and compose bodily acts through need, motion, and `leiro` release | A request for a latrine does not require a clinical description, and dedicated act verbs preserve no further distinction. |
+| Manure | Add Ecological `lomathu` | Morris names animal dung gathered for land use. `mokathi` identifies bodily matter; compost remains a broader managed decomposition that may contain no dung. |
+| Chapter 5 repair | Replace `nolika mokathi` with `lomathu` | The Phi now carries manure directly instead of asking the source to turn animal faeces into an agricultural material. |
+| Intimate anatomy | Keep `CV-BODY-08` deferred under its scenario-led return condition | The placement review does not become an anatomy catalogue. Self-description, consent, health, pain, and varied bodies still govern that future work. |
+
+The correction adds one optional root, moves two existing roots into one optional path, and changes no registered compound, function word, or grammar.
 
 ## Contextual review: the drafted Phi book
 

@@ -1260,9 +1260,9 @@ yes. PL 3SG AS small exchange place HAB be.
 (Yes. They are used as a small exchange-place.)
 morris: "Well, yes, they are used for a sort of subsidiary market,"
 
-lo shia nolika mokathi phelure lokue we ro nai.
-PL 3SG animal faeces store place ALSO HAB be.
-(They are also used to store animal faeces.)
+lo shia lomathu phelure lokue we ro nai.
+PL 3SG manure store place ALSO HAB be.
+(They are also usually places for storing manure.)
 morris: "and a storage place for manure,"
 
 lao lo shia sio phialu whano ha porua wei theali nai.
@@ -1411,7 +1411,7 @@ CONTR DAT MANY different labor 1SG DECL.COMP boundary POT be DECL.COMP.CLOSE see
 morris: "while in many others a limit does seem possible.\""
 ```
 
-**Notes:** Westminster Abbey and the Houses of Parliament keep their names in Morris's lines; St Paul's does too. Phi gives a dignified old building and old buildings of authority. The last is one great source-named building. The Abbey's memorial forms were carried out more than one hundred years before the conversation. They were exceedingly unlovely and blocked the interior. They honoured people whom Dick's great-grandparent describes through foolish acts and dishonest speech; Morris's harsher nouns sit beside the translation. Parliament is now a smaller exchange-place and a store for `nolika mokathi`, animal faeces. No genteel fertiliser is required. The antiquarian community preserves old things, objects to destruction, gives reasons, and gets its way. Dick is glad it did. His architectural enthusiasm is gloriously uneven: ornament can hardly overrun a hall, and he will surrender outdoor space before anyone gets near his elbows.
+**Notes:** Westminster Abbey and the Houses of Parliament keep their names in Morris's lines; St Paul's does too. Phi gives a dignified old building and old buildings of authority. The last is one great source-named building. The Abbey's memorial forms were carried out more than one hundred years before the conversation. They were exceedingly unlovely and blocked the interior. They honoured people whom Dick's great-grandparent describes through foolish acts and dishonest speech; Morris's harsher nouns sit beside the translation. Parliament is now a smaller exchange-place and a store for `lomathu`, manure. The building has not escaped indignity so much as acquired a practical afterlife. The antiquarian community preserves old things, objects to destruction, gives reasons, and gets its way. Dick is glad it did. His architectural enthusiasm is gloriously uneven: ornament can hardly overrun a hall, and he will surrender outdoor space before anyone gets near his elbows.
 
 ---
 

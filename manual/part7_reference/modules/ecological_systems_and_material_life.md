@@ -4,7 +4,7 @@ Dye runs from a workshop into a stream, and a fish downstream carries it in its 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 30 module roots. Current classifications and later source-led additions bring the optional learning list to 56 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
+The chapter table below introduces 30 module roots. Current classifications and later source-led additions bring the optional learning list to 57 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
 
 ## Core vocabulary used by the module
 
@@ -24,7 +24,7 @@ Systems lends its own vocabulary for the mechanics underneath: `terura` system, 
 
 ## Additional roots in this learning path
 
-Eight roots widen the path beyond systems, processes, and observation.
+Nine roots widen the path beyond systems, processes, and observation.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -36,6 +36,7 @@ Eight roots widen the path beyond systems, processes, and observation.
 | `telo` | farmer; a cultivator of land and food crops | Land, seasons, and living growth shape the role; its sustained labor places it in the Work module as well. |
 | `theluo` | steward; one who tends land, resources, or communities for others and the future | Stewardship crosses ecological care and collective responsibility, which also places the word in Commons. |
 | `mophiku` | shear; remove an animal's fleece by cutting | Shearing joins a living animal to fibre gathered for use. Work, Craft, and Repair teaches the skill and textile relation of the same work. |
+| `lomathu` | manure; animal dung collected or kept for use on soil | The word follows a bodily material into land care, where storage, runoff, and its actual effects matter. |
 
 ## Weather, material, and resources belong to base vocabulary
 
@@ -276,7 +277,15 @@ PROX material waste NEG be.
 
 Calling something a resource grants no ownership or access by itself. Calling it waste grants no permission to discard it carelessly, especially where its hazards or its place in another habitat are still real.
 
-## Decomposition, nutrients, and recycling
+## Manure, decomposition, nutrients, and recycling
+
+`lomathu` is animal dung gathered for the soil. It may include bedding, and its condition changes in storage. Medical `mokathi` names what left a body; `lomathu` follows the material into land care, where runoff and handling still matter.
+
+```
+ha lomathu ha kosha panoru.
+PROX manure PROX field support.
+(This manure supports this field.)
+```
 
 `morume` is the breakdown itself, biological or chemical; `lurepa` names a material by the biological function it serves. Decomposition can release nutrients, bind them, or carry them elsewhere, and the two words track different things even when they meet in the same pile of leaves.
 

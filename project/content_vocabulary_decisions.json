@@ -1087,6 +1087,19 @@
         "CV-BUILD-02",
         "CV-BUILD-03"
       ]
+    },
+    {
+      "id": "bodily-waste-placement-and-manure",
+      "heading": "Bodily waste placement and manure",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-BODY-06",
+        "CV-BODY-08",
+        "CV-BODY-17",
+        "CV-MED-04",
+        "CV-ECO-10"
+      ]
     }
   ],
   "candidates": [
@@ -2534,8 +2547,8 @@
       "id": "CV-BODY-06",
       "concept": "saliva, urine, and faeces",
       "status": "implemented",
-      "placement": "base",
-      "summary": "Daily care, sanitation, childhood, and illness can now name these substances without euphemism or a medical module.",
+      "placement": "base saliva with Medical and Bodily Care urine and faeces",
+      "summary": "Saliva remains ordinary base vocabulary. Urine and faeces stay available when care requires direct substance words, but a general learner need not study them merely to speak about daily sanitation.",
       "implementation": {
         "words": [
           "suhari",
@@ -2549,7 +2562,8 @@
         ]
       },
       "batches": [
-        "body-anatomy-and-bodily-condition"
+        "body-anatomy-and-bodily-condition",
+        "bodily-waste-placement-and-manure"
       ]
     },
     {
@@ -2584,7 +2598,8 @@
       "revisit_when": "a dedicated scenario set tests self-description, consent, sexual health, reproduction, pain, and care across varied bodies",
       "batches": [
         "body-anatomy-and-bodily-condition",
-        "medical-bodily-care-module-prose"
+        "medical-bodily-care-module-prose",
+        "bodily-waste-placement-and-manure"
       ]
     },
     {
@@ -4285,8 +4300,8 @@
       "id": "CV-MED-04",
       "concept": "diarrhoea, constipation, urinary frequency, retention, and incontinence",
       "status": "compositional",
-      "placement": "base bodily substances, release, recurrence, possibility, and condition descriptions",
-      "summary": "Ordinary care can name faeces or urine, describe its form, and say how often release occurs or whether the person can control it. Exact clinical categories use different duration and frequency criteria, so the source classification remains beside the person's more direct report.",
+      "placement": "Medical bodily substances with base release, recurrence, possibility, and condition descriptions",
+      "summary": "A care report can name faeces or urine, describe its form, and say how often release occurs or whether the person can control it. Exact clinical categories use different duration and frequency criteria, so the source classification remains beside the person's more direct report.",
       "expressions": [
         "mokathi",
         "tomewu",
@@ -4298,7 +4313,8 @@
         "phamori"
       ],
       "batches": [
-        "medical-bodily-care-module-prose"
+        "medical-bodily-care-module-prose",
+        "bodily-waste-placement-and-manure"
       ]
     },
     {
@@ -5867,6 +5883,40 @@
       ],
       "batches": [
         "architectural-arch-repair"
+      ]
+    },
+    {
+      "id": "CV-BODY-17",
+      "concept": "dedicated verbs for urination and defecation",
+      "status": "compositional",
+      "placement": "base need, release, and motion clauses with Household and Medical nouns",
+      "summary": "Ordinary speech can state a need for `muneki` or motion towards it without naming bodily waste. When care needs the event itself, a person or body releases `tomewu` or `mokathi` with `leiro`. Direct act roots would add a bodily catalogue without preserving a further distinction.",
+      "expressions": [
+        "muneki phelona",
+        "wea muneki wepu",
+        "tomewu leiro",
+        "mokathi leiro"
+      ],
+      "batches": [
+        "bodily-waste-placement-and-manure"
+      ]
+    },
+    {
+      "id": "CV-ECO-10",
+      "concept": "manure as animal-derived material collected for land use",
+      "status": "implemented",
+      "placement": "Ecological Systems and Material Life",
+      "summary": "Animal dung takes on a land-care relation when it is collected or kept for use on soil. `lomathu` names that material; Medical `mokathi` names what left a body, and compositional compost need not contain dung. The noun does not promise safe handling, nutrient benefit, maturity, or sustainability.",
+      "implementation": {
+        "words": [
+          "lomathu"
+        ],
+        "files": [
+          "vocabulary/content/manure.json"
+        ]
+      },
+      "batches": [
+        "bodily-waste-placement-and-manure"
       ]
     }
   ],

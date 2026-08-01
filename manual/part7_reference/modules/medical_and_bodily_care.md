@@ -4,7 +4,7 @@ Someone wakes with a fever and says so, in their own words. Everything this modu
 
 Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
-The chapter table below introduces 30 roots. Current classifications bring the learning list to 52 words; the complete list is under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care).
+The chapter table below introduces 30 roots. Current classifications bring the learning list to 54 words; the complete list is under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care).
 
 ## Core vocabulary used by the module
 
@@ -12,7 +12,7 @@ The module does not replace what Phi already says about bodies and their care. I
 
 | Area | Core Phi resources |
 |---|---|
-| Body and experience | `weloni` body, `mashuri` flesh, `phaelo` feel, `morae` sense, `kipona` pain, `sikoru` itch, `numaro` numbness, `tiphori` tingling, `wiloru` dizziness, `mokela` sick, `mokura` belly, `lorika` blood, `siwe` sweat |
+| Body and experience | `weloni` body, `mashuri` flesh, `phaelo` feel, `morae` sense, `kipona` pain, `sikoru` itch, `numaro` numbness, `tiphori` tingling, `wiloru` dizziness, `mokela` sick, `mokura` belly, `lorika` blood, `siwe` sweat, `suhari` saliva |
 | Ordinary bodily acts | `whunei` breathe, `kehota` cough, `mupelo` vomit, `lisaku` lick, `pumari` suck, `nishoku` sneeze, `ketumi` hiccup, `rumeka` belch, `murase` swell, `kesiri` shrink, `nulae` sleep, `therilu` rest |
 | Health and care | `sunai` health, `wolu` healthy, `theama` care, `theala` heal, `nepha` medicine, `naphe` help, `panoru` support, `thuleni` comfort, `shorupo` protect, `shurano` safe, `pukea` danger |
 | Autonomy and interaction | `lesawi` consent, `palo` touch, `loa` give, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `nawea` respect, `kawhera` coerce, `whepelo` retaliate, `hasi` wait, `pi` politeness, `wa` question |
@@ -31,6 +31,12 @@ The Medical path also includes three particular preparations.
 | `heloa` | remedy; a treatment or medicine intended to answer a particular ailment | A remedy is narrower than medicine in general because it is matched to the problem it is meant to resolve. |
 | `thelai` | balm; a soothing ointment applied to the body | Balm names an external preparation and the relief intended through touch. |
 | `wenu` | tonic; a medicinal drink intended to restore strength | The drink is a particular care preparation; health, medicine, drinking, and strength remain separate base words. |
+
+## Direct words when care needs them
+
+Most daily conversation can stop at `muneki`, the Household word for a latrine. In care, however, a person may need to name what the body released and say what was unusual about it. For that narrower work, the Medical path includes `tomewu`, urine, and `mokathi`, faeces.
+
+`leiro` already supplies the act of release, so Phi needs no separate verbs for urination or defecation. A person can join it to `tomewu` or `mokathi`; going to a `muneki` uses ordinary need and motion. The direct nouns enter when the substance itself matters.
 
 ## Craving in first-person care
 
