@@ -528,6 +528,10 @@ D090 rereads all 233 units from Morris through Phi, exact gloss, and derived Eng
 | Source and derived-English agreement | Remove unsupported living-person imagery, add the source-bound category where the old saying needs it, and revise every affected reading with its Phi | The English rendering explains the Phi sentence; it cannot borrow a more convenient sentence from Morris. |
 | Vocabulary boundary | Add no root, module membership, registered compound, or grammar | The completed lexicon and transparent composition supply every repair. |
 
+### Derived-English repair
+
+D098 rereads all 233 parenthetical English units from the Phi alone and changes 230. The repair removes source-only gender from the hosts, Weaver, and Gold; replaces imported labels such as ferryman, surcoat, carriage, and porch with the roles and objects Phi carries; and renders transparent descriptions naturally when they identify an ordinary English form, as with ages, arches, brick, and reins. It also restores ongoing action, habitual change, reportative and inferential force, possibility, necessity, cessation, and Phi's own speech attribution. The Phi, exact glosses, Morris citations, and unit boundaries do not change.
+
 ## Translation review: News from Nowhere, chapter 4
 
 Morris's fourth chapter has 116 aligned source units. Their citations reconstruct all 6,237 normalized source characters exactly and in order. The completed Phi uses 280 unique forms. Seven optional roots carry 11 memberships across Accessibility and Participation, Ecological Systems and Material Life, Household and Daily Life, Philosophical Reasoning, Systems and Shared Infrastructure, and Work, Craft, and Repair. The chapter adds no root, registered compound, module membership, or grammar.
