@@ -33,6 +33,8 @@ The grammar and particle system are complete. Do not add a particle, module-spec
 
 Main-clause past and future meaning requires the appropriate tense particle. An unmarked verb is present. Embedded clauses carry their own tense. Slot 1 order is tense, aspect, voice, evidentiality, modality, negation, with at most one item per rank except the ruled `se ka` voice pair.
 
+A Slot 1 evidential claims the present speaker's source for its own clause's event, and on a speech or hearing verb this bites. `ti haolu` says the speaker knows only through some further report that the saying happened, the third level of the evidentiality pamphlet's own drill, and `ti hea` claims the speaker's own hearing arrived by report, which is incoherent. When the speaker directly received the saying, the frame stands plain and does the sourcing itself; frameless retelling of another's account puts `ti` on the content verb; `hi` on one's own perception stays correct. English hear and tell carry receipt of report inside the verb, so a faithful English line often shows no particle where a drafting hand wants one: a Phi evidential marking what the English never rendered is the standard sign of this mistake.
+
 Inside Phi, the period is the only visible punctuation and every letter is lowercase. Questions, quotations, address, clause boundaries, and names are spoken through words rather than silent marks. Pauses cannot change the grammar.
 
 ## One word, one lexical class
@@ -137,9 +139,9 @@ A translation preserves the source's propositions, relations, images, and diffic
 
 A refusal answers a source without claiming to reproduce it. It must identify itself before the Phi passage, keep the source available, and make its departures visible rather than disguising them as equivalence.
 
-The literary shelf gives each work a declared relationship to its source. Translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Original Phi writing is the proper home for arguments that belong to Phi itself. The Ring Verse remains a separately labelled refusal. *News from Nowhere* is a separately maintained 32-chapter translation project; chapters 1 through 6 have each received a translation pass and a separate fidelity sweep, and the current task is their cross-chapter consistency review.
+The literary shelf gives each work a declared relationship to its source. Translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Original Phi writing is the proper home for arguments that belong to Phi itself. The Ring Verse remains a separately labelled refusal. *News from Nowhere* is a separately maintained 32-chapter translation project; chapters 1 through 6 have each received a translation pass, a separate fidelity sweep, and a completed cross-chapter consistency review, and chapter 7 is the next translation.
 
-In *News from Nowhere*, the narrator and the future people share the full vocabulary, including optional modules. Any new root keeps the three-syllable lexical ceiling; only a productive name may reach four syllables.
+In *News from Nowhere*, the narrator and the future people share the full vocabulary, including optional modules. Any new root keeps the three-syllable lexical ceiling; only a productive name may reach four syllables. A person who recurs carries one Phi onym at every mention under canon's translation-naming rule, a continuing speech opens one `sha ... sho` frame rather than one per sentence, and the derived English keeps the source's own quote order. Do not render a source idiom through its metaphor's syntax: conversational entry is `koema`-shaped entry, not `pukate` breakage, and every drafted verb's argument structure is checked against its entry's own usage note, because the parser accepts a grammatical sentence that carries the wrong claim.
 
 ## The five pillars
 
