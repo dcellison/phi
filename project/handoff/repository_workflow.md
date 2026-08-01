@@ -103,7 +103,7 @@ python3 scripts/validate_sentences.py --paths texts/example.md
 python3 scripts/validate_sentences.py --docs
 ```
 
-The full active Markdown scan remains a migration command because the evaluation corpus predates the parser. As of pull request #674, `--docs` parses 5,543 complete examples and reports two diagnostics in `documents/evaluation/narrative_test_corpus.md`: PHS103 at line 46 and PHS115 at line 212. Triage each as parser or corpus before editing it. The parser's boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
+The full active Markdown scan remains a migration command because the evaluation corpus predates the parser. As of pull request #679, `--docs` parses 5,543 complete examples and reports two diagnostics in `documents/evaluation/narrative_test_corpus.md`: PHS103 at line 46 and PHS115 at line 212. Triage each as parser or corpus before editing it. The parser's boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
 
 ## Focused test suites
 
@@ -260,7 +260,7 @@ The six translated chapters provide current reference receipts:
 
 These checks establish that every normalized source character belongs to one unit and keeps its order. A fidelity sweep still has to compare the proposition carried by each valid Phi sentence with its citation and derived English; reconstruction proves coverage and order, not semantic accuracy.
 
-For the commissioned six-chapter consistency sweep, rerun reconstruction for all six chapters after any edit. Run `python3 scripts/validate_sentences.py --paths texts/news_from_nowhere/chapter_*.md`, regenerate the phonetic-neighbour baseline if attestations change, confirm the editorial counts in `site/news_from_nowhere_editorial.json`, and run the full site build before publication.
+For any edit touching the published chapters, rerun reconstruction for all six afterwards. Run `python3 scripts/validate_sentences.py --paths texts/news_from_nowhere/chapter_*.md`, regenerate the phonetic-neighbour baseline if attestations change, confirm the editorial counts in `site/news_from_nowhere_editorial.json`, and run the full site build before publication.
 
 ## Productive-name utility
 
