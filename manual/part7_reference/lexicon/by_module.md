@@ -392,7 +392,7 @@
 
 ## Work, Craft, and Repair
 
-*73 words in this learning path.*
+*74 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -463,6 +463,7 @@
 | `thunaro` | train | verb |
 | `thunesi` | asynchronous | adjective |
 | `torali` | tower | noun |
+| `toreku` | arch | noun |
 | `tukelu` | recycle | verb |
 | `weloa` | loom | noun |
 | `wephari` | coordinate | verb |

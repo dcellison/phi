@@ -550,8 +550,8 @@ REL 1SG know INTS beautiful bridge NEAR ALSO PROX PST NEG arrive.
 (Even a very beautiful bridge I knew did not come close to it.)
 morris: "for not even the Ponte Vecchio at Florence came anywhere near it."
 
-repha nia sheloi kerou loriphi to whano. lo loriphi ru kema nela ru luwae to nai.
-bridge ON MANY stone rainbow PST stand. PL rainbow INTS strong COORD INTS graceful PST be.
+repha nia sheloi kerou toreku to whano. lo toreku ru kema nela ru luwae to nai.
+bridge ON MANY stone arch PST stand. PL arch INTS strong COORD INTS graceful PST be.
 (It stood on stone arches that were very strong and very graceful.)
 morris: "It was of stone arches, splendidly solid, and as graceful as they were strong;"
 
@@ -591,7 +591,7 @@ DAT 1SG PROX wondrous bridge PST be.
 morris: "In short, to me a wonder of a bridge."
 ```
 
-**Notes:** the vanished riverfront keeps Morris's drumbeat: the soapworks are gone, followed by the device-works and the works of the heavy metal. Their chimneys remain visible as `lo thumiro sepho ruela`, paths that sent smoke. The industrial noise keeps Morris's two acts. `keluo tiwa shonuwa` names the sound of fastening metal, and `roe toka kema palo shonuwa` the sound of forceful contact with a hammer. Both fail to arrive with the sun's-end wind. The arches remain `kerou loriphi`, stone rainbows, while `luwae` gives their lines the grace Morris sees. The painted manuscript is still a book that holds pigments. Shops remain houses for giving and taking, supposed through `ho`; importing a market noun would settle a question the scene has only begun to ask. `rohemi` gives the stone its slight weathering without calling it damaged. The paragraph's exclamation is spoken instead of left to punctuation: `wao. repha.`
+**Notes:** the vanished riverfront keeps Morris's drumbeat: the soapworks are gone, followed by the device-works and the works of the heavy metal. Their chimneys remain visible as `lo thumiro sepho ruela`, paths that sent smoke. The industrial noise keeps Morris's two acts. `keluo tiwa shonuwa` names the sound of fastening metal, and `roe toka kema palo shonuwa` the sound of forceful contact with a hammer. Both fail to arrive with the sun's-end wind. The bridge stands on `kerou toreku`, stone arches, while `luwae` gives their lines the grace Morris sees. The painted manuscript is still a book that holds pigments. Shops remain houses for giving and taking, supposed through `ho`; importing a market noun would settle a question the scene has only begun to ask. `rohemi` gives the stone its slight weathering without calling it damaged. The paragraph's exclamation is spoken instead of left to punctuation: `wao. repha.`
 
 ```
 rewa miona mia therua wakomi menoa kire to morae. shia phea whu mia lo remo hea miona to haolu.

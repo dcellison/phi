@@ -1,10 +1,10 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #682 and decision D098 on 1 August 2026. It covers the completed SEM-09D corpus retrofit, the translation-only literary shelf, the finished book, the practice-complete pamphlet shelf, and the six translated and fidelity-swept chapters of *News from Nowhere*. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #683 and decision D099 on 1 August 2026. It covers the completed SEM-09D corpus retrofit, the translation-only literary shelf, the finished book, the practice-complete pamphlet shelf, and the six translated and fidelity-swept chapters of *News from Nowhere*. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
-SEM-09D and PED-08 are complete. The book is published whole, all four planned original Phi works have received Phi-first reviews, PUB-06 and PUB-07 are complete, and the inherited literary shelf has completed its translation-fidelity conversion. D085 through D096 then replaced and exhaustively reread the first six *News from Nowhere* chapters as translations, and D097 with its follow-up repairs brought the six into one convention. D098 is the shelf-wide repair of English readings so that they derive from Phi rather than the adjacent source; chapters 1 through 3 are complete. The remaining texts are the active task, and chapter 7 follows. The book's title remains The Phi Book for now by the maintainer's ruling, and PUB-03 remains deferred because the local reading PDF has no reproducible checked-in build command or post-processing tool.
+SEM-09D and PED-08 are complete. The book is published whole, all four planned original Phi works have received Phi-first reviews, PUB-06 and PUB-07 are complete, and the inherited literary shelf has completed its translation-fidelity conversion. D085 through D096 then replaced and exhaustively reread the first six *News from Nowhere* chapters as translations, and D097 with its follow-up repairs brought the six into one convention. D098 is the shelf-wide repair of English readings so that they derive from Phi rather than the adjacent source; chapters 1 through 3 are complete. D099 pauses that sequence for one bounded lexical repair, replacing the recurring architectural use of `loriphi` with Work `toreku` across chapters 2 through 6. Chapter 4 remains next in the derived-English sweep, and chapter 7 follows after the shelf work. The book's title remains The Phi Book for now by the maintainer's ruling, and PUB-03 remains deferred because the local reading PDF has no reproducible checked-in build command or post-processing tool.
 
 The completed-work chronology below preserves the stages by which the current state was reached. References there to alternate renderings or adaptations describe work as it stood during those earlier passes; D078 through D084 later retired those methods from the active shelf, and D085 through D096 replaced the first six Morris adaptations with translations.
 
@@ -52,16 +52,16 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,299 | 1,299 | 0 |
-| Content vocabulary | 1,165 | 1,165 | 0 |
+| Entire lexicon | 1,300 | 1,300 | 0 |
+| Content vocabulary | 1,166 | 1,166 | 0 |
 | Base content vocabulary | 896 | 896 | 0 |
-| Optional-module content vocabulary | 269 | 269 | 0 |
+| Optional-module content vocabulary | 270 | 270 | 0 |
 | Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest source-led vocabulary additions remain D077's base `ratenu` steep and `salenu` unclothed from the On Love fidelity repair. D078 through D084 changed literary method and completed two post-conversion sweeps without adding vocabulary. D085 through D096 translated and fidelity-swept the first six *News from Nowhere* chapters without adding a root, module membership, registered compound, or grammar. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest source-led vocabulary addition is D099's Work `toreku` arch, prompted by the same rainbow comparison carrying bridge supports, openings, arcades, and covered walks across five *News from Nowhere* chapters. D077's base `ratenu` steep and `salenu` unclothed remain the latest base additions. D078 through D084 changed literary method and completed two post-conversion sweeps without adding vocabulary. D085 through D096 translated and fidelity-swept the first six *News from Nowhere* chapters without adding a root, module membership, registered compound, or grammar. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -69,17 +69,17 @@ The latest source-led vocabulary additions remain D077's base `ratenu` steep and
 
 | Item | Count |
 |---|---:|
-| Registered batches | 79 |
-| Decisions | 276 |
-| Implemented | 69 |
-| Compositional | 128 |
+| Registered batches | 80 |
+| Decisions | 278 |
+| Implemented | 70 |
+| Compositional | 129 |
 | Deferred with return condition | 31 |
 | Source-bound | 44 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D098 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D099 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 
@@ -95,7 +95,7 @@ Run it before trusting the zero count. The snapshot is not a substitute for the 
 
 ## Module state
 
-Phi has eight established vocabulary modules, one grammar, 269 optional roots, and 406 module memberships. A root may appear in several modules.
+Phi has eight established vocabulary modules, one grammar, 270 optional roots, and 407 module memberships. A root may appear in several modules.
 
 | Module | Total current memberships | Legacy entries in that learning path |
 |---|---:|---:|
@@ -106,7 +106,7 @@ Phi has eight established vocabulary modules, one grammar, 269 optional roots, a
 | Accessibility and Participation | 46 | 0 |
 | Commons and Collective Governance | 55 | 0 |
 | Ecological Systems and Material Life | 55 | 0 |
-| Work, Craft, and Repair | 73 | 0 |
+| Work, Craft, and Repair | 74 | 0 |
 
 Every module learning path now has zero legacy prose, and every complete `modules` array was preserved during migration. D045 through D052 complete SEM-09C in the modules' historical order.
 
@@ -153,6 +153,8 @@ Each fenced unit has four lines: Phi, exact gloss, derived English in parenthese
 D097 completed the six-chapter consistency sweep. It found the six chapters internally coherent and lexically consistent, with recurring nouns, structure, editorial metadata, and source-bound treatment already in agreement, and two conventions split cleanly at the chapter 3 and 4 boundary. Both are now ratified in one direction. Characters who recur have Phi onyms in every chapter, under the canon rule that a translation is the naming community for people who cannot accept a name. A continuing speech is framed once rather than re-attributed sentence by sentence. One hundred units changed, all six source reconstructions stayed exact, and no unit count moved.
 
 D098 supersedes D097's source-led attribution order. Derived English is a natural translation made from Phi alone: it preserves every distinction Phi marks without copying Phi word order, and it does not recover source wording, gender, emphasis, or literary order that Phi does not encode. Chapter 1 changes 58 of 77 units. Chapter 2 changes 189 of 235, removing source-only gender and repairing occupation labels, comparison force, evidence, quantity, future readiness, and literal calques. Chapter 3 changes 230 of 233, removes source-only gender throughout the guest house, restores Phi's roles, objects, aspect, evidence, modality, habit, and attribution, and naturalizes transparent forms without borrowing distinctions Phi does not carry. The Phi, exact glosses, citations, and unit counts do not change.
+
+D099 adds Work `toreku` for an architectural arch. Eight Phi tokens in chapters 2 through 6 had used `loriphi` rainbow to identify a built span, leaving the source and context to supply its structural meaning. The direct noun now covers bridge supports, openings, and arches beneath covered paths; `loriphi` returns to optical rainbows and deliberate comparisons. Arcade and cloister remain compositional arrangements around the arches. Source citations and unit counts do not change.
 
 An audit of the sweep then repaired its three hand-edit defects, and two maintainer rulings closed calques the fidelity passes had read past. Conversational entry is entry, not breakage: both chapter 3 copies of the English break-into idiom now read `muo haolu to reshi koema`, came swiftly into the talk, because `pukate`'s own usage note makes the subject the thing that breaks. And an evidential never sits on speech or hearing the speaker received directly: the evidentiality pamphlet's drill defines a matrix `ti` on a saying as third-hand knowledge of the speech event itself, so chapter 1's two report frames now stand plain like the chapter's closing frame, eleven further sites across chapters 2, 3, and 5 and Gibran's On Work dropped or relocated the particle, and the three-slots pamphlet's rank-order drill traded its incoherent sentence for `melu to ti shua`. Where a frame is present the frame does the sourcing; frameless retelling marks the content verb; `hi` on one's own perception stays correct everywhere. The maintainer also accepted `tiso` for speech manner in chapter 6, so that use is settled and is not re-flagged.
 
@@ -226,7 +228,7 @@ The live entries are:
 | Entrance and index pages | Complete | Kia, the Short Road, and the Phi Book contents page are finished without source decoration. Kia has its doorway masthead, two Tengwar greetings, six numbered encounters, and seven broad destination links. The Short Road has a twelve-stop map, joined waypoints, thirteen interlinear figures, and a final invitation in both hands. The book contents page maps the argument from boatman to door. Four movements hold its fourteen chapters, and the bibliography stays apart. Strict shape checks guard all three renderings, including exact agreement between the README's reading order and the published files. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
-| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,299 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
+| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,300 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |
 
 Speech evidence, outside learner evidence, community governance, and a maintained print publication pipeline remain evidence-gated or deferred in the roadmap. The one-off book PDF does not close PUB-03 or create PUB-04 review evidence. Do not mark an evidence item complete because tools or materials exist, and do not invent participants, observations, or adoption.

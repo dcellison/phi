@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1299 words.*
+*1300 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -1162,6 +1162,7 @@
 | `tomi` | pot | /ˈt̪o̞.mi/ | noun |
 | `tomora` | mountain | /t̪o̞.ˈmo̞.rä/ | noun |
 | `torali` | tower | /t̪o̞.ˈrä.li/ | noun |
+| `toreku` | arch | /t̪o̞.ˈre̞.ku/ | noun |
 | `toru` | roof | /ˈt̪o̞.ru/ | noun |
 | `torua` | year | /t̪o̞.ˈru.ä/ | noun |
 | `towe` | well | /ˈt̪o̞.we̞/ | adjective |

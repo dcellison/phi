@@ -1,0 +1,32 @@
+{
+  "word": "toreku",
+  "gloss": "arch",
+  "ipa": "/t̪o̞.ˈre̞.ku/",
+  "syllables": [
+    "to",
+    "re",
+    "ku"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "architectural arch",
+    "arched opening"
+  ],
+  "description": "Bricks rise over a doorway as a 'toreku' when their curved or pointed course carries its own weight towards supports on either side. The word also covers arches cut or assembled from other materials, even when their chief work is to give an opening its form. A 'kelo' (frame) surrounds or supports more generally; 'toreku' identifies this particular span.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release into true-mid back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge before stressed true-mid front 'e'. Close the back of the tongue against the soft palate for 'k' and release into high-back rounded 'u'.",
+  "sound_symbolism": "The opening dental contact and the velar closure before final 'u' set two brief points of resistance around the tapped, stressed middle. Between them, the word feels as though it crosses a small span. Its first syllable echoes 'toru' (roof) and 'torali' (tower), an audible kinship among built forms rather than a productive part of the language.",
+  "usage_notes": "Material may modify the noun: 'kerou toreku' is a stone arch. A speaker may still compare an arch with 'loriphi' (rainbow), but that comparison describes its appearance rather than naming the structure. Several arches may support a bridge or line a covered path.",
+  "examples": [
+    {
+      "phi": "lo miona kerou toreku lorima.",
+      "translation": "The people build a stone arch."
+    }
+  ],
+  "semantic_domains": {
+    "creation": "a built span assembled or cut over an opening",
+    "spatial": "an architectural form crossing an opening between side supports"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

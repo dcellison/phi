@@ -59,9 +59,9 @@ PL home INS wood COORD different material PST PASS build.
 (The houses were built of wood and another material.)
 morris: "built of timber and plaster,"
 
-neo theli womu mioru toru leo thalo ruela to whano. ra toru sheloi kerou loriphi kire to phelu.
-FRONT EACH home beautiful roof ABOVE walk path PST stand. DIST roof MANY stone rainbow shape PST hold.
-(Before each house, a beautiful roof stood above the footpath. It had many stone arch-shapes.)
+neo theli womu mioru toru leo thalo ruela to whano. ra toru sheloi kerou toreku to phelu.
+FRONT EACH home beautiful roof ABOVE walk path PST stand. DIST roof MANY stone arch PST hold.
+(Before each house, a beautiful roof stood above the footpath. It had many stone arches.)
 morris: "and with a pretty arcade over the footway before it."
 
 ne kulo sha ha lokue kesho nai sho to haolu.
@@ -225,7 +225,7 @@ AMONG PL smell BESIDE path REL PL foot PST rub FOC fern smell PST be.
 morris: "chief amongst which was the smell of the trodden bracken near the wayside."
 ```
 
-**Notes:** Morris's place names stay in his lines. Phi begins with the wood's short southward reach, then follows it north and west. The north-east turn, narrow strip, and high ground above the wet plains come next. The neighbouring forest still holds out its hand. Morris names oak, sweet chestnut, plane, and sycamore; Phi uses the broader tree-kind where no direct species word exists and names the sycamore with `pilomu`. The arcade becomes a beautiful roof above the footpath with many stone arch-shapes. Morris supplies the plaster, with no invented colour or texture from Phi. The forest's "romance" is its wonder, and the naturalists are nature-scholars. At the end of the road, Guide smells green forest scents, chiefly `phero`, fern, rubbed underfoot.
+**Notes:** Morris's place names stay in his lines. Phi begins with the wood's short southward reach, then follows it north and west. The north-east turn, narrow strip, and high ground above the wet plains come next. The neighbouring forest still holds out its hand. Morris names oak, sweet chestnut, plane, and sycamore; Phi uses the broader tree-kind where no direct species word exists and names the sycamore with `pilomu`. The arcade becomes a beautiful roof above the footpath with many stone arches. Morris supplies the plaster, with no invented colour or texture from Phi. The forest's "romance" is its wonder, and the naturalists are nature-scholars. At the end of the road, Guide smells green forest scents, chiefly `phero`, fern, rubbed underfoot.
 
 ## lo lopia mua shelira — The children in the wood
 
@@ -1423,7 +1423,7 @@ morris: "while in many others a limit does seem possible.\""
 |---|---|
 | Kensington and the named route through London and its forests | Morris keeps every place name. Phi gives the directions, hills, narrow strip, high ground, wet plains, and neighbouring forest. |
 | Oak, sweet chestnut, plane, sycamore, and bracken | `pilomu` names the sycamore and `phero` the fern. The remaining species keep their exact identities in Morris. |
-| Plaster, arcade, cottages, gipsy fashion, and the named forests | Phi gives another building material, a roof on stone arch-shapes, small homes with an old name, temporary shelters, and two source-named forests. Morris supplies the precise labels. |
+| Plaster, arcade, cottages, gipsy fashion, and the named forests | Phi gives another building material, a roof on stone arches, small homes with an old name, temporary shelters, and two source-named forests. Morris supplies the precise labels. |
 | School, education, Latin *educere*, and the herring and painting senses | Phi refers to the source word, carries each stated meaning, and describes the institution as a teaching system. The English and Latin forms remain in Morris's wording. |
 | French, German, English, Welsh, Irish, Latin, and Greek | Their identities stay in the source, and Phi describes their relations. |
 | Bob | The weaver keeps the onym he was given at the guest house, `ne selomi`, with the exact name in Morris's line. |

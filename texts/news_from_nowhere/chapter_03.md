@@ -70,18 +70,18 @@ PL 1SG LOC meeting place PST stand. PL person INS MANY small smooth stone floor 
 (We stood in a hall. People had built its floor from many small, smooth stones and left the roof's wooden frame uncovered.)
 morris: "and standing in a hall with a floor of marble mosaic and an open timber roof."
 
-mua whu lue luphore wuero phanoi mu wira to nai. whekai mua ra phanoi lo mulu kerou loriphi muo lo tholupi to kulo.
-LOC REL ABL river far portion zero window PST be. CONTR LOC DIST portion PL low stone rainbow INTO PL room PST guide.
+mua whu lue luphore wuero phanoi mu wira to nai. whekai mua ra phanoi lo mulu kerou toreku muo lo tholupi to kulo.
+LOC REL ABL river far portion zero window PST be. CONTR LOC DIST portion PL low stone arch INTO PL room PST guide.
 (There were no windows on the side away from the river. Instead, low stone arches there led into rooms.)
 morris: "There were no windows on the side opposite to the river, but arches below leading into chambers,"
 
-thue ta loriphi mia soli thepalu to nila. thepalu noe womu to nai.
-THROUGH one rainbow 1SG SOME garden PST see. garden BEHIND home PST be.
+thue ta toreku mia soli thepalu to nila. thepalu noe womu to nai.
+THROUGH one arch 1SG SOME garden PST see. garden BEHIND home PST be.
 (Through one of the stone arches, I saw part of a garden behind the house.)
 morris: "one of which showed a glimpse of a garden beyond,"
 
-leo lo loriphi laeno moru phanoi ru keru kolai to phelu.
-ABOVE PL rainbow long wall portion INTS bright pigment PST hold.
+leo lo toreku laeno moru phanoi ru keru kolai to phelu.
+ABOVE PL arch long wall portion INTS bright pigment PST hold.
 (Above the stone arches, a long stretch of wall held bright pigment.)
 morris: "and above them a long space of wall gaily painted"
 
@@ -116,7 +116,7 @@ good build UNIV time DAT REL PL eye HAB take COORD anxious NEG be person PROX fe
 morris: "which satisfactory architecture always gives to an unanxious man who is in the habit of using his eyes."
 ```
 
-**Notes:** marble mosaic appears as a floor built of many small smooth stones. The open timber roof exposes its wooden frame (`wolea kelo`). The arches are `kerou loriphi`, stone rainbows, with the practical work of guiding (`kulo`) into `tholupi`, rooms. Fresco is the narrator's guess: pigment on physically soft clay, with `remo` marking the inference. The closing sentence runs long too. The hall offers space and freedom (`tholu nela ralu`), the feeling lifts the heart, and good building habitually brings it to an unanxious person who uses their eyes. Morris's sentence is about practised attention, not luck. Crosby Hall is exact in the source; Phi compares this room with the fine old hall the narrator remembers.
+**Notes:** marble mosaic appears as a floor built of many small smooth stones. The open timber roof exposes its wooden frame (`wolea kelo`). The low `kerou toreku`, stone arches, guide (`kulo`) into `tholupi`, rooms. Fresco is the narrator's guess: pigment on physically soft clay, with `remo` marking the inference. The closing sentence runs long too. The hall offers space and freedom (`tholu nela ralu`), the feeling lifts the heart, and good building habitually brings it to an unanxious person who uses their eyes. Morris's sentence is about practised attention, not luck. Crosby Hall is exact in the source; Phi compares this room with the fine old hall the narrator remembers.
 
 ## ta shao himo — The three
 
