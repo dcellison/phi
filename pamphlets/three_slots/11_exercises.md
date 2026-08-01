@@ -75,7 +75,7 @@ The parts above tell you where to look. These do not. Each item needs a particle
 41. The child made the dog go. (`lopia`, `lohau`, `wepu`)
 42. It is the child who sees you, not someone else. (`lopia`, `thia`, `nila`)
 43. The garden is beautiful enough for the festival. (`thepalu`, `mioru`)
-44. I had heard it, they say. (`mia`, `hea`)
+44. The friend came, they say. (`melu`, `shua`)
 
 ---
 
@@ -137,4 +137,4 @@ The parts above tell you where to look. These do not. Each item needs a particle
 41. `lopia lohau ka wepu.` Slot 1, voice. The dog is still the one going; the child has been added in front.
 42. `ko lopia thia nila.` Slot 2, focus. Whoever else might have been looking stays unnamed; the particle marks the choice without spelling out what it was made against.
 43. `thepalu pe mioru nai.` Slot 2, degree against a purpose. The festival is the standard, and a different occasion would move it.
-44. `mia to ti hea.` Slot 1, tense before evidentiality. Two ranks, one event, in canon order.
+44. `melu to ti shua.` Slot 1, tense before evidentiality. Two ranks, one event, in canon order.

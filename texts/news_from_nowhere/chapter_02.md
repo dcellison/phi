@@ -871,8 +871,8 @@ COND neighbor DAT 1SG different thing PST PFV NEG do. CONTR 1SG DAT neighbor DIS
 (If a neighbour has not done something special for me, I do not give them such a thing.)
 morris: "which I am not to give to a neighbour, unless he has done something special for me."
 
-mia ha keno lo haolu to ti hea.
-1SG PROX custom PL speak PST REP hear.
+mia ha keno lo haolu to hea.
+1SG PROX custom PL speak PST hear.
 (I have heard talk of this kind of custom.)
 morris: "I have heard of this kind of thing;"
 

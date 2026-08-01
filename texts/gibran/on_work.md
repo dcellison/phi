@@ -43,8 +43,8 @@ SIMUL UNIV different thing together harmonious sing AMONG PL 2SG who [REL NONE v
 (While all other things sing together in harmony, who among you could be a quiet reed with no voice?)
 gibran: "Which of you would be a reed, dumb and silent, when all else sings together in unison?"
 
-wei thia tha riola [whu lue peloma haolu shua] tupeka nai nela riola peloma soleha nai tho to ro se ti haolu.
-DAT 2SG DECL.COMP labor [REL ABL harmful speak come] burden be COORD labor harmful luck be DECL.COMP.CLOSE PST HAB PASS REP speak.
+wei thia tha riola [whu lue peloma haolu shua] tupeka nai nela riola peloma soleha nai tho to ro se haolu.
+DAT 2SG DECL.COMP labor [REL ABL harmful speak come] burden be COORD labor harmful luck be DECL.COMP.CLOSE PST HAB PASS speak.
 (You have long been told that work is a burden arising from harmful speech, and that labour is misfortune.)
 gibran: "Always you have been told that work is a curse and labour a misfortune."
 
@@ -74,8 +74,8 @@ COND CONTR 2SG pain feel. 2SG DECL.COMP born harmful be COORD flesh support [REL
 (But if you feel pain, you say that birth is harmful and the support of flesh is a burden written on your forehead. I answer you: only the sweat of your forehead will wash what is written.)
 gibran: "But if you in your pain call birth an affliction and the support of the flesh a curse written upon your brow, then I answer that naught but the sweat of your brow shall wash away that which is written."
 
-wei thia tha lioru nuelo nai tho we to se ti haolu. lu thia shorui nai. thia lo shorui miona haolu thole.
-DAT 2SG DECL.COMP life dark be DECL.COMP.CLOSE ALSO PST PASS REP speak. COND 2SG weary be. 2SG PL weary person speak practice.
+wei thia tha lioru nuelo nai tho we to se haolu. lu thia shorui nai. thia lo shorui miona haolu thole.
+DAT 2SG DECL.COMP life dark be DECL.COMP.CLOSE ALSO PST PASS speak. COND 2SG weary be. 2SG PL weary person speak practice.
 (You have also been told that life is darkness. When you are weary, you rehearse the speech of weary people.)
 gibran: "You have been told also that life is darkness, and in your weariness you echo what was said by the weary."
 

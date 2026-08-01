@@ -425,9 +425,9 @@ VOC kind neighbor. 2SG ANT SOME year DIST forest PST know.
 ("Dear neighbor, you knew that forest some years ago.")
 morris: "\"Dear neighbour, since you knew the Forest some time ago,"
 
-lo miona tha mua ra serao punoa lo miona theula shiro koma to ro kati tho ti haolu. wa ha shewo nai. pi no wei mia shane.
-PL person DECL.COMP LOC DIST old society PL person UNIV tree head PST HAB cut DECL.COMP.CLOSE REP speak. Q PROX true be. POL IMP DAT 1SG tell.
-(People say, at second hand, that in that old world the trees all had their heads cut. Is this true? Please tell me.)
+mua ra serao punoa lo miona theula shiro koma to ro ti kati. wa ha shewo nai. pi no wei mia shane.
+LOC DIST old society PL person UNIV tree head PST HAB REP cut. Q PROX true be. POL IMP DAT 1SG tell.
+(In that old world, so the rumour goes, people cut the heads of all the trees. Is this true? Please tell me.)
 morris: "could you tell me what truth there is in the rumour that in the nineteenth century the trees were all pollards?\""
 
 ha thilou mia serao thimu lioru sano phanoi to kawepa.
@@ -500,8 +500,8 @@ LOC DIST moment 1SG DECL.COMP PL person ABOVE UNIV DIST place PST PFV build DECL
 (Then I saw that people had built over the whole place; it had been altered; and that sight shocked me deeply.)
 morris: "I was very much shocked then to see how it was built-over and altered;"
 
-mua ta noshi philo lo mia tha whu mioru thiku nila lo miona ra shelira thepalu ka kelu thueli tho to ti hea.
-LOC one near day PL 1SG DECL.COMP REL beautiful small see PL person DIST forest garden CAUS become intend DECL.COMP.CLOSE PST REP hear.
+mua ta noshi philo lo mia tha whu mioru thiku nila lo miona ra shelira thepalu ka kelu thueli tho to hea.
+LOC one near day PL 1SG DECL.COMP REL beautiful small see PL person DIST forest garden CAUS become intend DECL.COMP.CLOSE PST hear.
 (And the other day we heard it said that the people who see beauty small meant to make the forest into a garden.)
 morris: "and the other day we heard that the philistines were going to landscape-garden it."
 
@@ -561,9 +561,9 @@ thia phea whu punoa ru moluki rinu lo palowe kealo miona mua lo tawimo serao nop
 (You are like the shoe-makers who wanted deep social change in the silly old stories.)
 morris: "You remind me of the radical cobblers in the silly old novels,"
 
-lo lophae tha lila shia kelasu sano sheraki ra lo miona theula welao keno phou paloi pesa to thueli tho ti shane.
-PL storyteller DECL.COMP PURP 3SG usable know search DIST PL person UNIV good custom BELOW foot push PST intend DECL.COMP.CLOSE REP tell.
-(The story-writers report that those people intended to push every good custom underfoot in order to seek useful knowledge.)
+lo lophae tha lila shia kelasu sano sheraki ra lo miona theula welao keno phou paloi pesa to thueli tho shane.
+PL storyteller DECL.COMP PURP 3SG usable know search DIST PL person UNIV good custom BELOW foot push PST intend DECL.COMP.CLOSE tell.
+(By the story-writers' telling, those people intended to push every good custom underfoot in order to seek useful knowledge.)
 morris: "who, according to the authors, were prepared to trample down all good manners in the pursuit of utilitarian knowledge."
 
 mia tha thia roe tawi remo thia koma to ki ka tiwa tho pa remo.
@@ -686,13 +686,13 @@ thia lo haolu ha to ka nuwi nila. thia mua whu lo miona wiso phena ma nai lo mui
 (And your own words showed it clearly: you have journeyed in lands where people are not kind to one another.)
 morris: "and clearly from all you have been saying, in unsocial countries."
 
-lu miona thoa whu nuhe phaelo lo miona menui. shia serao ru reshi kelu. lo miona ha sheloi shemu ti haolu. ha nuwi shewo nai.
-COND person AMONG REL sadness feel PL person dwell. 3SG old INTS fast become. PL person PROX MANY moment REP speak. PROX clear true be.
+lu miona thoa whu nuhe phaelo lo miona menui. shia serao ru reshi kelu. lo miona ha sheloi shemu haolu. ha nuwi shewo nai.
+COND person AMONG REL sadness feel PL person dwell. 3SG old INTS fast become. PL person PROX MANY moment speak. PROX clear true be.
 (If a person lives among people who feel sadness, they grow old very quickly. People have often said this, and it is plainly true.)
 morris: "It has often been said, and no doubt truly, that one ages very quickly if one lives amongst unhappy people."
 
-sheno lo miona tha ha muila ronua phanoi wei miona mioru manolu welao lokue nai tho ti haolu.
-ADD PL person DECL.COMP PROX earth south portion DAT person beautiful stay good place be DECL.COMP.CLOSE REP speak.
+sheno lo miona tha ha muila ronua phanoi wei miona mioru manolu welao lokue nai tho haolu.
+ADD PL person DECL.COMP PROX earth south portion DAT person beautiful stay good place be DECL.COMP.CLOSE speak.
 (They also say that the south of this land is a good place for a person's beauty to remain.)
 morris: "Also they say that southern England is a good place for keeping good looks.\""
 
@@ -701,8 +701,8 @@ shia menoa rulo to kelu. shia sha thia pha mia wia torua phelu pho remo. sho to 
 (She blushed, and said: "How many years do you think I hold?")
 morris: "She blushed and said: \"How old am I, do you think?\""
 
-lo miona theula thimu wei mia tha mua ta mia punoa miona remole miona lo torua phea miona nila kire nai tho to ti haolu.
-PL person UNIV time DAT 1SG DECL.COMP LOC one 1SG society person concept person PL year AS person see shape be DECL.COMP.CLOSE PST REP speak.
+lo miona theula thimu wei mia tha mua ta mia punoa miona remole miona lo torua phea miona nila kire nai tho to haolu.
+PL person UNIV time DAT 1SG DECL.COMP LOC one 1SG society person concept person PL year AS person see shape be DECL.COMP.CLOSE PST speak.
 ("Well," quoth I, "I have always been told that, within one person-category of my society, a person's years are as the person's look,")
 morris: "\"Well,\" quoth I, \"I have always been told that a woman is as old as she looks,"
 
@@ -822,8 +822,8 @@ mia sha lu mia wei thia lo thilou sepho. lo thilou ru kethua so ma nai sho to ha
 ("If I ask you any questions," said I, "they will not be very severe.")
 morris: "\"If I ask you any questions, sir,\" said I, \"they will not be very severe;"
 
-whekai lao mia tha thia selomi miona nai tho ti hea mia wei thia roa ra theko soli thilou sepho rinu.
-CONTR BECAUSE 1SG DECL.COMP 2SG weave person be DECL.COMP.CLOSE REP hear 1SG DAT 2SG AROUND DIST craft SOME inquire send want.
+whekai lao mia tha thia selomi miona nai tho hea mia wei thia roa ra theko soli thilou sepho rinu.
+CONTR BECAUSE 1SG DECL.COMP 2SG weave person be DECL.COMP.CLOSE hear 1SG DAT 2SG AROUND DIST craft SOME inquire send want.
 (But since I hear that you are a weaver, I should like to ask you something about that craft.)
 morris: "but since I hear that you are a weaver, I should like to ask you something about that craft,"
 
