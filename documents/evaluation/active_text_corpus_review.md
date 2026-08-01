@@ -17,6 +17,7 @@ This ledger tracks roadmap item SEM-01C: the active Phi corpus is being reread a
 |---|---|
 | Declared relationship | Is the work identified as a translation, an original Phi work, a refusal, or a chapter of the current Morris project before the reader reaches the Phi passage? |
 | Source and proposition | In a translation, does every source claim, distinction, image, and relation survive as closely as Phi permits? In a refusal or Morris chapter, is every departure deliberate, visible, and honestly represented by the back-translation? |
+| Derived English | Does the parenthetical English read naturally from the Phi alone, without borrowing source wording, gender, emphasis, or literary order that the Phi does not encode? |
 | Lexicon semantics | Does every content word fit its full concept and description rather than merely sharing an English gloss? |
 | Module vocabulary | Does an optional term say the thought more exactly, or would it only advertise a module and burden this text's intended reader? |
 | Composition | Is the existing phrase natural Phi, and does its transparency teach something a dedicated term would hide? |
