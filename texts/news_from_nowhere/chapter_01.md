@@ -1,6 +1,6 @@
 # nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed
 
-*William Morris opens News from Nowhere in a political meeting full of interruption, conviction, and familiar bad temper. The narrator leaves by underground railway, walks home through a winter night, lies awake with his failures, and finally sleeps into the book's future England. This translation follows the whole chapter. Its opening `ti` carries the repeated "says our friend" as secondhand report until Morris hands the story to the first person. The optative `su` holds the wish that turns the chapter: if only he could see one day of the society they argued about.*
+*William Morris opens News from Nowhere in a political meeting full of interruption, conviction, and familiar bad temper. The narrator leaves by underground railway, walks home through a winter night, lies awake with his failures, and finally sleeps into the book's future England. This translation follows the whole chapter. The narrator says plainly that a friend spoke; reportative `ti` marks the story's events as secondhand wherever "says our friend" interrupts the telling, until Morris hands the story to the first person. The optative `su` holds the wish that turns the chapter: if only he could see one day of the society they argued about.*
 
 *Each block below carries four lines: the Phi sentence, its word-by-word gloss, an English rendering derived from the Phi, and Morris's own wording. The two English lines make gains and limits visible without asking the reader to take either on trust.*
 
@@ -9,9 +9,9 @@
 ## The report
 
 ```
-melu tha mua shalimo ta shero reshi thorelu shareo to ki nai tho ti haolu.
-friend DECL.COMP LOC alliance one night fast converse discuss PST PFV be DECL.COMP.CLOSE REP speak.
-(A friend reportedly says that one night at the alliance there had been a brisk, conversational discussion.)
+melu tha mua shalimo ta shero reshi thorelu shareo to ki nai tho haolu.
+friend DECL.COMP LOC alliance one night fast converse discuss PST PFV be DECL.COMP.CLOSE speak.
+(A friend says that one night at the alliance there had been a brisk, conversational discussion.)
 morris: "Up at the League, says a friend, there had been one night a brisk conversational discussion,"
 
 punoa moluki wireo philo hina so po kelu.
@@ -25,7 +25,7 @@ LOC discuss end SOME different friend PL new mature society future think INTS st
 morris: "finally shading off into a vigorous statement by various friends of their views on the future of the fully-developed new society."
 ```
 
-**Notes:** `ti` marks the opening as something known through the friend's report rather than witnessed by the narrator. Both `mua shalimo`, at the alliance, and `ta shero`, one night, belong to the discussion being reported. Phi does not add a listener whom Morris never names.
+**Notes:** the opening frame is the narrator's own plain claim, since he heard the friend speak; everything inside `tha ... tho` arrives as the friend's account, and neither level needs a source particle. Both `mua shalimo`, at the alliance, and `ta shero`, one night, belong to the discussion being reported. Phi does not add a listener whom Morris never names.
 
 "Up at the League" refers to a continuing association, so it takes `shalimo`, alliance. A meeting, `lona`, would name only the event. Existing `reshi` and `moluki` supply the brisk pace and the social transformation.
 
@@ -216,9 +216,9 @@ shia sha su mia shia li nila. su mia shia li nila sho to si maeli haolu.
 ("If only I could see it. If only I could see it," he kept saying quietly.)
 morris: "muttering \"If I could but see it! if I could but see it!\""
 
-melu tha phoe shia wea luphore laeno thalo whu nuloe ma nai whoa korua kire lue shia to ke lepa. tumoa lue shia we to ke lepa tho ti haolu.
-friend DECL.COMP ANT 3SG TOWARD river long walk REL content NEG be whole heart shape ABL 3SG PST INFER fall. heavy ABL 3SG ALSO PST INFER fall DECL.COMP.CLOSE REP speak.
-(The friend reports that, before he had walked far towards the river, his whole discontented state of heart seemed to fall away from him. Heaviness seemed to fall away from him too.)
+melu tha phoe shia wea luphore laeno thalo whu nuloe ma nai whoa korua kire lue shia to ke lepa. tumoa lue shia we to ke lepa tho haolu.
+friend DECL.COMP ANT 3SG TOWARD river long walk REL content NEG be whole heart shape ABL 3SG PST INFER fall. heavy ABL 3SG ALSO PST INFER fall DECL.COMP.CLOSE speak.
+(The friend says that, before he had walked far towards the river, his whole discontented state of heart seemed to fall away from him. Heaviness seemed to fall away from him too.)
 morris: "but had not gone many steps towards the river before (says our friend who tells the story) all that discontent and trouble seemed to slip off him."
 
 shila thorui shero mioru to nai.
