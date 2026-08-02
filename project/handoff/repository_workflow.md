@@ -237,6 +237,18 @@ python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 
 
 The committed baseline tracks corpus attestations as well as neighbour pairs. Chapters 4 and 5 of *News from Nowhere* showed why every corpus pull request must regenerate it: no word form changed and the pair set stayed fixed, but the added attestations changed and reordered much of the file. Commit the generated result whenever it differs. Distance scores are prompts for listening work, not proof that two words must change.
 
+## Translation phase isolation
+
+Read `.claude/skills/translate/SKILL.md` before any translation change, including one corrected line. D102 forbids a shared source, Phi, and English drafting view.
+
+1. Run `python3 scripts/translation_layers.py PATH --phase source-to-phi --output /tmp/WORK_source_phi.md`. The numbered view contains only Phi and exact source citations.
+2. Finish source fidelity, unit boundaries, source reconstruction, grammar review, and sentence validation in that view.
+3. Run `python3 scripts/translation_layers.py /tmp/WORK_source_phi.md --phase phi-to-english --output /tmp/WORK_phi_only.md`, record the reported Phi SHA-256, and put the source view away. A new translation begins directly in the same numbered source-to-Phi format.
+4. For model-assisted work, hand the Phi-only packet to a fresh, non-forked context that has never received the source, prior English, or a summary of either. Derive exact glosses and natural English using only that packet and the language and voice references. Run Humanizer on the English while the source remains hidden.
+5. Assemble the final blocks mechanically. Audit source to Phi and Phi to English in their separate views. Never compare source directly with derived English.
+
+If any Phi unit changes after the freeze, discard its gloss and English, rebuild the Phi-only packet, record the new digest, and derive the affected English again. `python3 scripts/translation_layers.py PATH --digest-only` checks the final stream. The PR body carries the final digest and confirms whether a restart occurred.
+
 ## News from Nowhere source reconstruction
 
 The main validator checks that each `morris:` value occurs in `texts/news_from_nowhere/source.txt`, but it cannot show that the citations form one exhaustive, ordered partition of a chapter. Run a reconstruction check before publishing every new chapter.
