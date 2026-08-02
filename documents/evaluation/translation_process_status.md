@@ -11,8 +11,8 @@ The complete procedure is described in [How a Phi translation is made](../refere
 | State | Documents |
 |---|---:|
 | Certified | 1 |
-| In progress | 0 |
-| Pending | 19 |
+| In progress | 1 |
+| Pending | 18 |
 | Total | 20 |
 
 ## Short works
@@ -21,7 +21,7 @@ Certified: 1 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
-| lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | Pending | Awaiting D102 certification. |
+| lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | In progress | D105 is complete; pull-request evidence will be attached after publication. |
 | sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Pending | Awaiting D102 certification. |
 | nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Pending | Awaiting D102 certification. |

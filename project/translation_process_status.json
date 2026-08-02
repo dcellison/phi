@@ -6,7 +6,8 @@
   "documents": [
     {
       "path": "texts/metta_sutta.md",
-      "status": "pending"
+      "status": "in-progress",
+      "note": "D105 is complete; pull-request evidence will be attached after publication."
     },
     {
       "path": "texts/solarpunk_manifesto.md",
