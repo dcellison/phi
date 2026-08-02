@@ -44,7 +44,7 @@ D054 applies the same order to every purpose construction on the reviewed shelf:
 
 ## Translation review: The North Wind and the Sun
 
-The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The translation aligns every source clause with Phi, an exact gloss, a literal back-translation, and the adjacent Aesop wording. Its continuous reading has the same Phi sentence stream as the detailed blocks, and its vocabulary is entirely base.
+The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The translation aligns every source clause with Phi, an exact gloss, a natural English reading derived from Phi, and the adjacent Aesop wording. Its continuous reading has the same Phi sentence stream as the detailed blocks, and its vocabulary is entirely base.
 
 | Area | Finding | Disposition |
 |---|---|---|
@@ -55,6 +55,8 @@ The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/
 | Persuasion and outcome | Kind speech alone does not say that one person tries to move another; technical failure does not fit the wager. | Base `sharemi` names persuasion while leaving refusal available. Fulfilling a stated purpose and not fulfilling it carry Aesop's win and fail. |
 | Completed-vocabulary retrofit | Older phrases walked around try, forehead, and flee. | Base `mesatu`, `komeri`, and `phesari` now state the source distinctions directly. Warmth, intense heat, and giving brightness remain separate. |
 | Learning role | The fable reaches beyond the graded primer. | The capstone leads through the annotated blocks, then the complete reading and limits table. Glosses and back-translations remain part of the bridge. |
+
+D101 applies the Phi-first English contract to the fable and rereads all four layers at once. Seventeen non-overlapping citations reconstruct all 1,172 normalized source characters exactly. The revised Phi uses `whau` for the ongoing dispute, one frame for each continuing speech, `tha ... tho` for the Sun's proposed agreement, explicit coordination for linked actions and the moral contrast, canonical manner and adjunct order, and plural shoulders. It also keeps the clothing actions inside Aesop's pleasant warmth instead of asserting that warmth arrived as a separate event. The parenthetical English follows those Phi propositions without borrowing source-only gender, road, cloak, growl, or attribution order. No root, module membership, registered compound, or grammar is added.
 
 No module word is required. Weather, clothing, bodily action, persuasion, and coercion all belong to ordinary speech.
 
@@ -774,7 +776,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/the_mended_wall.md` | Original | Reviewed | All 31 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; function and wholeness no longer collapse into doing and identity. |
 | `texts/the_report_at_dusk.md` | Original | Reviewed | All 31 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; `ti` now marks finite propositions, and reason no longer collapses into truth or obligation. |
 | `texts/the_worth_of_a_fallen_branch.md` | Original | Reviewed | All 33 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; lexical commitment no longer masquerades as grammatical proof. |
-| `texts/north_wind_and_sun.md` | Translation | Reviewed | Complete Aesop alignment, literal back-translation, continuous reading, and translation limits complete. |
+| `texts/north_wind_and_sun.md` | Translation | Reviewed | D101 gives all 17 aligned units a Phi-first reread; their citations reconstruct all 1,172 normalized source characters, and the continuous reading matches the detailed Phi exactly. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | The 38-unit fidelity pass changes 17 units, aligns a 244-form Phi reading with the complete licensed witness, and uses 33 optional roots across all eight modules without altering a source line. |
 | `texts/schleicher_fable.md` | Translation | Reviewed | D074 adds direct shearing, removes a quoted fragment, restores cessative possession, treats the final glosses as one motion, and makes the citation stream reconstruct the stored source body exactly. |
@@ -796,4 +798,4 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/news_from_nowhere/chapter_05.md` | Book in progress | Reviewed | D093 translates 277 first-pass units, D094 consolidates the final source partition to 273 while rereading every source, Phi, gloss, and derived-English unit, and D098 rebuilds 117 English readings from Phi alone. D099 gives the arcade its direct arch noun. All 13,932 normalized source characters reconstruct exactly. |
 | `texts/news_from_nowhere/chapter_06.md` | Book in progress | Reviewed | D095 translates all 120 source units, D096 rereads each source, Phi, gloss, and derived-English unit, and D098 rebuilds 109 English readings from Phi alone. D099 gives the Piccadilly arcade its direct arch noun. All 14,771 normalized source characters reconstruct exactly. |
 
-Every current translation, refusal, original, and reviewed Morris chapter has received the review appropriate to its declared relationship with its source. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
+Every current translation, refusal, original, and reviewed Morris chapter has received the earlier review appropriate to its declared relationship with its source. D098 establishes the stricter Phi-first English contract, which the six Morris chapters and D101's *North Wind and the Sun* now satisfy. The remaining shelf is queued for the same reread. The six formerly paired works, the Little Prince excerpts, and *The Velveteen Rabbit* stand as translations only. All four original Phi works have received their earlier Phi-first proposition reviews. The Phi book and SEM-09D retrofit are complete.
