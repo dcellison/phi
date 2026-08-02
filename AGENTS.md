@@ -21,6 +21,17 @@ Use this order for every in-scope prose task:
 
 For an in-scope artifact, Humanizer reviews the whole draft, but accuracy does not move: Phi forms and lexicon glosses stay exact, while source quotations and previously validated examples remain as found. New English prose inside an example receives the pass before validation, and schema data stays intact. When reporting completed reader-facing prose work, name at least one concrete pattern found and corrected during the Humanizer or voice audit.
 
+## Translation layer isolation
+
+Before creating or revising a translation under `texts/`, read `.claude/skills/translate/SKILL.md`. Translation work has a strict one-way order:
+
+1. In the source-to-Phi phase, work from the source, `canon.md`, the lexicon, and the grammar. Do not draft or consult a parenthetical English reading. When revising an existing work, use `scripts/translation_layers.py --phase source-to-phi` so its old glosses, parenthetical English, notes, and limits stay outside the working view.
+2. Settle and validate the Phi, its unit boundaries, and its source citations before beginning the next phase. Treat the Phi sentence stream as frozen.
+3. In the Phi-to-English phase, run `scripts/translation_layers.py` against the frozen source-to-Phi packet with `--phase phi-to-english`. The resulting view omits the work's filename as well as the source, citations, prior English, notes, and limits. For model-assisted work, open this packet in a fresh, non-forked context that has never received the source or prior English; do not carry a source summary into it. Produce the exact gloss and natural English from the frozen Phi alone, consulting only canon, the lexicon, the grammar, and the required reader-facing voice references.
+4. Audit source-to-Phi fidelity and Phi-to-English fidelity as separate directions in separate views. Never compare the source directly with the derived English or adjust either layer to resemble the other.
+
+Any change to a frozen Phi sentence invalidates that sentence's gloss and derived English. Discard both and repeat the Phi-to-English phase from the revised Phi. Record compliance with this ordering in the pull-request body.
+
 ## Completed-work PR publication
 
 After requested repository work is complete and every applicable check passes, use this sequence unless the user explicitly asks to keep the work local or pause for review:

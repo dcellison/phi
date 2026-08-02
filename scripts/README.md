@@ -114,6 +114,17 @@ python3 scripts/audit_phonetic_neighbors.py --candidate proposed_word
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
 
+## translation_layers.py
+
+Builds the isolated working views required by D102. The source-to-Phi view exposes only numbered Phi units and their decoded source citations. That view can itself become the input to the Phi-to-English phase, so a new translation may begin in the same two-layer format before any gloss or natural English exists. The Phi-to-English packet exposes only the numbered Phi units and omits even the input filename; give it to a fresh, non-forked model context for derivation. Both views report a SHA-256 over the aligned Phi stream, so a change after the phase boundary is visible.
+
+```bash
+python3 scripts/translation_layers.py texts/north_wind_and_sun.md --phase source-to-phi --output /tmp/north_source_phi.md
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --output /tmp/north_phi_only.md
+python3 scripts/translation_layers.py texts/north_wind_and_sun.md --digest-only
+python3 scripts/test_translation_layers.py
+```
+
 ## Tengwar renderer and extractor
 
 `tengwar.py` converts validated romanized Phi into deterministic inline SVG using the committed outlines in `tengwar/glyphs.json`. The site build uses it for paired examples in the Tengwar pamphlet; it does not attempt to render foreign source material.

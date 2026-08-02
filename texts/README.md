@@ -2,7 +2,7 @@
 
 This shelf holds translations, original Phi work, and one refusal. A translation stays answerable to the source's claims and distinctions. In an original, Phi comes first and the English follows instead of governing it. The Ring Verse keeps Tolkien's wording outside Phi and answers it openly. Each work names its relationship to a source before the first line.
 
-The English in parentheses is a natural reading made from the Phi alone. It preserves what Phi marks without copying Phi word order, and it does not borrow gender, emphasis, or literary arrangement from an adjacent source. The source line keeps the author's choices visible even when Phi does not carry them.
+The two directions are written at different times. First, the translator carries the source into Phi and settles every Phi sentence. Then the source is put away. The English in parentheses begins from Phi alone and preserves what Phi marks without copying its word order. If the Phi changes, that English is discarded and made again. The adjacent source line keeps the author's choices visible, but it has no hand in the English reading.
 
 Short works each have one Markdown file. An author collection gets its own directory and catalogue, so separate source works can stay together without pretending to be chapters. A book also gets a directory, where its chapter sequence and shared source witness stay together. The `sources/` directory holds source witnesses for the ungrouped works.
 

@@ -37,6 +37,9 @@ jobs:
       - name: Test productive name forms
         run: python3 scripts/test_name_forms.py
 
+      - name: Test translation layer isolation
+        run: python3 scripts/test_translation_layers.py
+
       - name: Check phonetic-neighbor baseline is in sync
         run: |
           python3 scripts/audit_phonetic_neighbors.py --output /tmp/phonetic_neighbors_baseline.txt
