@@ -10,18 +10,18 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 1 |
-| In progress | 1 |
+| Certified | 2 |
+| In progress | 0 |
 | Pending | 18 |
 | Total | 20 |
 
 ## Short works
 
-Certified: 1 of 10.
+Certified: 2 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
-| lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | In progress | D105 is complete; pull-request evidence will be attached after publication. |
+| lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | Certified | D105; [PR #693](https://github.com/dcellison/phi/pull/693); 36 units |
 | sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Pending | Awaiting D102 certification. |
 | nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Pending | Awaiting D102 certification. |
@@ -57,6 +57,22 @@ Certified: 0 of 6.
 | nophi lue mawha lokue — News from Nowhere, ch. 6: A Little Shopping | [chapter_06.md](../../texts/news_from_nowhere/chapter_06.md) | Pending | Awaiting D102 certification. |
 
 ## Certification records
+
+### lothea thole — The Practice of Love
+
+D105 certified this document in [PR #693](https://github.com/dcellison/phi/pull/693) on 2026-08-02. The freeze contains 36 aligned Phi units, and its `fausboll` citations reconstruct 1,615 normalized source characters exactly. Three affected units were discarded after the first anonymous derivation exposed source-side problems, then derived again in fresh source-blind contexts after repair.
+
+Frozen Phi SHA-256:
+
+```text
+73851696237e395421f8dd12b005d8e6bee0332a1654a4734d317679c4c7d7d1
+```
+
+Published aligned-layer SHA-256:
+
+```text
+4c69caf26388b7dbf757df56722de3af976e9b6f68df2c3001856366a4f1f486
+```
 
 ### nitho howeli nela sileta — The North Wind and the Sun
 

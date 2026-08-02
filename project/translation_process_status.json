@@ -6,8 +6,22 @@
   "documents": [
     {
       "path": "texts/metta_sutta.md",
-      "status": "in-progress",
-      "note": "D105 is complete; pull-request evidence will be attached after publication."
+      "status": "certified",
+      "certification": {
+        "decision": "D105",
+        "pull_request": 693,
+        "certified_on": "2026-08-02",
+        "unit_count": 36,
+        "phi_sha256": "73851696237e395421f8dd12b005d8e6bee0332a1654a4734d317679c4c7d7d1",
+        "aligned_sha256": "4c69caf26388b7dbf757df56722de3af976e9b6f68df2c3001856366a4f1f486",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "fausboll",
+          "normalized_characters": 1615
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "Three affected units were discarded after the first anonymous derivation exposed source-side problems, then derived again in fresh source-blind contexts after repair."
+      }
     },
     {
       "path": "texts/solarpunk_manifesto.md",
