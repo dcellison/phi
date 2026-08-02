@@ -25,7 +25,22 @@
     },
     {
       "path": "texts/solarpunk_manifesto.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D106",
+        "pull_request": 694,
+        "certified_on": "2026-08-02",
+        "unit_count": 38,
+        "phi_sha256": "57baf00910adb9e5d0ec9c23ab0d56e2dcc3c023c787f336b279dce9c4b840ee",
+        "aligned_sha256": "da5fe1c281eb8716b2156db6088f8322edd2be0f132ecb929193233516a36eaf",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "solarpunk",
+          "normalized_characters": 4538
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "Anonymous derivation audits exposed source-side faults; every affected unit was repaired before the final freeze and derived again, with further source-blind passes replacing grouping and naturalness failures."
+      }
     },
     {
       "path": "texts/north_wind_and_sun.md",

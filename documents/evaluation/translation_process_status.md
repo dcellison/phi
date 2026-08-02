@@ -10,19 +10,19 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 2 |
+| Certified | 3 |
 | In progress | 0 |
-| Pending | 18 |
+| Pending | 17 |
 | Total | 20 |
 
 ## Short works
 
-Certified: 2 of 10.
+Certified: 3 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
 | lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | Certified | D105; [PR #693](https://github.com/dcellison/phi/pull/693); 36 units |
-| sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Pending | Awaiting D102 certification. |
+| sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Certified | D106; [PR #694](https://github.com/dcellison/phi/pull/694); 38 units |
 | nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Pending | Awaiting D102 certification. |
 | ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Pending | Awaiting D102 certification. |
@@ -72,6 +72,22 @@ Published aligned-layer SHA-256:
 
 ```text
 4c69caf26388b7dbf757df56722de3af976e9b6f68df2c3001856366a4f1f486
+```
+
+### sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto
+
+D106 certified this document in [PR #694](https://github.com/dcellison/phi/pull/694) on 2026-08-02. The freeze contains 38 aligned Phi units, and its `solarpunk` citations reconstruct 4,538 normalized source characters exactly. Anonymous derivation audits exposed source-side faults; every affected unit was repaired before the final freeze and derived again, with further source-blind passes replacing grouping and naturalness failures.
+
+Frozen Phi SHA-256:
+
+```text
+57baf00910adb9e5d0ec9c23ab0d56e2dcc3c023c787f336b279dce9c4b840ee
+```
+
+Published aligned-layer SHA-256:
+
+```text
+da5fe1c281eb8716b2156db6088f8322edd2be0f132ecb929193233516a36eaf
 ```
 
 ### nitho howeli nela sileta — The North Wind and the Sun
