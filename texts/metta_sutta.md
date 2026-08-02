@@ -60,7 +60,7 @@ OPT SIMUL 3SG AMONG PL family HAB walk 3SG ABL crave NEG do.
 fausboll: "without (showing) greediness (when going his round) in families."
 ```
 
-**Notes:** "Easily supported" becomes support requiring little labour, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." Arrogance becomes the relation it asserts, seeing oneself above other people. The outer `su` applies the wish to the whole simultaneous sentence: during regular walks among families, the person is not to act from `wurashi`, craving.
+**Notes:** "Easily supported" becomes support requiring little labour, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." Arrogance becomes the relation it asserts: the person sees themselves above other people. The outer `su` applies the wish to the whole simultaneous sentence: during regular walks among families, the person is not to act from `wurashi`, craving.
 
 ### Verse 3: The wish for every creature
 
