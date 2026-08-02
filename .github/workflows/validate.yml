@@ -38,7 +38,10 @@ jobs:
         run: python3 scripts/test_name_forms.py
 
       - name: Test translation layer isolation
-        run: python3 scripts/test_translation_layers.py
+        run: |
+          python3 scripts/test_translation_layers.py
+          python3 scripts/translation_process_status.py --check
+          python3 scripts/test_translation_process_status.py
 
       - name: Check phonetic-neighbor baseline is in sync
         run: |

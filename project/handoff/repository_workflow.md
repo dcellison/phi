@@ -239,7 +239,7 @@ The committed baseline tracks corpus attestations as well as neighbour pairs. Ch
 
 ## Translation phase isolation
 
-Read `.claude/skills/translate/SKILL.md` before any translation change, including one corrected line. D102 forbids a shared source, Phi, and English drafting view.
+Read `.claude/skills/translate/SKILL.md` and the readable [`documents/reference/translation_process.md`](../../documents/reference/translation_process.md) before any translation change, including one corrected line. D102 forbids a shared source, Phi, and English drafting view.
 
 1. Run `python3 scripts/translation_layers.py PATH --phase source-to-phi --output /tmp/WORK_source_phi.md`. The numbered view contains only Phi and exact source citations.
 2. Finish source fidelity, unit boundaries, source reconstruction, grammar review, and sentence validation in that view.
@@ -248,6 +248,8 @@ Read `.claude/skills/translate/SKILL.md` before any translation change, includin
 5. Assemble the final blocks mechanically. Audit source to Phi and Phi to English in their separate views. Never compare source directly with derived English.
 
 If any Phi unit changes after the freeze, discard its gloss and English, rebuild the Phi-only packet, record the new digest, and derive the affected English again. `python3 scripts/translation_layers.py PATH --digest-only` checks the final stream. The PR body carries the final digest and confirms whether a restart occurred.
+
+After certification, update `project/translation_process_status.json`, regenerate `documents/evaluation/translation_process_status.md`, and run `python3 scripts/translation_process_status.py --check`. The registry covers every translation document and verifies both the frozen Phi digest and the published aligned-layer digest.
 
 ## News from Nowhere source reconstruction
 

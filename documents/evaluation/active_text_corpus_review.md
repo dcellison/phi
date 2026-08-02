@@ -2,6 +2,8 @@
 
 This ledger tracks roadmap item SEM-01C: the active Phi corpus is being reread against the complete current lexicon, its module placements, each text's source, and the job the text does for a learner. Files in `archive/` are outside scope. A correction propagated into a pending text does not mark that whole text reviewed.
 
+The separate [isolated translation certification ledger](translation_process_status.md) owns D102 completion status. This review preserves the semantic findings from earlier passes. The machine-checked queue is the authority on whether a translation's English was derived from frozen Phi in a fresh source-blind context.
+
 ## Review states
 
 | State | Meaning |

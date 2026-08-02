@@ -16,6 +16,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Taught patterns](reference/taught_patterns.md) | Indexed inventory of constructions taught across the learning materials. |
 | [Finding the particle](reference/particle_finder.md) | The thirty-eight particles indexed by what a speaker wants to say rather than by slot. |
 | [The voice, for models](reference/voice_for_models.md) | Writing reference for Phi's register, mechanics, Humanizer pass, and final audit. |
+| [How a Phi translation is made](reference/translation_process.md) | Reader's account of the isolated source-to-Phi and Phi-to-English process, its restart rule, and its evidence. |
 | [Tengwar mode](../tengwar/mode.md) | Current mapping, hiatus rule, punctuation, and implementation reference for Phi's second writing mode. |
 
 ## Design rationale
@@ -33,6 +34,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 |---|---|
 | [Language assessment](evaluation/language_assessment.md) | Current assessment of learnability, expressive coverage, comparisons, and remaining risks. |
 | [Active text corpus review](evaluation/active_text_corpus_review.md) | Review method, completed decisions, narrow dependency repairs, and status for each work on the literary shelf. |
+| [Isolated translation certification](evaluation/translation_process_status.md) | Complete machine-checked queue showing which translations have passed the isolated process. |
 | [Active teaching corpus review](evaluation/active_teaching_corpus_review.md) | Contextual review method and file-by-file status for the manual, primer, pamphlets, and current project documents. |
 | [Lexicon expansion survey](evaluation/lexicon_expansion_survey.md) | Current vocabulary coverage review and corpus-led admission priorities. |
 | [Content vocabulary scenario tests](evaluation/content_vocabulary_scenario_tests.md) | Practical tests for unresolved content distinctions before a decision to compose, coin, or defer them. |
