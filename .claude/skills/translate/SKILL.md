@@ -1,6 +1,6 @@
 ---
 name: translate
-version: 1.1.0
+version: 1.2.0
 description: |
   Translate a source text into Phi: survey the source and the lexicon
   thoroughly before drafting, use Phi's grammar and vocabulary to
@@ -121,7 +121,8 @@ Everything through step 6 belongs to one direction: source to Phi. No parentheti
 - Read every unit against the source for proposition, relation, image, stance, scope, and force. Read the Phi independently in grammar order and run the sentence validator.
 - For a complete public-domain source, reconstruct the normalized source from the ordered citations and require exact equality. Citation occurrence alone is not enough.
 - Run `python3 scripts/translation_layers.py /tmp/WORK_source_phi.md --phase phi-to-english --output /tmp/WORK_phi_only.md`. The numbered packet contains the frozen Phi units and nothing else: no source, citation, old gloss, parenthetical English, notes, or limits. Record the SHA-256 reported by the utility in the working notes.
-- Put the source-to-Phi view away before opening the Phi-only packet. Do not move back and forth between them. In model-assisted work, the English phase must use a fresh, non-forked context that has never seen the source, prior English, or a summary of either; starting a new turn inside the source-bearing context is not isolation.
+- Put the source-to-Phi view away before opening the Phi-only packet. Do not move back and forth between them. In model-assisted work, the English phase must use a fresh, non-forked context that has never seen the source, prior English, or a summary of either; starting a new turn inside the context that contains the source is not isolation.
+- The source-blind context must not inspect repository status, filenames, catalogues, task history, or the earlier conversation that contained the source while deriving English. It may read canon, the lexicon, the grammar, and the required voice references.
 
 ## 8. Derive the English from Phi alone
 
@@ -165,6 +166,7 @@ Notes and gap logs state the translation's current reasoning. They are never a c
 - If any vocabulary JSON or `documents/reference/compounds.md` changed, regenerate with `python3 scripts/generate_reference.py`. Regenerate the phonetic-neighbour baseline whenever corpus attestations change, and always run `python3 scripts/build_site.py`.
 - Invoke the actual Humanizer skill on new or changed reader-facing prose before committing. Derived English receives its Humanizer pass from the Phi-only view. Intros, notes, and gap logs receive their own pass after assembly. Never alter Phi, exact gloss, or source quotation for style.
 - In the PR body, record the Phi freeze SHA-256, confirm that the source and earlier English were hidden during derivation, and state whether any Phi change forced an English restart.
+- Update `project/translation_process_status.json`, regenerate the readable ledger with `python3 scripts/translation_process_status.py --write`, and run its `--check` mode. Record the aligned-layer SHA-256 as well as the Phi freeze so a later hand edit to the gloss, English, or citations cannot retain certification unnoticed.
 - Work on a branch, open a PR, flag judgement calls explicitly in the body, and wait for merge before cleaning up.
 
 ## Worked example

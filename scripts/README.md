@@ -125,6 +125,16 @@ python3 scripts/translation_layers.py texts/north_wind_and_sun.md --digest-only
 python3 scripts/test_translation_layers.py
 ```
 
+## translation_process_status.py
+
+Validates the complete D102 certification queue and generates its readable ledger. Standalone translations and Gibran selections come from their catalogues; every catalogued book must declare whether the process applies, and the current *News from Nowhere* chapter glob supplies that book's documents. A certified row records both the frozen Phi digest and a digest over all four published layers, so later drift in Phi, gloss, derived English, or source citations stops CI.
+
+```bash
+python3 scripts/translation_process_status.py --write
+python3 scripts/translation_process_status.py --check
+python3 scripts/test_translation_process_status.py
+```
+
 ## Tengwar renderer and extractor
 
 `tengwar.py` converts validated romanized Phi into deterministic inline SVG using the committed outlines in `tengwar/glyphs.json`. The site build uses it for paired examples in the Tengwar pamphlet; it does not attempt to render foreign source material.

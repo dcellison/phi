@@ -27,10 +27,12 @@ Before creating or revising a translation under `texts/`, read `.claude/skills/t
 
 1. In the source-to-Phi phase, work from the source, `canon.md`, the lexicon, and the grammar. Do not draft or consult a parenthetical English reading. When revising an existing work, use `scripts/translation_layers.py --phase source-to-phi` so its old glosses, parenthetical English, notes, and limits stay outside the working view.
 2. Settle and validate the Phi, its unit boundaries, and its source citations before beginning the next phase. Treat the Phi sentence stream as frozen.
-3. In the Phi-to-English phase, run `scripts/translation_layers.py` against the frozen source-to-Phi packet with `--phase phi-to-english`. The resulting view omits the work's filename as well as the source, citations, prior English, notes, and limits. For model-assisted work, open this packet in a fresh, non-forked context that has never received the source or prior English; do not carry a source summary into it. Produce the exact gloss and natural English from the frozen Phi alone, consulting only canon, the lexicon, the grammar, and the required reader-facing voice references.
+3. In the Phi-to-English phase, run `scripts/translation_layers.py` against the frozen source-to-Phi packet with `--phase phi-to-english`. The resulting view omits the work's filename as well as the source, citations, prior English, notes, and limits. For model-assisted work, open this packet in a fresh, non-forked context that has never received the source or prior English; do not carry a source summary into it, and do not let that context inspect repository status, filenames, catalogues, task history, or the earlier conversation that contained the source while it derives the English. Produce the exact gloss and natural English from the frozen Phi alone, consulting only canon, the lexicon, the grammar, and the required reader-facing voice references.
 4. Audit source-to-Phi fidelity and Phi-to-English fidelity as separate directions in separate views. Never compare the source directly with the derived English or adjust either layer to resemble the other.
 
 Any change to a frozen Phi sentence invalidates that sentence's gloss and derived English. Discard both and repeat the Phi-to-English phase from the revised Phi. Record compliance with this ordering in the pull-request body.
+
+The readable procedure lives in `documents/reference/translation_process.md`. Before publishing a completed translation, update `project/translation_process_status.json`, regenerate its readable ledger, and run `python3 scripts/translation_process_status.py --check`. A translation is not certified merely because an older fidelity review exists.
 
 ## Completed-work PR publication
 

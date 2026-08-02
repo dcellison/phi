@@ -1,0 +1,103 @@
+{
+  "format": "phi-isolated-translation-status-v1",
+  "book_relationships": {
+    "news_from_nowhere": "translation"
+  },
+  "documents": [
+    {
+      "path": "texts/metta_sutta.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/solarpunk_manifesto.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/north_wind_and_sun.md",
+      "status": "certified",
+      "certification": {
+        "decision": "D103",
+        "pull_request": 691,
+        "certified_on": "2026-08-02",
+        "unit_count": 17,
+        "phi_sha256": "63fbc9282fe0651f27f18107ad34914e2358be446301e1bdf08f638d9296f470",
+        "aligned_sha256": "b82be806aaa23c52329448b61f622b39ea96c378df3edd21d73d12b81d314b25",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "aesop",
+          "normalized_characters": 1172
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "Two lines rejected during assembly were derived again from anonymous Phi units in a second source-blind context."
+      }
+    },
+    {
+      "path": "texts/human_rights_article_one.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/babel_text.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/schleicher_fable.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/little_prince_excerpts.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/velveteen_rabbit.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/gibran/on_love.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/gibran/on_children.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/gibran/on_giving.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/gibran/on_work.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/tao_te_ching.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/heart_sutra.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/news_from_nowhere/chapter_01.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/news_from_nowhere/chapter_02.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/news_from_nowhere/chapter_03.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/news_from_nowhere/chapter_04.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/news_from_nowhere/chapter_05.md",
+      "status": "pending"
+    },
+    {
+      "path": "texts/news_from_nowhere/chapter_06.md",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+# Isolated translation certification
+
+This ledger records which Phi translations have completed the isolated process. An earlier fidelity review does not count as certification. The machine-readable register is `project/translation_process_status.json`. The catalogue supplies the standalone works and Gibran selections, while the chapter files supply the present *News from Nowhere* sequence. CI rejects a missing row, an extra row, a stale report, or a certified work whose unit count or digest has changed.
+
+A pending translation may still be accurate and carefully reviewed. Pending means only that its English was not demonstrably derived in a fresh source-blind context after the Phi was frozen. Originals and the Ring Verse refusal are outside this queue because they make a different promise to the reader.
+
+The complete procedure is described in [How a Phi translation is made](../reference/translation_process.md).
+
+## Current state
+
+| State | Documents |
+|---|---:|
+| Certified | 1 |
+| In progress | 0 |
+| Pending | 19 |
+| Total | 20 |
+
+## Short works
+
+Certified: 1 of 10.
+
+| Document | File | State | Record |
+|---|---|---|---|
+| lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | Pending | Awaiting D102 certification. |
+| sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Pending | Awaiting D102 certification. |
+| nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
+| theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Pending | Awaiting D102 certification. |
+| ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Pending | Awaiting D102 certification. |
+| mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Pending | Awaiting D102 certification. |
+| thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Pending | Awaiting D102 certification. |
+| wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Pending | Awaiting D102 certification. |
+| keiro — Selections from the Tao Te Ching | [tao_te_ching.md](../../texts/tao_te_ching.md) | Pending | Awaiting D102 certification. |
+| nulo sano korua — The Heart Sutra | [heart_sutra.md](../../texts/heart_sutra.md) | Pending | Awaiting D102 certification. |
+
+## phewo phelui — Kahlil Gibran
+
+Certified: 0 of 4.
+
+| Document | File | State | Record |
+|---|---|---|---|
+| lothea — On Love | [on_love.md](../../texts/gibran/on_love.md) | Pending | Awaiting D102 certification. |
+| phomila — On Children | [on_children.md](../../texts/gibran/on_children.md) | Pending | Awaiting D102 certification. |
+| loa — On Giving | [on_giving.md](../../texts/gibran/on_giving.md) | Pending | Awaiting D102 certification. |
+| riola — On Work | [on_work.md](../../texts/gibran/on_work.md) | Pending | Awaiting D102 certification. |
+
+## nophi lue mawha lokue — News from Nowhere
+
+Certified: 0 of 6.
+
+| Document | File | State | Record |
+|---|---|---|---|
+| nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed | [chapter_01.md](../../texts/news_from_nowhere/chapter_01.md) | Pending | Awaiting D102 certification. |
+| nophi lue mawha lokue — News from Nowhere, ch. 2: A Morning Bath | [chapter_02.md](../../texts/news_from_nowhere/chapter_02.md) | Pending | Awaiting D102 certification. |
+| nophi lue mawha lokue — News from Nowhere, ch. 3: The Guest House and Breakfast Therein | [chapter_03.md](../../texts/news_from_nowhere/chapter_03.md) | Pending | Awaiting D102 certification. |
+| nophi lue mawha lokue — News from Nowhere, ch. 4: A Market by the Way | [chapter_04.md](../../texts/news_from_nowhere/chapter_04.md) | Pending | Awaiting D102 certification. |
+| nophi lue mawha lokue — News from Nowhere, ch. 5: Children on the Road | [chapter_05.md](../../texts/news_from_nowhere/chapter_05.md) | Pending | Awaiting D102 certification. |
+| nophi lue mawha lokue — News from Nowhere, ch. 6: A Little Shopping | [chapter_06.md](../../texts/news_from_nowhere/chapter_06.md) | Pending | Awaiting D102 certification. |
+
+## Certification records
+
+### nitho howeli nela sileta — The North Wind and the Sun
+
+D103 certified this document in [PR #691](https://github.com/dcellison/phi/pull/691) on 2026-08-02. The freeze contains 17 aligned Phi units, and its `aesop` citations reconstruct 1,172 normalized source characters exactly. Two lines rejected during assembly were derived again from anonymous Phi units in a second source-blind context.
+
+Frozen Phi SHA-256:
+
+```text
+63fbc9282fe0651f27f18107ad34914e2358be446301e1bdf08f638d9296f470
+```
+
+Published aligned-layer SHA-256:
+
+```text
+b82be806aaa23c52329448b61f622b39ea96c378df3edd21d73d12b81d314b25
+```
+
+## Maintaining the ledger
+
+Run `python3 scripts/translation_process_status.py --write` after changing a status or adding a translation. Run `python3 scripts/translation_process_status.py --check` before publication. Changing certified Phi invalidates its English. CI will fail until the English has been derived again from a new anonymous packet and the new freeze has its own evidence.
