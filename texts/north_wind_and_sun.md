@@ -20,7 +20,7 @@ aesop: "The North Wind and the Sun had a quarrel about which of them was the str
 
 whau lo shia roe sheloi korua thero to si shareo nela to si theisa kapura ta whu laniru nela roe wethalu to se lomare miona nia ruela to thalo.
 SIMUL PL 3SG INS MANY heart fire PST IPFV discuss COORD PST IPFV loud shout one REL journey COORD INS garment PST PASS embrace person ON path PST walk.
-(While they were discussing with much anger and shouting loudly, a traveler wrapped in a garment walked along the path.)
+(While they were discussing with much anger and shouting loudly, one traveler wrapped in a garment walked on the path.)
 aesop: "While they were disputing with much heat and bluster, a Traveler passed along the road wrapped in a cloak."
 ```
 
