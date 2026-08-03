@@ -47,13 +47,13 @@ An original makes a different promise. Phi comes first. English comes afterward 
 The Babel translation follows the King James account of dispersal:
 
 ```
-whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera.
-REL authority hold creature ABL PROX place ON UNIV earth face PL person PST scatter.
-(The being who holds authority scattered the people from this place upon the face of the whole earth.)
+shia lue ha lokue nia theula muila leko lo miona to thiwera.
+3SG ABL PROX place ON UNIV earth surface PL person PST scatter.
+(The creature scattered the people from this place across the whole surface of the earth.)
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
 ```
 
-The title LORD remains in the cited source. Inside Phi, `whu karami phelu limoe` identifies a nonhuman story creature who holds authority without declaring that authority legitimate. `thiwera` reports the scattering. Nothing in the Phi line makes the event welcome, and nothing changes punishment into planting.
+The title LORD remains in the citation. Phi introduces the actor one sentence earlier with `ta limoe karami to phelu`, one creature held authority; here `shia` carries that participant into the scattering. `thiwera` reports what happens without making it welcome or turning punishment into planting.
 
 The Ring Verse refusal makes the other promise. Its first purpose becomes a present accusation:
 
@@ -69,9 +69,9 @@ The third relationship has no source to depart from, and four works on the shelf
 
 ## The space between the lines
 
-A translated block gives the reader four things: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and the source wording. The Ring refusal places Tolkien's wording before its three-line Phi answer. An original block also has three lines because Phi is the source. The gloss answers a narrow question about the words. The back-translation answers a harder one about the sentence those words actually made. In inherited work, the source line then shows what was gained or lost.
+A translated block gives the reader four things: the Phi sentence, its exact structural gloss, natural English derived from the frozen Phi alone, and the source wording. The Ring refusal places Tolkien's wording before its three-line Phi answer. An original block also has three lines because Phi is the source. The gloss answers a narrow question about the words. The derived English answers a harder one about the sentence those words actually made. In inherited work, the source line then shows what was gained or lost.
 
-Back-translation needs its own honesty because fluent English is very good at repairing a sentence without permission. In "The North Wind and the Sun," `tiripe` means *quiver*, not *whipped*, and a strong pull is not the same act as *tore*. Those stronger verbs belong to Aesop's line. Returning them to the English beside the Phi would make the translation look closer than it is.
+Derived English needs its own honesty because fluent prose is very good at repairing a sentence without permission. In "The North Wind and the Sun," `tiripe` means *quiver*, not *whipped*, and a strong pull is not the same act as *tore*. Those stronger verbs belong to Aesop's line. Returning them to the English beside the Phi would make the translation look closer than it is.
 
 A translation then carries a limits table. Article 1's table records that `remori` names reason as a fallible faculty, while the source leaves that fallibility unstated. It places held obligation beside English *should* and explains why `lomea`, sibling, cannot preserve the gender in *brotherhood*. The Rabbit's table has harder nursery furniture to move: soldiers, Government, brigands, and money. Phi describes the relations; Williams keeps the names. The source survives, but surviving is not the same as arriving unchanged.
 

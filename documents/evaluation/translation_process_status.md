@@ -10,14 +10,14 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 5 |
+| Certified | 6 |
 | In progress | 0 |
-| Pending | 15 |
+| Pending | 14 |
 | Total | 20 |
 
 ## Short works
 
-Certified: 5 of 10.
+Certified: 6 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Certified: 5 of 10.
 | sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Certified | D106; [PR #694](https://github.com/dcellison/phi/pull/694); 38 units |
 | nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Certified | D108; [PR #697](https://github.com/dcellison/phi/pull/697); 2 units |
-| ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Pending | Awaiting D102 certification. |
+| ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Certified | D109; [PR #698](https://github.com/dcellison/phi/pull/698); 9 units |
 | mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Certified | D107; [PR #696](https://github.com/dcellison/phi/pull/696); 4 units |
 | thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Pending | Awaiting D102 certification. |
 | wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Pending | Awaiting D102 certification. |
@@ -120,6 +120,22 @@ Published aligned-layer SHA-256:
 
 ```text
 5ccab86290265f343c6d9a079f1341b5ad4244852abf3c8c9730dc6a6713e526
+```
+
+### ta haluma — The Babel Text
+
+D109 certified this document in [PR #698](https://github.com/dcellison/phi/pull/698) on 2026-08-03. The freeze contains 9 aligned Phi units, and its `kjv` citations reconstruct 1,191 normalized source characters exactly. The source-only pass replaced an anatomical face metaphor. The first anonymous audit then exposed ambiguous relative roles; those Phi units were rebuilt without relative gaps and derived again, while audited readings and a one-unit retry restored every occurrence of surface in English.
+
+Frozen Phi SHA-256:
+
+```text
+2cb3d2ccc6b5bb33a1860a6081e45842ee0911a6bfa40637e410185e859da136
+```
+
+Published aligned-layer SHA-256:
+
+```text
+1adff02c2612b076b0f538afff3adebdf9ca1609f092ccc9875b987770573e32
 ```
 
 ### mophira nela lo kalora — Schleicher's Fable

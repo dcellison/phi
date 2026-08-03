@@ -82,7 +82,22 @@
     },
     {
       "path": "texts/babel_text.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D109",
+        "pull_request": 698,
+        "certified_on": "2026-08-03",
+        "unit_count": 9,
+        "phi_sha256": "2cb3d2ccc6b5bb33a1860a6081e45842ee0911a6bfa40637e410185e859da136",
+        "aligned_sha256": "1adff02c2612b076b0f538afff3adebdf9ca1609f092ccc9875b987770573e32",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "kjv",
+          "normalized_characters": 1191
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "The source-only pass replaced an anatomical face metaphor. The first anonymous audit then exposed ambiguous relative roles; those Phi units were rebuilt without relative gaps and derived again, while audited readings and a one-unit retry restored every occurrence of surface in English."
+      }
     },
     {
       "path": "texts/schleicher_fable.md",
