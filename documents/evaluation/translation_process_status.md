@@ -10,21 +10,21 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 4 |
+| Certified | 5 |
 | In progress | 0 |
-| Pending | 16 |
+| Pending | 15 |
 | Total | 20 |
 
 ## Short works
 
-Certified: 4 of 10.
+Certified: 5 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
 | lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | Certified | D105; [PR #693](https://github.com/dcellison/phi/pull/693); 36 units |
 | sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Certified | D106; [PR #694](https://github.com/dcellison/phi/pull/694); 38 units |
 | nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
-| theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Pending | Awaiting D102 certification. |
+| theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Certified | D108; [PR #697](https://github.com/dcellison/phi/pull/697); 2 units |
 | ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Pending | Awaiting D102 certification. |
 | mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Certified | D107; [PR #696](https://github.com/dcellison/phi/pull/696); 4 units |
 | thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Pending | Awaiting D102 certification. |
@@ -104,6 +104,22 @@ Published aligned-layer SHA-256:
 
 ```text
 b82be806aaa23c52329448b61f622b39ea96c378df3edd21d73d12b81d314b25
+```
+
+### theula miona — Article 1 of the Universal Declaration of Human Rights
+
+D108 certified this document in [PR #697](https://github.com/dcellison/phi/pull/697) on 2026-08-03. The freeze contains 2 aligned Phi units, and its `udhr` citations reconstruct 170 normalized source characters exactly. The first anonymous reading exposed a manner phrase that could attach to either action or obligation-holding. That unit was discarded, repaired with an explicit requirement frame, and derived again in fresh source-blind contexts.
+
+Frozen Phi SHA-256:
+
+```text
+1fe727d7a07ead2ac96c2deb2a082f9356d3780c57326f1e9de5ea26bc831fa5
+```
+
+Published aligned-layer SHA-256:
+
+```text
+5ccab86290265f343c6d9a079f1341b5ad4244852abf3c8c9730dc6a6713e526
 ```
 
 ### mophira nela lo kalora — Schleicher's Fable

@@ -63,7 +63,22 @@
     },
     {
       "path": "texts/human_rights_article_one.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D108",
+        "pull_request": 697,
+        "certified_on": "2026-08-03",
+        "unit_count": 2,
+        "phi_sha256": "1fe727d7a07ead2ac96c2deb2a082f9356d3780c57326f1e9de5ea26bc831fa5",
+        "aligned_sha256": "5ccab86290265f343c6d9a079f1341b5ad4244852abf3c8c9730dc6a6713e526",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "udhr",
+          "normalized_characters": 170
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "The first anonymous reading exposed a manner phrase that could attach to either action or obligation-holding. That unit was discarded, repaired with an explicit requirement frame, and derived again in fresh source-blind contexts."
+      }
     },
     {
       "path": "texts/babel_text.md",
