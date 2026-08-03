@@ -11,6 +11,7 @@ import re
 import shutil
 from pathlib import Path
 
+import name_forms
 import tengwar
 
 from compound_registry import load_compounds
@@ -754,7 +755,12 @@ def is_current_phi_passage(value):
     if not re.fullmatch(r"[a-z]+(?:[ .]+[a-z]+)*[.]?", text):
         return False
     words = re.findall(r"[a-z]+", text)
-    return bool(words) and all(word in ALL_WORDS for word in words)
+    name_indices = name_forms.marked_atom_indices(words)
+    return bool(words) and all(
+        word in ALL_WORDS
+        or (index in name_indices and not name_forms.form_errors(word))
+        for index, word in enumerate(words)
+    )
 
 
 def mark_inline_phi(body):

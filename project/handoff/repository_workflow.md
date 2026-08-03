@@ -103,7 +103,7 @@ python3 scripts/validate_sentences.py --paths texts/example.md
 python3 scripts/validate_sentences.py --docs
 ```
 
-The full active Markdown scan remains a migration command because the evaluation corpus predates the parser. As of D110, `--docs` parses 5,524 complete examples and reports two diagnostics in `documents/evaluation/narrative_test_corpus.md`: PHS103 at line 46 and PHS115 at line 212. Triage each as parser or corpus before editing it. The parser's boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
+The full active Markdown scan remains a migration command because the evaluation corpus predates the parser. As of D111, `--docs` parses 5,523 complete examples and reports two diagnostics in `documents/evaluation/narrative_test_corpus.md`: PHS103 at line 46 and PHS115 at line 212. Triage each as parser or corpus before editing it. The parser's boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
 
 ## Focused test suites
 
