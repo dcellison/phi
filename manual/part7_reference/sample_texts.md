@@ -114,7 +114,7 @@ OPT UNIV person COORD UNIV creature joy heart hold.
 
 ***mophira nela lo kalora*** (The Sheep and the Horses) begins from a controlled English translation of Schleicher's 1868 German. It preserves the constricted heart, the horses' knowledge, the master claim, and Schleicher's three descriptions of one flight. `tupeka` (burden) and `phesari` (flee) belong to base vocabulary; Commons `phenori` (ownership) states the relation behind the source title without turning that title into a Phi role.
 
-***theula miona*** (All People) is a translation of Article 1 of the Universal Declaration of Human Rights. It uses `sherelo` for a normative right that remains sayable under denial, `remori` for reason as a faculty, and `sharino` for conscience as moral self-appraisal. Passive endowment and sibling spirit remain, while `naseru phelu` carries the source's obligation without turning it into an unqualified must.
+***theula miona*** (All People) is a translation of Article 1 of the Universal Declaration of Human Rights. It uses `sherelo` for a normative right that remains sayable under denial, `remori` for reason as a faculty, and `sharino` for conscience as moral self-appraisal. Passive endowment and sibling spirit remain. `naseru` names the obligation, and a framed clause states what it requires without turning the source's "should" into an unqualified must.
 
 ***ta haluma*** (One Language) is a translation of Genesis 11:1-9. It leaves LORD in the source line and describes a nonhuman story creature through `karami`, authority. Work-module `torali` gives the tower a shape of its own. The loss of reciprocal understanding and the worldwide punitive dispersal remain where the King James account puts them.
 

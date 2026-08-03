@@ -1,8 +1,8 @@
 # theula miona — Article 1 of the Universal Declaration of Human Rights
 
-*The United Nations' 1948 Article 1 makes three moves in two sentences: human beings enter life free and equal in dignity and rights; they possess reason and conscience; they owe one another conduct shaped by brotherhood. The complete Phi translation retains the rights claim, the endowment metaphor, and the source's spirit language. Brotherhood loses its English gender but keeps the kin relation.*
+*The United Nations' 1948 Article 1 makes a large claim in two sentences: every human being enters life free and equal in dignity and rights; reason and conscience belong to them; and they owe one another conduct shaped by brotherhood. Phi keeps the rights claim, the image of faculties being given, and the source's spirit language. Brotherhood becomes ungendered siblinghood, but the kin relation remains.*
 
-*The official English text in the stored source witness is the ground truth. Each passage uses a four-line block: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and the source wording. A continuous Phi reading and a table of translation limits follow.*
+*The official English text in the stored source witness is the ground truth. Each of the two aligned blocks shows the Phi, an exact structural gloss, English derived from the Phi alone, and the source wording. A continuous Phi reading and a table of unavoidable distances follow.*
 
 ---
 
@@ -14,34 +14,23 @@ Article 1 needs a right that can remain a right when an institution denies it, r
 
 ```
 theula miona ralu thowia. lo shia lue lo shia thowia kolo rolia nela lo kolo sherelo phelu.
-UNIV person free born. PL 3SG ABL PL 3SG born equal worth COORD PL equal right hold.
-(All people are born free. From their birth, they hold equal worth and equal rights.)
+[UNIV person] [free born]. [PL 3SG] [ABL [PL 3SG born]] [[equal worth] COORD [PL [equal right]]] hold.
+(All people are born free. From birth, they have equal worth and equal rights.)
 udhr: "All human beings are born free and equal in dignity and rights."
 ```
 
 **Notes:** The first sentence keeps `ralu thowia`, born free. A second Phi sentence carries the scope that English gives to the whole coordination: `lue lo shia thowia`, from their birth, applies equality to dignity and rights as well. `rolia` gives a person inherent dignity: their worth does not depend on output or approval. `sherelo` is a normative right whose existence need not begin with recognition, unlike the narrower `shereni` entitlement.
 
-### Reason and conscience
+### Reason, conscience, and conduct
 
 ```
-remori nela sharino wei lo shia se loa.
-reason COORD conscience DAT PL 3SG PASS give.
-(Reason and conscience are given to them.)
-udhr: "They are endowed with reason and conscience"
+remori nela sharino wei lo shia se loa nela lo shia naseru phelu. ha naseru tha lo shia roe lomea phiora wiso phoa tho phelona.
+[[reason COORD conscience] [DAT [PL 3SG]] PASS give] COORD [[PL 3SG] obligation hold]. [PROX obligation] DECL.COMP [[PL 3SG] [INS [sibling spirit]] RECP do] DECL.COMP.CLOSE require.
+(They are given reason and conscience, and they have an obligation. This obligation requires that they act toward one another in a spirit of kinship.)
+udhr: "They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
 ```
 
-**Notes:** The passive `se loa` preserves the source's image of faculties given to humankind without inventing a giver. `remori` names the faculty for weighing reasons and following the path from claims to conclusions. The faculty can still get things wrong. `remotha` belongs to a different sentence: it is one reason offered to justify a claim or choice. `sharino` gives conscience directly as a person's inward appraisal of their own conduct. That appraisal, too, may be mistaken and corrected.
-
-### Conduct and brotherhood
-
-```
-lo shia roe lomea phiora wiso phoa naseru phelu.
-PL 3SG INS sibling spirit RECP do obligation hold.
-(They hold an obligation to act toward one another with sibling spirit.)
-udhr: "and should act towards one another in a spirit of brotherhood."
-```
-
-**Notes:** `roe lomea phiora` follows the source's spirit metaphor as closely as the lexicon permits. Phi has no universal male class, so `lomea`, sibling, removes the gender from brotherhood; the kin relation remains. Reciprocal `wiso` directs the action toward one another. `naseru phelu` treats the source's "should" as a held obligation rather than an unqualified necessity. The declaration supplies the ethical source of that obligation.
+**Notes:** The passive `se loa` keeps the image of faculties given to humankind without inventing a giver. `remori` names the faculty for weighing reasons and following the path from claims to conclusions; `sharino` names a person's inward appraisal of their own conduct. Either faculty may still be mistaken. The second Phi sentence first names the obligation, then `ha naseru` takes it up again while `tha ... tho` encloses what it requires. That audible boundary keeps `roe lomea phiora` inside the action, where it describes how people act rather than how they possess the obligation. Phi has no universal male class, so `lomea`, sibling, removes the gender from brotherhood while keeping the kin relation. Reciprocal `wiso` directs the action toward one another.
 
 ---
 
@@ -52,9 +41,7 @@ theula miona
 
 theula miona ralu thowia. lo shia lue lo shia thowia kolo rolia nela lo kolo sherelo phelu.
 
-remori nela sharino wei lo shia se loa.
-
-lo shia roe lomea phiora wiso phoa naseru phelu.
+remori nela sharino wei lo shia se loa nela lo shia naseru phelu. ha naseru tha lo shia roe lomea phiora wiso phoa tho phelona.
 ```
 
 ---
@@ -69,5 +56,5 @@ lo shia roe lomea phiora wiso phoa naseru phelu.
 | reason | `remori`, the faculty for reasoning from claims towards conclusions | The Phi word makes the faculty's fallibility and revisability explicit in its definition; the source leaves both unstated. `remotha` remains a consideration offered in justification. |
 | conscience | `sharino`, moral self-appraisal | The Phi term makes fallibility explicit in its definition, while the source leaves the faculty unexplained. |
 | endowed | `wei lo shia se loa`, given to them | The passive gift survives, and the giver remains unspoken. |
-| spirit of brotherhood | `roe lomea phiora`, with sibling spirit | `phiora` can sound more like an animating essence than the source's idiomatic disposition; `lomea` necessarily ungenders the kinship. |
-| should act | `wiso phoa naseru phelu`, hold an obligation to act toward one another | Phi states the moral relation as an obligation under a source rather than leaving its force inside an English modal. |
+| spirit of brotherhood | `roe lomea phiora`, in a spirit of kinship | `phiora` can sound more like an animating essence than the source's idiomatic disposition; `lomea` necessarily ungenders the kinship. |
+| should act | `naseru phelu`, followed by `ha naseru tha ... tho phelona` | Phi states the moral relation as an obligation, then gives the required conduct its own audible clause boundary rather than leaving the force inside an English modal. |
