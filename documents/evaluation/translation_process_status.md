@@ -10,14 +10,14 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 3 |
+| Certified | 4 |
 | In progress | 0 |
-| Pending | 17 |
+| Pending | 16 |
 | Total | 20 |
 
 ## Short works
 
-Certified: 3 of 10.
+Certified: 4 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
@@ -26,7 +26,7 @@ Certified: 3 of 10.
 | nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Pending | Awaiting D102 certification. |
 | ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Pending | Awaiting D102 certification. |
-| mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Pending | Awaiting D102 certification. |
+| mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Certified | D107; [PR #696](https://github.com/dcellison/phi/pull/696); 4 units |
 | thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Pending | Awaiting D102 certification. |
 | wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Pending | Awaiting D102 certification. |
 | keiro — Selections from the Tao Te Ching | [tao_te_ching.md](../../texts/tao_te_ching.md) | Pending | Awaiting D102 certification. |
@@ -104,6 +104,22 @@ Published aligned-layer SHA-256:
 
 ```text
 b82be806aaa23c52329448b61f622b39ea96c378df3edd21d73d12b81d314b25
+```
+
+### mophira nela lo kalora — Schleicher's Fable
+
+D107 certified this document in [PR #696](https://github.com/dcellison/phi/pull/696) on 2026-08-03. The freeze contains 4 aligned Phi units, and its `schleicher-en` citations reconstruct 703 normalized source characters exactly. The first anonymous derivation exposed ambiguous horse identity; that unit was repaired and derived again in fresh source-blind contexts while the other three retained their checked outputs under unchanged hashes.
+
+Frozen Phi SHA-256:
+
+```text
+dec1e02503f0c9571c4da870a80d67610508efce1d8aa65cbd44d6e9641c3fca
+```
+
+Published aligned-layer SHA-256:
+
+```text
+774ed454c5d926c7dd45f10d56121cac4f77df54e0fdf73ee2d7a198ea0a4ef3
 ```
 
 ## Maintaining the ledger

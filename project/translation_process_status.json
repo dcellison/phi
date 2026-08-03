@@ -71,7 +71,22 @@
     },
     {
       "path": "texts/schleicher_fable.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D107",
+        "pull_request": 696,
+        "certified_on": "2026-08-03",
+        "unit_count": 4,
+        "phi_sha256": "dec1e02503f0c9571c4da870a80d67610508efce1d8aa65cbd44d6e9641c3fca",
+        "aligned_sha256": "774ed454c5d926c7dd45f10d56121cac4f77df54e0fdf73ee2d7a198ea0a4ef3",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "schleicher-en",
+          "normalized_characters": 703
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "The first anonymous derivation exposed ambiguous horse identity; that unit was repaired and derived again in fresh source-blind contexts while the other three retained their checked outputs under unchanged hashes."
+      }
     },
     {
       "path": "texts/little_prince_excerpts.md",
