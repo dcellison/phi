@@ -116,11 +116,17 @@ python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 
 
 ## translation_layers.py
 
-Builds the isolated working views required by D102. The source-to-Phi view exposes only numbered Phi units and their decoded source citations. That view can itself become the input to the Phi-to-English phase, so a new translation may begin in the same two-layer format before any gloss or natural English exists. The Phi-to-English packet exposes only the numbered Phi units and omits even the input filename; give it to a fresh, non-forked model context for derivation. Both views report a SHA-256 over the aligned Phi stream, so a change after the phase boundary is visible.
+Builds the isolated working views required by D102. The source-to-Phi view exposes only numbered Phi units and their decoded source citations. That view can itself become the input to the Phi-to-English phase, so a new translation may begin in the same two-layer format before any gloss or natural English exists.
+
+The recommended Phi-to-English command writes bounded anonymous packets, a shared compact reference, and a JSON manifest. The reference contains compact records for only the lexical forms and registered compounds used by the selected units. Each packet includes stable unit numbers and hashes, the complete frozen-stream digest, a generated lexical gloss scaffold, structural review flags, and a response template that requires clause analysis before the exact gloss and natural English. The scaffold supplies token glosses but leaves structural brackets to that analysis. A single source-blind context reads the reference once and then handles packets in order.
+
+`--audit-only` selects every unit whose structure crosses the independent-audit threshold, then adds a deterministic ten-percent sample of the remainder. The manifest records both groups. `--units` makes a small fresh packet after a frozen unit changes, so unaffected English does not have to be derived again. A single-file `--output` remains available for short work and retries.
 
 ```bash
 python3 scripts/translation_layers.py texts/north_wind_and_sun.md --phase source-to-phi --output /tmp/north_source_phi.md
-python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --output /tmp/north_phi_only.md
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --output-dir /tmp/north_derive --batch-size 8
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --audit-only --output-dir /tmp/north_audit --batch-size 8
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --units 3,7-8 --output /tmp/north_retry.md
 python3 scripts/translation_layers.py texts/north_wind_and_sun.md --digest-only
 python3 scripts/test_translation_layers.py
 ```

@@ -28,6 +28,8 @@ The final page places these layers together so a reader can compare them. The tr
 
 The work begins with an identified source witness. Its wording is tied to an edition and translator. Its publication status determines how much may be quoted, and its chosen extent establishes what the translation promises to cover. The source is divided into non-overlapping units that preserve its order and reconstruct the complete chosen passage after the repository's documented normalization. A source citation is evidence of coverage, not proof of a good translation; it still has to be read against the Phi proposition beside it.
 
+Before drafting Phi, make a proposition record for each source unit. It need not become part of the finished page. The record says who is present, what happens or holds, how the claims relate, and which details of stance, degree, repetition, or imagery matter. Check each item against the Phi before the unit crosses the phase boundary. This catches a missing relation even when every surviving sentence is grammatical.
+
 ## 2. Translate only into Phi
 
 During the first phase, the translator may see the source and Phi's complete language references. Parenthetical English, old back-translations, summaries of earlier English, and glosses are removed from the working view. The translator searches the whole vocabulary before composing around a concept and may coin a word when Phi genuinely needs one, subject to the ordinary development protocol. Module vocabulary is available without hesitation when it fits the thought.
@@ -40,7 +42,7 @@ Each unit is checked before the next layer is attempted:
 | Source boundary | Exact names and measurements; quotations, technical labels, and other identities that canon keeps in the adjacent source material. |
 | Phi grammar | Modifier-first order and particle scope; frames and complement boundaries; coordination and topic drop; complete assertions. |
 
-Phi does not quietly invent an approximation and ask the source line to repair it. The grammatical readback treats each sentence as Phi rather than inferring its structure from what the source must have meant. Every complete sentence passes the full-sentence validator, and every applicable repository validator passes before the Phi is frozen.
+Phi does not quietly invent an approximation and ask the source line to repair it. The source-fidelity reading and the Phi-grammar readback are separate jobs. The grammatical readback treats each sentence as Phi rather than inferring its structure from what the source must have meant. Every complete sentence passes the full-sentence validator, and every applicable repository validator passes before the Phi is frozen.
 
 ## 3. Freeze the Phi
 
@@ -54,31 +56,35 @@ python3 scripts/translation_layers.py texts/north_wind_and_sun.md --phase source
 
 That view contains numbered Phi units and their decoded source citations. It omits glosses, derived English, notes, and limits. A new translation begins directly in the same numbered Phi-and-source form under `/tmp`; there is no English layer to extract. Before the freeze is accepted, the source citations must still reconstruct the chosen source passage exactly.
 
-## 4. Make an anonymous Phi packet
+## 4. Make compact anonymous bundles
 
-The frozen source-to-Phi view becomes the input to the second phase:
+The frozen source-to-Phi view becomes the input to the second phase. For a work of ordinary length, make a directory of bounded packets:
 
 ```bash
-python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --output /tmp/north_phi_only.md
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --output-dir /tmp/north_derive --batch-size 8
 ```
 
-The packet is deliberately spare:
+The directory contains three kinds of file:
 
-| Present | Absent |
+| File | Contents |
 |---|---|
-| Numbered Phi units; unit count; frozen digest. | Source and citations; title and filename; prior English and glosses; notes, limits, and summaries. |
+| `manifest.json` | The full frozen digest, selected unit numbers, unit and batch digests, reference digest, review policy, and packet order. |
+| `reference.md` | Compact records for only the lexical forms and registered compounds used by the selected Phi, followed by a short grammar checklist. |
+| `derive_*.md` | At most eight numbered Phi units, their unit digests, structural review flags, and lexical gloss scaffolds. |
 
-Hiding the title matters more than it may seem. A well-known title can recall half a sentence before anyone has translated a word.
+The shared reference is read once rather than copied into every packet. Eight units is a practical default, not another law of grammar. A dense passage may need six; a run of short clauses may be comfortable at ten.
 
-## 5. Derive English from Phi alone
+The command refuses a non-empty output directory, so an old packet cannot be mistaken for part of the current freeze.
 
-A fresh, non-forked model context receives the anonymous packet and the references needed to read Phi. It must never have seen the source or a source summary.
+The bundles contain Phi and only what is needed to read it. Everything source-facing is absent, including the title. That last omission matters more than it may seem: a familiar title can recall half a sentence before anyone has translated a word.
 
-| The context may inspect | The context leaves closed |
-|---|---|
-| The anonymous packet; canon and the lexicon; grammar and voice references. | Source text and summaries; repository status and filenames; catalogues and task history; the earlier conversation that contained the source. |
+## 5. Make the primary derivation from Phi alone
 
-From Phi alone, it produces two things for every unit: an exact gloss and natural English.
+A fresh, non-forked model context receives `reference.md` once and the derivation packets in order. It has never seen the source, prior English, or a summary of either. Canon, the grammar, and the required voice references are open; everything source-facing and every repository-navigation surface stays closed.
+
+For every unit, it first records each complete assertion's predicate and arguments, modifier attachments, particle and complement scope, and pronoun antecedents. Only then does it produce an exact gloss and natural English. This order makes the syntax visible before an agreeable English sentence has a chance to disguise it.
+
+The generated gloss scaffold is lexical, not final. It supplies the canonical gloss of each token without attempting to settle relative-clause brackets, coordination grouping, or other structure. The reader verifies it token by token and adds structural brackets from the completed analysis.
 
 The gloss preserves lexical identity and grammatical marking closely enough to expose the construction. The natural English says what the Phi says in ordinary English syntax.
 
@@ -90,7 +96,38 @@ If Phi says less, the English says less. If that result exposes a poor Phi sente
 
 Reader-facing English receives the normal Humanizer and Phi voice passes while the source remains hidden. Those passes may improve rhythm and clarity, but they may not add a proposition, strengthen a modal, guess an identity, or smooth away a distinction that Phi marks.
 
-## 6. Assemble and audit one direction at a time
+## 6. Give difficult units an independent reading
+
+After the primary derivation, generate the audit queue from the same frozen Phi:
+
+```bash
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --audit-only --output-dir /tmp/north_audit --batch-size 8
+```
+
+The queue contains every unit whose structure crosses the independent-review threshold, plus a deterministic ten-percent sample of the remaining units. The selector groups its reasons like this:
+
+| Queue rule | Result |
+|---|---|
+| Any two review flags | The unit enters the independent queue. |
+| One high-attention flag | `long-sentence`, `many-assertions`, `multiple-complement-frames`, `complex-coordination`, `relative-clause-attachment`, `question-or-condition`, or `compound-interpretation` places the unit in the queue by itself. |
+| Below the threshold | The unit remains eligible for the deterministic sample. |
+
+| Review family | What draws a flag |
+|---|---|
+| Length and structure | A long sentence, several assertions, or complex coordination. |
+| Embedded grammar | Nested or repeated complement frames, a question or condition, or a relative clause whose attachment needs care. |
+| Scope and reference | A particle stack or several uses of the third-person pronoun in a structure where antecedents may compete. |
+| Lexical reading | Several registered compounds or several words from optional modules. A form absent from both the lexicon and the productive-name rules stops bundle generation as an error. |
+
+A flag directs attention; it does not declare the sentence wrong.
+
+A second fresh, source-blind context reads this queue independently. Its response is an internal semantic check, so it uses direct prose without the voice guide or Humanizer. It performs the same assertion, attachment, scope, and antecedent analysis before giving its gloss and English reading.
+
+Compare the two readings by meaning. Different rhythm or word choice is harmless. A difference in participants, roles, attachment, scope, complement boundaries, assertion count, or antecedents must be settled from the Phi and its grammar. If a sampled low-risk unit reveals a class of structural error that the flags missed, repair the selector and regenerate the queue. The sample keeps the filter honest.
+
+When both readers agree on the semantic structure and the gloss is correct, the unit is settled. Do not commission another reading merely because the two English sentences have different styles. The purpose of the audit is agreement about what Phi says, not a contest for the prettiest paraphrase.
+
+## 7. Assemble and audit one direction at a time
 
 Only after both phases are complete are the four layers assembled. The audits remain separate:
 
@@ -103,9 +140,17 @@ Assembly can reveal a bad grouping or an awkward English line. Derive its replac
 
 After both directional audits pass, the introduction and notes may be written with the complete work in view. They describe the translation but do not reopen its aligned layers.
 
-## 7. Restart after any Phi change
+## 8. Retry only the Phi units that changed
 
-Any change to a frozen Phi unit invalidates that unit's gloss and derived English. The affected English is discarded, the new Phi stream is frozen, and the second phase begins again from a newly generated anonymous packet. Even a small Phi correction can change scope, tense, participant roles, or emphasis. Reusing the old English would make the digest ceremonial rather than useful.
+Any change to a frozen Phi unit invalidates that unit's gloss and derived English. Discard both. The unchanged units remain settled because their numbered Phi and unit digests have not moved. Make a fresh self-contained retry packet for the affected units:
+
+```bash
+python3 scripts/translation_layers.py /tmp/north_source_phi.md --phase phi-to-english --units 3,7-8 --output /tmp/north_retry.md
+```
+
+The retry goes to a fresh source-blind context under the same rules as the primary derivation. Once the changed Phi is final, generate new derivation and audit manifests for the complete stream. The full digest will change, and revised structure may change the audit selection, but unchanged derivations do not need to be written again. Unit hashes show which ones remain identical.
+
+Even a small Phi correction can change scope, tense, participant roles, or emphasis. Reusing the old English for that unit would make the digest ceremonial rather than useful.
 
 The digest can be checked at any time with:
 
@@ -115,7 +160,7 @@ python3 scripts/translation_layers.py texts/north_wind_and_sun.md --digest-only
 
 The certification registry recomputes this value from the published document. It also checks a second digest over the published Phi, gloss, derived English, and citations. A later edit to any aligned layer therefore fails CI until the work has been checked and recertified.
 
-## 8. Certify the result
+## 9. Certify the result
 
 A certification record contains this evidence:
 
@@ -125,9 +170,11 @@ A certification record contains this evidence:
 | Aligned-unit count and source-reconstruction count | The extent of the translation and its exact source coverage. |
 | Frozen Phi digest | The Phi stream from which English was derived. |
 | Published aligned-layer digest | The final Phi, gloss, derived English, and citations as one checked set. |
-| Derivation and restart note | The fresh source-blind context and any material replacement or restart. |
+| Derivation and restart note | The fresh source-blind context and any material unit replacement or retry. |
 
 An earlier fidelity sweep is useful evidence, but it is not retrospective proof that the source was hidden during English derivation.
+
+The pull-request body links the final derivation manifest and records the independent queue, its sample, and any semantic resolution or unit-scoped retry. This evidence remains attached to the public review that accepted the work.
 
 The [certification ledger](../evaluation/translation_process_status.md) is the readable record. Its machine-readable source is `project/translation_process_status.json`. The registry discovers the standalone translations and Gibran selections from their catalogues and the current *News from Nowhere* chapters from the book directory. A new translation cannot quietly fall outside the queue, and a certified Phi change cannot quietly retain old English.
 

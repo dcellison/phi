@@ -1,6 +1,6 @@
 ---
 name: translate
-version: 1.2.0
+version: 1.3.0
 description: |
   Translate a source text into Phi: survey the source and the lexicon
   thoroughly before drafting, use Phi's grammar and vocabulary to
@@ -120,19 +120,22 @@ Everything through step 6 belongs to one direction: source to Phi. No parentheti
 - Settle the unit boundaries and give each Phi unit its exact, non-overlapping source citation. The source partition belongs to this phase.
 - Read every unit against the source for proposition, relation, image, stance, scope, and force. Read the Phi independently in grammar order and run the sentence validator.
 - For a complete public-domain source, reconstruct the normalized source from the ordered citations and require exact equality. Citation occurrence alone is not enough.
-- Run `python3 scripts/translation_layers.py /tmp/WORK_source_phi.md --phase phi-to-english --output /tmp/WORK_phi_only.md`. The numbered packet contains the frozen Phi units and nothing else: no source, citation, old gloss, parenthetical English, notes, or limits. Record the SHA-256 reported by the utility in the working notes.
-- Put the source-to-Phi view away before opening the Phi-only packet. Do not move back and forth between them. In model-assisted work, the English phase must use a fresh, non-forked context that has never seen the source, prior English, or a summary of either; starting a new turn inside the context that contains the source is not isolation.
+- Run `python3 scripts/translation_layers.py /tmp/WORK_source_phi.md --phase phi-to-english --output-dir /tmp/WORK_derive --batch-size 8`. The directory contains a manifest, one anonymous compact reference, and numbered packets of no more than eight units. The shared reference contains compact records for only the lexical forms and registered compounds used by those units, so one source-blind context reads it once instead of searching the whole lexicon for every batch. Record the complete stream's SHA-256 from the manifest.
+- Put the source-to-Phi view away before opening the anonymous reference and packets. Do not move back and forth between them. In model-assisted work, the English phase must use a fresh, non-forked context that has never seen the source, prior English, or a summary of either; starting a new turn inside the context that contains the source is not isolation.
 - The source-blind context must not inspect repository status, filenames, catalogues, task history, or the earlier conversation that contained the source while deriving English. It may read canon, the lexicon, the grammar, and the required voice references.
 
 ## 8. Derive the English from Phi alone
 
-The Phi-only packet is the whole literary input to this phase. Canon, the lexicon, the grammar, the voice guide, and Humanizer may be consulted because they define or edit the Phi reading; the source and any English derived from it may not.
+The compact reference and Phi packets are the whole literary input to this phase. Give the reference once and the packets in order to one fresh source-blind context. Canon and the grammar govern the Phi reading. The voice guide and Humanizer edit the natural English only after its meaning is settled. The source and any English derived from it remain closed.
 
-- Build the exact gloss from the canonical lexicon. It exposes the Phi word order and grammatical labels without becoming the natural reading.
+- Before writing English, record each assertion's predicate and arguments, modifier attachments, particle and complement scope, and pronoun antecedents. Use the packet's required response shape. This analysis is where a second licensed parse must become visible.
+- Verify the generated lexical gloss scaffold token by token, then add the structural brackets established by the clause analysis. The scaffold comes from canonical entries and exposes Phi word order and grammatical labels, but it is not a finished exact gloss.
 - Translate the Phi sentence into natural English. Preserve every participant, relation, scope, tense, aspect, modality, evidential stance, focus, comparison, and discourse connection that Phi marks. English word order may be natural; missing Phi distinctions may not be supplied from memory.
-- Read the full lexicon entries behind the Phi words. A natural reading may unfold a transparent composition or the defined force of a word, but it may not import a label, gender, image, or strength that Phi does not carry.
+- Read the supplied lexical entries behind the Phi words. A natural reading may unfold a transparent composition or the defined force of a word, but it may not import a label, gender, image, or strength that Phi does not carry.
 - Apply Humanizer to the derived English while the source remains hidden. Keep the Phi and exact gloss fixed.
 - Finish every English unit before reopening any source material. If the independent reading raises a question about the Phi, record the unit number without trying to solve it from the source during this phase.
+
+After the primary derivation, run `python3 scripts/translation_layers.py /tmp/WORK_source_phi.md --phase phi-to-english --audit-only --output-dir /tmp/WORK_audit --batch-size 8`. A second fresh source-blind context reads that directory's reference once and independently analyses its risk-selected units plus the deterministic sample. This output is an internal audit, so do not load the voice guide or Humanizer. Compare semantic structures, not prose style. Different English rhythm passes; different participants, attachments, scope, complement boundaries, or antecedents require adjudication from Phi and canon.
 
 ## 9. Reunite the layers without crossing them
 
@@ -147,7 +150,7 @@ source: "<the exact source clause assigned during the source-to-Phi phase>"
 
 For still-copyrighted sources, drop the fourth line and say so in the intro.
 
-Assembly is not another drafting pass. Audit the two arrows separately after assembly: source to Phi in the source-to-Phi view, then Phi to English in the Phi-only view. Never compare the source directly with the parenthetical English. If the first audit changes a Phi sentence, discard that unit's gloss and English, freeze the revised Phi stream, and repeat step 8 for every affected unit. A later English correction may clarify only what the Phi already says; it cannot send wording back into the Phi.
+Assembly is not another drafting pass. Audit the two arrows separately after assembly: source to Phi in the source-to-Phi view, then Phi to English in the anonymous packets. Never compare the source directly with the parenthetical English. If the first audit changes a Phi sentence, discard that unit's gloss and English, freeze the revised Phi stream, and generate a fresh source-blind retry with `--units 14,20-22` or the appropriate stable unit selection. Unaffected units remain settled. A later English correction may clarify only what the Phi already says; it cannot send wording back into the Phi.
 
 Only after both layers are stable should the editorial prose be written. Each block gets a **Notes:** paragraph explaining the present choices: what was coined and why, what was composed and why, what canon refuses and how the text describes it instead. The file closes with a **Gap log**: a flat catalogue, concept, then the Phi solution, then the reasoning, covering every coinage and composition. Notes may compare source and Phi because that is their subject; they do not revise the already derived English.
 
@@ -159,13 +162,13 @@ Notes and gap logs state the translation's current reasoning. They are never a c
 
 - Run `python3 scripts/validate_examples.py` and `python3 scripts/validate_sentences.py` as separate commands before every commit touching the file. Zero errors and zero warnings is the bar.
 - Reread every citation against only its Phi unit in the source-to-Phi view. The validator does not catch a shared, overlapping, or inflated citation.
-- Reread every parenthetical line against the Phi-only packet and the lexicon entries behind it. Do not open the source during this check.
+- Reread every parenthetical line against the anonymous packet and its compact lexical reference. Do not open the source during this check.
 - Reread every sentence in grammar order (step 6); the validator's mechanical checks do not replace that pass.
-- Recompute the Phi-only packet's SHA-256. If it differs from the phase-boundary value, the English derivation is invalid until the changed units have completed step 8 again.
+- Recompute the full frozen stream's SHA-256. If it differs from the manifest's value, the English derivation is invalid until every changed unit has completed step 8 again.
 - Before coining, run `python3 scripts/validate_examples.py neighbors <candidate>`.
 - If any vocabulary JSON or `documents/reference/compounds.md` changed, regenerate with `python3 scripts/generate_reference.py`. Regenerate the phonetic-neighbour baseline whenever corpus attestations change, and always run `python3 scripts/build_site.py`.
-- Invoke the actual Humanizer skill on new or changed reader-facing prose before committing. Derived English receives its Humanizer pass from the Phi-only view. Intros, notes, and gap logs receive their own pass after assembly. Never alter Phi, exact gloss, or source quotation for style.
-- In the PR body, record the Phi freeze SHA-256, confirm that the source and earlier English were hidden during derivation, and state whether any Phi change forced an English restart.
+- Invoke the actual Humanizer skill on new or changed reader-facing prose before committing. Derived English receives its Humanizer pass from the anonymous packets. Intros, notes, and gap logs receive their own pass after assembly. Never alter Phi, exact gloss, or source quotation for style.
+- In the PR body, record the Phi freeze SHA-256, batch manifest, independently audited units, deterministic sample, resolved semantic disagreements, and any unit-scoped retry. Confirm that the source and earlier English remained hidden throughout derivation and audit.
 - Update `project/translation_process_status.json`, regenerate the readable ledger with `python3 scripts/translation_process_status.py --write`, and run its `--check` mode. Record the aligned-layer SHA-256 as well as the Phi freeze so a later hand edit to the gloss, English, or citations cannot retain certification unnoticed.
 - Work on a branch, open a PR, flag judgement calls explicitly in the body, and wait for merge before cleaning up.
 
@@ -177,7 +180,7 @@ First draft, after step 2 was skipped: one Phi sentence carrying only the report
 
 After running steps 2 through 4 properly: four Phi sentences. The meeting's place and pace, `mua lona ta shero reshi shareo to nai.` The transformation it turned on, `punoa moluki wireo philo.` The friends' energy and its topic, `lo melu wireo punoa ki therua haolu.` Every word in all three, `lona`, `reshi`, `moluki`, `therua`, `shero`, `wireo`, `philo`, was already in the lexicon before the first draft was written. Nothing was coined to fix it. The fix was reading the dictionary properly the first time.
 
-At the phase boundary, those Phi sentences go into a new packet without Morris's sentence, the old parenthetical English, or the commentary above. The English reader receives only that packet and the language references. Morris returns after the English is finished, when the source-to-Phi direction receives its own audit again. If that audit changes one of the Phi sentences, the English for that sentence is thrown away rather than patched beside Morris.
+At the phase boundary, those Phi sentences go into anonymous bounded packets without Morris's sentence, the old parenthetical English, or the commentary above. The English reader receives the shared compact reference once, then each packet in order. Morris returns after the English is finished, when the source-to-Phi direction receives its own audit again. If that audit changes one of the Phi sentences, the English for that unit is thrown away and a fresh unit-scoped packet replaces it.
 
 Step 5 catches a different kind of gap in the same chapter. `shareo noeli to manolu. ta miona korua thero ki kapura.` (the discussion stayed warm and good-natured; one grew angry and roared) stands as two adjacent declaratives with no connector between them, though the English marks the turn plainly: "at last." `whekai` (however), opening the second sentence, carries the turn the two bare declaratives left silent. The image was never missing; the grammar carrying its turn was.
 
