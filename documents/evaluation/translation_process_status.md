@@ -10,14 +10,14 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 6 |
+| Certified | 7 |
 | In progress | 0 |
-| Pending | 14 |
+| Pending | 13 |
 | Total | 20 |
 
 ## Short works
 
-Certified: 6 of 10.
+Certified: 7 of 10.
 
 | Document | File | State | Record |
 |---|---|---|---|
@@ -27,7 +27,7 @@ Certified: 6 of 10.
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Certified | D108; [PR #697](https://github.com/dcellison/phi/pull/697); 2 units |
 | ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Certified | D109; [PR #698](https://github.com/dcellison/phi/pull/698); 9 units |
 | mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Certified | D107; [PR #696](https://github.com/dcellison/phi/pull/696); 4 units |
-| thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Pending | Awaiting D102 certification. |
+| thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Certified | D110; [PR #699](https://github.com/dcellison/phi/pull/699); 5 units |
 | wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Pending | Awaiting D102 certification. |
 | keiro — Selections from the Tao Te Ching | [tao_te_ching.md](../../texts/tao_te_ching.md) | Pending | Awaiting D102 certification. |
 | nulo sano korua — The Heart Sutra | [heart_sutra.md](../../texts/heart_sutra.md) | Pending | Awaiting D102 certification. |
@@ -152,6 +152,22 @@ Published aligned-layer SHA-256:
 
 ```text
 774ed454c5d926c7dd45f10d56121cac4f77df54e0fdf73ee2d7a198ea0a4ef3
+```
+
+### thiku miona lue silero — Selections from The Little Prince
+
+D110 certified this document in [PR #699](https://github.com/dcellison/phi/pull/699) on 2026-08-03. The freeze contains 5 aligned Phi units, and its `woods` citations reconstruct 238 normalized source characters exactly. The source-only pass repairs subject and adjunct order and makes simplicity an explicit predication. A fresh anonymous context derives all five units, and an independent reader confirms the deterministic responsibility sample without exposing a source-side fault.
+
+Frozen Phi SHA-256:
+
+```text
+0cd1f7cd946000b9d6c635a645e90141ada25dacb0443845a912d8470226e3d2
+```
+
+Published aligned-layer SHA-256:
+
+```text
+91de8f40cf7d5a34898320d9da7a747e70235699ec77b71ae65e1cc62ef07d96
 ```
 
 ## Maintaining the ledger

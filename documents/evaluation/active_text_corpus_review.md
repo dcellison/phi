@@ -324,7 +324,7 @@ The page was translated afresh rather than repaired around its former relational
 |---|---|---|
 | Source witness | Store the three quoted excerpts and register `woods:` citations | Every reproduced source fragment now has an exact local witness. The page does not claim coverage beyond those three passages. |
 | Draw me a sheep | Preserve `pi no wei mia ta mophira kire` | Polite imperative `pi no` carries the courtesy, `wei mia` names the recipient, and `kire` has an established drawing sense while retaining shape as its exact gloss. |
-| And now; simple secret | Add `sheno nosa`; turn the apposition into a second complete identity clause | `sheno` preserves the additive opening and `nosa` its present turn. Phi does not ask the colon alone to carry an incomplete clause. |
+| And now; simple secret | Use `sheno` and `nosa`; turn the apposition into a second complete predication | `sheno` preserves the additive opening and `nosa` its present turn. Phi does not ask the colon alone to carry an incomplete clause. |
 | See rightly | Preserve `miona li roe korua po theali nila` | Restrictive `li` remains on the heart as instrument, and `theali` makes the seeing fitting for its purpose rather than asserting infallible perception. |
 | Invisible to the eye | Preserve `whu noetha nai roe mirae se po ma nila` | The essential thing remains the subject. Singular eye and passive potential negation preserve Woods's proposition. |
 | What you have tamed | Use `whu thia woenu ki ka kelu nolika` | Perfective causative becoming states that the listener made an animal tame. The explicit animal narrows Woods's open relative but gives the Phi relative clause an audible boundary. |
@@ -336,6 +336,10 @@ The page was translated afresh rather than repaired around its former relational
 ### Post-conversion fidelity sweep
 
 D082 checks the finished translation again rather than relying on the conversion decision. Its five citations reconstruct all 238 normalized characters of the stored Woods witness in order. The detailed blocks and complete reading contain the same seven Phi assertions; their lexicon glosses, syntax, and derived English all agree. The animal head in the last passage remains a deliberate narrowing: in the present construction it ends the relative before `naseru`, which would otherwise be available as the head noun. No Phi line changes, and no new lexical decision is needed. The audit does repair the older coverage record, which still described `nolami` and willing `thonai` as choices made by the former adaptation.
+
+### Isolated process certification
+
+D110 reruns all five units under D102. The source-only pass puts `mia kupela` before `nosa`, makes `ha kupela` the explicit subject of its simplicity predicate, and places `theula thimu` after `thia` in the final assertion. The repaired Phi stream freezes at SHA-256 `0cd1f7cd946000b9d6c635a645e90141ada25dacb0443845a912d8470226e3d2`. A fresh source-blind context derives all five glosses and English readings, and an independent source-blind reader confirms the deterministic Unit 5 sample. The only remaining interpretive breadth is ordinary: `wei` does not force English to choose between obligation to and obligation for the animal, and bare `nolika` does not mark definiteness. Neither changes the participants or proposition. No retry or language change is needed.
 
 ## Refusal review: the Ring Verse
 
@@ -800,7 +804,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/schleicher_fable.md` | Translation | Reviewed | D107 certifies all four units under D102: fourteen citations reconstruct the 703-character witness, the Phi stream freezes at `dec1e025...1c3fca`, and the repaired opening receives new source-blind derivation and audit after its first English layer exposes ambiguous horse identity. |
 | `texts/babel_text.md` | Translation | Certified D109 | Nine units and ten citations reconstruct all 1,191 normalized KJV characters. Source-blind audits drive the relative-role repairs, and a one-unit retry restores the earth's surface to the final English. |
 | `texts/human_rights_article_one.md` | Translation | Certified D108 | Two citations reconstruct all 170 normalized source characters. The source-blind derivation and independent audit agree on worth, rights, passive endowment, held obligation, reciprocal conduct, and the framed sibling-spirit manner. |
-| `texts/little_prince_excerpts.md` | Translation | Isolation pending | D082 confirms that five citations reconstruct the 238-character Woods witness and that all seven assertions align through Phi, exact gloss, and derived English. The 40-form rendering preserves the current turn, passive invisibility, taming, and obligation while recording Phi's narrower animal head. |
+| `texts/little_prince_excerpts.md` | Translation | Certified D110 | Five citations reconstruct all 238 normalized Woods characters. The final five-unit Phi stream freezes at `0cd1f7cd...e3d2`, and fresh source-blind derivation plus an independent sample audit agree on every participant and proposition. |
 | `texts/gibran/on_love.md` | Translation | Isolation pending | The complete 35-unit citation stream reconstructs the 2,403-character source passage exactly. The fidelity pass changes 19 units and adds base `ratenu` and `salenu`. |
 | `texts/gibran/on_children.md` | Translation | Isolation pending | All 18 source units align, the continuous reading matches the detailed blocks, and the limits table records Phi's material treatment of the archery scene. |
 | `texts/gibran/on_giving.md` | Translation | Isolation pending | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |

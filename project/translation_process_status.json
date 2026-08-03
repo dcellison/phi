@@ -120,7 +120,22 @@
     },
     {
       "path": "texts/little_prince_excerpts.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D110",
+        "pull_request": 699,
+        "certified_on": "2026-08-03",
+        "unit_count": 5,
+        "phi_sha256": "0cd1f7cd946000b9d6c635a645e90141ada25dacb0443845a912d8470226e3d2",
+        "aligned_sha256": "91de8f40cf7d5a34898320d9da7a747e70235699ec77b71ae65e1cc62ef07d96",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "woods",
+          "normalized_characters": 238
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "The source-only pass repairs subject and adjunct order and makes simplicity an explicit predication. A fresh anonymous context derives all five units, and an independent reader confirms the deterministic responsibility sample without exposing a source-side fault."
+      }
     },
     {
       "path": "texts/velveteen_rabbit.md",
