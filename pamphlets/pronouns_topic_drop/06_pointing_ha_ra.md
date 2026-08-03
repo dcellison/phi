@@ -44,7 +44,7 @@ PROX PL friend
 (these friends)
 ```
 
-Standing with no noun after it, the deictic takes `lo` in front, exactly the way the pronouns do, and the phrase points at a plurality without naming a class. Babel's builders use it for their own bricks:
+Standing with no noun after it, the deictic takes `lo` in front, exactly the way the pronouns do, and the phrase points at a plurality without naming a class. With a group of bricks already in view, one speaker might say:
 
 ```
 su lo mia lo ha ru thape.

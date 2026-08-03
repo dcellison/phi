@@ -71,4 +71,4 @@ Apply topic-drop where it is safe, and restore the subject where it is not.
 
 ### Part E
 
-21. Let us burn these thoroughly. `lo ha` points at the bricks with no noun needed. 22. You and I love each other: coordination builds the pair, and `wiso` carries the love between them. 23. The flower that I saw is beautiful. It grows: the relative clause builds the subject once, and the next sentence needs only a verb. 24. We go. You do not go: the contrast clause draws the line that `lo mia` alone leaves open.
+21. Let us burn these thoroughly. `lo ha` points at the group already in view without repeating its noun. 22. You and I love each other: coordination builds the pair, and `wiso` carries the love between them. 23. The flower that I saw is beautiful. It grows: the relative clause builds the subject once, and the next sentence needs only a verb. 24. We go. You do not go: the contrast clause draws the line that `lo mia` alone leaves open.
