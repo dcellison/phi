@@ -72,14 +72,20 @@ The source chain begins with Schleicher's 1868 German rendering in `texts/source
 |---|---|---|
 | English ground truth | The common short English rendering omits shearing, grief, knowledge, comparative suffering, and the sheep making off. | The controlled translation from the German supplies the complete aligned witness. |
 | Constricted heart | The German gives both a bodily image and its emotional explanation. | Phi states the squeezed heart and intense sadness separately, during the act of seeing. |
+| Three horses | Repeating `ta kalora` did not require three distinct horses, and separate matrix sentences detached their work from what the sheep saw. | `ta shao kalora` establishes an exact three-member group inside the seen proposition; `nu ta`, `nu wi`, and `nu ta shao` distinguish its members. |
 | Load and bodily burden | Physical heaviness alone loses the living bearer. | `tumoa` describes the wagon's weight; base `tupeka` names the burden carried by a horse. |
 | Shearing | Generic cutting did not identify removal of a fleece from its living bearer. | Shared Ecological and Work `mophiku` names shearing at both source occurrences and keeps the sheep as patient. |
-| The master | Phi has no ordinary person-role for *master*, but translation cannot erase the source relation. | The title stays in English. Commons `phenori` identifies a person who holds ownership of the sheep inside the Phi sentence. |
+| Speech boundaries | One frame for every quoted sentence falsely repeated the speaking event. | Each speaker receives one quote frame for the whole continuing speech. |
+| The master | Phi has no ordinary person-role for *master*, but translation cannot erase the source relation. | The title stays in the source. One assertion identifies the person as holding Commons `phenori`, ownership, over the sheep; a second states what the person does with the wool. |
 | Worse off | Phi has no generic *bad* or *worse*. | The comparison reverses: the horses are more `towe`, well, than the sheep. The limits table records the source's extra emphasis. |
-| Final motion | Schleicher offers turned aside, escaped, and made off as descriptions of one departure. | Phi coordinates a turn towards the field with quick flight into it rather than making the sheep leave three times. |
+| Final motion | Schleicher offers turned aside, escaped, and made off as descriptions of one departure. | Phi coordinates a turn towards a field with quick flight to `ra kosha`, that field, rather than making the sheep leave three times or leaving the destination implicit. |
 | Source reconstruction | The horses' quotation and final parenthetical descriptions must remain complete. | The citation stream includes the closing quotation mark and reconstructs the stored witness exactly. |
 
 The translation uses shared `mophiku` and Commons `phenori`. No other optional term makes the source more exact.
+
+### Isolated process certification
+
+D107 completes the D102 rerun. Four aligned units carry fourteen non-overlapping citations that reconstruct all 703 normalized source characters exactly. The source-only pass joins each speech into one frame, keeps the horses' work inside the proposition seen by the sheep, separates the ownership relation from the use of the wool, and gives the final field an explicit recalled referent. The first anonymous derivation then exposes an unresolved possibility that all three tasks belong to one horse. That unit's English is discarded, the Phi establishes an exact three-member group with ordinal members, and fresh source-blind contexts derive and audit only the repaired unit. The other three units retain their independently checked outputs under unchanged unit hashes. The final four-unit stream freezes at SHA-256 `dec1e02503f0c9571c4da870a80d67610508efce1d8aa65cbd44d6e9641c3fca`. No root, module membership, registered compound, function word, or grammar is added.
 
 ## Translation review: The Metta Sutta
 
@@ -789,7 +795,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/north_wind_and_sun.md` | Translation | Reviewed | D103 certifies all 17 units under D102: the source partition remains exact, the Phi stream freezes at `63fbc928...f470`, and a fresh source-blind context derives every gloss and natural English line. |
 | `texts/metta_sutta.md` | Translation | Reviewed | D105 certifies all 36 units under D102: the source partition remains exact, the Phi stream freezes at `73851696...c7d7d1`, and fresh source-blind contexts derive every gloss and natural English line. |
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | D106 certifies all 38 units under D102: the 4,538-character source partition remains exact, the Phi stream freezes at `57baf009...840ee`, and fresh source-blind contexts derive every gloss and natural English line. |
-| `texts/schleicher_fable.md` | Translation | Isolation pending | D074 adds direct shearing, removes a quoted fragment, restores cessative possession, treats the final glosses as one motion, and makes the citation stream reconstruct the stored source body exactly. |
+| `texts/schleicher_fable.md` | Translation | Reviewed | D107 certifies all four units under D102: fourteen citations reconstruct the 703-character witness, the Phi stream freezes at `dec1e025...1c3fca`, and the repaired opening receives new source-blind derivation and audit after its first English layer exposes ambiguous horse identity. |
 | `texts/babel_text.md` | Translation | Isolation pending | Complete KJV alignment, continuous reading, and translation limits complete. |
 | `texts/human_rights_article_one.md` | Translation | Isolation pending | Exact rights, reason, conscience, held obligation, source alignment, and translation limits complete. |
 | `texts/little_prince_excerpts.md` | Translation | Isolation pending | D082 confirms that five citations reconstruct the 238-character Woods witness and that all seven assertions align through Phi, exact gloss, and derived English. The 40-form rendering preserves the current turn, passive invisibility, taming, and obligation while recording Phi's narrower animal head. |
