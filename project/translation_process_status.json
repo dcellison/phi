@@ -139,7 +139,22 @@
     },
     {
       "path": "texts/velveteen_rabbit.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D111",
+        "pull_request": 700,
+        "certified_on": "2026-08-03",
+        "unit_count": 426,
+        "phi_sha256": "16597a3af79e10b9ff4e66638108da09e4c9fb6bce6ccd4d275ccb4b841c3f59",
+        "aligned_sha256": "42ab9396fd582eb5a3d6970eaea221f80a6fb5c0707bfd351121095c15e272c5",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "williams",
+          "normalized_characters": 20296
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "A fresh anonymous context derived the complete frozen stream. Independent source-blind review exposed further Phi faults; each affected English layer was discarded, and targeted fresh contexts derived and audited every repaired unit before publication."
+      }
     },
     {
       "path": "texts/gibran/on_love.md",
