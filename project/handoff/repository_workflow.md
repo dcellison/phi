@@ -252,6 +252,8 @@ If any Phi unit changes after the freeze, discard its gloss and English, record 
 
 After certification, update `project/translation_process_status.json`, regenerate `documents/evaluation/translation_process_status.md`, and run `python3 scripts/translation_process_status.py --check`. The registry covers every translation document and verifies both the frozen Phi digest and the published aligned-layer digest.
 
+Do not add certification labels by hand. `scripts/build_site.py` reads the validated registry, marks only certified translation pages and catalogue rows, and rebuilds `texts/certification.html` from `documents/reference/translation_certification.md` plus the live certified list. The build fails when a page mark, catalogue mark, or public list disagrees with the registry.
+
 ## News from Nowhere source reconstruction
 
 The main validator checks that each `morris:` value occurs in `texts/news_from_nowhere/source.txt`, but it cannot show that the citations form one exhaustive, ordered partition of a chapter. Run a reconstruction check before publishing every new chapter.

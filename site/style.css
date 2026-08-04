@@ -2341,6 +2341,29 @@ table.primer-ladder {
   margin: .45rem 0 0;
   text-align: right;
 }
+.text-index-certification-progress {
+  color: var(--sage);
+  font-size: .68rem;
+  font-weight: 650;
+  margin: .18rem 0 0;
+  text-align: right;
+}
+.text-index-entry-meta > .text-certification-mark {
+  align-self: end;
+  margin-top: .5rem;
+}
+.text-index-certification-note {
+  align-items: center;
+  border-top: 1px solid var(--hairline);
+  color: var(--muted);
+  display: flex;
+  font-size: .76rem;
+  gap: .75rem;
+  line-height: 1.5;
+  margin: 1rem 0 0;
+  padding-top: .8rem;
+}
+.text-index-certification-note > span { max-width: 38rem; }
 .text-work-header {
   border-bottom: 1px solid var(--hairline);
   margin-bottom: 1.5rem;
@@ -2368,6 +2391,37 @@ table.primer-ladder {
   gap: .38rem;
 }
 .text-work-method span[aria-hidden="true"] { color: var(--gold); }
+.text-certification-mark {
+  align-items: center;
+  color: var(--sage);
+  display: inline-flex;
+  font-size: .66rem;
+  font-weight: 700;
+  gap: .28rem;
+  line-height: 1.2;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.text-certification-mark svg {
+  fill: none;
+  height: .88rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+  width: .88rem;
+}
+a.text-certification-mark:hover { color: var(--gold); }
+a.text-certification-mark:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+.text-work-method > .text-certification-mark,
+.news-chapter-method > .text-certification-mark {
+  border-left: 1px solid var(--hairline);
+  margin-left: .15rem;
+  padding-left: .55rem;
+}
 .text-work-title-row {
   align-items: end;
   display: grid;
@@ -3290,6 +3344,10 @@ table.text-ledger {
   margin: .12rem 0;
   text-align: right;
 }
+.news-book-chapter-meta > .text-certification-mark {
+  justify-content: end;
+  margin-top: .4rem;
+}
 .news-link-arrow {
   color: var(--muted);
   display: flex;
@@ -3341,12 +3399,163 @@ table.text-ledger {
   position: absolute;
   right: 0;
 }
+.author-collection-count span {
+  border-left: 1px solid var(--hairline);
+  color: var(--sage);
+  margin-left: .55rem;
+  padding-left: .55rem;
+}
 .author-collection-work-phi {
   color: var(--sage);
   font-family: var(--serif);
   font-size: .72rem;
   line-height: 1.35;
   margin: 0 0 .18rem;
+}
+
+/* --- public translation certification --- */
+.text-certification-page main {
+  max-width: 72rem;
+  padding-top: 3rem;
+}
+.text-certification-page .text-work { max-width: 56rem; }
+.text-certification-header {
+  border-bottom: 1px solid var(--hairline);
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.35rem;
+}
+.text-certification-title-row {
+  align-items: end;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) 5rem;
+  margin-top: .8rem;
+}
+.text-certification-title-row h1 {
+  color: var(--ink);
+  font-size: 3.7rem;
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin: 0;
+  text-align: left;
+}
+.text-certification-title-row > .text-section-icon {
+  color: var(--sage);
+  justify-content: end;
+}
+.text-certification-title-row > .text-section-icon svg {
+  height: 4rem;
+  stroke-width: 1.15;
+  width: 4rem;
+}
+.text-certification-count {
+  color: var(--muted);
+  font-size: .72rem;
+  font-weight: 600;
+  margin: .55rem 0 0;
+}
+.text-certification-count strong {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  font-weight: 500;
+  margin-right: .2rem;
+}
+.text-certification-lede {
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.16rem;
+  line-height: 1.72;
+  margin: 0 0 1.3rem;
+}
+.text-certification-warning {
+  background: var(--paper-raised);
+  border-left: 3px solid var(--gold);
+  line-height: 1.65;
+  margin: 1.5rem 0 2rem;
+  padding: .9rem 1rem;
+}
+.text-certification-page h2 {
+  border-top: 1px solid var(--hairline);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.8rem;
+  font-weight: 550;
+  letter-spacing: 0;
+  line-height: 1.2;
+  margin: 3rem 0 1rem;
+  padding-top: .8rem;
+  text-align: left;
+}
+.text-certification-page pre {
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--hairline);
+  border-top: 1px solid var(--hairline);
+  color: var(--sage);
+  font-size: .88rem;
+  line-height: 1.8;
+  margin: 1.5rem 0;
+  padding: .75rem 1rem;
+}
+.text-certification-page table {
+  border-collapse: collapse;
+  font-size: .82rem;
+  line-height: 1.55;
+  margin: 1.25rem 0 1.8rem;
+  width: 100%;
+}
+.text-certification-page th,
+.text-certification-page td {
+  border-bottom: 1px solid var(--hairline);
+  padding: .6rem .75rem .65rem 0;
+  text-align: left;
+  vertical-align: top;
+}
+.text-certification-page th {
+  color: var(--sage);
+  font-size: .72rem;
+  font-weight: 700;
+}
+.text-certification-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.text-certification-list-item { border-bottom: 1px solid var(--hairline); }
+.text-certification-list-item a {
+  align-items: center;
+  color: var(--ink);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 1fr) 1.25rem;
+  padding: .9rem 0;
+  text-decoration: none;
+}
+.text-certification-list-item a:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+.text-certification-list-copy { min-width: 0; }
+.text-certification-list-title {
+  display: block;
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+.text-certification-list-meta {
+  color: var(--muted);
+  display: block;
+  font-size: .68rem;
+  line-height: 1.4;
+  margin-top: .18rem;
+}
+.text-certification-list-item .text-index-arrow { align-self: center; }
+.text-certification-list-item a:hover .text-certification-list-title {
+  color: var(--sage);
+}
+.text-certification-list-item a:hover .text-index-arrow {
+  color: var(--gold);
+  transform: translateX(.2rem);
 }
 
 .text-news-chapter-page main {
@@ -3375,6 +3584,10 @@ table.text-ledger {
   align-items: baseline;
   display: flex;
   gap: .6rem;
+}
+.news-chapter-method {
+  align-items: center;
+  display: inline-flex;
 }
 .news-chapter-position span + span {
   border-left: 1px solid var(--hairline);
@@ -4385,7 +4598,12 @@ table.text-ledger {
     justify-content: start;
   }
   .text-index-entry-method,
-  .text-index-book-progress { text-align: left; }
+  .text-index-book-progress,
+  .text-index-certification-progress { text-align: left; }
+  .text-index-entry-meta > .text-certification-mark {
+    align-self: center;
+    margin-top: 0;
+  }
   .text-index-arrow {
     align-self: center;
     grid-column: 3;
@@ -4884,7 +5102,22 @@ table.text-ledger {
 @media (max-width: 560px) {
   .text-news-book-page main,
   .text-author-collection-page main,
-  .text-news-chapter-page main { padding-top: 2rem; }
+  .text-news-chapter-page main,
+  .text-certification-page main { padding-top: 2rem; }
+  .text-certification-title-row {
+    gap: .7rem;
+    grid-template-columns: minmax(0, 1fr) 3.25rem;
+  }
+  .text-certification-title-row h1 { font-size: 2.45rem; }
+  .text-certification-title-row > .text-section-icon svg {
+    height: 2.8rem;
+    width: 2.8rem;
+  }
+  .text-certification-lede { font-size: 1.03rem; }
+  .text-certification-page h2 { font-size: 1.55rem; }
+  .text-certification-page table { font-size: .76rem; }
+  .text-certification-page th,
+  .text-certification-page td { padding-right: .45rem; }
   .news-book-title-row {
     gap: .65rem;
     grid-template-columns: minmax(0, 1fr);
@@ -4952,6 +5185,10 @@ table.text-ledger {
   .news-book-chapter-meta p {
     margin: 0;
     text-align: left;
+  }
+  .news-book-chapter-meta > .text-certification-mark {
+    justify-content: start;
+    margin-top: 0;
   }
   .news-book-chapter .news-link-arrow {
     align-self: center;
@@ -5130,6 +5367,12 @@ table.text-ledger {
     padding: 0;
   }
   .text-editorial .text-work { max-width: none; }
+  .text-certification-title-row h1 { font-size: 3em; }
+  .text-certification-warning {
+    background: none;
+    break-inside: avoid;
+  }
+  .text-certification-list-item { break-inside: avoid; }
   .text-index-header {
     margin-bottom: 2em;
     padding-bottom: 1em;

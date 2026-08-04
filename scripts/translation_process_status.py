@@ -355,7 +355,7 @@ def render(data, root: Path = ROOT) -> str:
         "",
         "A pending translation may still be accurate and carefully reviewed. Pending means only that its English was not demonstrably derived in a fresh source-blind context after the Phi was frozen. Originals and the Ring Verse refusal are outside this queue because they make a different promise to the reader.",
         "",
-        "The complete procedure is described in [How a Phi translation is made](../reference/translation_process.md).",
+        "[What certified means](../reference/translation_certification.md) gives the public account of the mark, including its limits. The complete working procedure is described in [How a Phi translation is made](../reference/translation_process.md).",
         "",
         "## Current state",
         "",

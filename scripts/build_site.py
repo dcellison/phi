@@ -20,6 +20,11 @@ from content_catalogues import (
     load_text_catalogue,
     load_text_collection_catalogues,
 )
+from translation_process_status import (
+    discover_documents as discover_translation_documents,
+    load_data as load_translation_process_data,
+    validate as validate_translation_process_data,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE_SRC = ROOT / "site"
@@ -63,6 +68,24 @@ BOOKS = [work for work in TEXT_CATALOGUE if work["kind"] == "book"]
 if len(BOOKS) != 1:
     raise ValueError("the site renderer currently expects exactly one catalogued book")
 NEWS_WORK = BOOKS[0]
+TRANSLATION_PROCESS_DATA = load_translation_process_data()
+TRANSLATION_PROCESS_ERRORS = validate_translation_process_data(
+    TRANSLATION_PROCESS_DATA,
+    ROOT,
+)
+if TRANSLATION_PROCESS_ERRORS:
+    raise ValueError(
+        "translation certification register is invalid: "
+        + "; ".join(TRANSLATION_PROCESS_ERRORS)
+    )
+TRANSLATION_DOCUMENTS = {
+    item.path: item
+    for item in discover_translation_documents(TRANSLATION_PROCESS_DATA, ROOT)
+}
+TRANSLATION_STATUS = {
+    item["path"]: item
+    for item in TRANSLATION_PROCESS_DATA["documents"]
+}
 
 
 def text_repo_path(work):
@@ -73,6 +96,29 @@ def text_repo_path(work):
 def text_site_path(work):
     """Return the deployed path for a short or collected work."""
     return work.get("_site_path", f'{Path(work["path"]).stem}.html')
+
+
+def translation_status(repo_path):
+    """Return the exhaustive process record for one translation document."""
+    return TRANSLATION_STATUS.get(repo_path)
+
+
+def is_certified_translation(repo_path):
+    """Say whether one published translation carries a current certification."""
+    status = translation_status(repo_path)
+    return status is not None and status["status"] == "certified"
+
+
+def translation_site_href(repo_path):
+    """Map a translation's repository path to its deployed texts URL."""
+    relative = Path(repo_path).relative_to("texts")
+    return relative.with_suffix(".html").as_posix()
+
+
+def certification_href(repo_path):
+    """Return the relative public-explanation URL for one translation page."""
+    depth = len(Path(repo_path).relative_to("texts").parents) - 1
+    return "../" * depth + "certification.html"
 
 
 def prepare_site_output():
@@ -4198,6 +4244,31 @@ def text_section_icon(kind):
     )
 
 
+def text_certification_mark(href=None):
+    """Return the linked or compact mark used for certified translations."""
+    icon = (
+        '<svg viewBox="0 0 24 24" focusable="false" aria-hidden="true">'
+        '<path d="M21.801 10A10 10 0 1 1 17 3.335"/>'
+        '<path d="m9 11 3 3L22 4"/>'
+        "</svg>"
+    )
+    content = f"{icon}<span>Certified</span>"
+    if href is None:
+        return f'<span class="text-certification-mark">{content}</span>'
+    return (
+        f'<a class="text-certification-mark" href="{html_module.escape(href)}" '
+        'title="What certified means">'
+        f"{content}</a>"
+    )
+
+
+def certified_text_mark(repo_path, href=None):
+    """Return a mark only when the process register certifies this document."""
+    if not is_certified_translation(repo_path):
+        return ""
+    return text_certification_mark(href)
+
+
 def text_heading_slug(title):
     """Make a stable fragment identifier from one validated section title."""
     return re.sub(
@@ -4853,11 +4924,15 @@ def apply_text_editorial(body, source, repo_path, treatment):
         method_label = '<span>Refusal</span>'
     else:
         method_label = '<span>Original</span>'
+    certification = certified_text_mark(
+        repo_path,
+        certification_href(repo_path),
+    )
     header = f"""
 <header class="text-work-header">
   <div class="text-work-meta">
     <p class="text-shelf-label">Phi texts</p>
-    <p class="text-work-method">{method_label}</p>
+    <p class="text-work-method">{method_label}{certification}</p>
   </div>
   <div class="text-work-title-row">
     <div class="text-work-title-copy">
@@ -5187,9 +5262,13 @@ for work_index, work in enumerate(TEXTS):
         editorial_kind = treatment["form"]
         editorial_motif = treatment["motif"]
     else:
+        certification = certified_text_mark(
+            repo_path,
+            certification_href(repo_path),
+        )
         rendered = rendered.replace(
             "</h1>",
-            f'</h1>\n<p class="text-method">{work["method"]}</p>',
+            f'</h1>\n<p class="text-method">{work["method"]}{certification}</p>',
             1,
         )
     (TEXTS_OUT / f"{stem}.html").write_text(
@@ -5333,11 +5412,15 @@ def apply_news_chapter_editorial(body, source, chapter, book):
         if len(chapter["title"]) > 30
         else ""
     )
+    certification = certified_text_mark(
+        repo_path,
+        certification_href(repo_path),
+    )
     header = f"""
 <header class="news-chapter-header">
   <div class="news-chapter-meta">
     <p class="news-book-kicker"><a href="index.html">{html_module.escape(book["english_title"])}</a></p>
-    <p class="news-chapter-position"><span>{html_module.escape(chapter["method"])}</span><span>Chapter {chapter["number"]:02d} of {book["total_chapters"]:02d}</span></p>
+    <p class="news-chapter-position"><span class="news-chapter-method">{html_module.escape(chapter["method"])}{certification}</span><span>Chapter {chapter["number"]:02d} of {book["total_chapters"]:02d}</span></p>
   </div>
   <div class="news-chapter-title-row">
     <div class="news-chapter-title-copy">
@@ -5538,6 +5621,8 @@ def news_book_index(readme_source, book):
     available = len(book["chapters"])
     chapter_rows = []
     for chapter in book["chapters"]:
+        repo_path = f'{book["path"]}/{chapter["file"]}'
+        certification = certified_text_mark(repo_path)
         movement_noun = "movement" if len(chapter["movements"]) == 1 else "movements"
         passage_noun = (
             "passage" if chapter["interlinear_stanzas"] == 1 else "passages"
@@ -5557,6 +5642,7 @@ def news_book_index(readme_source, book):
             '<div class="news-book-chapter-meta">'
             f'<p>{len(chapter["movements"]):02d} {movement_noun}</p>'
             f'<p>{chapter["interlinear_stanzas"]:03d} {passage_noun}</p>'
+            f"{certification}"
             "</div>"
             f"{news_link_arrow()}"
             "</a></li>"
@@ -5810,6 +5896,7 @@ def text_collection_index(readme_source, collection, works):
     work_rows = []
     for index, work in enumerate(works, 1):
         work_phi, work_english = text_contents_title(work)
+        certification = certified_text_mark(text_repo_path(work))
         work_rows.append(
             '<li class="news-book-chapter author-collection-work">'
             f'<a href="{Path(work["path"]).stem}.html">'
@@ -5825,11 +5912,15 @@ def text_collection_index(readme_source, collection, works):
             '<div class="news-book-chapter-meta">'
             f'<p>{html_module.escape(work["source"])}</p>'
             f'<p>{html_module.escape(work["method"])}</p>'
+            f"{certification}"
             "</div>"
             f"{news_link_arrow()}"
             "</a></li>"
         )
     work_noun = "selection" if len(works) == 1 else "selections"
+    certified_count = sum(
+        is_certified_translation(text_repo_path(work)) for work in works
+    )
     return (
         '<header class="news-book-header author-collection-header">'
         '<div class="news-book-meta">'
@@ -5856,7 +5947,8 @@ def text_collection_index(readme_source, collection, works):
         '<header class="news-book-section-heading">'
         '<p class="news-book-section-label">By source work</p>'
         '<h2 id="author-collection-catalogue-heading">Selections available</h2>'
-        f'<p class="author-collection-count">{len(works):02d} {work_noun}</p>'
+        f'<p class="author-collection-count">{len(works):02d} {work_noun}'
+        f'<span>{certified_count:02d} certified</span></p>'
         "</header>"
         f'<ol class="news-book-chapter-list">{"".join(work_rows)}</ol>'
         "</section>"
@@ -5968,6 +6060,7 @@ def text_contents_page(news_chapter_count):
         spec = method_specs[work["method"]]
         phi_title, english_title = text_contents_title(work)
         href = f"{Path(work['path']).stem}.html"
+        certification = certified_text_mark(text_repo_path(work))
         work_rows.append(
             f'<li class="text-index-entry text-index-entry-{spec["kind"]}">'
             f'<a href="{href}">'
@@ -5980,6 +6073,7 @@ def text_contents_page(news_chapter_count):
             "</div>"
             '<div class="text-index-entry-meta">'
             f'<p class="text-index-entry-method">{html_module.escape(spec["label"])}</p>'
+            f"{certification}"
             "</div>"
             f"{text_contents_arrow()}"
             "</a></li>"
@@ -5988,7 +6082,12 @@ def text_contents_page(news_chapter_count):
     collection_rows = []
     for collection in COLLECTIONS:
         phi_title, english_title = text_contents_title(collection)
-        available = len(COLLECTION_TEXTS_BY_PATH[collection["path"]])
+        collection_works = COLLECTION_TEXTS_BY_PATH[collection["path"]]
+        available = len(collection_works)
+        certified_count = sum(
+            is_certified_translation(text_repo_path(work))
+            for work in collection_works
+        )
         work_noun = "selection" if available == 1 else "selections"
         collection_rows.append(
             '<li class="text-index-collection">'
@@ -6006,6 +6105,8 @@ def text_contents_page(news_chapter_count):
             '<p class="text-index-entry-method">Author collection</p>'
             f'<p class="text-index-book-progress">{available:02d} '
             f"{work_noun} available</p>"
+            f'<p class="text-index-certification-progress">'
+            f'{certified_count:02d} of {available:02d} certified</p>'
             "</div>"
             f"{text_contents_arrow()}"
             "</a></li>"
@@ -6028,6 +6129,12 @@ def text_contents_page(news_chapter_count):
 
     news_phi, news_english = text_contents_title(NEWS_WORK)
     chapter_noun = "chapter" if news_chapter_count == 1 else "chapters"
+    news_certified_count = sum(
+        is_certified_translation(
+            f'{NEWS_EDITORIAL["path"]}/{chapter["file"]}'
+        )
+        for chapter in NEWS_EDITORIAL["chapters"]
+    )
     book_entry = (
         '<section class="text-index-book" aria-labelledby="text-index-book-heading">'
         '<header class="text-index-section-heading">'
@@ -6051,6 +6158,8 @@ def text_contents_page(news_chapter_count):
         '<p class="text-index-entry-method">Book in progress</p>'
         f'<p class="text-index-book-progress">{news_chapter_count:02d} '
         f"{chapter_noun} available</p>"
+        f'<p class="text-index-certification-progress">'
+        f'{news_certified_count:02d} of {news_chapter_count:02d} certified</p>'
         "</div>"
         f"{text_contents_arrow()}"
         "</a></section>"
@@ -6075,6 +6184,10 @@ def text_contents_page(news_chapter_count):
         'aria-labelledby="text-index-methods-heading">'
         '<h2 id="text-index-methods-heading">How the shelf relates to sources</h2>'
         f'<div class="text-index-method-grid">{"".join(method_key)}</div>'
+        '<p class="text-index-certification-note">'
+        f'{text_certification_mark("certification.html")}'
+        '<span>The mark records a completed translation process, not a '
+        'promise that no error remains.</span></p>'
         "</section>"
         '<section class="text-index-catalogue" '
         'aria-labelledby="text-index-catalogue-heading">'
@@ -6092,6 +6205,95 @@ def text_contents_page(news_chapter_count):
     )
 
 
+def public_translation_label(value):
+    """Return the reader-facing half of a catalogued translation label."""
+    for separator in (" — ", ": "):
+        if separator in value:
+            return value.split(separator, 1)[1]
+    return value
+
+
+def translation_certification_page(source):
+    """Build the public explanation and its live list of certified texts."""
+    body = md_to_html(source)
+    heading = "What certified means"
+    if body.count(f"<h1>{heading}</h1>") != 1:
+        raise ValueError("translation certification page requires its expected title")
+    certified = [
+        item
+        for item in TRANSLATION_PROCESS_DATA["documents"]
+        if item["status"] == "certified"
+    ]
+    total = len(TRANSLATION_PROCESS_DATA["documents"])
+    header = (
+        '<header class="text-certification-header">'
+        '<div class="text-work-meta">'
+        '<p class="text-shelf-label">Phi texts</p>'
+        f'{text_certification_mark()}'
+        "</div>"
+        '<div class="text-certification-title-row">'
+        '<div>'
+        f"<h1>{heading}</h1>"
+        '<p class="text-certification-count">'
+        f'<strong>{len(certified):02d}</strong> of {total:02d} translations'
+        "</p></div>"
+        f'{text_section_icon("complete")}'
+        "</div></header>"
+    )
+    body = body.replace(f"<h1>{heading}</h1>", header, 1)
+    body = body.replace(
+        "<p><em>A familiar source",
+        '<p class="text-certification-lede"><em>A familiar source',
+        1,
+    )
+    body = body.replace(
+        "<p><strong>A certified text can still contain errors.</strong>",
+        '<p class="text-certification-warning"><strong>'
+        "A certified text can still contain errors.</strong>",
+        1,
+    )
+
+    rows = []
+    for item in certified:
+        expected = TRANSLATION_DOCUMENTS[item["path"]]
+        title = public_translation_label(expected.title)
+        group = public_translation_label(expected.group)
+        unit_count = item["certification"]["unit_count"]
+        unit_noun = "unit" if unit_count == 1 else "units"
+        rows.append(
+            '<li class="text-certification-list-item">'
+            f'<a href="{translation_site_href(item["path"])}">'
+            '<span class="text-certification-list-copy">'
+            f'<span class="text-certification-list-title">'
+            f"{html_module.escape(title)}</span>"
+            f'<span class="text-certification-list-meta">'
+            f"{html_module.escape(group)} &middot; {unit_count} {unit_noun}</span>"
+            "</span>"
+            f"{text_contents_arrow()}"
+            "</a></li>"
+        )
+    body += (
+        '<ol class="text-certification-list">'
+        f'{"".join(rows)}</ol>'
+    )
+    return body
+
+
+TRANSLATION_CERTIFICATION_SOURCE = (
+    ROOT / "documents" / "reference" / "translation_certification.md"
+)
+certification_page = translation_certification_page(
+    TRANSLATION_CERTIFICATION_SOURCE.read_text(encoding="utf-8")
+)
+(TEXTS_OUT / "certification.html").write_text(
+    texts_page(
+        certification_page,
+        "what certified means",
+        editorial_kind="certification",
+    )
+)
+
+
 (TEXTS_OUT / "index.html").write_text(
     texts_page(
         text_contents_page(len(news_chapters)),
@@ -6100,11 +6302,79 @@ def text_contents_page(news_chapter_count):
         editorial_kind="contents",
     )
 )
+
+
+def validate_translation_certification_output():
+    """Keep the register, page marks, and generated catalogue in agreement."""
+    for item in TRANSLATION_PROCESS_DATA["documents"]:
+        output = (
+            TEXTS_OUT
+            / Path(item["path"]).relative_to("texts").with_suffix(".html")
+        )
+        if not output.is_file():
+            raise ValueError(f"translation has no generated page: {item['path']}")
+        mark_count = output.read_text(encoding="utf-8").count(
+            'class="text-certification-mark"'
+        )
+        expected_count = 1 if item["status"] == "certified" else 0
+        if mark_count != expected_count:
+            raise ValueError(
+                f"translation certification mark differs for {item['path']}: "
+                f"expected {expected_count}, found {mark_count}"
+            )
+
+    certified_count = sum(
+        item["status"] == "certified"
+        for item in TRANSLATION_PROCESS_DATA["documents"]
+    )
+    public_page = (TEXTS_OUT / "certification.html").read_text(encoding="utf-8")
+    public_count = public_page.count('class="text-certification-list-item"')
+    if public_count != certified_count:
+        raise ValueError(
+            "public certification list differs from the register: "
+            f"expected {certified_count}, found {public_count}"
+        )
+
+    contents = (TEXTS_OUT / "index.html").read_text(encoding="utf-8")
+    expected_short = sum(
+        is_certified_translation(text_repo_path(work)) for work in TEXTS
+    )
+    if contents.count('<span class="text-certification-mark">') != expected_short:
+        raise ValueError("texts contents certification marks differ from the register")
+    for collection in COLLECTIONS:
+        collection_page = (
+            TEXTS_OUT / collection["path"] / "index.html"
+        ).read_text(encoding="utf-8")
+        expected_collection = sum(
+            is_certified_translation(text_repo_path(work))
+            for work in COLLECTION_TEXTS_BY_PATH[collection["path"]]
+        )
+        if (
+            collection_page.count('<span class="text-certification-mark">')
+            != expected_collection
+        ):
+            raise ValueError(
+                f"collection certification marks differ: {collection['path']}"
+            )
+    news_page = (NEWS_OUT / "index.html").read_text(encoding="utf-8")
+    expected_news = sum(
+        is_certified_translation(
+            f'{NEWS_EDITORIAL["path"]}/{chapter["file"]}'
+        )
+        for chapter in NEWS_EDITORIAL["chapters"]
+    )
+    if news_page.count('<span class="text-certification-mark">') != expected_news:
+        raise ValueError("News from Nowhere certification marks differ from the register")
+
+
+validate_translation_certification_output()
 print(
     "wrote build/site/texts/: "
     f"{len(TEXTS) + len(COLLECTION_TEXTS) + len(BOOKS)} works, "
     f"{len(COLLECTIONS)} author collection, "
-    f"{len(news_chapters)} News from Nowhere chapters + contents"
+    f"{len(news_chapters)} News from Nowhere chapters + contents, "
+    f"{sum(is_certified_translation(path) for path in TRANSLATION_STATUS)} "
+    "certified translations"
 )
 
 # ---- the pamphlets: deep-dive companions rendered to build/site/pamphlets/ ----
