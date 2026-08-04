@@ -1,6 +1,6 @@
 # Household and Daily Life
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 44 current memberships, and shared-core `mirewu` private.
+**Status:** **Established vocabulary module** with 30 roots coined here, 47 current memberships, and shared-core `mirewu` private.
 
 ## Charter
 
@@ -69,9 +69,13 @@ All 30 roots coined in this pass carry `household-and-daily-life`. `mirewu` carr
 
 ## Current prose and completeness
 
-All 34 inherited Household entries now use the target vocabulary prose contract. The review returned to the daily round rather than counting English labels. It found no missing concept that deserved another root. Tidying becomes concrete placement and storage, hospitality keeps guest and host visible, and food preservation names the condition being kept. That is better household language than one cupboard full of abstractions, however neatly labelled.
+All 34 inherited Household entries now use the target vocabulary prose contract. The review returned to the daily round rather than counting English labels. Tidying becomes concrete placement and storage, hospitality keeps guest and host visible, and food preservation names the condition being kept. That is better household language than one cupboard full of abstractions, however neatly labelled.
 
 Nine decisions now preserve the rest of the review. Domestic work keeps task and assignment distinct from acceptance; workload and drudgery remain separate. Exact sanitation instructions and utility records retain the sources that give them practical or legal force. So do addresses, tenancy, and rent. The earlier return conditions for appliances, furnishings, and tools remain live, alongside those for materials, cultivation, and filters. None acquired repeated connected use during this pass.
+
+## Grain and dough
+
+Three source-led words now join the household path. `shireku` sifts loose material through a mesh, `napewa` names a grain, seed, or fruit husk, and `pumeli` kneads dough, clay, or another soft mass. The first two meet Ecological Systems at the edge between crop and food; sifting and kneading meet Work wherever the practiced motion matters.
 
 ## Concepts kept compositional or external
 

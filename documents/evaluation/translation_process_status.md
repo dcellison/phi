@@ -10,9 +10,9 @@ The complete procedure is described in [How a Phi translation is made](../refere
 
 | State | Documents |
 |---|---:|
-| Certified | 8 |
+| Certified | 9 |
 | In progress | 0 |
-| Pending | 12 |
+| Pending | 11 |
 | Total | 20 |
 
 ## Short works
@@ -34,11 +34,11 @@ Certified: 8 of 10.
 
 ## phewo phelui — Kahlil Gibran
 
-Certified: 0 of 4.
+Certified: 1 of 4.
 
 | Document | File | State | Record |
 |---|---|---|---|
-| lothea — On Love | [on_love.md](../../texts/gibran/on_love.md) | Pending | Awaiting D102 certification. |
+| lothea — On Love | [on_love.md](../../texts/gibran/on_love.md) | Certified | D112; [PR #701](https://github.com/dcellison/phi/pull/701); 33 units |
 | phomila — On Children | [on_children.md](../../texts/gibran/on_children.md) | Pending | Awaiting D102 certification. |
 | loa — On Giving | [on_giving.md](../../texts/gibran/on_giving.md) | Pending | Awaiting D102 certification. |
 | riola — On Work | [on_work.md](../../texts/gibran/on_work.md) | Pending | Awaiting D102 certification. |
@@ -184,6 +184,22 @@ Published aligned-layer SHA-256:
 
 ```text
 42ab9396fd582eb5a3d6970eaea221f80a6fb5c0707bfd351121095c15e272c5
+```
+
+### lothea — On Love
+
+D112 certified this document in [PR #701](https://github.com/dcellison/phi/pull/701) on 2026-08-03. The freeze contains 33 aligned Phi units, and its `gibran` citations reconstruct 2,403 normalized source characters exactly. A fresh anonymous context derives the complete frozen stream. Independent comparison finds two English-layer disagreements and four Phi attachment ambiguities; the affected layers are discarded, the Phi is repaired, and fresh source-blind contexts derive and audit the revised units before publication.
+
+Frozen Phi SHA-256:
+
+```text
+7494350b9f12a5a616c046057cf8dffcfc5e9ad8ea54f7e7c35e0f48a85d6125
+```
+
+Published aligned-layer SHA-256:
+
+```text
+045a51f919a67ea5802aff9445043fac26d566a900098bdbcc9a068f5f24a31a
 ```
 
 ## Maintaining the ledger

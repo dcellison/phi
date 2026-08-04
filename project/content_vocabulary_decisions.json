@@ -1079,6 +1079,15 @@
       ]
     },
     {
+      "id": "gibran-on-love-isolated-certification",
+      "heading": "Gibran's On Love isolated certification",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-GRAIN-01"
+      ]
+    },
+    {
       "id": "architectural-arch-repair",
       "heading": "Architectural arch repair",
       "migration_status": "complete",
@@ -4201,7 +4210,7 @@
     },
     {
       "id": "CV-HOUSE-05",
-      "concept": "frying, roasting, steaming, stirring, kneading, serving, and other food preparation methods",
+      "concept": "frying, roasting, steaming, stirring, serving, and other food preparation methods",
       "status": "compositional",
       "placement": "base and Household preparation verbs beside exact culinary sources",
       "summary": "General cooking and preparation already combine with a heat source or vessel. Liquid and movement can be stated when they matter; cutting, grinding, and material change stay visible too. `napako` and `therapi` keep baking and boiling direct where those physical methods recur. A named culinary method can retain its source identity when the tradition or exact technique matters.",
@@ -5816,20 +5825,27 @@
     },
     {
       "id": "CV-GRAIN-01",
-      "concept": "threshing, sifting, husks, and related small-scale grain-cleaning operations",
-      "status": "compositional",
-      "placement": "base material actions beside Ecological, Household, and Work vocabulary",
-      "summary": "Forceful contact can be paired with release of a covering, while movement through a net states sifting and the following separation. These clauses keep action and result visible in Gibran's grain-floor sequence. A named agricultural technique or grain product can retain its source identity when that exact practice matters.",
-      "expressions": [
-        "kema palo",
-        "tawemi",
-        "leiro",
-        "mera",
-        "thue",
-        "ka roke"
-      ],
+      "concept": "threshing, sifting, husks, kneading, and related small-scale grain preparation",
+      "status": "implemented",
+      "placement": "Ecological Systems and Material Life, Household and Daily Life, and Work, Craft, and Repair",
+      "summary": "The four direct words preserve the sequence from harvested grain to worked dough: 'thapori' releases grain from the cut plant, 'shireku' separates loose material through a mesh, 'napewa' names the covering removed, and 'pumeli' works one soft mass by repeated pressure and folding.",
+      "implementation": {
+        "words": [
+          "thapori",
+          "shireku",
+          "napewa",
+          "pumeli"
+        ],
+        "files": [
+          "vocabulary/content/thresh.json",
+          "vocabulary/content/sift.json",
+          "vocabulary/content/husk.json",
+          "vocabulary/content/knead.json"
+        ]
+      },
       "batches": [
-        "gibran-on-love-fidelity-repair"
+        "gibran-on-love-fidelity-repair",
+        "gibran-on-love-isolated-certification"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Work, Craft, and Repair
 
-**Status:** **Established vocabulary module** with 28 module roots coined here, 74 current memberships, and base-vocabulary `winora` plan and `hasoru` pending; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 28 module roots coined here, 77 current memberships, and base-vocabulary `winora` plan and `hasoru` pending; ordinary Phi grammar.
 
 ## Charter
 
@@ -94,13 +94,17 @@ PL person stone arch build.
 
 Two source texts bring further words into this learning path. `mophiku` names the practical act of removing an animal's fleece by cutting, a shared term with Ecological Systems and Material Life. `thaweno` names a benefit connected to an act, result, or condition. A workshop may offer such a reward, but the term says nothing yet about consent, fairness, or whether the benefit was deserved.
 
+## Grain work and kneading
+
+`thapori` thresh and `shireku` sift name repeated material work between harvest and use. `pumeli` knead joins pressure, folding, and judgement in one practiced action, whether the hands meet dough or clay. Ecological Systems shares threshing and sifting; Household shares sifting and kneading.
+
 ## Current prose and completeness
 
 The final prose review migrated all sixteen inherited legacy entries. Each now has a target description and complete articulatory account. Embodied sound symbolism appears only where it honestly fits. Usage guidance and structured examples show the word at work, while direct pillar relations and stable semantic domains place it without padding. The review also removes old claims that treated syllables as meanings or let a noun quietly perform a verb's work.
 
-The completeness gate records thirteen new decisions and links twenty-two earlier ones. Together they keep ordinary workshop, labour, and institutional questions in the right mix of explicit composition and source material. Craft traditions and credentials keep their sources. Legal, economic, and technical identities do as well. Later source work added `torali` when a tall wall proved too narrow for Babel's tower, `mophiku` when generic cutting lost Schleicher's shearing, `thaweno` when gift and exchange could not carry Gibran's reward, and `toreku` when a rainbow comparison gave an arch's curve but not its construction.
+The completeness gate records thirteen new decisions and links twenty-two earlier ones. Together they keep ordinary workshop, labour, and institutional questions in the right mix of explicit composition and source material. Craft traditions and credentials keep their sources. Legal, economic, and technical identities do as well. Later source work added `torali` when a tall wall proved too narrow for Babel's tower, `mophiku` when generic cutting lost Schleicher's shearing, `thaweno` when gift and exchange could not carry Gibran's reward, and `toreku` when a rainbow comparison gave an arch's curve but not its construction. Three grain-working verbs followed when broad motions blurred Gibran's breadmaking sequence.
 
-Work, Craft, and Repair now has seventy-four current memberships and no legacy entry. With all eight learning paths complete, every entry in the lexicon follows the target prose contract. Further additions remain contextual: revisit an older workaround when the present vocabulary is less faithful or natural than a bounded new root.
+Work, Craft, and Repair now has seventy-seven current memberships and no legacy entry. With all eight learning paths complete, every entry in the lexicon follows the target prose contract. Further additions remain contextual: revisit an older workaround when the present vocabulary is less faithful or natural than a bounded new root.
 
 ## Concepts Kept Compositional or External
 

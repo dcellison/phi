@@ -158,7 +158,22 @@
     },
     {
       "path": "texts/gibran/on_love.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D112",
+        "pull_request": 701,
+        "certified_on": "2026-08-03",
+        "unit_count": 33,
+        "phi_sha256": "7494350b9f12a5a616c046057cf8dffcfc5e9ad8ea54f7e7c35e0f48a85d6125",
+        "aligned_sha256": "045a51f919a67ea5802aff9445043fac26d566a900098bdbcc9a068f5f24a31a",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "gibran",
+          "normalized_characters": 2403
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "A fresh anonymous context derives the complete frozen stream. Independent comparison finds two English-layer disagreements and four Phi attachment ambiguities; the affected layers are discarded, the Phi is repaired, and fresh source-blind contexts derive and audit the revised units before publication."
+      }
     },
     {
       "path": "texts/gibran/on_children.md",

@@ -1857,6 +1857,10 @@ The translation carries the whole 35-unit source sequence. Its citation stream r
 
 The batch adds two base roots and no module membership, registered compound, function word, or grammar. It also makes the event/result reading of `phanoi` explicit in that entry's usage notes. `ratenu` and `salenu` pass the lexical ceiling, character and phonetic collision checks, retired-form search, and English-homonym review.
 
+## Gibran's On Love isolated certification
+
+The D102 source-only review reopens `CV-GRAIN-01` because broad contact and mesh-motion clauses do not preserve Gibran's central breadmaking sequence. Four optional roots now distinguish `thapori` thresh, `shireku` sift, `napewa` husk, and `pumeli` knead. They add four roots and nine memberships across Ecological Systems and Material Life, Household and Daily Life, and Work, Craft, and Repair without changing Phi grammar.
+
 ## Architectural arch repair
 
 Five *News from Nowhere* chapters used `loriphi` (rainbow) for bridge supports, openings, arcades, and covered walks. The comparison caught the visible curve, but the surrounding source and architecture had to supply the structural meaning. A direct Work noun now lets the Phi carry that distinction itself.
@@ -1976,4 +1980,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 71 implemented decisions and 130 compositional decisions. It also preserves 31 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,301 lexicon entries follow the target prose contract. Seventeen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair and the manure correction in *News from Nowhere* chapter 5, and the stricter new-selection sweep is current through all four Gibran selections. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Resume the remaining text-shelf back-translation review, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 72 implemented decisions and 129 compositional decisions. It also preserves 31 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,305 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

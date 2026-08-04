@@ -125,7 +125,7 @@
 
 ## Ecological Systems and Material Life
 
-*57 words in this learning path.*
+*60 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -155,6 +155,7 @@
 | `morume` | decompose | verb |
 | `mothami` | baseline | noun |
 | `munari` | sediment | noun |
+| `napewa` | husk | noun |
 | `nomiki` | concentration | noun |
 | `nunoa` | forager | noun |
 | `pekira` | toxic | adjective |
@@ -170,12 +171,14 @@
 | `reteru` | model | noun |
 | `sekaru` | transfer | verb |
 | `shaemu` | organic | adjective |
+| `shireku` | sift | verb |
 | `somethi` | monitor | verb |
 | `soneho` | tradeoff | noun |
 | `sumeri` | temperature | noun |
 | `telo` | farmer | noun |
 | `teluno` | amphibian | noun |
 | `terura` | system | noun |
+| `thapori` | thresh | verb |
 | `theluo` | steward | noun |
 | `thewaki` | electricity | noun |
 | `thirulo` | output | noun |
@@ -189,7 +192,7 @@
 
 ## Household and Daily Life
 
-*44 words in this learning path.*
+*47 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -206,6 +209,7 @@
 | `muneki` | latrine | noun |
 | `muphera` | stock | noun |
 | `napako` | bake | verb |
+| `napewa` | husk | noun |
 | `norupe` | spoon | noun |
 | `nurome` | meal | noun |
 | `phareme` | ingredient | noun |
@@ -215,12 +219,14 @@
 | `phoselu` | power | noun |
 | `phurewa` | sweep | verb |
 | `phurilo` | broom | noun |
+| `pumeli` | knead | verb |
 | `rilowa` | assign | verb |
 | `rimawu` | drudgery | noun |
 | `riporu` | task | noun |
 | `ritako` | workload | noun |
 | `sawathi` | soap | noun |
 | `seluto` | pour | verb |
+| `shireku` | sift | verb |
 | `shorai` | commune | verb |
 | `sitawi` | inventory | noun |
 | `tapulo` | jar | noun |
@@ -395,7 +401,7 @@
 
 ## Work, Craft, and Repair
 
-*74 words in this learning path.*
+*77 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -440,6 +446,7 @@
 | `pokera` | competent | adjective |
 | `poruli` | efficient | adjective |
 | `poweshi` | voltage | noun |
+| `pumeli` | knead | verb |
 | `pushali` | overload | verb |
 | `rilowa` | assign | verb |
 | `rimawu` | drudgery | noun |
@@ -450,6 +457,7 @@
 | `sephaki` | current | noun |
 | `sephori` | supply | verb |
 | `sethoni` | handoff | verb |
+| `shireku` | sift | verb |
 | `sikanu` | certify | verb |
 | `sitawi` | inventory | noun |
 | `sithora` | role | noun |
@@ -457,6 +465,7 @@
 | `someru` | supervise | verb |
 | `telo` | farmer | noun |
 | `temu` | guild | noun |
+| `thapori` | thresh | verb |
 | `thaweno` | reward | noun |
 | `thesani` | skill | noun |
 | `thewaki` | electricity | noun |

@@ -1,0 +1,36 @@
+{
+  "word": "thapori",
+  "gloss": "thresh",
+  "ipa": "/θä.ˈpo̞.ri/",
+  "syllables": [
+    "tha",
+    "po",
+    "ri"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "separate grain",
+    "thresh grain"
+  ],
+  "description": "Cut grain lies on the threshing floor. To 'thapori' is to strike, rub, or tread harvested plants so grain or seed comes free from stalks and dry coverings. 'muraki' (harvest) gathers the mature crop; 'kuremi' (grind) reduces the cleaned grain after separation.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th' and let the breath open into central 'a'. Close both lips for unvoiced 'p' and release into stressed true-mid rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge, then finish on high-front unrounded 'i'.",
+  "sound_symbolism": "Friction gives way to a complete lip closure and then a quick tap. In Phi, that changing contact can recall repeated blows loosening grain from what held it.",
+  "usage_notes": "The harvested plants or grain being worked are the direct object. The event noun names threshing, so 'thapori tomae' is a threshing floor. A tool, animal, or other means takes 'roe' (INS).",
+  "examples": [
+    {
+      "phi": "lo miona napuro thapori.",
+      "translation": "The people thresh grain."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Threshing turns a harvested crop into food through repeated, seasonal work. The verb keeps that material knowledge visible instead of jumping from field to flour."
+  },
+  "semantic_domains": {
+    "activity": "working a harvested crop to release its grain or seed",
+    "physical": "separation produced through repeated impact, rubbing, or treading"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "work-craft-and-repair"
+  ]
+}

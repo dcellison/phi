@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1301 words.*
+*1305 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -458,6 +458,7 @@
 | `napa` | bread | /ˈn̪ä.pä/ | noun |
 | `napako` | bake | /n̪ä.ˈpä.ko̞/ | verb |
 | `napari` | rice | /n̪ä.ˈpä.ri/ | noun |
+| `napewa` | husk | /n̪ä.ˈpe̞.wä/ | noun |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb |
 | `naphelu` | assistive | /n̪ä.ˈɸe̞.lu/ | adjective |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
@@ -747,6 +748,7 @@
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb |
 | `pumari` | suck | /pu.ˈmä.ri/ | verb |
+| `pumeli` | knead | /pu.ˈme̞.li/ | verb |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
 | `punoki` | institution | /pu.ˈn̪o̞.ki/ | noun |
 | `puro` | strength | /ˈpu.ro̞/ | noun |
@@ -895,6 +897,7 @@
 | `shilu` | blue | /ˈʃi.lu/ | adjective |
 | `shimalo` | discipline | /ʃi.ˈmä.lo̞/ | verb |
 | `shioli` | silver | /ʃi.ˈo̞.li/ | noun |
+| `shireku` | sift | /ʃi.ˈre̞.ku/ | verb |
 | `shiro` | tree | /ˈʃi.ro̞/ | noun |
 | `shiroka` | repair | /ʃi.ˈro̞.kä/ | verb |
 | `shiu` | shh | /ˈʃi.u/ | interjection |
@@ -1025,6 +1028,7 @@
 | `thaluni` | kin | /θä.ˈlu.n̪i/ | noun |
 | `thaluro` | ocean | /θä.ˈlu.ro̞/ | noun |
 | `thape` | burn | /ˈθä.pe̞/ | verb |
+| `thapori` | thresh | /θä.ˈpo̞.ri/ | verb |
 | `thasu` | modest | /ˈθä.su/ | adjective |
 | `thaweno` | reward | /θä.ˈwe̞.n̪o̞/ | noun |
 | `theala` | heal | /θe̞.ˈä.lä/ | verb |

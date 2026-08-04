@@ -1,0 +1,38 @@
+{
+  "word": "shireku",
+  "gloss": "sift",
+  "ipa": "/ʃi.ˈre̞.ku/",
+  "syllables": [
+    "shi",
+    "re",
+    "ku"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "sieve",
+    "separate through mesh"
+  ],
+  "description": "Loose material moves across a mesh, and the smaller pieces fall through. 'shireku' is this separation by a sieve, screen, or perforated surface, often helped by shaking. 'welotu' (mix) distributes materials through one another; sifting divides them by what can pass.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and carry the narrow airflow into high-front unrounded 'i'. Tap or briefly trill the tongue tip before stressed true-mid front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k', then release into high-back rounded 'u'.",
+  "sound_symbolism": "A fine stream of air opens the word, the tongue taps once, and the final syllable closes farther back. The sequence can suggest small material moving while larger pieces meet the screen.",
+  "usage_notes": "The material being sifted is the direct object. A sieve, mesh, or screen may appear with 'roe' (INS), while the material that passes through or remains behind can be named in a following clause. The event noun is sifting.",
+  "examples": [
+    {
+      "phi": "mia roe mera napuro shireku.",
+      "translation": "I sift grain through a mesh."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "A hand sieve sorts a crop, a ground ingredient, soil, or pigment through a practised motion. What passes and what remains still depend on the mesh and the material in front of it."
+  },
+  "semantic_domains": {
+    "activity": "moving loose material across a mesh or perforated surface",
+    "creation": "separating ingredients or working material for later use",
+    "physical": "division according to what passes through an opening"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "household-and-daily-life",
+    "work-craft-and-repair"
+  ]
+}

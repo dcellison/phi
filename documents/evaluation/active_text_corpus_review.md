@@ -235,21 +235,19 @@ The two new roots are source-led but not source-specific. A council can dispute 
 
 ## Translation review: The Prophet, On Love
 
-The ground truth is the complete On Love teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The translation follows all 35 source units in order, its citation stream reconstructs the 2,403-character normalized source passage exactly, and the continuous reading has the same Phi sentence stream as its detailed blocks.
+The ground truth is the complete On Love teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The translation follows 33 aligned units in order, its citation stream reconstructs all 2,403 normalized source characters exactly, and the continuous reading has the same Phi sentence stream as its detailed blocks.
 
 | Question | Translation decision |
 |---|---|
-| Inclination and bodily state | Base `ratenu` restores steepness without making a slope fast. Base `salenu` directly names the unclothed result of threshing. |
-| Existing direct vocabulary | `theisa`, `sheraki`, `henoi`, `rinu`, `nowae`, `thaeso`, `phimei`, `melira`, and `phanoi` replace physical-size words and older detours. |
-| Worth and deservingness | `parelu` states that love finds its own guidance deserved; `rolia` no longer becomes a condition love tests. |
-| Yielding | The listener accepts love when its wings enfold them, preserving Gibran's instruction without importing a generic submission root. |
-| Crown, crucifixion, and grain-floor | The crown, tied wood, passive holding until death, pruning, threshing, sifting, grinding, folding, pressure, and sacred fire remain materially explicit. Their specialised or violent English identities stay in the citations. |
-| Fragment of Life's heart | Event/result-noun `phanoi` makes the lover a small portion of Life's heart through the stated knowledge. |
-| Fear and emotional wholeness | The seasonless world and incomplete laughter and tears remain as Gibran judges them. |
-| Devotional close | Blessing, thanks, a song of appreciation, and intense joy describe the acts and state while prayer, praise, and ecstasy remain exact in the source. |
-| Grammar and derived English | Present tense returns to the grain-floor sequence; active `phelu` keeps love as the holder; `tei` takes the event noun "your death"; reason frames precede their subjects; `shia` remains gender-neutral in English. |
+| Names, invitation, and direction | `ne malitara` and `ne musatapha` remain stable Phi onyms. Love invites the listener, and the listener walks love's steep and difficult paths. Later `kulo` takes the listener directly and introduces the path with `thue`. |
+| Crown, crucifixion, and pruning | Crown and crucifixion stay material descriptions whose source identities remain in Gibran's line. Possessor-first `thia lo loremi` makes the listener's plural branches unambiguous when love cuts them. |
+| Grain-floor sequence | Optional `thapori`, `shireku`, `napewa`, and `pumeli` distinguish threshing, sifting, the removed husk, and kneading. Existing `kuremi` keeps grinding direct, and base `salenu` names the unclothed result. |
+| Heart, fear, and desire | The heart explicitly holds its secrets, and exact `ta` opens the predicate that makes the listener one small portion of Life's heart. A separate assertion establishes the seasonless place before the listener enters it. A `whau` frame completes the necessary holding of desires before love becomes the main predicate of the condition. |
+| Worth and guidance | `parelu` states that love finds its own guidance deserved while inherent `rolia` remains independent of that judgement. Love may guide the listener; the listener cannot guide love. |
+| Devotional close | Blessing, gratitude, a song of appreciation, and intense joy describe the Phi acts and state. Prayer, praise, and ecstacy remain exact in the source witness. |
+| Isolated English phase | The final 33-unit Phi stream receives a complete fresh source-blind derivation. Independent source-blind comparison identifies two English-only corrections and four Phi attachment ambiguities; the affected English is discarded, the Phi ambiguities are repaired, and those units are derived and audited again. |
 
-The pass changed 19 of 35 units and added two base roots, with no module membership, registered compound, function word, or grammar. `CV-GRAIN-01` and `CV-DEVOTION-01` preserve the compositional decisions around grain work, prayer, and praise; existing decisions continue to keep following and kneading compositional, pruning deferred, deservingness direct, and violence-centred roots declined.
+The source-only pass adds four optional roots and nine memberships across Ecological Systems and Material Life, Household and Daily Life, and Work, Craft, and Repair. The final Phi stream freezes at SHA-256 `7494350b9f12a5a616c046057cf8dffcfc5e9ad8ea54f7e7c35e0f48a85d6125`. No registered compound, function word, or grammar is added. `CV-DEVOTION-01` keeps prayer and praise compositional, pruning remains deferred, and violence-centred roots remain declined.
 
 ## Translation review: Tao Te Ching selections
 
@@ -811,7 +809,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/babel_text.md` | Translation | Certified D109 | Nine units and ten citations reconstruct all 1,191 normalized KJV characters. Source-blind audits drive the relative-role repairs, and a one-unit retry restores the earth's surface to the final English. |
 | `texts/human_rights_article_one.md` | Translation | Certified D108 | Two citations reconstruct all 170 normalized source characters. The source-blind derivation and independent audit agree on worth, rights, passive endowment, held obligation, reciprocal conduct, and the framed sibling-spirit manner. |
 | `texts/little_prince_excerpts.md` | Translation | Certified D110 | Five citations reconstruct all 238 normalized Woods characters. The final five-unit Phi stream freezes at `0cd1f7cd...e3d2`, and fresh source-blind derivation plus an independent sample audit agree on every participant and proposition. |
-| `texts/gibran/on_love.md` | Translation | Isolation pending | The complete 35-unit citation stream reconstructs the 2,403-character source passage exactly. The fidelity pass changes 19 units and adds base `ratenu` and `salenu`. |
+| `texts/gibran/on_love.md` | Translation | Certified D112 | All 33 units receive isolated English derivation and independent comparison. The 2,403-character source reconstruction remains exact, and the final Phi stream freezes at `7494350b...5d6125`. Four optional grain-work roots add nine module memberships. |
 | `texts/gibran/on_children.md` | Translation | Isolation pending | All 18 source units align, the continuous reading matches the detailed blocks, and the limits table records Phi's material treatment of the archery scene. |
 | `texts/gibran/on_giving.md` | Translation | Isolation pending | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |
 | `texts/gibran/on_work.md` | Translation | Isolation pending | All 32 source units align exactly, and the limits table records the distinctions that remain with Gibran's wording. |

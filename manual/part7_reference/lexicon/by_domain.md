@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (326)
+## activity (329)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -182,6 +182,7 @@
 | `poruli` | efficient | a relation between resources used and useful performance |
 | `pukate` | break | an event in which a whole loses the structure or continuity that held it together |
 | `pumari` | suck | drawing inward with the mouth around a person, object, or substance |
+| `pumeli` | knead | repeatedly pressing, folding, and turning a soft mass |
 | `puse` | spit | expelling material from the mouth |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
 | `ralemi` | independent | an action directed by the person carrying it out |
@@ -222,6 +223,7 @@
 | `shemoli` | harmonize | deliberate adjustment that brings unlike parts into accord |
 | `sheraki` | search | sustained action directed towards finding something |
 | `shimalo` | discipline | self-guidance that keeps repeated action aligned with an intention |
+| `shireku` | sift | moving loose material across a mesh or perforated surface |
 | `shiwolu` | integrate | coordinating parts within a wider arrangement |
 | `sholei` | gather | bringing separate things or participants together |
 | `sholu` | complete | a task or process with every required step finished |
@@ -257,6 +259,7 @@
 | `tewema` | partner | a partner may share one bounded undertaking with another person |
 | `thalo` | walk | ordinary travel and practice on foot |
 | `thape` | burn | setting or allowing material to burn |
+| `thapori` | thresh | working a harvested crop to release its grain or seed |
 | `thaweno` | reward | a benefit connected to an act or result |
 | `theala` | heal | care or remedy supporting recovery |
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
@@ -1090,7 +1093,7 @@
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `woru` | keeper | a person recognised as responsible for stated continuing care |
 
-## creation (174)
+## creation (176)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1200,6 +1203,7 @@
 | `polenu` | plastic | a polymer material formed into manufactured objects and fibres |
 | `poru` | productive | a workshop, garden, or system that yields an actual result |
 | `poruli` | efficient | an efficiency judgement applied to a designed process or system |
+| `pumeli` | knead | working dough, clay, or similar material towards a usable condition |
 | `repha` | bridge | a built span that supports passage |
 | `reteru` | model | a deliberately constructed representation with selected features and relations |
 | `rinoka` | project | work gathered towards a stated result |
@@ -1214,6 +1218,7 @@
 | `shela` | art | made work encountered through the choices that gave it expressive form |
 | `shemoli` | harmonize | new work fitted into the visual or practical character of an existing whole |
 | `shioli` | silver | a readily worked metal used in objects, conductors, and coatings |
+| `shireku` | sift | separating ingredients or working material for later use |
 | `shiro` | tree | a living source of wood, fibre, food, shade, and other materials |
 | `shiroka` | repair | technical restoration of a damaged object's function |
 | `shiwolu` | integrate | parts made to function within a constructed whole |
@@ -1404,7 +1409,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (249)
+## nature (250)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1509,6 +1514,7 @@
 | `muriwe` | worm | an everyday category for long soft-bodied animals without limbs |
 | `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
 | `napari` | rice | a cereal plant and its harvested edible seed |
+| `napewa` | husk | an outer plant covering around grain, seed, or fruit |
 | `napuro` | grain | edible seed harvested from cereal grasses |
 | `nekuma` | meat | animal tissue understood through the species and body from which it came |
 | `nelore` | preserve | protection of a living place, species, or ecological continuity |
@@ -1658,7 +1664,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (519)
+## physical (523)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1858,6 +1864,7 @@
 | `napa` | bread | cooked grain food handled as a loaf, piece, or substance |
 | `napako` | bake | heat reaching food from an enclosing chamber |
 | `napari` | rice | rice handled or prepared as food |
+| `napewa` | husk | a removable fibrous, leaflike, or shell-like layer |
 | `naphelu` | assistive | support for a bodily or sensory function |
 | `napuro` | grain | grain handled as a crop, stored material, or food |
 | `nathelo` | lean | weight given at an angle to a supporting surface |
@@ -1980,6 +1987,7 @@
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
 | `puko` | bitter | a bitter gustatory quality distinct from acidity |
 | `pumari` | suck | oral pressure used to draw material or hold something at the mouth |
+| `pumeli` | knead | changing a soft mass through repeated pressure and folding |
 | `puro` | strength | the capacity of a body or material to exert or withstand force |
 | `puse` | spit | an outward movement of material through the lips |
 | `pushali` | overload | bodily burden produced by excessive input or demand |
@@ -2027,6 +2035,7 @@
 | `sheru` | slow | a low rate of bodily or material movement |
 | `shiloa` | pure | material treated as unmixed under the stated conditions |
 | `shioli` | silver | a highly conductive metallic element that can tarnish |
+| `shireku` | sift | division according to what passes through an opening |
 | `sholu` | complete | an object or assembly with every required part present |
 | `shonui` | ear | the external and internal organ of hearing |
 | `shonuwa` | sound | an acoustic event or the medium available to hearing |
@@ -2077,6 +2086,7 @@
 | `tesu` | iron | a reactive metallic element and the main constituent of many ferrous materials |
 | `thalo` | walk | alternating bodily support on the feet |
 | `thape` | burn | consumption or damage through fire and intense heat |
+| `thapori` | thresh | separation produced through repeated impact, rubbing, or treading |
 | `theala` | heal | living tissue or a body recovering from illness or injury |
 | `theama` | care | bodily care or practical attention to material condition |
 | `theisa` | loud | high perceived intensity in a sound or its source |
