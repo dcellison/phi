@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** with 30 module roots coined here, 57 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 module roots coined here, 60 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
 
 ## Charter
 
@@ -79,6 +79,10 @@ The target-prose review migrates every inherited Ecological entry and returns to
 ## Manure in material life
 
 `lomathu` names animal dung collected or kept for the soil. Medical `mokathi` identifies what left a body, while composting describes a managed decomposition process that may involve no dung at all. Calling it manure places it in land care. Safe handling and a useful effect on this soil still have to be established; a tidy cycle cannot be assumed.
+
+## Grain after harvest
+
+`thapori` thresh, `shireku` sift, and `napewa` husk keep the crop visible after it leaves the field. They distinguish release from the cut plant, separation through a mesh, and the covering removed from grain, seed, or fruit. Household and Work share the actions they need; the Ecological path follows every resulting material into storage, use, soil return, or waste.
 
 ## Concepts Kept Compositional
 

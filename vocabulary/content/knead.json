@@ -1,0 +1,37 @@
+{
+  "word": "pumeli",
+  "gloss": "knead",
+  "ipa": "/pu.ˈme̞.li/",
+  "syllables": [
+    "pu",
+    "me",
+    "li"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "work dough",
+    "press and fold"
+  ],
+  "description": "Hands press, fold, and turn one soft mass again and again. 'pumeli' is this working of dough, clay, or similar material until its body changes. 'welotu' (mix) distributes separate materials; 'lupaki' (fold) and 'pesa' (push) name motions that kneading repeats and joins.",
+  "articulatory_notes": "Close both lips for unvoiced 'p' and release into high-back rounded 'u'. Bring the lips together again for voiced nasal 'm', carry the voice through the nose, and open into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', let the voice pass along its sides, and finish on high-front unrounded 'i'.",
+  "sound_symbolism": "The lips close twice before the final lateral opens. That press, release, press, and release gives 'pumeli' a small bodily resemblance to the repeated work it names.",
+  "usage_notes": "The dough, clay, or other soft mass is the direct object. A 'tei' (UNTIL) phrase can name the consistency or flexibility reached, and the event noun names kneading.",
+  "examples": [
+    {
+      "phi": "mia mueri pumeli.",
+      "translation": "I knead clay."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Dough and clay answer pressure, moisture, warmth, and time differently on each working day. Kneading places judgement in the hands that meet the material."
+  },
+  "semantic_domains": {
+    "activity": "repeatedly pressing, folding, and turning a soft mass",
+    "creation": "working dough, clay, or similar material towards a usable condition",
+    "physical": "changing a soft mass through repeated pressure and folding"
+  },
+  "modules": [
+    "household-and-daily-life",
+    "work-craft-and-repair"
+  ]
+}

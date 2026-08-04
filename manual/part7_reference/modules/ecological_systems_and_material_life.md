@@ -4,7 +4,7 @@ Dye runs from a workshop into a stream, and a fish downstream carries it in its 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 30 module roots. Current classifications and later source-led additions bring the optional learning list to 57 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
+The chapter table below introduces 30 module roots. Current classifications and later source-led additions bring the optional learning list to 60 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
 
 ## Core vocabulary used by the module
 
@@ -24,7 +24,7 @@ Systems lends its own vocabulary for the mechanics underneath: `terura` system, 
 
 ## Additional roots in this learning path
 
-Nine roots widen the path beyond systems, processes, and observation.
+Twelve roots widen the path beyond systems, processes, and observation.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -37,6 +37,19 @@ Nine roots widen the path beyond systems, processes, and observation.
 | `theluo` | steward; one who tends land, resources, or communities for others and the future | Stewardship crosses ecological care and collective responsibility, which also places the word in Commons. |
 | `mophiku` | shear; remove an animal's fleece by cutting | Shearing joins a living animal to fibre gathered for use. Work, Craft, and Repair teaches the skill and textile relation of the same work. |
 | `lomathu` | manure; animal dung collected or kept for use on soil | The word follows a bodily material into land care, where storage, runoff, and its actual effects matter. |
+| `thapori` | thresh; release grain or seed from a harvested plant | Threshing stands between harvest and food preparation. Work teaches the repeated skilled action at the same material boundary. |
+| `shireku` | sift; separate loose material through a mesh | Sifting can sort grain, seed, soil, or another loose material without making the retained part waste. Household and Work share the word. |
+| `napewa` | husk; outer covering of a grain, seed, or fruit | The covering belongs to the plant before it becomes stored material, fuel, mulch, or something with no further intended use. |
+
+## Grain after harvest
+
+A crop does not leap from field to loaf. `thapori` names the repeated work that frees grain from the harvested plant, `shireku` separates loose material through a mesh, and `napewa` names the covering that comes away. Each word keeps the material available for the next question: what was retained, what returned to the soil, and what was called waste.
+
+```
+lo miona napuro thapori.
+PL person grain thresh.
+(The people thresh grain.)
+```
 
 ## Weather, material, and resources belong to base vocabulary
 

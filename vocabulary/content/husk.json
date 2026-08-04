@@ -1,0 +1,36 @@
+{
+  "word": "napewa",
+  "gloss": "husk",
+  "ipa": "/n̪ä.ˈpe̞.wä/",
+  "syllables": [
+    "na",
+    "pe",
+    "wa"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "grain husk",
+    "seed covering"
+  ],
+  "description": "A 'napewa' is the fibrous, leaflike, or shell-like outer covering around a grain, seed, or fruit. It may come away during threshing, peeling, or later preparation. 'hisae' (skin) is a living animal organ, while 'koremu' (bark) belongs to woody stems and roots.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', let the voice pass through the nose, and open into central 'a'. Close both lips for unvoiced 'p' and release into stressed true-mid front 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open the jaw into final central 'a'.",
+  "sound_symbolism": "The opening shares the 'na.p' frame heard in 'napuro' (grain), 'napari' (rice), and 'napa' (bread). Final 'wa' opens away from that family centre, which gives the outer covering its own audible edge.",
+  "usage_notes": "A plant, crop, seed, or fruit may precede the noun when the kind of husk matters. Removed husks can be treated as material, stored, burned, returned to soil, or given another use; the noun decides none of those outcomes.",
+  "examples": [
+    {
+      "phi": "mia lo napewa sholei.",
+      "translation": "I gather the husks."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Husks leave the food crop in the hand but not necessarily the cycle of use. A removed husk may become bedding, fuel, packing, or mulch. It may also return to soil."
+  },
+  "semantic_domains": {
+    "nature": "an outer plant covering around grain, seed, or fruit",
+    "physical": "a removable fibrous, leaflike, or shell-like layer"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "household-and-daily-life"
+  ]
+}

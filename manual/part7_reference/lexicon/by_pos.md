@@ -317,7 +317,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (580)
+## noun (581)
 
 | Word | Gloss |
 |---|---|
@@ -548,6 +548,7 @@
 | `muwi` | interior |
 | `napa` | bread |
 | `napari` | rice |
+| `napewa` | husk |
 | `napuro` | grain |
 | `naremu` | guilt |
 | `naropu` | feedforward |
@@ -1009,7 +1010,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (364)
+## verb (367)
 
 | Word | Gloss |
 |---|---|
@@ -1198,6 +1199,7 @@
 | `pukeri` | damage |
 | `pula` | wish |
 | `pumari` | suck |
+| `pumeli` | knead |
 | `puse` | spit |
 | `pushali` | overload |
 | `rashelo` | run |
@@ -1250,6 +1252,7 @@
 | `sheraki` | search |
 | `sherewa` | claim |
 | `shimalo` | discipline |
+| `shireku` | sift |
 | `shiroka` | repair |
 | `shiwolu` | integrate |
 | `sholei` | gather |
@@ -1286,6 +1289,7 @@
 | `teshori` | quarantine |
 | `thalo` | walk |
 | `thape` | burn |
+| `thapori` | thresh |
 | `theala` | heal |
 | `theama` | care |
 | `thekamu` | intervene |

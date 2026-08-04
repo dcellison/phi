@@ -1,10 +1,10 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #700 and decision D111 on 3 August 2026. It covers the completed SEM-09D corpus retrofit, the translation-only literary shelf, the finished book, the practice-complete pamphlet shelf, and the six translated and fidelity-swept chapters of *News from Nowhere*. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #701 and decision D112 on 3 August 2026. It covers the completed SEM-09D corpus retrofit, the translation-only literary shelf, the finished book, the practice-complete pamphlet shelf, and the six translated and fidelity-swept chapters of *News from Nowhere*. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
-SEM-09D and PED-08 are complete. The book is published whole, all four planned original Phi works have received Phi-first reviews, PUB-06 and PUB-07 are complete, and the inherited literary shelf has completed its translation-fidelity conversion. D085 through D096 then replaced and exhaustively reread the first six *News from Nowhere* chapters as translations, and D097 with its follow-up repairs brought the six into one convention. D098 established that English readings derive from Phi rather than the adjacent source. D102 now separates production into source-to-Phi and Phi-to-English phases, with the other layer hidden in each direction. D103 certifies *The North Wind and the Sun* as the first translation produced under that stricter process, D105 certifies the Metta Sutta as the second, D106 certifies *A Solarpunk Manifesto* as the third, D107 certifies Schleicher's fable as the fourth, D108 certifies UDHR Article 1 as the fifth, D109 certifies the Babel text as the sixth, D110 certifies *The Little Prince* selections as the seventh, and D111 certifies *The Velveteen Rabbit* as the eighth. D104 gives the process an exhaustive machine-checked queue, with *The Prophet, On Love* next. The book's title remains The Phi Book for now by the maintainer's ruling, and PUB-03 remains deferred because the local reading PDF has no reproducible checked-in build command or post-processing tool.
+SEM-09D and PED-08 are complete. The book is published whole, all four planned original Phi works have received Phi-first reviews, PUB-06 and PUB-07 are complete, and the inherited literary shelf has completed its translation-fidelity conversion. D085 through D096 then replaced and exhaustively reread the first six *News from Nowhere* chapters as translations, and D097 with its follow-up repairs brought the six into one convention. D098 established that English readings derive from Phi rather than the adjacent source. D102 now separates production into source-to-Phi and Phi-to-English phases, with the other layer hidden in each direction. D103 certifies *The North Wind and the Sun* as the first translation produced under that stricter process, D105 certifies the Metta Sutta as the second, D106 certifies *A Solarpunk Manifesto* as the third, D107 certifies Schleicher's fable as the fourth, D108 certifies UDHR Article 1 as the fifth, D109 certifies the Babel text as the sixth, D110 certifies *The Little Prince* selections as the seventh, D111 certifies *The Velveteen Rabbit* as the eighth, and D112 certifies Gibran's *On Love* as the ninth. D104 gives the process an exhaustive machine-checked queue, with *The Prophet, On Children* next. The book's title remains The Phi Book for now by the maintainer's ruling, and PUB-03 remains deferred because the local reading PDF has no reproducible checked-in build command or post-processing tool.
 
 The completed-work chronology below preserves the stages by which the current state was reached. References there to alternate renderings or adaptations describe work as it stood during those earlier passes; D078 through D084 later retired those methods from the active shelf, and D085 through D096 replaced the first six Morris adaptations with translations.
 
@@ -52,10 +52,10 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,301 | 1,301 | 0 |
-| Content vocabulary | 1,167 | 1,167 | 0 |
+| Entire lexicon | 1,305 | 1,305 | 0 |
+| Content vocabulary | 1,171 | 1,171 | 0 |
 | Base content vocabulary | 894 | 894 | 0 |
-| Optional-module content vocabulary | 273 | 273 | 0 |
+| Optional-module content vocabulary | 277 | 277 | 0 |
 | Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
 
@@ -69,17 +69,17 @@ The latest source-led vocabulary addition is D100's Ecological `lomathu` manure,
 
 | Item | Count |
 |---|---:|
-| Registered batches | 81 |
+| Registered batches | 82 |
 | Decisions | 280 |
-| Implemented | 71 |
-| Compositional | 130 |
+| Implemented | 72 |
+| Compositional | 129 |
 | Deferred with return condition | 31 |
 | Source-bound | 44 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D111 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D112 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 
@@ -95,18 +95,18 @@ Run it before trusting the zero count. The snapshot is not a substitute for the 
 
 ## Module state
 
-Phi has eight established vocabulary modules, one grammar, 273 optional roots, and 410 module memberships. A root may appear in several modules.
+Phi has eight established vocabulary modules, one grammar, 277 optional roots, and 419 module memberships. A root may appear in several modules.
 
 | Module | Total current memberships | Legacy entries in that learning path |
 |---|---:|---:|
-| Household and Daily Life | 44 | 0 |
+| Household and Daily Life | 47 | 0 |
 | Medical and Bodily Care | 54 | 0 |
 | Systems and Shared Infrastructure | 50 | 0 |
 | Philosophical Reasoning | 30 | 0 |
 | Accessibility and Participation | 46 | 0 |
 | Commons and Collective Governance | 55 | 0 |
-| Ecological Systems and Material Life | 57 | 0 |
-| Work, Craft, and Repair | 74 | 0 |
+| Ecological Systems and Material Life | 60 | 0 |
+| Work, Craft, and Repair | 77 | 0 |
 
 Every module learning path now has zero legacy prose, and every complete `modules` array was preserved during migration. D045 through D052 complete SEM-09C in the modules' historical order.
 
@@ -114,7 +114,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 ## Corpus state
 
-The literary shelf has completed its full inherited-text review against the current lexicon. D070 through D077 repaired the remaining source-fidelity cases and supplied the last needed roots. D078 through D081 moved Gibran, the six formerly paired works, *The Little Prince*, and *The Velveteen Rabbit* onto translation-only presentation. D082 and D083 then gave the two freshly converted works their own fidelity sweeps, and D084 retired source-recasting as a general method and removed its manual chapter. D085 through D096 replaced and separately reread *News from Nowhere* chapters 1 through 6 as translations, and D097 with pull requests #677 through #679 brought the six into one convention and removed the break-into and misplaced-evidential calques. D098 establishes the Phi-first derived-English contract, D102 adds its production boundary, and D103 plus D105 through D111 certify the first eight translations. The shelf holds seventeen works: eleven translations, one refusal, four original Phi compositions, and one book in progress. The Gibran collection contains four complete translated selections from *The Prophet*. The remaining translations retain accepted source and Phi findings while their English layers enter the isolated queue. [`documents/evaluation/translation_process_status.md`](../../documents/evaluation/translation_process_status.md) owns the exact certification queue; [`active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md) retains the broader work-by-work findings.
+The literary shelf has completed its full inherited-text review against the current lexicon. D070 through D077 repaired the remaining source-fidelity cases and supplied the last needed roots. D078 through D081 moved Gibran, the six formerly paired works, *The Little Prince*, and *The Velveteen Rabbit* onto translation-only presentation. D082 and D083 then gave the two freshly converted works their own fidelity sweeps, and D084 retired source-recasting as a general method and removed its manual chapter. D085 through D096 replaced and separately reread *News from Nowhere* chapters 1 through 6 as translations, and D097 with pull requests #677 through #679 brought the six into one convention and removed the break-into and misplaced-evidential calques. D098 establishes the Phi-first derived-English contract, D102 adds its production boundary, and D103 plus D105 through D112 certify the first nine translations. The shelf holds seventeen works: eleven translations, one refusal, four original Phi compositions, and one book in progress. The Gibran collection contains four complete translated selections from *The Prophet*. The remaining translations retain accepted source and Phi findings while their English layers enter the isolated queue. [`documents/evaluation/translation_process_status.md`](../../documents/evaluation/translation_process_status.md) owns the exact certification queue; [`active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md) retains the broader work-by-work findings.
 
 The compound registry holds 77 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026. Its one four-word entry overreached from compound towards canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines. `wisola lokue`, exchange-place, remains the registered ordinary market expression used in Morris. None of D085 through D098, D105 through D111, nor any of the follow-up repairs, adds a root, module membership, registered compound, or grammar.
 
@@ -165,7 +165,7 @@ An audit of the sweep then repaired its three hand-edit defects, and two maintai
 
 The detector for the evidential class is a layer mismatch: in eleven of the twelve corpus sites the derived English was already plain, because English hear and tell carry receipt of report inside the verb. A Phi particle marking what the English never rendered is the standard sign of this mistake.
 
-The first six chapters retain their D098 English readings as reviewed content but not as D102-certified derivations. D100 closes the bodily-waste and manure decision exposed by chapter 5. D103 certifies *The North Wind and the Sun* under D102, D104 records the complete queue, and D105 through D111 certify the Metta Sutta, *A Solarpunk Manifesto*, Schleicher's fable, UDHR Article 1, the Babel text, *The Little Prince* selections, and *The Velveteen Rabbit*. *The Prophet, On Love* is next. Apply D102 across the translation shelf before translating chapter 7. Before drafting that chapter, read the six-chapter sequence end to end: the onym set, the single-frame convention, the evidential placement, and the established lexical choices live in those chapters rather than in a template.
+The first six chapters retain their D098 English readings as reviewed content but not as D102-certified derivations. D100 closes the bodily-waste and manure decision exposed by chapter 5. D103 certifies *The North Wind and the Sun* under D102, D104 records the complete queue, and D105 through D112 certify the Metta Sutta, *A Solarpunk Manifesto*, Schleicher's fable, UDHR Article 1, the Babel text, *The Little Prince* selections, *The Velveteen Rabbit*, and Gibran's *On Love*. *The Prophet, On Children* is next. Apply D102 across the translation shelf before translating chapter 7. Before drafting that chapter, read the six-chapter sequence end to end: the onym set, the single-frame convention, the evidential placement, and the established lexical choices live in those chapters rather than in a template.
 
 The build enforces its own contract. `site/news_from_nowhere_editorial.json` needs a chapter record whose declared counts match what the renderer finds, covering movements, opening paragraphs, interlinear blocks and stanzas, notes, tables, ledger rows, and inner dividers, and its chapter list must match the `chapter_*.md` glob exactly. The ladder in `texts/news_from_nowhere/README.md` must agree with the same sequence. A chapter that renders without those in step stops the build.
 
@@ -233,7 +233,7 @@ The live entries are:
 | Entrance and index pages | Complete | Kia, the Short Road, and the Phi Book contents page are finished without source decoration. Kia has its doorway masthead, two Tengwar greetings, six numbered encounters, and seven broad destination links. The Short Road has a twelve-stop map, joined waypoints, thirteen interlinear figures, and a final invitation in both hands. The book contents page maps the argument from boatman to door. Four movements hold its fourteen chapters, and the bibliography stays apart. Strict shape checks guard all three renderings, including exact agreement between the README's reading order and the published files. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
-| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,301 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
+| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,305 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |
 
 Speech evidence, outside learner evidence, community governance, and a maintained print publication pipeline remain evidence-gated or deferred in the roadmap. The one-off book PDF does not close PUB-03 or create PUB-04 review evidence. Do not mark an evidence item complete because tools or materials exist, and do not invent participants, observations, or adoption.

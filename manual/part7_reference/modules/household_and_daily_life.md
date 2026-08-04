@@ -4,7 +4,7 @@ Yesterday's soup is in a jar on the shelf. Before anyone calls it waste, somebod
 
 The Household and Daily Life module gives Phi speakers optional vocabulary for the small arrangements that keep a dwelling usable: rooms and storage, the work of washing, things kept on the bed, and the path from recipe to leftovers. These words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning the module does not decide who belongs in a home or who owes its work.
 
-The chapter table below introduces 30 roots. Current classifications bring the learning list to 44 words; the complete list is under [Household and Daily Life in the module lexicon](../lexicon/by_module.md#household-and-daily-life).
+The chapter table below introduces 30 roots. Current classifications and later source-led additions bring the learning list to 47 words; the complete list is under [Household and Daily Life in the module lexicon](../lexicon/by_module.md#household-and-daily-life).
 
 ## Core vocabulary used by the module
 
@@ -26,13 +26,16 @@ Work, Craft, and Repair can identify a domestic task and show who carries its bu
 
 ## Additional roots in this learning path
 
-Three more roots put a fire, a grooming tool, and one form of shared living into the household path.
+Six more roots put a fire, a grooming tool, one form of shared living, and three grain-working words into the household path.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
 | `moeli` | hearth; the fireplace at the center of a dwelling | A hearth is a particular domestic fixture, while home and fire remain base words. |
 | `whilaru` | comb; a toothed tool used to untangle or arrange hair | The comb belongs among repeated household tools, with hair and bodily care still available outside the module. |
 | `shorai` | commune; live communally with shared resources and duties | The domestic relation joins this module to Commons without treating every household as a commune. |
+| `shireku` | sift; separate loose material through a mesh | Grain and meal often pass through a hand sieve during household preparation; Ecological and Work teach the same physical act. |
+| `napewa` | husk; outer covering of a grain, seed, or fruit | A husk may arrive with food, leave during preparation, and continue as material after the meal. Ecological Systems follows that longer path. |
+| `pumeli` | knead; repeatedly press and fold a soft mass | Dough brings kneading to the household table, while Work teaches the same practiced motion through clay and other materials. |
 
 ## Privacy belongs to shared core
 
@@ -303,9 +306,9 @@ PROX food PST spoil.
 
 Ecological `morume` decompose follows the material process, while `mukesi` follows the lost household use. A spoiled food may decompose, but the two claims answer different questions.
 
-## Heat, mixing, and flow
+## Heat, mixing, sifting, and kneading
 
-The broad verb `pharelo` cook still carries most kitchen work. Four narrower verbs help when the method changes the result.
+The broad verb `pharelo` cook still carries most kitchen work. Six narrower verbs help when the method changes the result.
 
 `therapi` boil names the liquid state that can be heard and seen in the pot.
 
@@ -329,6 +332,22 @@ mia napa napako.
 mia lo phareme welotu.
 1SG PL ingredient mix.
 (I mix the ingredients.)
+```
+
+`shireku` sift sends the smaller material through a mesh and leaves the larger pieces behind. `napewa` husk names one of the coverings the sieve or hand may remove.
+
+```
+mia roe mera napuro shireku.
+1SG INS net grain sift.
+(I sift grain through a mesh.)
+```
+
+`pumeli` knead begins after mixing has made one soft mass. Pressing and folding now change that mass rather than distributing separate ingredients.
+
+```
+mia [whu napa kelu] muralo pumeli.
+1SG REL bread become material knead.
+(I knead material that will become bread.)
 ```
 
 `seluto` pour gives direction to `selu` flow. The water moves, but the hand and vessel begin its path.
