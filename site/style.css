@@ -2383,7 +2383,7 @@ table.primer-ladder {
   font-weight: 650;
 }
 .text-work-method {
-  align-items: baseline;
+  align-items: center;
   color: var(--muted);
   display: flex;
   font-size: .72rem;
