@@ -1,6 +1,6 @@
 # Phi continuation handoff
 
-This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #702 and decision D113 on 4 August 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
+This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #703 and decision D114 on 4 August 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
 
 This package is a map, not a new authority. When anything here disagrees with a live source, follow the authority order in [`canon.md`](../../canon.md), repair this package, and record a language decision where the disagreement is substantive.
 

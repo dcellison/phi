@@ -1,5 +1,7 @@
 # How a Phi translation is made
 
+Readers looking for the promise behind the mark, without all the workshop detail, can begin with [What certified means](translation_certification.md). A certified text can still contain errors; the mark records a completed process and a checked published version, not immunity from correction.
+
 A Phi translation is made in two directions, at two different times. First the source is carried into Phi. Once that work is settled, the source leaves the desk and the Phi is carried into English. The separation matters because a familiar source sentence is very good at lending details to an English rendering that the Phi never actually said. A fluent result can hide a weak translation with alarming politeness.
 
 The work follows two one-way paths:

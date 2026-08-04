@@ -4,6 +4,8 @@ This directory holds the maintained assets for Phi's website: the lexicon explor
 
 The site builder copies these assets to `build/site/`, renders the repository's Markdown shelves there, and generates the lexicon and compound data. The complete deployment tree is ignored by Git.
 
+Translation certification is generated rather than entered in the editorial JSON. The builder validates `project/translation_process_status.json`, places the public mark only on certified translation pages and catalogue rows, and renders `documents/reference/translation_certification.md` as `texts/certification.html`. It stops if the register, a mark, or the public list disagrees.
+
 Local preview:
 
 ```bash

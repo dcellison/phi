@@ -16,6 +16,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Taught patterns](reference/taught_patterns.md) | Indexed inventory of constructions taught across the learning materials. |
 | [Finding the particle](reference/particle_finder.md) | The thirty-eight particles indexed by what a speaker wants to say rather than by slot. |
 | [The voice, for models](reference/voice_for_models.md) | Writing reference for Phi's register, mechanics, Humanizer pass, and final audit. |
+| [What certified means](reference/translation_certification.md) | Public explanation of the mark on completed translations, what the process checks, and why a certified text may still contain errors. |
 | [How a Phi translation is made](reference/translation_process.md) | Reader's account of the isolated source-to-Phi and Phi-to-English process, its restart rule, and its evidence. |
 | [Tengwar mode](../tengwar/mode.md) | Current mapping, hiatus rule, punctuation, and implementation reference for Phi's second writing mode. |
 
