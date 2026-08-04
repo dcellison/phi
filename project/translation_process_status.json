@@ -177,7 +177,22 @@
     },
     {
       "path": "texts/gibran/on_children.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D113",
+        "pull_request": 702,
+        "certified_on": "2026-08-04",
+        "unit_count": 18,
+        "phi_sha256": "028a864fb7bb333245159dcf9e2048b9021c3dab04a34f0e299506da9d059455",
+        "aligned_sha256": "62c592215e25a2cad5aa311adb05dcb5a1d0d624dc25438d7708be9950d9d88a",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "gibran",
+          "normalized_characters": 980
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "A fresh anonymous context derives the complete frozen stream. Independent source-blind review exposes participant, possession, attachment, and purpose problems; the affected English is discarded, the Phi is repaired, and fresh unit-scoped contexts derive and audit each revised unit before publication."
+      }
     },
     {
       "path": "texts/gibran/on_giving.md",

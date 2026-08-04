@@ -168,17 +168,17 @@ The ground truth is F. Max Müller's 1894 Smaller Pragñâ-pâramitâ-hridaya-s�
 
 ## Translation review: The Prophet, On Children
 
-The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The translation begins with the request for the teaching and follows all 18 source units through the stable bow. Its derived English states only what the Phi contains, and its continuous reading has the same Phi sentence stream as the detailed blocks. Commons `phenori` (ownership) and Household `phemiru` (visit) remain its two optional roots.
+The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The translation begins with the request for the teaching and follows all 18 source units through the stable bow. Its 18 citations reconstruct all 980 normalized source characters, its derived English comes from the frozen Phi alone, and its continuous reading has the same Phi sentence stream as the detailed blocks. Commons `phenori` (ownership) and Household `phemiru` (visit) remain its two optional roots.
 
 | Area | Translation decision |
 |---|---|
-| Speakers and child relation | `miona` and `phirae miona` preserve the turn change without inventing gender; `phomila` appears on both sides of the opening denial. |
-| Life and living | Noun `lioru` is personified as Life, while the source alone supplies capitalization and theological presence. |
-| Belonging | Offspring stand outside the parent's `phenori`, ownership, rather than merely outside a physical grasp. |
-| Cause and contrast | `whekai`, `shai`, and `thelao` restore contrast, concession, and the repeated conclusion-reason relation in Phi's required order. |
-| Effort and future | `meloa` restores striving, negated `mesatu` restores attempted conformity, and `phemiru` restores the visit to tomorrow's house. |
-| Archery and agency | Cord, flexibility, straightness, sharpness, flight, sending, and an approached marker describe the bow, arrow, archer, and target without adding permanent archery roots. The sender's strength and intended speed and distance remain explicit. |
-| Final parallel | `senao keiro` makes the same manner of love explicit for the flying object and stable tool. |
+| Speakers and child relation | Four assertions establish one person, the very young child on that person's chest, and the act of holding without using possession for either relation. `ne musatapha` preserves the turn change without inventing gender. |
+| Life, longing, and offspring | `lioru miso wilao` gives Life a true reflexive object, then `ha wilao phomila` makes the children offspring of the resulting longing. |
+| Belonging and thought | Offspring stand outside the listener's `phenori`, ownership. A separate assertion says that the children's thoughts are not the listener's before the consequence about giving them. |
+| Cause and contrast | `whekai`, `shai`, and `thelao` preserve contrast, concession, and the repeated conclusion-reason relation in Phi's required order. |
+| Effort and future | `meloa` carries striving, negated `mesatu` carries attempted conformity, and `phemiru` preserves the visit to the future home. |
+| Archery and agency | Cord, flexibility, straightness, sharpness, flight, sending, and an approached marker describe the bow, arrow, archer, and target without adding permanent archery roots. The person's strength is the explicit causer of bending, and a `lila` clause gives that bending its intended gladness. |
+| Final parallel | Two assertions state the person's acts of love, and `wi lothea senao nai` makes the two loves equal. |
 
 Existing vocabulary is enough. Base `lopia` names the baby by life stage, while `phomila` keeps descent apart from childhood. The `lioru`, `liona`, `lima` family separates life, living, and being alive. Physical and relational descriptions carry the archery scene, and Gibran's cited English keeps each named object visible.
 
@@ -188,9 +188,9 @@ The repaired translation corrects a structural problem older vocabulary migratio
 
 | Question | Disposition | Reason |
 |---|---|---|
-| Woman, babe, and he | Add the complete framing exchange with `miona`, `lopia`, and `phirae miona` | Phi does not assign gender classes. A person holds a very young child, and a different person answers, preserving the speaker change without making the two neutral pronouns ambiguous. |
+| Woman, babe, and he | Establish the person and child in separate assertions, then identify the respondent as `ne musatapha` | Phi does not assign gender classes. The stable onym preserves the speaker change across the Gibran collection. |
 | Possessor order | Replace every singular `lo thia phomila` with possessor-first `thia lo phomila` | `lo thia` is the plural second-person pronoun, not plural offspring possessed by singular you. The corrected order follows the noun-phrase template and the offspring entry's own example. |
-| Love, thought, and plural thought | Add `thia` before love and thoughts and explicit `lo` before plural thoughts | The old derived English said "your" where the Phi named no possessor. The repaired Phi now carries every possessive and the source's plural thought. |
+| Love, thought, and plural thought | Add `thia` before love and thoughts, explicit `lo` before plural thoughts, and a separate non-identity assertion | The final Phi carries every possessive and the source's plurality without misusing reflexive `miso` as a possessor. |
 | Contrast, concession, and reason | Add `whekai` and `shai`; move each reason before its conclusion and connect it with `thelao` | Through-versus-from, with-yet-not-owned, and Gibran's repeated "For" clauses are semantic relations rather than punctuation. Phi retains them in modifier-first order. |
 | Child as life stage and offspring by descent | Replace `lopia` with `phomila` | `lopia` is a person in childhood. Gibran's sons and daughters are direct offspring and need not still be children by age. |
 | Life | Replace personified `liona` with `lioru` | `lioru` is the condition and course that Gibran personifies as Life; `liona` names living as an activity. |
@@ -198,7 +198,7 @@ The repaired translation corrects a structural problem older vocabulary migratio
 | Belonging and ownership | Preserve `phenori` | Gibran's belong means being possessed. Base `wema` concerns felt fit within a place, community, or relationship and does not name ownership. |
 | Tomorrow's house and visiting | Preserve `wireo womu` and `phemiru` | Gibran's tomorrow is a future beyond the parent's reach, while Household `phemiru` gives the visit a bounded stay. |
 | Bow, arrow, archer, and target | Replace source-invented wood and vague tool use with cord, flexibility, straightness, sharpness, explicit sending, and an approached marker | `sepho` follows Gibran's sent forth without adding the applied release of `wapho`, throw. |
-| Final comparison | Add `senao keiro` | Additive `we` alone said also but did not carry the source's "even as ... so" relation. |
+| Final comparison | State both acts of love, then equate the two loves | Additive `we` carries also, while `wi lothea senao nai` supplies the source's parallel. |
 | Active dependencies | Update the translation, its continuous reading, the review record, and phonetic-neighbour attestations | The repaired Phi lines recur nowhere else in the active corpus. Gibran's stored source, shelf links, and registered compounds remain unchanged. |
 
 ## Translation review: The Prophet, On Work
@@ -810,7 +810,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/human_rights_article_one.md` | Translation | Certified D108 | Two citations reconstruct all 170 normalized source characters. The source-blind derivation and independent audit agree on worth, rights, passive endowment, held obligation, reciprocal conduct, and the framed sibling-spirit manner. |
 | `texts/little_prince_excerpts.md` | Translation | Certified D110 | Five citations reconstruct all 238 normalized Woods characters. The final five-unit Phi stream freezes at `0cd1f7cd...e3d2`, and fresh source-blind derivation plus an independent sample audit agree on every participant and proposition. |
 | `texts/gibran/on_love.md` | Translation | Certified D112 | All 33 units receive isolated English derivation and independent comparison. The 2,403-character source reconstruction remains exact, and the final Phi stream freezes at `7494350b...5d6125`. Four optional grain-work roots add nine module memberships. |
-| `texts/gibran/on_children.md` | Translation | Isolation pending | All 18 source units align, the continuous reading matches the detailed blocks, and the limits table records Phi's material treatment of the archery scene. |
+| `texts/gibran/on_children.md` | Translation | Certified D113 | All 18 units receive isolated English derivation and independent review. The 980-character source reconstruction remains exact, and the final Phi stream freezes at `028a864f...d059455` without adding vocabulary or grammar. |
 | `texts/gibran/on_giving.md` | Translation | Isolation pending | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |
 | `texts/gibran/on_work.md` | Translation | Isolation pending | All 32 source units align exactly, and the limits table records the distinctions that remain with Gibran's wording. |
 | `texts/tao_te_ching.md` | Translation | Isolation pending | All 51 Legge units align in order, and the continuous reading follows every proposition in the detailed translation. |
