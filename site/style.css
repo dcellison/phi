@@ -2116,10 +2116,6 @@ table.primer-ladder {
   height: 4rem;
   width: 4rem;
 }
-.text-index-title-row .text-work-motif svg + svg {
-  height: 2.9rem;
-  width: 2.9rem;
-}
 .text-index-methods { margin: 0 0 4rem; }
 .text-index-methods > h2 {
   color: var(--ink);
@@ -2475,9 +2471,7 @@ a.text-certification-mark:focus-visible {
 }
 .text-work-motif svg + svg {
   color: var(--gold);
-  height: 2.7rem;
   margin-left: -.25rem;
-  width: 2.7rem;
 }
 .text-work-motif-heart_radiance svg:first-child {
   color: var(--gold);
@@ -4755,10 +4749,6 @@ table.text-ledger {
     height: 2.8rem;
     width: 2.8rem;
   }
-  .text-index-title-row .text-work-motif svg + svg {
-    height: 2rem;
-    width: 2rem;
-  }
   .text-index-methods > h2 { font-size: 1.35rem; }
   .text-index-method-grid {
     grid-template-columns: minmax(0, 1fr);
@@ -4798,14 +4788,6 @@ table.text-ledger {
     font-size: 1.7rem;
   }
   .text-work-motif svg { height: 2.4rem; width: 2.4rem; }
-  .text-work-motif svg + svg {
-    height: 1.75rem;
-    width: 1.75rem;
-  }
-  .text-work-motif-rabbit_heart svg:first-child {
-    height: 2.65rem;
-    width: 2.65rem;
-  }
   .text-title-tengwar { max-width: 100%; }
   .text-title-tengwar .teng-svg { height: 2.2rem !important; }
   .text-editorial h2.text-method-heading {
@@ -5075,10 +5057,6 @@ table.text-ledger {
     height: 2.35rem;
     width: 2.35rem;
   }
-  .text-index-title-row .text-work-motif svg + svg {
-    height: 1.65rem;
-    width: 1.65rem;
-  }
 }
 
 @media (max-width: 760px) {
@@ -5133,10 +5111,6 @@ table.text-ledger {
   .news-book-title-row .text-work-motif svg {
     height: 2.7rem;
     width: 2.7rem;
-  }
-  .news-book-title-row .text-work-motif svg + svg {
-    height: 2rem;
-    width: 2rem;
   }
   .news-book-opening { padding-bottom: 1.8rem; }
   .text-news-book-page p.news-book-lede,
@@ -5218,10 +5192,6 @@ table.text-ledger {
     height: 2.4rem;
     width: 2.4rem;
   }
-  .news-chapter-title-row .text-work-motif svg + svg {
-    height: 1.75rem;
-    width: 1.75rem;
-  }
   .news-chapter-opening { margin-bottom: 3rem; }
   .text-news-chapter-page p.text-work-lede { font-size: 1rem; }
   .news-chapter-map ol {
@@ -5264,10 +5234,6 @@ table.text-ledger {
   .news-book-title-row .text-work-motif svg {
     height: 2.3rem;
     width: 2.3rem;
-  }
-  .news-book-title-row .text-work-motif svg + svg {
-    height: 1.65rem;
-    width: 1.65rem;
   }
   .news-chapter-title-row { grid-template-columns: minmax(0, 1fr); }
   .text-news-chapter-page .news-chapter-header h1 {
