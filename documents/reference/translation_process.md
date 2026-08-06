@@ -58,6 +58,14 @@ python3 scripts/translation_layers.py texts/north_wind_and_sun.md --phase source
 
 That view contains numbered Phi units and their decoded source citations. It omits glosses, derived English, notes, and limits. A new translation begins directly in the same numbered Phi-and-source form under `/tmp`; there is no English layer to extract. Before the freeze is accepted, the source citations must still reconstruct the chosen source passage exactly.
 
+Where the repository holds an independent witness and a source manifest, check that reconstruction mechanically:
+
+```bash
+python3 scripts/source_reconstruction.py
+```
+
+The manifest names the witness, citation label, selected boundaries, and normalization rule for each translation it covers. For the Project Gutenberg Morris source, normalization rejoins a hyphenated word split by a line wrap and collapses the remaining whitespace. Spelling, punctuation, and case stay exact. The checker then compares the complete selected passage with the citations in order; matching character counts alone cannot make it pass.
+
 ## 4. Make compact anonymous bundles
 
 The frozen source-to-Phi view becomes the input to the second phase. For a work of ordinary length, make a directory of bounded packets:

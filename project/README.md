@@ -11,6 +11,7 @@ This directory records how Phi is maintained. The index below gathers its workin
 | [Content vocabulary coverage](content_vocabulary_coverage.md) | Status-tracked semantic coverage audits and the review gate for content vocabulary batches. |
 | [Content vocabulary decisions](content_vocabulary_decisions.md) | Generated, readable view of every candidate carried forward from the content-vocabulary audit and its present decision state. |
 | [Translation certification register](translation_process_status.json) | Machine-readable status and checksum evidence for every translation document under the isolated process. |
+| [Source reconstruction manifest](source_reconstruction_manifest.json) | Stored source, citation label, chapter boundaries, and normalization rule for each mechanically reconstructed translation. |
 | [Deferred questions](deferred_questions.md) | Parked questions and decisions, with the condition for returning to each one. |
 | [Model continuation handoff](handoff/README.md) | Dated transfer package with the exact work state, repository utilities, active vocabulary method, and standing maintainer instructions. |
 | [Publishing strategy](publishing.md) | Order of operations for public access and eventual print publication. |
