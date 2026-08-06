@@ -1,16 +1,16 @@
 # The short road
 
-The primer takes the gentle road through one household. The manual stops to name every moving part. This page keeps walking. In about twenty minutes, it follows Phi from its first open vowel to the text shelf. It does not replace either longer work; it gives the main systems one working example apiece and leaves the door open.
+*kia* is the threshold: a greeting and enough of Phi's choices to decide whether to enter. The primer takes the gentle road through one household, while the manual stops to name every moving part. This page keeps walking. In about twenty minutes, it starts again at the greeting, then follows Phi from its first open vowel to the text shelf. It gives each main system one working example and leaves the longer lessons to their proper shelves.
 
 ## Let the vowels finish
 
-Phi has five vowels, each kept full in careful speech. Its syllables are open, and adjacent vowels remain separate: `kia` is **ki · a**, while `lohau` is **lo · ha · u**. Stress falls on the next-to-last syllable, so `lohau` leans on **ha**.
+The greeting and the dog first appeared as glimpses. Here they become examples. Phi has five vowels, each kept full in careful speech. Its syllables are open, and adjacent vowels remain separate: `kia` is **ki · a**, while `lohau` is **lo · ha · u**. Stress falls on the next-to-last syllable, so `lohau` leans on **ha**.
 
 Careful speech also distinguishes `ph`, `th`, `sh`, and `wh`. Conversational Phi may move faster and carry an accent. Enough of each word's shape must remain for a listener to recover it.
 
 ## One organizing principle
 
-Here is an ordinary Phi sentence.
+A child seeing a bird can show the direction. One well-behaved bird is not much of a grammar test, so here is a sentence with a chisel.
 
 ```
 mia roe kiru wolea kati.
@@ -152,7 +152,7 @@ A translation remains answerable to the source's claims and distinctions while u
 
 ## Where the choices come from
 
-Phi names five pillars rather than presenting its choices as neutral. The sky stations and walking-distance measure draw on pre-industrial wisdom, while the moneyless Morris scene looks towards solarpunk.
+*kia* names Phi's five pillars. Along this road they have already done practical work. The sky stations and walking-distance measure draw on pre-industrial wisdom, while the moneyless Morris scene looks towards solarpunk.
 
 *Announce, then deliver* owes part of its attention to Buddhist mindfulness and Right Speech, the practices of staying present to an utterance and considering what it will do. Grammar promises neither automatically. Art Nouveau appears in meanings grown through relation: gray from stone, pink from dawn. Peace linguistics asks whether an utterance sustains relationship or rehearses domination. That is why the Ring Verse receives a refusal.
 

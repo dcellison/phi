@@ -255,7 +255,7 @@ def md_to_html(md):
 
 
 KIA_SECTION_TITLES = (
-    "The grammar has one organizing principle",
+    "A sentence arrives in order",
     "A dog in three syllables",
     "Punctuation speaks",
     "How do you know?",

@@ -6,7 +6,7 @@ Phi is a philosophical constructed language for practicing mindful and compassio
 
 It cannot make a speaker mindful or kind; grammar has never been good at supervising people. It can make certain choices audible and give a speaker a chance to notice them. Spend a few minutes with it and decide what you hear.
 
-## The grammar has one organizing principle
+## A sentence arrives in order
 
 Here is a Phi sentence in the order a listener receives it:
 
@@ -14,15 +14,15 @@ Here is a Phi sentence in the order a listener receives it:
 > **thiku pelori** — a small bird —
 > **nila.** — sees.
 
-Read it in order: a child, a small bird, sees. A describing word precedes its noun, and the object precedes the verb. Phi calls the shared direction *announce, then deliver*.
+Read it in order: a child, a small bird, sees. The bird arrives before the seeing, and **thiku**, small, arrives before **pelori**, bird. Phi calls that shared direction *announce, then deliver*.
 
-Words do not conjugate or decline. Time and number travel as separate words, as do possibility and negation. The verb does not change its coat when past time arrives. This is considerate of it, particularly around midnight.
+That is enough machinery for a greeting. *The Short Road* follows the principle through a guided tour; for now, the patience of the verb is enough. It waits until the child and bird are both present. Phi words do not conjugate or decline. They are remarkably unwilling to change clothes, even around midnight.
 
 ## A dog in three syllables
 
 Try the word for dog: **lo · ha · u**. Each syllable is open, with no consonant closing it, and the final two vowels remain separate. The opening **lo** leans toward *lothea*, love; the final **a · u** falls away like a howl. The wolf is still audible at the end of the word.
 
-The lexicon records this careful pronunciation, with every vowel full and every syllable recoverable. Conversational Phi may move faster and carry an accent. It still preserves the contrasts that keep one word from becoming another.
+The lexicon records a careful pronunciation for every word, but speech need not sound like beads placed one by one on a tray. Everyday pace and the speaker's own accent are welcome while the contrasts that keep one word from becoming another remain clear.
 
 ## Punctuation speaks
 
