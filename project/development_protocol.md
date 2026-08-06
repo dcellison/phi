@@ -230,7 +230,7 @@ Every addition to Phi should make the following practices available without clai
 ### When Using JSON Schema
 [`vocabulary/schema.json`](../vocabulary/schema.json) is the executable entry contract. Stable fields identify the `word`, `gloss`, `ipa`, `syllables`, one scalar `pos`, and `description`. The target prose contract adds required `articulatory_notes` and structured `examples`; optional `search_terms`, `usage_notes`, `sound_symbolism`, and `pillars` appear only when useful. Content entries also have a `semantic_domains` object and may list one or more `modules`.
 
-The lexicon prose migration is complete: every entry is target-shaped, and no legacy `concept` or `grammatical_notes` fields remain. The schema retains its migration-era tolerance for the legacy shapes, but that tolerance is historical; new and revised entries use the target contract only, and the committed coverage report records the completed state.
+The lexicon prose migration is complete. The schema requires `description`, `articulatory_notes`, and structured `examples`, and it rejects the retired `concept` and `grammatical_notes` properties. The committed coverage report records the completed target state and exposes any attempted return to a legacy, partial, or dual shape.
 
 Particles alone have `slot`. A Slot 1 particle also has `slot1_rank`, whose value places it in the canonical sequence of tense, aspect, voice, evidentiality, modality, and negation. The validator reads that ordering from the entries themselves.
 

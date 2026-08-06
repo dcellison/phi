@@ -14,7 +14,7 @@ The target prose contract is not a cosmetic rewrite. A completed content entry h
 - any useful `search_terms`, `usage_notes`, `sound_symbolism`, direct `pillars`, and established `modules` memberships;
 - no legacy `concept` or `grammatical_notes` field.
 
-The schema retains its migration-era tolerance for legacy forms. The migration is complete, and that tolerance is not permission to reintroduce old fields in any entry.
+The schema rejects legacy forms. The migration is complete, and every entry must carry the full target prose shape.
 
 Entry state is computed by `scripts/vocabulary_prose_coverage.py`:
 

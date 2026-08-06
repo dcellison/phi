@@ -20,9 +20,9 @@ An entry's filename comes from its English gloss, and the JSON keeps the field o
 
 The target prose contract requires a definition in `description`, a physical account of pronunciation in `articulatory_notes`, and worked `examples` stored as Phi and English pairs. `search_terms` and `usage_notes` are optional aids. `sound_symbolism` is also optional: it records an honest Phi-specific phonesthetic association when one exists, not a universal claim about sounds or a hidden analysis of the word. `pillars` records only direct, specific relationships, so an entry may have none.
 
-The lexicon prose migration is complete: every entry is target-shaped, and no legacy `concept` or `grammatical_notes` fields remain. The schema retains its migration-era tolerance for the legacy shapes, but that tolerance is historical; new entries and complete prose revisions use the target contract only.
+Every entry requires `description`, `articulatory_notes`, and structured `examples`. The schema rejects the retired `concept` and `grammatical_notes` properties, so an older entry shape cannot return unnoticed.
 
-The validator first runs the complete entry through Draft 2020-12 JSON Schema. It then checks the rules the schema cannot settle: the spoken form, cross-entry collisions, canonical file layout, Phi examples, and the word's place in the lexicon. Slot 1 ordering comes from each particle's `slot1_rank` metadata rather than a second list hidden in the validator. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records how many entries are legacy, partial, dual, or fully target-shaped; validation fails when that report is stale.
+The validator first runs the complete entry through Draft 2020-12 JSON Schema. It then checks the rules the schema cannot settle: the spoken form, cross-entry collisions, canonical file layout, Phi examples, and the word's place in the lexicon. Slot 1 ordering comes from each particle's `slot1_rank` metadata rather than a second list hidden in the validator. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records whether an entry has fallen into a legacy, partial, or dual shape, even though those shapes are schema-invalid; validation also fails when that report is stale.
 
 ## Working on an entry
 

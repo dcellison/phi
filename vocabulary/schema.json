@@ -69,12 +69,6 @@
       ],
       "description": "The entry's single lexical class. Rule-supplied uses, such as an event noun formed from a verb, do not add another class."
     },
-    "concept": {
-      "type": "string",
-      "minLength": 1,
-      "deprecated": true,
-      "description": "A legacy discovery label retained only while entries move to the target prose contract."
-    },
     "search_terms": {
       "type": "array",
       "items": {
@@ -99,12 +93,6 @@
       "type": "string",
       "minLength": 1,
       "description": "An optional Phi-specific sound-meaning association stated as phonesthetic interpretation rather than universal fact or hidden morphology."
-    },
-    "grammatical_notes": {
-      "type": "string",
-      "minLength": 1,
-      "deprecated": true,
-      "description": "Legacy usage prose retained only while its examples and useful distinctions move to structured fields."
     },
     "usage_notes": {
       "type": "string",
@@ -223,7 +211,9 @@
     "ipa",
     "syllables",
     "pos",
-    "description"
+    "description",
+    "articulatory_notes",
+    "examples"
   ],
   "additionalProperties": false,
   "allOf": [
@@ -302,26 +292,6 @@
           ]
         }
       }
-    },
-    {
-      "anyOf": [
-        {
-          "required": ["articulatory_notes"]
-        },
-        {
-          "required": ["sound_symbolism"]
-        }
-      ]
-    },
-    {
-      "anyOf": [
-        {
-          "required": ["examples"]
-        },
-        {
-          "required": ["grammatical_notes"]
-        }
-      ]
     }
   ]
 }

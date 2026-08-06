@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Measure progress from the legacy lexicon prose shape to the target contract."""
+"""Record lexicon prose-contract state and expose any migration regression."""
 
 import json
 from collections import Counter
@@ -11,7 +11,7 @@ REPORT_FILE = (
 )
 
 TARGET_FIELDS = ("articulatory_notes", "examples")
-LEGACY_FIELDS = ("concept", "grammatical_notes")
+RETIRED_FIELDS = ("concept", "grammatical_notes")
 COUNTED_FIELDS = (
     "articulatory_notes",
     "examples",
@@ -26,14 +26,14 @@ STATES = ("legacy", "partial", "dual", "target")
 
 
 def entry_state(entry):
-    """Classify one entry by which old and target prose fields it carries."""
+    """Classify one entry by which retired and target prose fields it carries."""
     target_count = sum(field in entry for field in TARGET_FIELDS)
-    has_legacy = any(field in entry for field in LEGACY_FIELDS)
+    has_retired = any(field in entry for field in RETIRED_FIELDS)
     if target_count == 0:
         return "legacy"
     if target_count < len(TARGET_FIELDS):
         return "partial"
-    return "dual" if has_legacy else "target"
+    return "dual" if has_retired else "target"
 
 
 def load_entries(root=PROJECT_ROOT):

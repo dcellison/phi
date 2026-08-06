@@ -98,7 +98,7 @@ Vocabulary entries are reference entries with their own discipline. The schema s
 
 **semantic_domains**: required classification for content words. Each rationale says why this word belongs in that domain rather than repeating the domain's title.
 
-**Migration-only fields**: `concept` and `grammatical_notes` remain readable while old entries move to the target contract. Do not add them to a new entry or retain them after a complete prose revision.
+**Required prose fields**: every entry carries `description`, `articulatory_notes`, and structured `examples`. The schema rejects the retired `concept` and `grammatical_notes` properties. Discovery handles belong in `search_terms`; syntax and contrasts belong in `usage_notes` or the examples themselves.
 
 **Never in an entry**: "beautifully," "perfectly embodies," "reminds us," rhetorical questions, or philosophy that repeats what the project's protocol documents already say. An entry's philosophy lives in its specifics.
 
