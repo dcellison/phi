@@ -196,7 +196,22 @@
     },
     {
       "path": "texts/gibran/on_giving.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D119",
+        "pull_request": 714,
+        "certified_on": "2026-08-06",
+        "unit_count": 32,
+        "phi_sha256": "a7fdd1387cbc36e53080fc97cd1bdcba9069b363b49f877ba1ba24093bbd57fb",
+        "aligned_sha256": "261d6c12e19d5ee42fd6a5a2d26f9958f35de2099d0410f57c03f0a48089dd6d",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "gibran",
+          "normalized_characters": 2746
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "A complete anonymous derivation and independent risk audit exposed participant, possession, relative-role, and attachment faults. Every affected English layer was discarded before its Phi unit changed; fresh unit-scoped contexts then derived and checked each repair while unchanged unit hashes retained their settled readings."
+      }
     },
     {
       "path": "texts/gibran/on_work.md",
