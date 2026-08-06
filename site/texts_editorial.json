@@ -680,6 +680,29 @@
         6,
         5
       ]
+    },
+    "texts/a_second_way_for_water.md": {
+      "form": "story",
+      "phi_title": "phialu nu wi shoeka",
+      "motif": "water_sprout",
+      "sections": [
+        {
+          "title": "The story",
+          "kind": "story"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 0,
+      "interlinear_stanzas": 0,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 0,
+      "notes": 0,
+      "tables": 0,
+      "pillar_sections": 0,
+      "inner_dividers": 5,
+      "story_blocks": 6,
+      "story_passages": 96
     }
   }
 }

@@ -3618,6 +3618,7 @@ TEXT_MOTIFS = {
     "rabbit_heart",
     "window_water",
     "river_home",
+    "water_sprout",
 }
 
 
@@ -3690,6 +3691,10 @@ def load_texts_editorial():
                 "argument_passages",
                 "ledger_rows",
             },
+            "story": {
+                "story_blocks",
+                "story_passages",
+            },
         }
         if form not in form_fields:
             raise ValueError(f"unknown texts editorial form: {form}")
@@ -3707,6 +3712,7 @@ def load_texts_editorial():
             "refusal": "Refusal",
             "original": "Original",
             "essay": "Original",
+            "story": "Original",
         }[form]
         if work["method"] != expected_method:
             raise ValueError(
@@ -3743,6 +3749,7 @@ def load_texts_editorial():
             "context",
             "dialogue",
             "essay",
+            "story",
             "record",
             "pillars",
         }
@@ -3772,6 +3779,7 @@ def load_texts_editorial():
             "refusal": ["context", "refusal", "apparatus"],
             "original": ["dialogue", "record", "record", "pillars"],
             "essay": ["essay", "record", "record", "pillars"],
+            "story": ["story"],
         }
         if form in expected_kinds and major_kinds != expected_kinds[form]:
             raise ValueError(
@@ -3881,6 +3889,34 @@ def load_texts_editorial():
             ):
                 raise ValueError(
                     f"invalid essay editorial structure: {repo_path}"
+                )
+        if form == "story":
+            if any(
+                treatment[field] != 0
+                for field in (
+                    "interlinear_blocks",
+                    "interlinear_stanzas",
+                    "source_free_blocks",
+                    "source_free_stanzas",
+                    "complete_readings",
+                    "notes",
+                    "tables",
+                    "pillar_sections",
+                )
+            ):
+                raise ValueError(
+                    f"story editorial treatment has incompatible shared counts: "
+                    f"{repo_path}"
+                )
+            if (
+                not isinstance(treatment["story_blocks"], int)
+                or treatment["story_blocks"] < 1
+                or not isinstance(treatment["story_passages"], int)
+                or treatment["story_passages"] < treatment["story_blocks"]
+                or treatment["inner_dividers"] != treatment["story_blocks"] - 1
+            ):
+                raise ValueError(
+                    f"invalid story editorial structure: {repo_path}"
                 )
         for field in (
             "opening_paragraphs",
@@ -4167,6 +4203,7 @@ def texts_motif(name):
         "rabbit_heart": (rabbit, heart),
         "window_water": (window, droplet),
         "river_home": (waves, dwelling),
+        "water_sprout": (waves, sprout),
     }
     if name not in motifs:
         raise ValueError(f"unknown texts motif: {name}")
@@ -4215,6 +4252,11 @@ def text_section_icon(kind):
             '<path d="M16 12h.01"/>'
         ),
         "essay": (
+            '<path d="M4 4h9a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4z"/>'
+            '<path d="M20 4h-4a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h5z"/>'
+            '<path d="M7 9h5"/><path d="M7 13h4"/>'
+        ),
+        "story": (
             '<path d="M4 4h9a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4z"/>'
             '<path d="M20 4h-4a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h5z"/>'
             '<path d="M7 9h5"/><path d="M7 13h4"/>'
@@ -4280,7 +4322,7 @@ def text_heading_slug(title):
 
 def text_reading_map(treatment):
     """Build the reading map shown before a treated literary work."""
-    automatic_forms = {"translation", "refusal", "original", "essay"}
+    automatic_forms = {"translation", "refusal", "original", "essay", "story"}
     if treatment["form"] in automatic_forms:
         map_items = [
             {
@@ -4523,6 +4565,67 @@ def style_original_essay(body, repo_path, treatment):
         raise ValueError(
             f"texts editorial essay passage count differs in {repo_path}: "
             f"expected {treatment['argument_passages']}, found {passage_count}"
+        )
+    if "<pre>" in body:
+        raise ValueError(f"editorial text left an untreated fence in {repo_path}")
+    return body
+
+
+def style_original_story(body, repo_path, treatment):
+    """Render and verify the scene passages of an original Phi story."""
+    block_count = 0
+    passage_count = 0
+
+    def convert(match):
+        nonlocal block_count, passage_count
+        raw = match.group(1).strip()
+        rendered = []
+        block_count += 1
+        for group in re.split(r"\n[ \t]*\n", raw):
+            lines = [line.strip() for line in group.splitlines()]
+            if (
+                len(lines) != 3
+                or not is_text_phi_passage(lines[0])
+                or not lines[2].startswith("(")
+                or not lines[2].endswith(")")
+            ):
+                first_line = lines[0][:80] if lines else "(empty)"
+                raise ValueError(
+                    f"unrecognized original story passage in {repo_path}: "
+                    f"{first_line}"
+                )
+            passage_count += 1
+            rendered.append(
+                '<div class="text-story-passage" role="group" '
+                f'aria-label="Passage {passage_count}">'
+                f'<p class="text-phi-line" lang="art-x-phi">{lines[0]}</p>'
+                '<p class="text-gloss-line">'
+                '<span class="visually-hidden">Word-by-word gloss: </span>'
+                f"{lines[1]}</p>"
+                '<div class="text-story-close-reading">'
+                '<p class="text-literal-line">'
+                '<span class="visually-hidden">Close English reading: </span>'
+                f"{lines[2]}</p>"
+                "</div>"
+                "</div>"
+            )
+        return (
+            '<div class="text-story-scene" role="group" '
+            f'aria-label="Scene {block_count}">'
+            + "".join(rendered)
+            + "</div>"
+        )
+
+    body = re.sub(r"<pre>(.*?)</pre>", convert, body, flags=re.S)
+    if block_count != treatment["story_blocks"]:
+        raise ValueError(
+            f"texts editorial story block count differs in {repo_path}: "
+            f"expected {treatment['story_blocks']}, found {block_count}"
+        )
+    if passage_count != treatment["story_passages"]:
+        raise ValueError(
+            f"texts editorial story passage count differs in {repo_path}: "
+            f"expected {treatment['story_passages']}, found {passage_count}"
         )
     if "<pre>" in body:
         raise ValueError(f"editorial text left an untreated fence in {repo_path}")
@@ -4947,7 +5050,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
 
     opening_boundary = (
         r"(?=<h2>)"
-        if treatment["form"] in {"original", "essay"}
+        if treatment["form"] in {"original", "essay", "story"}
         else r"<hr>"
     )
     opening_pattern = re.compile(
@@ -5062,6 +5165,8 @@ def apply_text_editorial(body, source, repo_path, treatment):
             class_name = "text-dialogue-section"
         elif kind == "essay":
             class_name = "text-essay-section"
+        elif kind == "story":
+            class_name = "text-story-section"
         elif kind == "record":
             class_name = "text-record-section"
         elif kind == "pillars":
@@ -5085,6 +5190,8 @@ def apply_text_editorial(body, source, repo_path, treatment):
         body = style_original_dialogue(body, repo_path, treatment)
     elif treatment["form"] == "essay":
         body = style_original_essay(body, repo_path, treatment)
+    elif treatment["form"] == "story":
+        body = style_original_story(body, repo_path, treatment)
     else:
         body = style_text_fences(body, repo_path, treatment)
     body, note_count = re.subn(

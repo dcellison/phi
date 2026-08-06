@@ -2569,6 +2569,9 @@ a.text-certification-mark:focus-visible {
 .text-original-page .text-reading-map ol {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
+.text-story-page .text-reading-map ol {
+  grid-template-columns: minmax(0, 16rem);
+}
 .text-rabbit-heart-page .text-reading-map ol {
   gap: .55rem 1.1rem;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -2611,6 +2614,7 @@ a.text-certification-mark:focus-visible {
 .text-context,
 .text-dialogue-section,
 .text-essay-section,
+.text-story-section,
 .text-record-section,
 .text-pillars-section { margin-top: 4rem; }
 .text-editorial h2.text-method-heading {
@@ -2650,6 +2654,7 @@ a.text-certification-mark:focus-visible {
 .text-apparatus-heading .text-section-icon { color: var(--muted); }
 .text-context-heading .text-section-icon { color: var(--gold); }
 .text-dialogue-heading .text-section-icon { color: var(--sage); }
+.text-story-heading .text-section-icon { color: var(--sage); }
 .text-record-heading .text-section-icon { color: var(--gold); }
 .text-pillars-heading .text-section-icon { color: var(--sage); }
 .text-section-number {
@@ -2860,6 +2865,24 @@ a.text-certification-mark:focus-visible {
 }
 .text-essay-passage p { margin: 0; }
 .text-essay-close-reading { margin-top: .58rem; }
+
+.text-story-scene {
+  border-left: 2px solid var(--sage);
+  margin: .8rem 0 1.5rem;
+  padding: .25rem 0 .25rem 1.35rem;
+}
+.text-story-passage {
+  margin: 0;
+  padding: .85rem 0 .92rem;
+}
+.text-story-passage + .text-story-passage { margin-top: .12rem; }
+.text-story-passage p { margin: 0; }
+.text-story-close-reading { margin-top: .58rem; }
+.text-story-page .text-inner-divider {
+  border-top-color: var(--sage);
+  margin: 2.35rem 0 2.35rem 1.35rem;
+  width: 3.5rem;
+}
 
 .text-literal-line {
   color: var(--ink);
@@ -4616,6 +4639,9 @@ table.text-ledger {
   .text-original-page .text-reading-map ol {
     grid-template-columns: minmax(0, 1fr);
   }
+  .text-story-page .text-reading-map ol {
+    grid-template-columns: minmax(0, 1fr);
+  }
   .text-rabbit-heart-page .text-reading-map ol {
     gap: 0 .8rem;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -4827,6 +4853,10 @@ table.text-ledger {
     grid-template-columns: 3.8rem minmax(0, 1fr);
   }
   .text-dialogue-name { font-size: .64rem; }
+  .text-story-scene {
+    margin-left: -.15rem;
+    padding-left: .9rem;
+  }
   .text-ledger td,
   .text-ledger td:first-child {
     gap: .5rem;
@@ -5375,7 +5405,8 @@ table.text-ledger {
   .text-notes,
   .text-pillar-reflection,
   .text-collection-detail,
-  .text-dialogue-turn { break-inside: avoid; }
+  .text-dialogue-turn,
+  .text-story-passage { break-inside: avoid; }
   .text-dialogue-turn {
     gap: .8em;
     grid-template-columns: 4.5em minmax(0, 1fr);
