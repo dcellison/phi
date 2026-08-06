@@ -8,6 +8,7 @@ This directory records how Phi is maintained. The index below gathers its workin
 | [Development log](development_log.md) | Lightweight record of proposed, accepted, superseded, and rejected decisions. |
 | [Status roadmap](roadmap.md) | Current workstreams, dependencies, evidence gates, and solo work packages. |
 | [Near-term development plan](near_term_development_plan.md) | Current sequence for schema closure, translation certification, Morris continuity, and original Phi work. |
+| [News from Nowhere continuity](news_from_nowhere_continuity.md) | Source-to-Phi names, places, recurring concepts, narrative conventions, and open continuity questions for the novel. |
 | [Content vocabulary coverage](content_vocabulary_coverage.md) | Status-tracked semantic coverage audits and the review gate for content vocabulary batches. |
 | [Content vocabulary decisions](content_vocabulary_decisions.md) | Generated, readable view of every candidate carried forward from the content-vocabulary audit and its present decision state. |
 | [Translation certification register](translation_process_status.json) | Machine-readable status and checksum evidence for every translation document under the isolated process. |

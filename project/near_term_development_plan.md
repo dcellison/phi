@@ -26,8 +26,8 @@ Community engagement is outside this plan. Phi can strengthen its language, corp
 |---|---|---|---|
 | NTP-01 | **DONE** | Close the migrated vocabulary schema | Current entries pass a schema that requires the target prose fields and no longer accepts the retired fields. |
 | NTP-02 | **DONE** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
-| NTP-03 | **NEXT** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
-| NTP-04 | **READY** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
+| NTP-03 | **DONE** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
+| NTP-04 | **NEXT** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
 | NTP-05 | **READY** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
 | NTP-06 | **PENDING** | Certify *News from Nowhere* chapter 1 as a pilot | The chapter has a current certification record and its findings have been classified as local or series-wide. |
 | NTP-07 | **PENDING** | Choose the Morris backlog route from pilot evidence | The decision and its evidence are recorded before either blocking chapter 7 or interleaving old and new chapters. |
@@ -60,6 +60,8 @@ The record should contain recurring characters and their settled Phi onyms, recu
 The record must not contain unit-by-unit audit history, copied source passages, glosses, derived English, certification evidence, or general project planning. It is available during source-to-Phi work and cross-chapter review. It is forbidden input to a fresh Phi-to-English context, just like filenames, titles, source summaries, and task history.
 
 Start with Markdown. A machine-readable schema would add maintenance without demonstrated benefit; introduce one only if actual drift shows that prose cannot carry the record reliably.
+
+Completed under D117. The continuity record now holds the settled person onyms, recurring place treatment, durable social and material renderings, narrator and evidence practice, one-frame continuing speech, rejected choices, open questions, and the chapters 1-6 checkpoint. Its isolation rule explicitly excludes the entire record from fresh Phi-to-English work.
 
 ## NTP-04: Reconcile project records
 
