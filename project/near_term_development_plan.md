@@ -25,8 +25,8 @@ Community engagement is outside this plan. Phi can strengthen its language, corp
 | ID | Status | Work package | Completion gate |
 |---|---|---|---|
 | NTP-01 | **DONE** | Close the migrated vocabulary schema | Current entries pass a schema that requires the target prose fields and no longer accepts the retired fields. |
-| NTP-02 | **NEXT** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
-| NTP-03 | **READY** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
+| NTP-02 | **DONE** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
+| NTP-03 | **NEXT** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
 | NTP-04 | **READY** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
 | NTP-05 | **READY** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
 | NTP-06 | **PENDING** | Certify *News from Nowhere* chapter 1 as a pilot | The chapter has a current certification record and its findings have been classified as local or series-wide. |
@@ -45,9 +45,11 @@ Completed under D115. The target fields are direct requirements, the retired pro
 
 ## NTP-02: Verify source reconstruction independently
 
-The certification register verifies unit counts, digests, aligned layers, and recorded normalized source counts. It does not by itself compare an ordered citation stream with an independently stored source witness. That leaves a gap between a strong process and the strongest reading of the public reconstruction claim.
+The certification register verified unit counts, digests, aligned layers, and recorded normalized source counts. It did not by itself compare an ordered citation stream with an independently stored source witness. That left a gap between a strong process and the strongest reading of the public reconstruction claim.
 
-Begin with *News from Nowhere*, whose source witness is stored in the repository. A small manifest should identify the source file, citation label, selected chapter boundary, and normalization rule. A checker should join the chapter's decoded citations in order and compare the result character for character with the selected normalized source. It should report a missing span, duplicated span, reordering, or altered text directly. The design may later support other works with independently stored witnesses, but it should not pretend that every source has one when it does not.
+The package begins with *News from Nowhere*, whose source witness is stored in the repository. A small manifest identifies the source file, citation label, selected chapter boundary, and normalization rule. A checker joins the chapter's decoded citations in order and compares the result character for character with the selected normalized source. It reports a missing span, duplicated span, reordering, or altered text directly. The design may later support other works with independently stored witnesses, but it does not pretend that every source has one when it does not.
+
+Completed under D116. All six current chapters reconstruct 75,243 normalized source characters across 1,054 citations. The manifest's required chapter pattern prevents a later Morris chapter from bypassing the check, and CI exercises the four named failure classes with synthetic mutations.
 
 ## NTP-03: Preserve Morris continuity
 

@@ -43,6 +43,11 @@ jobs:
           python3 scripts/translation_process_status.py --check
           python3 scripts/test_translation_process_status.py
 
+      - name: Verify source reconstruction
+        run: |
+          python3 scripts/source_reconstruction.py
+          python3 scripts/test_source_reconstruction.py
+
       - name: Check phonetic-neighbor baseline is in sync
         run: |
           python3 scripts/audit_phonetic_neighbors.py --output /tmp/phonetic_neighbors_baseline.txt

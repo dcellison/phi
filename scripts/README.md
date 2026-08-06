@@ -136,6 +136,17 @@ python3 scripts/translation_layers.py texts/north_wind_and_sun.md --digest-only
 python3 scripts/test_translation_layers.py
 ```
 
+## source_reconstruction.py
+
+Checks the translation and source relationships declared in `project/source_reconstruction_manifest.json`. Each entry names the stored witness, citation label, source boundaries, and normalization rule. The current manifest selects the first six chapters of *News from Nowhere* from the complete Morris source and compares each chapter with its ordered `morris` citations. Its required path pattern also makes an unregistered new chapter an error.
+
+The `gutenberg-wrapped-prose-v1` rule rejoins a hyphenated word split by a Project Gutenberg line wrap, then collapses the remaining whitespace. It does not change spelling, punctuation, or case. A mismatch is reported as a missing span, duplicated span, reordered span, or alteration at the first citation where the streams diverge.
+
+```bash
+python3 scripts/source_reconstruction.py
+python3 scripts/test_source_reconstruction.py
+```
+
 ## translation_process_status.py
 
 Validates the complete D102 certification queue and generates its readable ledger. Standalone translations and Gibran selections come from their catalogues; every catalogued book must declare whether the process applies, and the current *News from Nowhere* chapter glob supplies that book's documents. A certified row records both the frozen Phi digest and a digest over all four published layers, so later drift in Phi, gloss, derived English, or source citations stops CI.

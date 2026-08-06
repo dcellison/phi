@@ -1,0 +1,68 @@
+{
+  "format": "phi-source-reconstruction-v1",
+  "required_translation_globs": [
+    "texts/news_from_nowhere/chapter_*.md"
+  ],
+  "documents": [
+    {
+      "translation": "texts/news_from_nowhere/chapter_01.md",
+      "source": "texts/news_from_nowhere/source.txt",
+      "citation_label": "morris",
+      "selection": {
+        "start_after": "CHAPTER I: DISCUSSION AND BED",
+        "end_before": "CHAPTER II: A MORNING BATH"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
+    },
+    {
+      "translation": "texts/news_from_nowhere/chapter_02.md",
+      "source": "texts/news_from_nowhere/source.txt",
+      "citation_label": "morris",
+      "selection": {
+        "start_after": "CHAPTER II: A MORNING BATH",
+        "end_before": "CHAPTER III: THE GUEST HOUSE AND BREAKFAST THEREIN"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
+    },
+    {
+      "translation": "texts/news_from_nowhere/chapter_03.md",
+      "source": "texts/news_from_nowhere/source.txt",
+      "citation_label": "morris",
+      "selection": {
+        "start_after": "CHAPTER III: THE GUEST HOUSE AND BREAKFAST THEREIN",
+        "end_before": "CHAPTER IV: A MARKET BY THE WAY"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
+    },
+    {
+      "translation": "texts/news_from_nowhere/chapter_04.md",
+      "source": "texts/news_from_nowhere/source.txt",
+      "citation_label": "morris",
+      "selection": {
+        "start_after": "CHAPTER IV: A MARKET BY THE WAY",
+        "end_before": "CHAPTER V: CHILDREN ON THE ROAD"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
+    },
+    {
+      "translation": "texts/news_from_nowhere/chapter_05.md",
+      "source": "texts/news_from_nowhere/source.txt",
+      "citation_label": "morris",
+      "selection": {
+        "start_after": "CHAPTER V: CHILDREN ON THE ROAD",
+        "end_before": "CHAPTER VI: A LITTLE SHOPPING"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
+    },
+    {
+      "translation": "texts/news_from_nowhere/chapter_06.md",
+      "source": "texts/news_from_nowhere/source.txt",
+      "citation_label": "morris",
+      "selection": {
+        "start_after": "CHAPTER VI: A LITTLE SHOPPING",
+        "end_before": "CHAPTER VII: TRAFALGAR SQUARE"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
+    }
+  ]
+}
