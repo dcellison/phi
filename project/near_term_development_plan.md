@@ -28,7 +28,7 @@ Community engagement is outside this plan. Phi can strengthen its language, corp
 | NTP-02 | **DONE** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
 | NTP-03 | **DONE** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
 | NTP-04 | **DONE** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
-| NTP-05 | **NEXT** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
+| NTP-05 | **IN PROGRESS** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
 | NTP-06 | **PENDING** | Certify *News from Nowhere* chapter 1 as a pilot | The chapter has a current certification record and its findings have been classified as local or series-wide. |
 | NTP-07 | **PENDING** | Choose the Morris backlog route from pilot evidence | The decision and its evidence are recorded before either blocking chapter 7 or interleaving old and new chapters. |
 | NTP-08 | **PENDING** | Continue the Morris translation | Every newly written chapter completes certification in its creation effort, with continuity checks at regular narrative checkpoints. |
@@ -75,8 +75,8 @@ Completed under D118. The roadmap now records the sustained dialogue and three r
 
 After the hardening interval, certify the remaining shorter translations in this order:
 
-1. Gibran, *On Giving*.
-2. Gibran, *On Work*.
+1. Gibran, *On Giving*. Complete under D119.
+2. Gibran, *On Work*. Next.
 3. *Tao Te Ching* selections.
 4. *Heart Sutra*.
 

@@ -218,11 +218,11 @@ No new root is needed. `CV-AFFECT-10` records distaste and reluctance through pr
 
 ## Translation review: The Prophet, On Giving
 
-The ground truth is the complete On Giving teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The translation follows all 33 source units from the rich man's request to the earth as mother and God as father. Its citation stream preserves the source order without ellipsis, and the continuous reading has the same Phi sentence stream as its detailed blocks. The work adds `parelu`, deserve, and `thaweno`, reward, as optional roots with four module memberships.
+The ground truth is the complete On Giving teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The translation follows 32 aligned Phi units from the rich man's request to the earth as mother and God as father. Its 33 citations reconstruct all 2,746 normalized source characters in order, and the continuous reading has the same Phi sentence stream as its detailed blocks. The work adds `parelu`, deserve, and `thaweno`, reward, as optional roots with four module memberships.
 
 | Question | Translation decision |
 |---|---|
-| Complete source boundary | All 33 source propositions and images receive a Phi unit, including the dog, well, coffer, myrtle, orchard, ocean, opened chest, witness, yoke, and wings. |
+| Complete source boundary | All source propositions and images receive one of 32 aligned Phi units, including the dog, well, coffer, myrtle, orchard, ocean, opened chest, witness, yoke, and wings. |
 | Possessions and fear | Commons `phenori` names ownership; the careful dog hides bones in pathless sand while following people to a sacred place. Fear remains identified with need and thirst as Gibran claims. |
 | Motive, pain, and virtue | Recognition, hidden desire, joy, pain, virtue, fragrance, and divine action each receive their own relation. `thaweno` preserves Gibran's reward rather than changing it into a gift. |
 | Request and unasked giving | A polite whole-clause question supplies the request; `whuo ha haolu` then states giving without that speech. |
@@ -232,6 +232,10 @@ The ground truth is the complete On Giving teaching in Kahlil Gibran's 1923 *The
 | Gratitude, debt, and wings | Receivers take up no weight of gratitude, rise with the giver on gifts as wings, and avoid doubting the giver's divine parentage through overattention to debt. |
 
 The two new roots are source-led but not source-specific. A council can dispute whether someone `parelu` redress, and a workshop can describe a `thaweno` promised after an act. Myrtle, baptism, God, pilgrimage, inheritance, and Gibran's metaphysical personification remain exact source identities beside material Phi descriptions. No registered compound or grammar is added.
+
+### Isolated process certification
+
+D119 certifies all 32 units under the isolated process. The source reconstruction is exact, and the final Phi stream freezes at SHA-256 `a7fdd1387cbc36e53080fc97cd1bdcba9069b363b49f877ba1ba24093bbd57fb`. Anonymous derivation and independent audit expose invalid reflexive possession, open relative roles, unclear participant continuity, and attachment problems. Every affected English layer is discarded before its Phi unit is repaired and derived again; unchanged units retain their settled readings under unchanged unit hashes. No vocabulary or grammar is added during certification.
 
 ## Translation review: The Prophet, On Love
 
@@ -811,7 +815,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/little_prince_excerpts.md` | Translation | Certified D110 | Five citations reconstruct all 238 normalized Woods characters. The final five-unit Phi stream freezes at `0cd1f7cd...e3d2`, and fresh source-blind derivation plus an independent sample audit agree on every participant and proposition. |
 | `texts/gibran/on_love.md` | Translation | Certified D112 | All 33 units receive isolated English derivation and independent comparison. The 2,403-character source reconstruction remains exact, and the final Phi stream freezes at `7494350b...5d6125`. Four optional grain-work roots add nine module memberships. |
 | `texts/gibran/on_children.md` | Translation | Certified D113 | All 18 units receive isolated English derivation and independent review. The 980-character source reconstruction remains exact, and the final Phi stream freezes at `028a864f...d059455` without adding vocabulary or grammar. |
-| `texts/gibran/on_giving.md` | Translation | Isolation pending | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |
+| `texts/gibran/on_giving.md` | Translation | Certified D119 | All 32 Phi units and 33 citations reconstruct 2,746 normalized Gibran characters. The final stream freezes at `a7fdd138...bd57fb` after source-blind derivation and targeted repair. |
 | `texts/gibran/on_work.md` | Translation | Isolation pending | All 32 source units align exactly, and the limits table records the distinctions that remain with Gibran's wording. |
 | `texts/tao_te_ching.md` | Translation | Isolation pending | All 51 Legge units align in order, and the continuous reading follows every proposition in the detailed translation. |
 | `texts/heart_sutra.md` | Translation | Isolation pending | All 34 Müller units align in order, and the translation preserves every printed proposition in the selected witness. |
@@ -824,4 +828,4 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/news_from_nowhere/chapter_05.md` | Book in progress | Isolation pending | D093 translates 277 first-pass units, D094 consolidates the final source partition to 273 while rereading every source, Phi, gloss, and derived-English unit, and D098 rebuilds 117 English readings from Phi alone. D099 gives the arcade its direct arch noun. All 13,932 normalized source characters reconstruct exactly. |
 | `texts/news_from_nowhere/chapter_06.md` | Book in progress | Isolation pending | D095 translates all 120 source units, D096 rereads each source, Phi, gloss, and derived-English unit, and D098 rebuilds 109 English readings from Phi alone. D099 gives the Piccadilly arcade its direct arch noun. All 14,771 normalized source characters reconstruct exactly. |
 
-Every current translation has received its earlier semantic and source review. *The North Wind and the Sun*, the Metta Sutta, *A Solarpunk Manifesto*, Schleicher's fable, UDHR Article 1, the Babel text, the Little Prince excerpts, and *The Velveteen Rabbit* carry D102 process certification. The remaining translations keep their accepted Phi and source findings while their parenthetical English enters the isolated derivation queue. The Ring Verse remains a refusal, and all four original Phi works have received their Phi-first proposition reviews. The Phi book and SEM-09D retrofit are complete.
+Every current translation has received its earlier semantic and source review. *The North Wind and the Sun*, the Metta Sutta, *A Solarpunk Manifesto*, Schleicher's fable, UDHR Article 1, the Babel text, the Little Prince excerpts, *The Velveteen Rabbit*, and the Gibran selections *On Love*, *On Children*, and *On Giving* carry D102 process certification. The remaining translations keep their accepted Phi and source findings while their parenthetical English enters the isolated derivation queue. The Ring Verse remains a refusal, and all four original Phi works have received their Phi-first proposition reviews. The Phi book and SEM-09D retrofit are complete.

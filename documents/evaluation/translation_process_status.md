@@ -10,9 +10,9 @@ A pending translation may still be accurate and carefully reviewed. Pending mean
 
 | State | Documents |
 |---|---:|
-| Certified | 10 |
+| Certified | 11 |
 | In progress | 0 |
-| Pending | 10 |
+| Pending | 9 |
 | Total | 20 |
 
 ## Short works
@@ -34,13 +34,13 @@ Certified: 8 of 10.
 
 ## phewo phelui — Kahlil Gibran
 
-Certified: 2 of 4.
+Certified: 3 of 4.
 
 | Document | File | State | Record |
 |---|---|---|---|
 | lothea — On Love | [on_love.md](../../texts/gibran/on_love.md) | Certified | D112; [PR #701](https://github.com/dcellison/phi/pull/701); 33 units |
 | phomila — On Children | [on_children.md](../../texts/gibran/on_children.md) | Certified | D113; [PR #702](https://github.com/dcellison/phi/pull/702); 18 units |
-| loa — On Giving | [on_giving.md](../../texts/gibran/on_giving.md) | Pending | Awaiting D102 certification. |
+| loa — On Giving | [on_giving.md](../../texts/gibran/on_giving.md) | Certified | D119; [PR #714](https://github.com/dcellison/phi/pull/714); 32 units |
 | riola — On Work | [on_work.md](../../texts/gibran/on_work.md) | Pending | Awaiting D102 certification. |
 
 ## nophi lue mawha lokue — News from Nowhere
@@ -216,6 +216,22 @@ Published aligned-layer SHA-256:
 
 ```text
 62c592215e25a2cad5aa311adb05dcb5a1d0d624dc25438d7708be9950d9d88a
+```
+
+### loa — On Giving
+
+D119 certified this document in [PR #714](https://github.com/dcellison/phi/pull/714) on 2026-08-06. The freeze contains 32 aligned Phi units, and its `gibran` citations reconstruct 2,746 normalized source characters exactly. A complete anonymous derivation and independent risk audit exposed participant, possession, relative-role, and attachment faults. Every affected English layer was discarded before its Phi unit changed; fresh unit-scoped contexts then derived and checked each repair while unchanged unit hashes retained their settled readings.
+
+Frozen Phi SHA-256:
+
+```text
+a7fdd1387cbc36e53080fc97cd1bdcba9069b363b49f877ba1ba24093bbd57fb
+```
+
+Published aligned-layer SHA-256:
+
+```text
+261d6c12e19d5ee42fd6a5a2d26f9958f35de2099d0410f57c03f0a48089dd6d
 ```
 
 ## Maintaining the ledger

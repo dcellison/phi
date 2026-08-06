@@ -57,18 +57,24 @@ class SourceReconstructionTests(unittest.TestCase):
         self.addCleanup(temporary.cleanup)
         return reconstruction.check_manifest(data, root)
 
-    def test_repository_manifest_reconstructs_six_morris_chapters(self):
+    def test_repository_manifest_reconstructs_registered_sources(self):
         results, errors = reconstruction.check_manifest(self.repository_manifest)
         self.assertEqual(errors, [])
-        self.assertEqual(len(results), 6)
-        self.assertEqual(sum(result.citation_count for result in results), 1054)
+        self.assertEqual(len(results), 7)
+        self.assertEqual(sum(result.citation_count for result in results), 1087)
         self.assertEqual(
             sum(result.normalized_characters for result in results),
-            75243,
+            77989,
         )
         self.assertEqual(
             [result.translation for result in results],
-            [f"texts/news_from_nowhere/chapter_{number:02}.md" for number in range(1, 7)],
+            [
+                *[
+                    f"texts/news_from_nowhere/chapter_{number:02}.md"
+                    for number in range(1, 7)
+                ],
+                "texts/gibran/on_giving.md",
+            ],
         )
 
     def test_exact_reconstruction_passes(self):
@@ -77,7 +83,7 @@ class SourceReconstructionTests(unittest.TestCase):
         self.assertEqual(results[0].normalized_characters, 33)
 
     def test_gutenberg_normalization_repairs_layout_only(self):
-        source = "After-\nlecture  Morris--Word\n\nStays."
+        source = "After-\nlecture  Morris--Word\n\n[Illustration: 0039]\n\nStays."
         self.assertEqual(
             reconstruction.normalize_gutenberg_prose(source),
             "After-lecture Morris--Word Stays.",
