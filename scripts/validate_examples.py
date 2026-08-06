@@ -646,11 +646,9 @@ def check_lexicon(entries):
             if len(s) >= 2:
                 own_units.add(s[:-1])
         prose_fields = {
-            "concept": data.get("concept", ""),
             "description": data.get("description", ""),
             "articulatory_notes": data.get("articulatory_notes", ""),
             "sound_symbolism": data.get("sound_symbolism", ""),
-            "grammatical_notes": data.get("grammatical_notes", ""),
             "usage_notes": data.get("usage_notes", ""),
         }
         for k, v in data.get("pillars", {}).items():

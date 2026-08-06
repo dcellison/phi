@@ -50,19 +50,6 @@ class VocabularySchemaTests(unittest.TestCase):
         }
         entry["articulatory_notes"] = notes[word]
         entry["examples"] = [examples[word]]
-        entry.pop("concept", None)
-        entry.pop("grammatical_notes", None)
-        return entry
-
-    def legacy_entry(self, word="sileta"):
-        entry = copy.deepcopy(self.by_word[word])
-        entry.pop("articulatory_notes", None)
-        entry.pop("examples", None)
-        entry.pop("search_terms", None)
-        entry.pop("usage_notes", None)
-        entry["concept"] = "Legacy discovery label"
-        entry["sound_symbolism"] = "A legacy account of the word's sounds."
-        entry["grammatical_notes"] = "A legacy account of grammar and examples."
         return entry
 
     def test_schema_uses_and_satisfies_draft_2020_12(self):
@@ -343,21 +330,23 @@ class VocabularySchemaTests(unittest.TestCase):
                 entry.pop("pillars", None)
                 self.assertEqual(validate_examples.entry_schema_errors(entry), [])
 
-    def test_legacy_prose_contract_remains_valid_during_migration(self):
-        entry = self.legacy_entry()
-        self.assertNotIn("articulatory_notes", entry)
-        self.assertNotIn("examples", entry)
-        self.assertEqual(validate_examples.entry_schema_errors(entry), [])
+    def test_articulatory_notes_are_required_even_with_sound_symbolism(self):
+        entry = self.target_entry()
+        entry["sound_symbolism"] = "The open ending gives the word an audible lift."
+        del entry["articulatory_notes"]
+        self.assert_invalid(entry, "articulatory_notes")
 
-    def test_articulatory_or_legacy_sound_field_is_required(self):
-        entry = self.legacy_entry()
-        del entry["sound_symbolism"]
-        self.assert_invalid(entry, "not valid under any of the given schemas")
+    def test_structured_examples_are_required(self):
+        entry = self.target_entry()
+        del entry["examples"]
+        self.assert_invalid(entry, "examples")
 
-    def test_structured_examples_or_legacy_grammar_field_is_required(self):
-        entry = self.legacy_entry()
-        del entry["grammatical_notes"]
-        self.assert_invalid(entry, "not valid under any of the given schemas")
+    def test_retired_prose_fields_are_rejected(self):
+        for field in ("concept", "grammatical_notes"):
+            with self.subTest(field=field):
+                entry = self.target_entry()
+                entry[field] = "Retired prose must not return."
+                self.assert_invalid(entry, field)
 
     def test_structured_example_shape_is_closed(self):
         entry = self.target_entry()
@@ -380,7 +369,10 @@ class VocabularySchemaTests(unittest.TestCase):
         self.assert_invalid(entry, "should be non-empty")
 
     def test_prose_coverage_states(self):
-        legacy = self.legacy_entry()
+        legacy = {
+            "concept": "Retired discovery label",
+            "grammatical_notes": "Retired grammar prose.",
+        }
         partial = copy.deepcopy(legacy)
         partial["articulatory_notes"] = "A physical pronunciation note."
         dual = self.target_entry()

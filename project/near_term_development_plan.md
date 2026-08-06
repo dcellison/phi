@@ -24,8 +24,8 @@ Community engagement is outside this plan. Phi can strengthen its language, corp
 
 | ID | Status | Work package | Completion gate |
 |---|---|---|---|
-| NTP-01 | **NEXT** | Close the migrated vocabulary schema | Current entries pass a schema that requires the target prose fields and no longer accepts the retired fields. |
-| NTP-02 | **READY** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
+| NTP-01 | **DONE** | Close the migrated vocabulary schema | Current entries pass a schema that requires the target prose fields and no longer accepts the retired fields. |
+| NTP-02 | **NEXT** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
 | NTP-03 | **READY** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
 | NTP-04 | **READY** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
 | NTP-05 | **READY** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
@@ -37,9 +37,11 @@ Community engagement is outside this plan. Phi can strengthen its language, corp
 
 ## NTP-01: Close the vocabulary schema
 
-The lexicon migration is complete, but [`vocabulary/schema.json`](../vocabulary/schema.json) still permits the deprecated `concept` and `grammatical_notes` fields and still allows old alternatives to `articulatory_notes` and structured `examples`. That tolerance has changed from a migration aid into a regression path.
+The lexicon migration was complete while [`vocabulary/schema.json`](../vocabulary/schema.json) still permitted the deprecated `concept` and `grammatical_notes` fields and allowed old alternatives to `articulatory_notes` and structured `examples`. That tolerance had changed from a migration aid into a regression path.
 
-This package should require `articulatory_notes` and `examples` directly, remove the two retired properties and their fallback branches, replace tests that prove legacy acceptance with tests that prove legacy rejection, and revise the development and voice references that still describe migration tolerance. It should not rewrite vocabulary prose or change any word. Completion means the complete inventory and all schema, example, sentence, generation, and site checks pass under the stricter contract.
+This package requires `articulatory_notes` and `examples` directly, removes the two retired properties and their fallback branches, replaces tests that prove legacy acceptance with tests that prove legacy rejection, and revises the development and voice references that described migration tolerance. It does not rewrite vocabulary prose or change any word. Completion means the complete inventory and all schema, example, sentence, generation, and site checks pass under the stricter contract.
+
+Completed under D115. The target fields are direct requirements, the retired properties are invalid, and the migration report remains as regression evidence rather than a compatibility path.
 
 ## NTP-02: Verify source reconstruction independently
 

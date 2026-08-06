@@ -47,7 +47,12 @@ python3 scripts/validate_sentences.py --docs
 
 The default command checks every structured vocabulary example and the maintained teaching corpus: canon, grammar references, manual, pamphlets, primer, book, Kia, and the Short Road. `--paths` checks selected active Markdown beside the lexicon, `--lexicon-only` narrows the run to dictionary examples, and `--docs` extends the parser to every recognized complete example in active Markdown; `archive/` is excluded. Literary texts and older evaluation material remain a migration audit until each area has been reviewed. The parser's contract and limits are recorded in [`documents/validation/sentence_validator.md`](../documents/validation/sentence_validator.md).
 
-The focused regression suites cover the executable vocabulary contract, its transitional and target prose shapes, Slot 1 metadata, Slot 2 quantity alternatives, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
+The focused regression suites cover:
+
+- the executable vocabulary contract, its required prose shape, and rejection of retired prose fields;
+- Slot 1 metadata and Slot 2 quantity alternatives;
+- the productive-name open class, four-syllable names, and non-content exclusions;
+- retired lexical forms, the completed migration ledger, and the three-syllable vocabulary limit.
 
 ```bash
 python3 scripts/test_vocabulary_schema.py
@@ -67,7 +72,7 @@ python3 scripts/test_content_vocabulary_decisions.py
 
 ## vocabulary_prose_coverage.py
 
-Writes the committed migration report at `documents/validation/vocabulary_prose_coverage.json`. Each entry is classified as legacy, partial, dual, or target according to its prose fields. The main validator compares the report with the live lexicon and fails when a vocabulary edit leaves it stale.
+Writes the committed contract report at `documents/validation/vocabulary_prose_coverage.json`. Each entry is classified as legacy, partial, dual, or target according to its prose fields. The first three shapes are schema-invalid, but keeping them visible in the report makes a regression plain. The main validator compares the report with the live lexicon and fails when a vocabulary edit leaves it stale.
 
 ```bash
 python3 scripts/vocabulary_prose_coverage.py
