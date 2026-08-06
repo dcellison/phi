@@ -140,7 +140,7 @@ python3 scripts/test_translation_layers.py
 
 Checks the translation and source relationships declared in `project/source_reconstruction_manifest.json`. Each entry names the stored witness, citation label, source boundaries, and normalization rule. The current manifest selects the first six chapters of *News from Nowhere* from the complete Morris source and compares each chapter with its ordered `morris` citations. Its required path pattern also makes an unregistered new chapter an error.
 
-The `gutenberg-wrapped-prose-v1` rule rejoins a hyphenated word split by a Project Gutenberg line wrap, then collapses the remaining whitespace. It does not change spelling, punctuation, or case. A mismatch is reported as a missing span, duplicated span, reordered span, or alteration at the first citation where the streams diverge.
+The `gutenberg-wrapped-prose-v1` rule removes standalone Project Gutenberg illustration labels, rejoins a hyphenated word split by a line wrap, then collapses the remaining whitespace. It does not change prose spelling, punctuation, or case. A mismatch is reported as a missing span, duplicated span, reordered span, or alteration at the first citation where the streams diverge.
 
 ```bash
 python3 scripts/source_reconstruction.py

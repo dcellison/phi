@@ -43,6 +43,7 @@ def load_manifest(path: Path = MANIFEST_FILE):
 def normalize_gutenberg_prose(text: str) -> str:
     """Undo Project Gutenberg line wrapping and collapse layout whitespace."""
     text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"^\[Illustration: [^\]]+\][ \t]*$", "", text, flags=re.MULTILINE)
     text = re.sub(r"-\n(?=[A-Za-z])", "-", text)
     return " ".join(text.split())
 

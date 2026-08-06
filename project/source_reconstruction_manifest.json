@@ -63,6 +63,16 @@
         "end_before": "CHAPTER VII: TRAFALGAR SQUARE"
       },
       "normalization": "gutenberg-wrapped-prose-v1"
+    },
+    {
+      "translation": "texts/gibran/on_giving.md",
+      "source": "texts/gibran/sources/the_prophet.txt",
+      "citation_label": "gibran",
+      "selection": {
+        "start_after": "For even as he loves the arrow that\nflies, so He loves also the bow that is\nstable.\n\n***** *****",
+        "end_before": "[Illustration: 0042]"
+      },
+      "normalization": "gutenberg-wrapped-prose-v1"
     }
   ]
 }
