@@ -27,8 +27,8 @@ Community engagement is outside this plan. Phi can strengthen its language, corp
 | NTP-01 | **DONE** | Close the migrated vocabulary schema | Current entries pass a schema that requires the target prose fields and no longer accepts the retired fields. |
 | NTP-02 | **DONE** | Add independent source-reconstruction checking | At least the locally stored Morris source can be compared mechanically with each chapter's ordered citation stream. |
 | NTP-03 | **DONE** | Establish the *News from Nowhere* continuity record | Recurring source-to-Phi choices have one maintained home that is excluded from Phi-to-English derivation. |
-| NTP-04 | **NEXT** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
-| NTP-05 | **READY** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
+| NTP-04 | **DONE** | Reconcile stale project records | The roadmap, development protocol, and deferred records describe the actual completed corpus and closed grammar boundary. |
+| NTP-05 | **NEXT** | Finish the short-work certification queue | The present Gibran, Taoist, and Buddhist short works have completed the isolated process and the generated register passes. |
 | NTP-06 | **PENDING** | Certify *News from Nowhere* chapter 1 as a pilot | The chapter has a current certification record and its findings have been classified as local or series-wide. |
 | NTP-07 | **PENDING** | Choose the Morris backlog route from pilot evidence | The decision and its evidence are recorded before either blocking chapter 7 or interleaving old and new chapters. |
 | NTP-08 | **PENDING** | Continue the Morris translation | Every newly written chapter completes certification in its creation effort, with continuity checks at regular narrative checkpoints. |
@@ -68,6 +68,8 @@ Completed under D117. The continuity record now holds the settled person onyms, 
 The broad roadmap and protocol should be corrected rather than replaced with another general roadmap. The existing original corpus now includes a sustained dialogue and three reviewed philosophical essays, so the corresponding corpus milestone and snapshot need reassessment. Obsolete exact vocabulary counts should be removed from prose where arithmetic is not the subject. The development protocol's instructions for adding particles and constructions should become an amendment boundary: Phi's grammar and particles are closed unless a demonstrated defect and explicit maintainer decision reopen canon.
 
 This is a focused state correction. It should not trigger a general documentation audit, prose-polishing pass, or handoff rewrite.
+
+Completed under D118. The roadmap now records the sustained dialogue and three reviewed essays, marks the authored original-corpus milestone complete while keeping spontaneous conversation as evidence work, and avoids live lexicon totals where the count is not the subject. The development protocol treats new grammar, particles, and constructions as exceptional amendments to a closed system. The deferred ledger now contains only work that is genuinely open or parked.
 
 ## NTP-05: Finish the short-work queue
 
