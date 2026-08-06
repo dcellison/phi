@@ -18,6 +18,7 @@ Short works each have one Markdown file. An author collection gets its own direc
 | The Thing Holds Its Mending | Original | An essay on a rebuilt wall that narrows its own claim under objection and leaves the chooser of criteria open. | [Read](the_mended_wall.md) |
 | When a Report Is Enough | Original | An essay on a dusk warning that justifies one chosen inspection and leaves the next walk unassigned. | [Read](the_report_at_dusk.md) |
 | Worth Does Not Require a Valuer | Original | An essay on a fallen branch where a failed grammatical proof leaves a smaller claim about worth and a reason to attend. | [Read](the_worth_of_a_fallen_branch.md) |
+| A Second Way for Water | Original | A pastoral story about a broken clay channel that must serve two living places, with help from one useful hoofprint. | [Read](a_second_way_for_water.md) |
 | The North Wind and the Sun | Translation | The complete fable, followed by its translation limits. | [Read](north_wind_and_sun.md) |
 | Article 1 of the Universal Declaration of Human Rights | Translation | Both sentences, with rights, reason, conscience, and obligation kept distinct. | [Read](human_rights_article_one.md) |
 | The Babel Text | Translation | Genesis 11:1-9 in Phi translation. | [Read](babel_text.md) |
