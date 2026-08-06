@@ -3,7 +3,7 @@
 ## Overview
 Phi is a philosophical constructed language for practising mindful and compassionate speech, reflective writing, and discussion. It is not intended as a universal auxiliary language. Its phonology, grammar, lexicon, and teaching practices invite attention to the present utterance, evidential care, and cooperative communication; these are design intentions to test in use, not guarantees about what the language does to a speaker.
 
-This protocol binds the maintainer and anyone contributing to the language: coining words, extending grammar, or writing its documents. The authority order for every claim is `/canon.md`. While Phi has one maintainer, significant choices are recorded in `project/development_log.md`; a public RFC process is deferred until recurring users make one useful.
+This protocol binds the maintainer and anyone contributing to the language: coining words, maintaining its closed grammar, or writing its documents. The authority order for every claim is `/canon.md`. While Phi has one maintainer, significant choices are recorded in `project/development_log.md`; a public RFC process is deferred until recurring users make one useful.
 
 ## The Organizing Principle: Modifier-First
 
@@ -97,9 +97,9 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Choose a legal, speakable form whose rhythm and phonetic character suit its intended use
 - Ensure phonological rules are met
 - **Run the collision check**: `python3 scripts/validate_examples.py neighbors <candidate>`
-  - REJECT any content-word candidate at edit distance 1 from an existing content word. Function words are exempt: particles, prepositions, and the rest are identified by slot and position as well as by shape, and the particle inventory is built on minimal pairs by necessity in a fifty-form space
-  - The designed opener/closer paradigms are the sole same-class exception: each grammatical clause pair shares its first syllable and contrasts final `a` with `o`. Evaluate a new pair as one proposal, require that neither form has any additional distance-1 neighbor in its class, and prioritize the contrast in listening review
-  - A function word at distance 1 from a content word is allowed where position disambiguates; note a useful warning in `usage_notes`. Judge a new particle by ear against its slot-mates rather than by the distance count
+  - REJECT any content-word candidate at edit distance 1 from an existing content word. Existing function words are exempt from this content-word rule: particles, prepositions, and the rest are identified by slot and position as well as by shape, and the closed particle inventory contains inherited minimal pairs by necessity in a fifty-form space
+  - The designed opener/closer paradigms are the sole same-class exception in the current inventory: each grammatical clause pair shares its first syllable and contrasts final `a` with `o`
+  - A content-word candidate may stand at distance 1 from a function word where position disambiguates; add a useful warning to `usage_notes` when running speech could still invite confusion
   - **Never let `wh` against `w` be the only difference** between a candidate and any existing word, in any position and whatever the word classes. Most English speakers merge the two sounds, so the pair would be one word for them; the validator rejects it outright and no baseline grandfathers it. The other three digraphs may stand beside their plain consonants, judged by ear
   - That `wh` line is the only one of its kind and sets no precedent for the other three digraphs. Phi specifies how a word should sound and expects care in the saying, rather than reshaping its vocabulary to survive every accent's substitutions. A hard contrast is the speaker's to master; `wh` against `w` was barred because the majority pronunciation no longer holds it at all, so nothing is left to master. The accepted variants in `documents/reference/phonetics.md` section 5.2 show the working policy: each names a permitted realization and then keeps the contrast
   - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
@@ -156,27 +156,22 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - [ ] A preferred name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script remains outside the Phi passage unless the bearer or naming community accepts another valid onym
 - [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it does not match a current function or other non-content word
 
-## Grammar Extension Rules
+## Grammar Amendment Boundary
 
-### When Adding Particles
-- [ ] Assign to correct slot (0, 1, or 2)
-- [ ] Maintain CV structure for recognizability
-- [ ] Respect **Slot 1 stacking order**: Tense > Aspect > Voice > Evidentiality > Modality > Negation
-- [ ] Ensure particle ordering remains logical
-- [ ] Document interaction with existing particles
-- [ ] **See `documents/grammar/particle_reference.md` for complete particle inventory**
+Phi's grammar, particle system, and other non-content inventories are closed. Translation pressure, a missing English equivalent, an unfamiliar sentence, or an appealing symmetry does not reopen them. Ordinary development uses the grammar already defined in canon, the grammar references, and the validated function-word inventory.
 
-### When Creating Constructions
-- [ ] Preserve strict SOV order (modifier-first principle)
-- [ ] Put Slot 0 first, then any discourse marker; give every `lu` condition its own sentence before the consequence
-- [ ] Place every dependent clause before the main clause it modifies; this rule includes purpose frames opened by `lila`
-- [ ] Apply modifier-first order without inferring a head-final shortcut; Phi remains mixed in typological head direction because it uses prepositions
-- [ ] Run `python3 scripts/validate_sentences.py` and `python3 scripts/test_sentence_validator.py`; a lexical-validator pass alone does not establish sentence grammar
-- [ ] Support compositional transparency
-- [ ] Enable mindful sentence building
-- [ ] Document how causative `ka` changes structure (agent→subject, subject→object)
-- [ ] Document how passive `se` promotes object to subject
-- [ ] Verify discourse adverbs position: after Slot 0, before subject
+A grammar amendment may be considered only when connected Phi use demonstrates a repeatable language-level defect, the existing system cannot express the required relation without contradiction or structural ambiguity, and the maintainer explicitly decides to reopen the relevant part of canon. Until that decision is recorded, resolve the case through existing syntax, content vocabulary, transparent composition, or separate source presentation.
+
+### If canon is explicitly reopened
+
+- [ ] State the demonstrated defect with minimal examples and identify the exact canonical rule or inventory involved
+- [ ] Test whether clarification, an existing construction, content vocabulary, composition, or source separation resolves the problem without changing grammar
+- [ ] Record the maintainer's decision and its scope before implementing the amendment
+- [ ] Preserve modifier-first order, including strict SOV order, Slot 0 placement, dependent-frame order, prepositional order, and the position of discourse markers
+- [ ] For a particle amendment, account for chartered shape, slot assignment, Slot 1 rank where applicable, interaction with every existing particle, and listening confusion within the function inventory
+- [ ] Update canon, every affected grammar reference, teaching material, lexicon entry, validator rule, and regression test in the same change
+- [ ] Migrate every active example and Phi passage affected by the amendment; do not leave a second construction in circulation as an undocumented variant
+- [ ] Run `python3 scripts/validate_examples.py`, `python3 scripts/validate_sentences.py`, and `python3 scripts/test_sentence_validator.py`; a lexical-validator pass alone does not establish sentence grammar
 
 ## Quality Checks
 
@@ -203,14 +198,14 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 ## Red Flags to Avoid
 - Creating silent exceptions to core phonological rules
-- Adding irregular grammar without a demonstrated discourse need
+- Treating grammar, particles, or constructions as ordinary additions rather than exceptional amendments to a closed system
 - Presenting a culturally situated choice as neutral or universal
 - Making care, identity, consent, safety, testimony, or critique impossible in order to preserve an aesthetic refusal
 - Treating efficiency or slowness as an unconditional virtue
 - Breaking core vowel hiatus or adding consonant clusters beyond the four digraphs
 - Creating words without testing composition and semantic-family relationships first
 - Presenting a word-for-word substitution as an adequate translation where composition, an explicit source gap, or separate source presentation would be more honest
-- Creating particles that violate slot positioning rules
+- Changing the function-word inventory without an explicit reopening decision and complete slot, interaction, migration, and validation work
 
 ## Core Philosophy Reminder
 Every addition to Phi should make the following practices available without claiming that grammar compels them:
