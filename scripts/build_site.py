@@ -372,10 +372,9 @@ def apply_kia_threshold(body):
             "</a></li>"
         )
 
-    hero_hand = tengwar.render_line("kia.")
     farewell_hand = tengwar.render_line("kia. whelani.")
-    if hero_hand is None or farewell_hand is None:
-        raise ValueError("kia threshold Tengwar greeting did not render")
+    if farewell_hand is None:
+        raise ValueError("kia threshold farewell did not render in Tengwar")
 
     encounters = []
     for number, (title, section_body) in enumerate(
@@ -396,12 +395,8 @@ def apply_kia_threshold(body):
     page = (
         '<article class="kia-threshold-work">'
         '<header class="kia-hero">'
-        '<div class="kia-hero-frame">'
-        '<p class="kia-hero-label">Phi</p>'
-        f'<div class="kia-hero-hand" aria-hidden="true">{hero_hand}</div>'
         "<h1>kia</h1>"
         f'<div class="kia-hero-greeting">{opening.group("greeting")}</div>'
-        "</div>"
         "</header>"
         '<div class="kia-opening">'
         f'{opening.group("statement")}{opening.group("invitation")}'

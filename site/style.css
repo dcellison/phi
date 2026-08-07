@@ -344,41 +344,10 @@ footer a { color: var(--sage); }
 }
 .kia-hero {
   margin: 0 auto;
-  max-width: 42rem;
-  padding: .45rem 0 1.3rem;
+  max-width: 32rem;
+  padding: 2rem 0 1.95rem;
   text-align: center;
 }
-.kia-hero-frame {
-  border-top: 1px solid var(--gold);
-  margin: 0 auto;
-  max-width: 32rem;
-  padding: 1.55rem 2.6rem 1.95rem;
-  position: relative;
-}
-.kia-hero-frame::before,
-.kia-hero-frame::after {
-  background: var(--gold);
-  content: "";
-  height: calc(100% + .8rem);
-  position: absolute;
-  top: 0;
-  width: 1px;
-}
-.kia-hero-frame::before { left: 0; }
-.kia-hero-frame::after { right: 0; }
-.kia-hero-label {
-  color: var(--muted);
-  font-size: .7rem;
-  font-weight: 650;
-  margin: 0;
-}
-.kia-hero-hand {
-  color: var(--sage);
-  font-size: 2.15rem;
-  line-height: 1;
-  margin: .7rem auto .35rem;
-}
-.kia-hero-hand .teng-svg { display: block; margin: 0 auto; }
 .kia-threshold-page .kia-hero h1 {
   color: var(--ink);
   font-size: 4.2rem;
@@ -575,9 +544,7 @@ footer a { color: var(--sage); }
 
 @media (max-width: 560px) {
   .kia-threshold-page main { padding-top: 2rem; }
-  .kia-hero { padding-top: .35rem; }
-  .kia-hero-frame { padding: 1.4rem 1.25rem 1.8rem; }
-  .kia-hero-hand { font-size: 2rem; }
+  .kia-hero { padding: 1rem 1.25rem 1.8rem; }
   .kia-threshold-page .kia-hero h1 { font-size: 3.8rem; }
   .kia-hero-greeting p { font-size: 1.02rem; }
   .kia-opening { margin-bottom: 3.2rem; }
