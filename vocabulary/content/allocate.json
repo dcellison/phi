@@ -18,7 +18,7 @@
   "usage_notes": "The allocating agent occupies subject position. The assigned resource or burden is the direct object and comes before 'phanuli', with recipients, purpose, amount, or criterion nearby. Used as a noun, 'phanuli' refers to the allocation. 'rilowa' (assign) designates a person expected to perform a task rather than distributing the task's resources or burdens.",
   "examples": [
     {
-      "phi": "ha kowela napuro phanuli.",
+      "phi": "kowela napuro phanuli.",
       "translation": "The council allocates grain."
     }
   ],

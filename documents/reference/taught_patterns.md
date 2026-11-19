@@ -59,8 +59,8 @@ child bed good be.
 **P07 · All and none.** `theula [noun]` gathers every one of a kind; `mawha [noun]` empties it. Taught in ch. 12 and 13.
 
 ```
-mawha nuora mua wonepa nai.
-NONE food LOC table be.
+mawha nuora nia wonepa nai.
+NONE food ON table be.
 (There is no food on the table.)
 ```
 
@@ -136,7 +136,7 @@ ALSO dog eat.
 
 ## IV. Relations
 
-**P16 · Place.** `mua [place]` — in, at, on; the relation announced, then the place, then the sentence goes on. Taught in ch. 5.
+**P16 · Place.** `mua [place]` — in or at, with `nia [surface]` for on; the relation announced, then the place, then the sentence goes on. Taught in ch. 5.
 
 ```
 misheko mua nuwera nulae.

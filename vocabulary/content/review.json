@@ -18,7 +18,7 @@
   "usage_notes": "The reviewing person or body is the subject. A prior decision, record, procedure, or action becomes the object. The verb has ordinary noun use for a review. Participants and authority belong to the arrangement; exact review standards and deadlines remain with their sources. 'nilaki' (inspect) examines the condition of a system or object rather than reconsidering a prior matter.",
   "examples": [
     {
-      "phi": "ha kowela ha kanuro tukiro.",
+      "phi": "kowela ha kanuro tukiro.",
       "translation": "The council reviews this decision."
     }
   ],

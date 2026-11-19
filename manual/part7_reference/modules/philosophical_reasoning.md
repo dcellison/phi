@@ -269,9 +269,9 @@ The [Metta Sutta](../../../texts/metta_sutta.md) brings the three words into one
 `whamoi` lets a speaker stay genuinely unsettled without denying anything. `norethi` reports the strength of a stance while leaving truth, knowledge, and authority as their own separate questions.
 
 ```
-mia tha ha remuma kithela nai tho whamoi.
-1SG DECL.COMP PROX conclusion valid be DECL.COMP.CLOSE doubt.
-(I doubt that this conclusion is valid.)
+mia tha ha themore kithela nai tho whamoi.
+1SG DECL.COMP PROX argument valid be DECL.COMP.CLOSE doubt.
+(I doubt that this argument is valid.)
 ```
 
 ```

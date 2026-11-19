@@ -18,7 +18,7 @@
   "usage_notes": "The verb is transitive, and its event noun is monitoring. Monitoring records its indicators, sites, methods, and intervals. Duration, baseline, decision rule, and responsible participants complete the account when they matter. 'somela' observes once or deliberately, 'masue' measures, and 'nilaki' inspects against criteria.",
   "examples": [
     {
-      "phi": "lo mia ha luphore somethi.",
+      "phi": "lo mia luphore somethi.",
       "translation": "We monitor the river."
     }
   ],

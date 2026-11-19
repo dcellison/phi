@@ -31,7 +31,7 @@
 ## III
 
 > **sulopa mua tomi ma nai.**
-> **mawha nuora mua wonepa nai.**
+> **mawha nuora nia wonepa nai.**
 > **lopia phao nila.**
 > **phao sulopa pa pharelo.**
 

@@ -109,8 +109,8 @@ B: lo mia ha wonepa shiroka.
 PL 1SG PROX table repair.
 (We repair this table.)
 
-A: nuora mua wonepa nai.
-food LOC table be.
+A: nuora nia wonepa nai.
+food ON table be.
 (Food is on the table.)
 
 B: lo mia nuora nuola.

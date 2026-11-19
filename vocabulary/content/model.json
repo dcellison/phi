@@ -18,7 +18,7 @@
   "usage_notes": "The noun is countable. Its purpose and boundary need to be explicit. Assumptions, source, version, and validation belong with the record when they matter. Exact model names and artifacts remain in their source form. 'relo' is a symbol, 'phisuwa' an example, and 'terura' the system under analysis.",
   "examples": [
     {
-      "phi": "ha reteru ha litero thelima.",
+      "phi": "ha reteru litero thelima.",
       "translation": "This model describes the ecosystem."
     }
   ],

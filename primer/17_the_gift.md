@@ -21,7 +21,7 @@
 > **loami tomi nai.**
 > **thiku tomi. welao tomi.**
 > phao: **mea. mea ne sulae.**
-> **tomi mua wonepa nai. wheo tomi nila.**
+> **tomi nia wonepa nai. wheo tomi nila.**
 
 *The gift is a pot (small, good). It joins the household the way gifts do here: admired first, used forever after.*
 

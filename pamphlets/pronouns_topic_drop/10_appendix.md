@@ -25,6 +25,7 @@ One form per person, in every role: subject, object, prepositional object, posse
 |---|---|---|
 | before a noun | `ha melu` (this friend) | `ra tomora` (that mountain) |
 | as a place, with `nai` | `mia ha nai.` (I am here) | `shia ra nai.` (they are there) |
+| alone | `ha` (this) | `ra` (that) |
 | alone, plural | `lo ha` (these) | `lo ra` (those) |
 | in time | `ha philo` (today) | `ra torua` (that year) |
 

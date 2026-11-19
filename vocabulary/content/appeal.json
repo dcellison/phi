@@ -18,7 +18,7 @@
   "usage_notes": "Ordinary transitive order places the appellant before the contested matter; 'wei' introduces the recipient. As a noun, 'whetuma' is an appeal. Standing, deadline, grounds, and interim effect stay with the governing procedure or source record. An appeal requests reconsideration and does not predict its outcome.",
   "examples": [
     {
-      "phi": "ha wemari ha kanuro whetuma.",
+      "phi": "wemari ha kanuro whetuma.",
       "translation": "The member appeals this decision."
     }
   ],

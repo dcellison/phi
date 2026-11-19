@@ -18,7 +18,7 @@
   "usage_notes": "The noun is countable. Its series and period define the pattern; scale, method, and uncertainty belong with the record. A trend belongs to one ordered series. 'hosari' compares variables, while causal explanation and future inference each add a claim.",
   "examples": [
     {
-      "phi": "ha herani ha nomiki thuroa shelo.",
+      "phi": "ha herani nomiki thuroa shelo.",
       "translation": "This trend indicates increasing concentration."
     }
   ],

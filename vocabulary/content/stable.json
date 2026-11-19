@@ -14,7 +14,7 @@
   ],
   "description": "A wall that keeps standing when pushed is 'mureo'. Systems use the word too when they keep their operating state through ordinary variation. 'kolu' (steady) describes an even course over time; 'weilo' (balanced) describes forces or proportions in equilibrium.",
   "articulatory_notes": "Close the lips for voiced nasal 'm' and carry the resonance into rounded high-back 'u'. Begin the stressed second syllable with a tap or short trill and true-mid front 'e'. Keep final rounded mid-back 'o' as a separate unstressed syllable.",
-  "usage_notes": "A stable wall is 'mureo moru'; a stable data model is 'mureo terura mirela'. A stable thing may move as long as its state survives the disturbance.",
+  "usage_notes": "A stable wall is 'mureo moru'; a stable system state is 'mureo terura mirela'. A stable thing may move as long as its state survives the disturbance.",
   "examples": [
     {
       "phi": "moru mureo nai.",

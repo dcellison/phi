@@ -19,7 +19,7 @@
   "usage_notes": "The noun may identify one skill or practical skill in general. The person holds it with 'phelu'. Its domain, tools, and present conditions matter when they alter the claim.",
   "examples": [
     {
-      "phi": "mia ha thesani phelu.",
+      "phi": "mia thesani phelu.",
       "translation": "I have the skill."
     }
   ],

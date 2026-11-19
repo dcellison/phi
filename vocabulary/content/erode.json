@@ -18,7 +18,7 @@
   "usage_notes": "The moving agent takes subject position, with the affected earth, rock, or place as direct object. The event-noun reading is erosion. Rate and scale describe the movement; source, destination, and any judgement of harm complete the particular account.",
   "examples": [
     {
-      "phi": "phialu ha muila wheraku.",
+      "phi": "phialu muila wheraku.",
       "translation": "Water erodes the soil."
     }
   ],
