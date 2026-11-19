@@ -249,8 +249,8 @@ shia serathi phoa.
 `taleri` makes the wider ethical judgement. A person, act, or practice may be virtuous under stated reasons. Virtue can be learned or lost, and the judgement itself may be disputed.
 
 ```
-shia taleri ro phoa.
-3SG virtuous HAB do.
+shia ro taleri phoa.
+3SG HAB virtuous do.
 (They habitually act virtuously.)
 ```
 

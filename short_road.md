@@ -22,9 +22,9 @@ Read it in order: I, with a chisel, the wood, cut. The preposition announces the
 
 Phi calls this *announce, then deliver*. A modifier precedes its head, a possessor precedes what is possessed, and a condition precedes its consequence. The principle does not abolish the rest of the grammar, but it gives that grammar a dependable direction.
 
-## Thirty-five particles keep their places
+## Thirty-eight particles keep their places
 
-Phi content words keep one shape: there is no conjugation, declension, plural ending, or grammatical case ending. Thirty-five one-syllable particles carry much of the grammar in three fixed positions. Prepositions, complementizers, pronouns, and classifiers work beside them. A content word learned once does not change. Watch a sentence grow:
+Phi content words keep one shape: there is no conjugation, declension, plural ending, or grammatical case ending. Thirty-eight one-syllable particles carry much of the grammar in three fixed positions. Prepositions, complementizers, pronouns, and classifiers work beside them. A content word learned once does not change. Watch a sentence grow:
 
 ```
 misheko nulae.

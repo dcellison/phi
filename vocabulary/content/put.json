@@ -18,7 +18,7 @@
   "usage_notes": "The placed person or object stands before 'thinu'. Its resulting location takes the usual spatial preposition, such as 'mua' (LOC) or 'nia' (ON), before the verb. As a noun, 'thinu' is an act of putting.",
   "examples": [
     {
-      "phi": "mia soeli nia palu thinu.",
+      "phi": "mia nia palu soeli thinu.",
       "translation": "I put the cup on the plate."
     }
   ],

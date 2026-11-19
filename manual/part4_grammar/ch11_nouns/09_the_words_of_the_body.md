@@ -119,7 +119,7 @@ Sensations and feelings that are nouns are objects of *phaelo* (feel). The same 
 | *tiphori* | tingling |
 | *wiloru* | dizziness |
 
-This pattern will also run through the journal practice of chapter 23:
+This pattern will also run through the journal practice of chapter 22:
 
 ```
 mia kipona phaelo.

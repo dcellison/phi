@@ -15,7 +15,7 @@
   "usage_notes": "Whoever or whatever is sent is the direct object. A recipient takes dative 'wei', while a physical destination can take allative 'kau'. As an event noun, 'sepho' is sending or a dispatch. 'loa' (give) centres what a recipient is given, and module 'sekaru' (transfer) tracks movement between technical or ecological points.",
   "examples": [
     {
-      "phi": "mia wei shelu melu sepho.",
+      "phi": "mia wei melu shelu sepho.",
       "translation": "I send a book to a friend."
     }
   ],
