@@ -31,6 +31,7 @@ This "announce then deliver" principle creates transparent communication where a
 - [ ] **Maintains vowel hiatus**: Each vowel = separate syllable (no diphthongs)
 - [ ] **Vowel hiatus transcription**: Always show syllable breaks with dots: au=/ä.u/, not /äu/
 - [ ] **Respects three-vowel constraint**: Never VVV+ sequences
+- [ ] **No doubled vowel**: A vowel never follows itself (no `aa`, `ee`, `ii`, `oo`, `uu`), in lexicon words or names
 - [ ] **No duplicate syllables in lexicon words**: Every proposed word satisfies the rule; source material outside Phi is not a lexical exception
 - [ ] **Begins with consonant**: All words start with C or F
 - [ ] **Ends with vowel**: All syllables are open
@@ -107,7 +108,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 ### Step 3: Hiatus Check
 - Map all syllable breaks (use dots: CV.V.CV)
-- Verify no VVV sequences
+- Verify no VVV sequences and no doubled vowel
 - Confirm pronunciation maintains pure vowels
 
 ### Step 4: Prose and Relational Alignment
@@ -146,7 +147,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 - [ ] The bearer or naming community accepts the form
 - [ ] The form is one lowercase token with two, three, or four Phi syllables
-- [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no syllable with an onset
+- [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence or doubled vowel, and duplicates no syllable with an onset
 - [ ] If it matches a current lexicon entry, that entry is a content word rather than a function or other non-content word
 - [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
 - [ ] It receives no lexicon file, gloss, part of speech, articulatory note, sound-symbolism rationale, pillar claim, or automatic core status

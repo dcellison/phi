@@ -56,6 +56,8 @@ def form_errors(word):
         errors.append("must end in a vowel")
     if re.search(r"[aeiou]{3}", word):
         errors.append("contains three adjacent vowels")
+    if re.search(r"([aeiou])\1", word):
+        errors.append("contains a doubled vowel")
     syllables = syllabify(word)
     if syllables is None:
         errors.append("cannot be parsed into Phi open syllables")

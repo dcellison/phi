@@ -15,6 +15,7 @@ The single validation tool for the Phi project. Checks:
            element of a vowel pair in hiatus)
          * word begins with a consonant onset, every syllable open
          * no three-vowel sequences
+         * no doubled vowel (a vowel pair is two distinct vowels)
          * no duplicated syllable within a word
      - `syllables` array matches the canonical syllabification
        (each element one onset + one vowel, or a lone hiatus vowel —
@@ -408,6 +409,11 @@ def check_word_phonology(word):
         errors.append("does not end in a vowel")
     if re.search(r"[aeiou]{3}", word):
         errors.append("three-vowel sequence (violates three-vowel constraint)")
+    doubled = re.search(r"([aeiou])\1", word)
+    if doubled:
+        errors.append(
+            f"doubled vowel '{doubled.group(0)}' (a vowel pair is two distinct vowels)"
+        )
     syllables = syllabify(word)
     if syllables is None:
         errors.append("cannot be parsed into legal (C)CV syllables")
