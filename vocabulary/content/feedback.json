@@ -18,8 +18,8 @@
   "usage_notes": "The noun can be countable or mass. The account should make clear what is sensed, what returns, where it acts, and whether it increases or reduces change. 'turema' is return, 'nuri' a cycle, and 'thekao' acknowledgement in interaction.",
   "examples": [
     {
-      "phi": "ha turelo ha ketora helui.",
-      "translation": "This feedback changes this control."
+      "phi": "ha turelo ketora helui.",
+      "translation": "This feedback changes the control."
     }
   ],
   "pillars": {

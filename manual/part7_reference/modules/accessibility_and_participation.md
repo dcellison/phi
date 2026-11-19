@@ -188,8 +188,8 @@ shia ha haolu sitheku.
 `shoraku` carries meaning between languages or modes. The interpreter's choices remain open to correction, and interpreting does not turn into representing someone merely because their words pass through another person.
 
 ```
-shia ha phelui shoraku.
-3SG PROX word interpret.
+shia ha lo phelui shoraku.
+3SG PROX PL word interpret.
 (They interpret these words.)
 ```
 

@@ -3,8 +3,8 @@
 Sequence puts one event before another. `whau` refuses to put either first. The clause it opens supplies a stretch of time, and whatever the main clause reports happened somewhere inside that stretch:
 
 ```
-whau phao lumoi phelu moloi phelasi sheraki.
-SIMUL parent lantern hold apprentice shelf search.
+whau phao lumoi phelu moloi nia phelasi sheraki.
+SIMUL parent lantern hold apprentice ON shelf search.
 (While the parent holds the lantern, the apprentice searches the shelf.)
 ```
 

@@ -19,8 +19,8 @@
   "usage_notes": "The noun can refer to one account or to provenance in general. Sources, stages, and custody trace the passage. Transformations, gaps, and degree of confidence show how much the account can support. Exact names and dates stay in their source records, as do certificates, identifiers, and quoted claims.",
   "examples": [
     {
-      "phi": "ha muralo luseri se sirami.",
-      "translation": "This material's provenance is recorded."
+      "phi": "muralo luseri se sirami.",
+      "translation": "The material's provenance is recorded."
     }
   ],
   "pillars": {

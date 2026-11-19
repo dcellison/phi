@@ -51,7 +51,7 @@
 > **wheo therilu.**
 > **lohau therilu.**
 > **misheko rihe.**
-> **misheko mua moru thalo.**
+> **misheko nia moru thalo.**
 
 | new word | say it | it means |
 |---|---|---|

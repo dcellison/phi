@@ -1,6 +1,6 @@
 # 5 · mia nuwera
 
-*Two questions get their grammar in this chapter: whose, and where. Whose costs nothing. Put the owner directly before the owned, and you are done:* mia nuwera, *my bed;* lopia nuwera, *the child's bed. Where costs one small word:* **mua**, *in, at, or on, which stands before the place the way every describing thing in Phi stands before what it describes. And the little* **ha** *from last chapter's door finally gets its name.*
+*Two questions get their grammar in this chapter: whose, and where. Whose costs nothing. Put the owner directly before the owned, and you are done:* mia nuwera, *my bed;* lopia nuwera, *the child's bed. Where costs two small words:* **mua**, *in or at, and* **nia**, *on. Each stands before its place the way every describing thing in Phi stands before what it describes. And the little* **ha** *from last chapter's door finally gets its name.*
 
 ## I
 
@@ -26,7 +26,7 @@
 
 | new word | say it | it means |
 |---|---|---|
-| mua | mu · a | in, at, on |
+| mua | mu · a | in, at |
 | ponu | po · nu | door |
 
 *Everyone somewhere: the cat in a bed, the dog at the door, the child and the elder in the garden, the parent in the house.* mua *announces that a place is coming; the place arrives; then the sentence gets on with its verb.*
@@ -34,19 +34,20 @@
 ## III
 
 > **sulopa mua tomi nai.**
-> **tomi mua wonepa nai.**
-> **nuora mua wonepa nai.**
+> **tomi nia wonepa nai.**
+> **nuora nia wonepa nai.**
 > **lopia sulopa nuola.**
-> **lohau mua wonepa nai.**
+> **lohau nia wonepa nai.**
 > phao: **tua.**
 
 | new word | say it | it means |
 |---|---|---|
 | sulopa | su · lo · pa | soup |
 | tomi | to · mi | pot |
+| nia | ni · a | on |
 | wonepa | wo · ne · pa | table |
 
-*The soup is in the pot, the pot is on the table: one little* mua *covers in, at, and on, and the things themselves tell you which. The last reply is the parent speaking, and the dog understands it perfectly.*
+*The soup is in the pot, and the pot is on the table.* mua *finds a thing in or at its place;* nia *is for one thing resting on another. The last reply is the parent speaking, and the dog understands it perfectly.*
 
 ## IV
 
@@ -67,6 +68,6 @@
 
 ---
 
-*Once more aloud, at the pace that keeps the nested phrase clear. Whose and where are yours now, and they cost one new particle and a habit you already had.*
+*Once more aloud, at the pace that keeps the nested phrase clear. Whose and where are yours now, and they cost two small words and a habit you already had.*
 
 *The machinery, when you want it: possession is the manual's Part IV, chapter 11; here and there are chapter 13's deixis; place phrases are with the prepositions in Part IV.*

@@ -18,8 +18,8 @@
   "usage_notes": "In ordinary transitive syntax, the amending person or body comes before the continuing matter. Amendment needs no separate root; event-noun grammar uses this form. The source record keeps the old and new wording together, along with the version, authority, and effective conditions. Ordinary 'helui' describes change without this formal continuity.",
   "examples": [
     {
-      "phi": "ha kowela ha nasholu helaki.",
-      "translation": "This council amends this rule."
+      "phi": "kowela ha nasholu helaki.",
+      "translation": "The council amends this rule."
     }
   ],
   "pillars": {

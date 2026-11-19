@@ -18,8 +18,8 @@
   "usage_notes": "Transitive use follows an agent passing something to a host; intransitive use keeps the process itself in view. A 'thue' phrase can introduce the pathway. The same form names the event, transmission.",
   "examples": [
     {
-      "phi": "ha peshiro thue phialu po sewaro.",
-      "translation": "This infection may transmit through water."
+      "phi": "peshiro thue phialu po sewaro.",
+      "translation": "The infection may transmit through water."
     }
   ],
   "pillars": {

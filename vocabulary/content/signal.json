@@ -18,8 +18,8 @@
   "usage_notes": "The noun may be countable or mass. Its source and medium belong in the account, as do the recipient, timing, and interpretation. Receiving a signal establishes only that it arrived. Its meaning, reliability, and any directive force come from the surrounding relation.",
   "examples": [
     {
-      "phi": "ha kirowi ha terura mirela shelo.",
-      "translation": "This signal indicates this system's state."
+      "phi": "ha kirowi terura mirela shelo.",
+      "translation": "This signal indicates the system's state."
     }
   ],
   "pillars": {

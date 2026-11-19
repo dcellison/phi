@@ -17,8 +17,8 @@
   "usage_notes": "'pelaku' can refer to one degree or to severity as a dimension. The condition and criterion identify what was assessed; the source and affected person's report show whose account supports the judgement. 'kisome' (assess) names the comparison with that criterion.",
   "examples": [
     {
-      "phi": "lo mia ha pelaku kisome.",
-      "translation": "We assess this severity."
+      "phi": "lo mia pelaku kisome.",
+      "translation": "We assess the severity."
     }
   ],
   "pillars": {

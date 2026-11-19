@@ -33,12 +33,12 @@ The missing basket belongs to this occasion, so it supports inference. A usual d
 `ho` names a source. `po` says that the event is possible.
 
 ```
-shia womu ho nai.
-3SG home ASSUM be.
+shia mua womu ho nai.
+3SG LOC home ASSUM be.
 (I assume they are home.)
 
-shia womu po nai.
-3SG home POT be.
+shia mua womu po nai.
+3SG LOC home POT be.
 (They may be home.)
 ```
 

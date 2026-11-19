@@ -18,8 +18,8 @@
   "usage_notes": "Individual jurisdictions are countable; an unbounded discussion may use a mass reading. The authority or institution whose scope is meant usually appears before 'norulo'. Nearby clauses give its source and dimensions. Exact legal jurisdictions retain their source categories, names, and operative boundaries.",
   "examples": [
     {
-      "phi": "ha karami norulo ha luphano pharune.",
-      "translation": "This authority's jurisdiction includes this watershed."
+      "phi": "ha karami norulo luphano pharune.",
+      "translation": "This authority's jurisdiction includes the watershed."
     }
   ],
   "pillars": {

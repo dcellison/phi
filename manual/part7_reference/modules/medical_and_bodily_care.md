@@ -146,9 +146,9 @@ DECL.COMP PROX infection contagious NEG be DECL.COMP.CLOSE POT be.
 `thephaku` is the body answering, not the invader: infection can raise it, but so can injury and the immune system's own work.
 
 ```
-ha kaworu thephaku phelu.
-PROX injury inflammation hold.
-(This injury has inflammation.)
+kaworu thephaku phelu.
+injury inflammation hold.
+(The injury has inflammation.)
 ```
 
 `suloru` is fever against a stated reference, for this person, at this site, by this method. The exact reading and its threshold belong to the record.
@@ -172,9 +172,9 @@ PROX injury acute be.
 `pelaku` is severity on someone's stated scale, and the scales can disagree with each other: pain, function, physiological danger, and daily burden are different dimensions, and a person can score high on one and low on another.
 
 ```
-lo mia ha pelaku kisome.
-PL 1SG PROX severity assess.
-(We assess this severity.)
+lo mia pelaku kisome.
+PL 1SG severity assess.
+(We assess the severity.)
 ```
 
 Urgency is yet another question. A mild condition can call for immediate action; a severe chronic burden can go too long without serious attention. Naming the time relation keeps `pelaku` from quietly deciding it.
@@ -194,9 +194,9 @@ A diagnosis can be provisional, differential, revised, or disputed, and the exac
 `wireki` looks forward, conditionally. It rests on a condition, a time horizon, available care, and honest uncertainty, and evidence from many people can inform one person's prognosis without dictating it.
 
 ```
-shia ha wireki lilea.
-3SG PROX prognosis clarify.
-(They clarify this prognosis.)
+shia wireki lilea.
+3SG prognosis clarify.
+(They clarify the prognosis.)
 ```
 
 `soranu` looks across people for possible need, usually before any diagnosis. A screening has a purpose, a method, and a follow-up path. Participation requires its own consent; the screening supplies none.
@@ -242,9 +242,9 @@ A care conversation can keep its parts visible. The record and its meaning come 
 `porewi` is anything an intervention does beyond its target, and it can be a gift, a nuisance, or a harm. `whekaro` makes the harm claim specifically, while leaving cause an open question.
 
 ```
-ha nepha porewi phelu.
-PROX medicine side effect hold.
-(This medicine has a side effect.)
+nepha porewi phelu.
+medicine side effect hold.
+(The medicine has a side effect.)
 ```
 
 ```
@@ -296,9 +296,9 @@ Remission, recurrence, cure, and response remain explicit claims about findings,
 `sewaro` follows an agent along a pathway; `welathi` says the pathway is open under conditions. Neither word turns a host into a moral or social danger.
 
 ```
-ha peshiro thue phialu po sewaro.
-PROX infection THROUGH water POT transmit.
-(This infection may transmit through water.)
+peshiro thue phialu po sewaro.
+infection THROUGH water POT transmit.
+(The infection may transmit through water.)
 ```
 
 ```
@@ -340,9 +340,9 @@ shia miso sonari.
 ```
 
 ```
-ha punoki shia teshori.
-PROX institution 3SG quarantine.
-(This institution quarantines them.)
+punoki shia teshori.
+institution 3SG quarantine.
+(The institution quarantines them.)
 ```
 
 `kithawu` orders care under real constraints, and the ordering answers to stated criteria that can be examined and argued with. What it must never become is a ranking of who deserves to live.

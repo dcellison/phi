@@ -31,8 +31,8 @@ The marker makes the inference explicit. It does not provide a missing premise o
 **whekai** turns to a sentence that qualifies or pushes against the preceding line of thought. English commonly uses "however," "on the other hand," or "yet."
 
 ```
-mia to shonela. whekai mia shelomu ma nai.
-1SG PST learn. CONTR 1SG understand NEG be.
+mia to shonela. whekai mia ma shelomu.
+1SG PST learn. CONTR 1SG NEG understand.
 (I learned. However I do not understand.)
 ```
 

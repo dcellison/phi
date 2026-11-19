@@ -61,8 +61,8 @@ Morning or evening names the endpoint. No second clause is hidden inside the phr
 **whau** puts two events in one span without ordering them. The dependent clause supplies the span, and the main clause reports what fell inside it:
 
 ```
-whau phao lumoi phelu moloi phelasi sheraki.
-SIMUL parent lantern hold apprentice shelf search.
+whau phao lumoi phelu moloi nia phelasi sheraki.
+SIMUL parent lantern hold apprentice ON shelf search.
 (While the parent holds the lantern, the apprentice searches the shelf.)
 ```
 

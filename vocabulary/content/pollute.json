@@ -18,8 +18,8 @@
   "usage_notes": "'pesenu' takes the polluting agent as subject and the affected place or medium as direct object. Under the event-noun rule, it also names pollution. Source and pathway locate the relation. Evidence, criterion, effect, and uncertainty give the claim its needed detail; an exact regulatory finding remains source material.",
   "examples": [
     {
-      "phi": "ha tinoa ha phuliro pesenu.",
-      "translation": "This dye pollutes this stream."
+      "phi": "tinoa phuliro pesenu.",
+      "translation": "The dye pollutes the stream."
     }
   ],
   "pillars": {

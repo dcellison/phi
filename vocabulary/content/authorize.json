@@ -18,8 +18,8 @@
   "usage_notes": "The authorising source is the subject, the recipient takes 'wei', and the permitted action or role is the direct object. All three come before 'kanuwa'. Authorisation is the regular event-noun use. 'loatho' (delegate) entrusts the matter to another person, while 'rilowa' (assign) designates an expected performer.",
   "examples": [
     {
-      "phi": "ha punoki wei ha wemari ha terura nilaki kanuwa.",
-      "translation": "This institution authorizes this member to inspect this system."
+      "phi": "punoki wei wemari terura nilaki kanuwa.",
+      "translation": "The institution authorizes the member to inspect the system."
     }
   ],
   "pillars": {

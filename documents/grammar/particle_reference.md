@@ -458,6 +458,8 @@ DIST friend.
 (that friend)
 ```
 
+Both also stand alone, with no noun after them: `ha` (this), `ra` (that), and with `lo` the plurals `lo ha` (these) and `lo ra` (those).
+
 ### Proper Name Marker
 
 #### `ne` - Proper Name (NAME)

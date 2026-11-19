@@ -1,6 +1,6 @@
 # The Phi sentence validator
 
-`shia ho womu nai.` contains familiar words, follows Phi phonotactics, and ends in a verb. It is still ungrammatical: the complement `womu` has slipped behind Slot 1. The sentence parser reports `PHS102` at that word. The repaired `shia womu ho nai.` puts the complement back before `ho nai`.
+`shia ho mua womu nai.` contains familiar words, follows Phi phonotactics, and ends in a verb. It is still ungrammatical: the complement `mua womu` has slipped behind Slot 1. The sentence parser reports `PHS102` at its first word. The repaired `shia mua womu ho nai.` puts the complement back before `ho nai`.
 
 ## Two validators
 

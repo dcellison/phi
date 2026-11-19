@@ -19,8 +19,8 @@
   "usage_notes": "'teluno' counts normally with plural 'lo'. The living classifier 'lipha' remains optional after a numeral. Source material retains individual species names and exact taxonomic labels.",
   "examples": [
     {
-      "phi": "ha teluno mua ha phialu menui.",
-      "translation": "This amphibian dwells in this water."
+      "phi": "ha teluno mua phialu menui.",
+      "translation": "This amphibian dwells in the water."
     }
   ],
   "semantic_domains": {

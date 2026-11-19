@@ -19,8 +19,8 @@
   "usage_notes": "The verb may be intransitive or take the flooded place as its object. As an event noun, it refers to a flood. Water source and place locate a particular event. Period, extent, and consequence complete the account. Warning classes and mapped boundaries retain their exact source definitions.",
   "examples": [
     {
-      "phi": "ha luphore ha kosha to phaluwe.",
-      "translation": "This river flooded this field."
+      "phi": "luphore kosha to phaluwe.",
+      "translation": "The river flooded the field."
     }
   ],
   "pillars": {

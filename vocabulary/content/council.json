@@ -18,8 +18,8 @@
   "usage_notes": "Councils count individually, and the community or purpose commonly appears before the noun. A council can hold a meeting, adopt a procedure, or claim authority, each in its own clause. The title of a particular council remains exact source material or a proper name accepted by that body.",
   "examples": [
     {
-      "phi": "ha kowela ha repora shareo.",
-      "translation": "This council discusses this proposal."
+      "phi": "kowela ha repora shareo.",
+      "translation": "The council discusses this proposal."
     }
   ],
   "pillars": {

@@ -18,7 +18,7 @@
   "usage_notes": "A dependent clause opened by 'whau' ends at its verb and needs no closer, and the main clause follows it, as with every relator. Neither clause is required to carry aspect, though 'si' (IPFV) on the framing verb is common when that event is already under way. Because 'whau' takes a clause, the framing event keeps its own subject as an agent instead of becoming a possessor, which is what 'sui' with an event noun requires.",
   "examples": [
     {
-      "phi": "whau mia lumoi phelu moloi phelasi sheraki.",
+      "phi": "whau mia lumoi phelu moloi nia phelasi sheraki.",
       "translation": "While I hold the lantern, the apprentice searches the shelf."
     },
     {

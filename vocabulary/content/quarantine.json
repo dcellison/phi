@@ -17,8 +17,8 @@
   "usage_notes": "Both transitive and reflexive use are available; noun use gives quarantine. A full account identifies the exposure and duration, then says what place and support are available. Alternatives, the institutional decision, and review remain audible. Exact public-health rules retain their source wording and dates.",
   "examples": [
     {
-      "phi": "ha punoki shia teshori.",
-      "translation": "This institution quarantines them."
+      "phi": "punoki shia teshori.",
+      "translation": "The institution quarantines them."
     }
   ],
   "pillars": {

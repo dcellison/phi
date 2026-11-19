@@ -17,8 +17,8 @@
   "usage_notes": "The assessed thing is the object; noun 'kisome' means assessment. The surrounding account can identify the criterion and evidence, then the assessor and purpose. Medical use may concern a bodily condition; Work use may concern a craft or performance.",
   "examples": [
     {
-      "phi": "shia ha theko kisome.",
-      "translation": "They assess this craft."
+      "phi": "shia theko kisome.",
+      "translation": "They assess the craft."
     }
   ],
   "pillars": {

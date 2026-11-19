@@ -18,8 +18,8 @@
   "usage_notes": "Inventories are countable. Scope and time belong close to any claim made from one, while method and recorder may matter when the record is disputed. 'sirami' is the wider record category, and 'tawi' is the act of counting.",
   "examples": [
     {
-      "phi": "mia ha sitawi tukiro.",
-      "translation": "I review this inventory."
+      "phi": "mia sitawi tukiro.",
+      "translation": "I review the inventory."
     }
   ],
   "pillars": {

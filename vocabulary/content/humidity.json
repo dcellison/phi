@@ -18,8 +18,8 @@
   "usage_notes": "A source record identifies the technical measure behind 'wimura': relative humidity, absolute humidity, or dew point. It also carries the value and method. The Phi noun selects the atmospheric parameter being compared or monitored.",
   "examples": [
     {
-      "phi": "ha wimura si thuroa.",
-      "translation": "This humidity is increasing."
+      "phi": "wimura si thuroa.",
+      "translation": "The humidity is increasing."
     }
   ],
   "pillars": {

@@ -18,8 +18,8 @@
   "usage_notes": "'munari' has both count and mass uses. Grain size, composition, and amount stay in their source records when precision matters. Sample identity and method remain there too. 'wheraku' names erosion; 'muila', 'muhena', and 'kirua' name earth, dust, and sand.",
   "examples": [
     {
-      "phi": "ha wiralu munari kolua.",
-      "translation": "This runoff carries sediment."
+      "phi": "wiralu munari kolua.",
+      "translation": "The runoff carries sediment."
     }
   ],
   "pillars": {

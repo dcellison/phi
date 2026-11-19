@@ -18,8 +18,8 @@
   "usage_notes": "'lurepa' works as either a count or mass noun. The organism and biological function need to be clear from the sentence or its context. Fertilizers, medicines, and exact chemical substances keep their own definitions and source identities.",
   "examples": [
     {
-      "phi": "ha lurepa ha shiro thuroa panoru.",
-      "translation": "This nutrient supports this tree's growth."
+      "phi": "ha lurepa shiro thuroa panoru.",
+      "translation": "This nutrient supports the tree's growth."
     }
   ],
   "pillars": {

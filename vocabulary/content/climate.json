@@ -18,8 +18,8 @@
   "usage_notes": "'meluri' may be mass-like or countable when climates are compared. A climate claim gains its scope from the region and period, and its force from the variables, evidence, and model behind it. Source records keep exact classifications, scenarios, model outputs, and measurements.",
   "examples": [
     {
-      "phi": "ha meluri ha howenu senao ma nai.",
-      "translation": "This climate is not the same as this weather."
+      "phi": "ha meluri nela ha howenu senao ma nai.",
+      "translation": "This climate and this weather are not the same."
     }
   ],
   "pillars": {

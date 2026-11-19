@@ -19,8 +19,8 @@ mia to theo nela to shelomu. thelao mia so thumela.
 ```
 
 ```
-mia to shonela. whekai mia shelomu ma nai.
-1SG PST learn. CONTR 1SG understand NEG be.
+mia to shonela. whekai mia ma shelomu.
+1SG PST learn. CONTR 1SG NEG understand.
 (I learned. However I do not understand.)
 ```
 

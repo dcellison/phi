@@ -18,7 +18,7 @@
   "usage_notes": "The object is the words, expression, or communication interpreted. Source and receiving languages or modes belong in surrounding phrases when they are not already known. Noun use gives interpretation. The interpreting person is 'miona' in the applicable role; interpreting alone grants no authority to represent or decide for the speaker.",
   "examples": [
     {
-      "phi": "shia ha phelui shoraku.",
+      "phi": "shia ha lo phelui shoraku.",
       "translation": "They interpret these words."
     }
   ],

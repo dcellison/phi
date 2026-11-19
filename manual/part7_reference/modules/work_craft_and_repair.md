@@ -155,8 +155,8 @@ BECAUSE material PST NEG come PROX task blocked be.
 `lumethi` and `thimora` hold time the way Phi holds it, without the clock. A deadline is a claimed latest time, and someone claimed it; a schedule arranges the work across days. Both leave room to ask who set them and who agreed.
 
 ```
-ha riporu lumethi pheo wi philo nai.
-PROX task deadline POST two day be.
+ha riporu lumethi pheo wi philo so nai.
+PROX task deadline POST two day FUT be.
 (This task's deadline is in two days.)
 ```
 
@@ -193,17 +193,17 @@ mia lo riporu wephari.
 ```
 
 ```
-shia ha shiroka someru.
-3SG PROX repair supervise.
-(They supervise this repair.)
+shia shiroka someru.
+3SG repair supervise.
+(They supervise the repair.)
 ```
 
 `sethoni` passes the next stage to other hands. What actually moved is worth saying aloud, because the verb does not promise that the piece, the information, and the responsibility all traveled together.
 
 ```
-mia wei thia ha riporu sethoni.
-1SG DAT 2SG PROX task handoff.
-(I hand this task off to you.)
+mia wei thia riporu sethoni.
+1SG DAT 2SG task handoff.
+(I hand the task off to you.)
 ```
 
 A full account of one afternoon's work may take several clauses: one person assigns, another accepts, a third coordinates what depends on what, and the handoff happens when the material really moves. Phi will not compress all of this into one managerial verb, and the refusal is deliberate.
@@ -213,9 +213,9 @@ A full account of one afternoon's work may take several clauses: one person assi
 `thesani` is a capacity a person built by practice, and it stays theirs in bad weather, without permission, and between uses. `pokera` is narrower: able to meet this stated criterion, here, with these tools. `nukesa` runs deeper than any single criterion; it is the kind of practice that has opinions about the grain of the wood. `kiranu` says the stated prerequisites are met, which is a fact about a list. A person can be any of the four without the other three, and the workshop is where the differences show.
 
 ```
-mia ha thesani phelu.
-1SG PROX skill hold.
-(I have this skill.)
+mia thesani phelu.
+1SG skill hold.
+(I have the skill.)
 ```
 
 ```
@@ -249,9 +249,9 @@ mia thia thunaro.
 ```
 
 ```
-shia ha theko kisome.
-3SG PROX craft assess.
-(They assess this craft.)
+shia theko kisome.
+3SG craft assess.
+(They assess the craft.)
 ```
 
 `sikanu` is the formal act at the end, and the certificate it produces is a source artifact: the issuer, scope, identifier, and date live in the document itself, outside the Phi passage.
@@ -285,9 +285,9 @@ mia ha rolu somaki.
 `kirero` is always character against a purpose, and the dimensions can conflict: a beautiful thing may be hard to repair, a durable one wasteful of material, a precise one impossible to use. Naming the quality keeps the argument about the thing. Applying a score to the maker would change the subject and the claim; it is not part of `kirero`.
 
 ```
-mia ha kirero kisome.
-1SG PROX quality assess.
-(I assess this quality.)
+mia kirero kisome.
+1SG quality assess.
+(I assess the quality.)
 ```
 
 Where the object is technical, the Systems words join in: `masuro` calibrates, `nilaki` inspects, `kiphira` names the fault, `kisholu` holds the specification.
@@ -341,9 +341,9 @@ workshop ENOUGH stock hold.
 ```
 
 ```
-mia ha sitawi tukiro.
-1SG PROX inventory review.
-(I review this inventory.)
+mia sitawi tukiro.
+1SG inventory review.
+(I review the inventory.)
 ```
 
 `sephori` makes material available for a stated use. Whether it arrives in good condition, whether it is enough, and whose it remains are each their own sentence.
@@ -365,9 +365,9 @@ mia lo katemu phelure.
 `luseri` is the story a material carries: where it came from, whose hands held it, what was done to it, told with its gaps showing. Provenance can serve repair, attribution, and safety without proving ownership, which remains a commons question.
 
 ```
-ha muralo luseri se sirami.
-PROX material provenance PASS record.
-(This material's provenance is recorded.)
+muralo luseri se sirami.
+material provenance PASS record.
+(The material's provenance is recorded.)
 ```
 
 ## Useful transparent compositions and source boundaries
