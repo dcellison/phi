@@ -37,4 +37,6 @@ Only one modal belongs in a clause. **po ma** denies possibility:
 
 **mia po ma thalo.** — I cannot walk.
 
+That something may not happen is a different claim, and **po ma** never makes it. The negation section shows the frame that does.
+
 Leaving **po** out produces a plain assertion, not a claim of certainty or overconfidence. Adding it makes possibility part of the proposition, where a listener can weigh it.

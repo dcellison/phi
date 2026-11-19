@@ -52,6 +52,10 @@ Absence of obligation is not made by changing the particle order. Phi uses a fre
 
 **thia lila wepu ralu nai.** (You need not go. Literally, you are free with regard to going.)
 
+The possible negative has no particle order of its own either. `po ma` denies the possibility outright, and `ma po` breaks the rank order. Phi frames the negated clause with `tha ... tho` and leaves `po` outside on `nai`:
+
+**tha melu ma shua tho po nai.** (The friend might not come. Literally, it may be that the friend does not come.)
+
 ### Practice: choose the needed ranks
 
 Choose an evidential, a modal, both, or neither. Mark only what each prompt asks you to claim.
@@ -62,5 +66,6 @@ Choose an evidential, a modal, both, or neither. Mark only what each prompt asks
 4. Say that you are obliged to give water to the garden.
 5. Rain is usual in this season, and you assume it will come.
 6. Say that a friend cannot come, without pretending the sentence names the reason.
+7. Say that the friend might not come.
 
-Answers: 1 `pheralu hi lepa.` 2 `pheralu to ke lepa.` 3 `mia po naphe.` 4 `mia wei thepalu phialu na loa.` 5 `pheralu so ho lepa.` 6 `melu po ma shua.` The sixth answer denies ability or possibility; a second clause is needed if the reason also matters.
+Answers: 1 `pheralu hi lepa.` 2 `pheralu to ke lepa.` 3 `mia po naphe.` 4 `mia wei thepalu phialu na loa.` 5 `pheralu so ho lepa.` 6 `melu po ma shua.` 7 `tha melu ma shua tho po nai.` The sixth answer denies ability or possibility; a second clause is needed if the reason also matters. The seventh keeps `ma` inside the frame and `po` outside it, so what is called possible is the friend's absence.

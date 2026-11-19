@@ -272,6 +272,7 @@ mia so ki po ma shelomu.
 - `na ma V` — must not (the necessity is to refrain)
 - `ka ma V` — the causation is denied (I did not make them V); making someone refrain takes its own verb or two clauses.
 - "Need not" (absence of obligation) is never expressed by reordering. Use the freedom periphrasis: `S lila V ralu nai` — "S is free as to V-ing": `thia lila wepu ralu nai` (you need not go).
+- "May not" (the negative is possible; also "not necessarily") is never expressed by reordering, and `ma po` is not licensed. Use the possibility frame: the negated clause inside `tha ... tho`, with `po` on the outer `nai`: `tha shia so ma shua tho po nai` (they may not come). English "may not" as refused permission is `po ma`.
 
 ### Stacking Example
 

@@ -133,6 +133,20 @@ class SentenceParserTest(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertValid(text)
 
+    def test_possibility_frame(self):
+        for text in (
+            "tha shia so ma shua tho po nai.",
+            "tha pheralu ma lepa tho po nai.",
+            "tha ha peshiro welathi ma nai tho po nai.",
+            "tha shia so ma shua tho ke po nai.",
+            "wa tha shia so ma shua tho po nai.",
+            "mia tha tha shia so ma shua tho po nai tho remo.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        self.assertInvalid("shia so ma po shua.", "PHS100")
+        self.assertInvalid("pheralu ma po lepa.", "PHS100")
+
     def test_relative_clauses(self):
         for text in (
             "whu sulopa ro pilewa miona shua.",

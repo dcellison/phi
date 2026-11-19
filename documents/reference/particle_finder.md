@@ -57,8 +57,9 @@ Leaving all four out is not evasion. It is the ordinary way to state something y
 | it cannot | `po ma` | `thia po ma shua.` |
 | it must not | `na ma` | `thia na ma shua.` |
 | there is no need | the `lila` freedom frame | `thia lila wepu ralu nai.` |
+| it might not | a `tha ... tho` frame with `po` outside | `tha thia ma shua tho po nai.` |
 
-Need not is the one that surprises people. It is not a particle at all; the freedom construction carries it.
+Need not is the one that surprises people. It is not a particle at all; the freedom construction carries it. Might not is the second surprise. `po ma` already means cannot, so the negated clause goes inside a frame and `po` waits outside it.
 
 ## Denying
 

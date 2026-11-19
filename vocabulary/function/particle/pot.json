@@ -15,11 +15,15 @@
   ],
   "description": "Modal 'po' presents an event as something that can or may occur. Context decides whether the opening comes from ability, permission, or circumstances. The modal 'na' (NEC) asserts necessity instead.",
   "articulatory_notes": "Closed lips release 'p' into rounded true-mid 'o'. The entire particle fits in one stressed syllable.",
-  "usage_notes": "The modal rank lies between evidentiality and negation. 'To po' moves possibility into the past, 'so po' into the future, and 'po ma' denies possibility: cannot. Only one modal particle belongs in a clause.",
+  "usage_notes": "The modal rank lies between evidentiality and negation. 'To po' moves possibility into the past, 'so po' into the future, and 'po ma' denies possibility: cannot. When the negative is what may happen, 'ma' stays inside a 'tha ... tho' frame and 'po' joins the outer 'nai'. Only one modal particle belongs in a clause.",
   "examples": [
     {
       "phi": "mia po theo.",
       "translation": "I can read."
+    },
+    {
+      "phi": "tha shia so ma shua tho po nai.",
+      "translation": "They might not come."
     }
   ]
 }
