@@ -18,8 +18,8 @@
   "usage_notes": "'keshoa' counts normally and uses 'lo' for plural. After a numeral, 'lipha' may classify it as living. Its source record carries the exact species or taxonomic name.",
   "examples": [
     {
-      "phi": "ha keshoa mua ha kerou sulae nai.",
-      "translation": "This reptile is warm on the stone."
+      "phi": "ha keshoa nia ha kerou sulae nai.",
+      "translation": "This reptile is warm on this stone."
     }
   ],
   "semantic_domains": {

@@ -19,7 +19,7 @@
   "examples": [
     {
       "phi": "ha naropu ha ketora helui.",
-      "translation": "This feedforward changes the control."
+      "translation": "This feedforward changes this control."
     }
   ],
   "semantic_domains": {

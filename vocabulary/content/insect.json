@@ -13,7 +13,7 @@
   "usage_notes": "Counts may use optional 'lipha'. A biological record can add the life stage, order, family, or species that the broad noun leaves open.",
   "examples": [
     {
-      "phi": "nireku mua lirowa nai.",
+      "phi": "nireku nia lirowa nai.",
       "translation": "An insect is on the leaf."
     }
   ],

@@ -195,7 +195,7 @@ mia lo riporu wephari.
 ```
 shia ha shiroka someru.
 3SG PROX repair supervise.
-(They supervise the repair.)
+(They supervise this repair.)
 ```
 
 `sethoni` passes the next stage to other hands. What actually moved is worth saying aloud, because the verb does not promise that the piece, the information, and the responsibility all traveled together.
@@ -203,7 +203,7 @@ shia ha shiroka someru.
 ```
 mia wei thia ha riporu sethoni.
 1SG DAT 2SG PROX task handoff.
-(I hand the task off to you.)
+(I hand this task off to you.)
 ```
 
 A full account of one afternoon's work may take several clauses: one person assigns, another accepts, a third coordinates what depends on what, and the handoff happens when the material really moves. Phi will not compress all of this into one managerial verb, and the refusal is deliberate.
@@ -215,7 +215,7 @@ A full account of one afternoon's work may take several clauses: one person assi
 ```
 mia ha thesani phelu.
 1SG PROX skill hold.
-(I have the skill.)
+(I have this skill.)
 ```
 
 ```
@@ -251,7 +251,7 @@ mia thia thunaro.
 ```
 shia ha theko kisome.
 3SG PROX craft assess.
-(They assess the craft.)
+(They assess this craft.)
 ```
 
 `sikanu` is the formal act at the end, and the certificate it produces is a source artifact: the issuer, scope, identifier, and date live in the document itself, outside the Phi passage.
@@ -287,7 +287,7 @@ mia ha rolu somaki.
 ```
 mia ha kirero kisome.
 1SG PROX quality assess.
-(I assess the quality.)
+(I assess this quality.)
 ```
 
 Where the object is technical, the Systems words join in: `masuro` calibrates, `nilaki` inspects, `kiphira` names the fault, `kisholu` holds the specification.
@@ -343,7 +343,7 @@ workshop ENOUGH stock hold.
 ```
 mia ha sitawi tukiro.
 1SG PROX inventory review.
-(I review the inventory.)
+(I review this inventory.)
 ```
 
 `sephori` makes material available for a stated use. Whether it arrives in good condition, whether it is enough, and whose it remains are each their own sentence.
@@ -367,7 +367,7 @@ mia lo katemu phelure.
 ```
 ha muralo luseri se sirami.
 PROX material provenance PASS record.
-(The material's provenance is recorded.)
+(This material's provenance is recorded.)
 ```
 
 ## Useful transparent compositions and source boundaries

@@ -147,7 +147,7 @@ PROX institution authority hold.
 ```
 ha punoki wei ha wemari ha terura nilaki kanuwa.
 PROX institution DAT PROX member PROX system inspect authorize.
-(The institution authorizes the member to inspect the system.)
+(This institution authorizes this member to inspect this system.)
 ```
 
 `norulo` draws the reach an authority claims, across people, places, or time, and an overlapping or disputed jurisdiction is the ordinary case, not an error to resolve before speaking.
@@ -155,7 +155,7 @@ PROX institution DAT PROX member PROX system inspect authorize.
 ```
 ha karami norulo ha luphano pharune.
 PROX authority jurisdiction PROX watershed include.
-(This authority's jurisdiction includes the watershed.)
+(This authority's jurisdiction includes this watershed.)
 ```
 
 `kirethu` is the question underneath all the others: by what criteria, by whose account, is this authority, this rule, this decision grounded? It is a question to keep asking, not a stamp to settle once.
@@ -181,7 +181,7 @@ PROX rule PROX do require.
 ```
 lo wemari wei ha kowela ha tukiro pashenu.
 PL member DAT PROX council PROX review petition.
-(The members petition the council for a review.)
+(The members petition this council for this review.)
 ```
 
 `repora` puts a possible action on the table, no more. What happens next, ignored, amended, adopted, rejected, is not decided by the proposing.
@@ -205,7 +205,7 @@ PROX procedure PL do hold.
 ```
 ha kowela ha kanuro to phoa.
 PROX council PROX decision PST do.
-(The council made this decision.)
+(This council made this decision.)
 ```
 
 `naweso` is a bounded procedural condition, not a mood in the room. An honest report of consensus says who counted as a participant, what the blocking rule was, and what reservations remained.
@@ -237,7 +237,7 @@ mia mua ha kasira makelu.
 ```
 ha kowela napuro phanuli.
 PROX council grain allocate.
-(The council allocates grain.)
+(This council allocates grain.)
 ```
 
 `sherelo` is a normative claim that remains sayable when recognition or fulfillment is disputed. A source tradition can narrow it to a human, legal, customary, or collective right; when the exact category carries force, it stays in the surrounding source record.
@@ -299,7 +299,7 @@ PROX keeper accountable be.
 ```
 ha punoki ha peloma helolu.
 PROX institution PROX harmful redress.
-(The institution redresses this harm.)
+(This institution redresses this harm.)
 ```
 
 `nashaku` is institutional action tied to compliance. The rule being enforced, the evidence for a violation, and the fairness of the response are each their own claim, never assumed from the act of enforcing.
@@ -307,7 +307,7 @@ PROX institution PROX harmful redress.
 ```
 ha punoki ha nasholu nashaku.
 PROX institution PROX rule enforce.
-(The institution enforces this rule.)
+(This institution enforces this rule.)
 ```
 
 Compliance itself can be said plainly: `nasholu heno`, the rule is satisfied. Failing to satisfy one rule proves nothing yet about guilt or what should follow.
@@ -319,7 +319,7 @@ Compliance itself can be said plainly: `nasholu heno`, the rule is satisfied. Fa
 ```
 ha punoki wei lo wemari ha kanuro shanewi.
 PROX institution DAT PL member PROX decision notify.
-(The institution notifies the members of this decision.)
+(This institution notifies the members of this decision.)
 ```
 
 `sirami` preserves an account. Its source, time, and provenance make the record assessable; the act of writing alone grants it no authority.
@@ -335,7 +335,7 @@ PL 1SG PROX decision record.
 ```
 ha kowela ha kanuro tukiro.
 PROX council PROX decision review.
-(The council reviews this decision.)
+(This council reviews this decision.)
 ```
 
 `whetuma` asks a stated recipient to review something again, under a procedure with its own standing, deadline, and grounds. The review that follows is `tukiro`, a second and separate act.
@@ -343,7 +343,7 @@ PROX council PROX decision review.
 ```
 ha wemari ha kanuro whetuma.
 PROX member PROX decision appeal.
-(The member appeals this decision.)
+(This member appeals this decision.)
 ```
 
 `helaki` changes part of something still living: a rule, a decision, an institutional arrangement. The exact old and new wording belongs in a source record beside the Phi, where its history can be preserved.
@@ -351,7 +351,7 @@ PROX member PROX decision appeal.
 ```
 ha kowela ha nasholu helaki.
 PROX council PROX rule amend.
-(The council amends this rule.)
+(This council amends this rule.)
 ```
 
 ## Coercion and retaliation
@@ -369,7 +369,7 @@ PROX person 2SG coerce.
 ```
 ha sithora miona ha wemari whepelo.
 PROX role person PROX member retaliate.
-(The role holder retaliates against the member.)
+(This role holder retaliates against this member.)
 ```
 
 Coercion and retaliation are ordinary base words used here, not exceptions, because a language for governance has to let speakers criticize the institutions they belong to as readily as they may praise them. The exact legal definitions and remedies a case may carry stay in source material.

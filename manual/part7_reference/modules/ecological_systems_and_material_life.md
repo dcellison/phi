@@ -139,7 +139,7 @@ PROX species PL animal different be.
 ```
 ha liloni mua ha menuro thuroa.
 PROX population LOC PROX habitat grow.
-(This population grows in the habitat.)
+(This population grows in this habitat.)
 ```
 
 `liweso` keeps the human-scale `sila` from quietly becoming a scientific category. An ecological community can include feeding, disease, competition, and mutual support, and plenty of its organisms never meet at all.
@@ -165,7 +165,7 @@ PROX habitat biodiversity rich be.
 ```
 ha luphano ha luphore panoru.
 PROX watershed PROX river support.
-(This watershed supports the river.)
+(This watershed supports this river.)
 ```
 
 `wiralu` is water crossing a surface, carrying sediment, nutrients, warmth, or nothing worth noting, and its presence alone proves neither pollution nor its source.
@@ -173,13 +173,13 @@ PROX watershed PROX river support.
 ```
 ha wiralu lue ha kosha wea ha luphore selu.
 PROX runoff ABL PROX field TOWARD PROX river flow.
-(This runoff flows from the field toward the river.)
+(This runoff flows from this field toward this river.)
 ```
 
 ```
 ha wiralu munari kolua.
 PROX runoff sediment carry.
-(The runoff carries sediment.)
+(This runoff carries sediment.)
 ```
 
 `wheraku` is the detaching and the carrying; `munari` is the particulate matter that results. One can be observed at a site without the other showing up there at the same moment.
@@ -187,7 +187,7 @@ PROX runoff sediment carry.
 ```
 phialu ha muila wheraku.
 water PROX earth erode.
-(Water erodes the soil.)
+(Water erodes this soil.)
 ```
 
 Groundwater stays the transparent `muila phialu` (earth-water), its depth and movement stated separately, and water entering soil stays the plain clause `phialu muo muila koema`, which claims only entry, nothing about recharge or where the water ends up.
@@ -213,13 +213,13 @@ PROX climate PROX weather same NEG be.
 ```
 ha luphore ha kosha to phaluwe.
 PROX river PROX field PST flood.
-(The river flooded the field.)
+(This river flooded this field.)
 ```
 
 ```
 ha thepalu kuramo phelu.
 PROX garden drought hold.
-(The garden has a drought.)
+(This garden has a drought.)
 ```
 
 A heatwave stays the transparent `sharoi sukaro mosha`, a period of excessive heat, with its place, duration, and threshold available to state in the sentence rather than folded into one word.
@@ -237,7 +237,7 @@ PROX dye PROX water contaminant be.
 ```
 ha tinoa ha phuliro pesenu.
 PROX dye PROX stream pollute.
-(The dye pollutes the stream.)
+(This dye pollutes this stream.)
 ```
 
 `pekira` is a capacity for harm under a stated exposure; `perawi` is the simpler fact of contact. A toxic agent may be present without any organism being exposed, and exposure alone determines neither dose nor effect.
@@ -311,7 +311,7 @@ PROX wood IPFV decompose.
 ```
 ha lurepa ha shiro thuroa panoru.
 PROX nutrient PROX tree grow support.
-(This nutrient supports the tree's growth.)
+(This nutrient supports this tree's growth.)
 ```
 
 `tukelu` requires real processing, discarded material actually remade into another input. Simple reuse, repair, and decomposition are other afterlives a material can have; none of them is recycling.
@@ -347,13 +347,13 @@ PROX state PROX baseline same NEG be.
 ```
 ha herani ha nomiki thuroa shelo.
 PROX trend PROX concentration grow signify.
-(This trend indicates increasing concentration.)
+(This trend indicates this concentration's growth.)
 ```
 
 ```
 ha reteru ha litero thelima.
 PROX model PROX ecosystem describe.
-(This model describes the ecosystem.)
+(This model describes this ecosystem.)
 ```
 
 A model's exact name, version, and equations belong to the source record; Phi can discuss what a model includes, what it leaves out, and what it forecasts without pretending to carry its technical identity itself.
@@ -365,7 +365,7 @@ A model's exact name, version, and equations belong to the source record; Phi ca
 ```
 lo mia ha luphore somethi.
 PL 1SG PROX river monitor.
-(We monitor the river.)
+(We monitor this river.)
 ```
 
 Watching does not prove cause, and it does not prove that protection is working. It authorizes no surveillance of people, and a community can act under real uncertainty while still saying plainly how the action will be watched, questioned, and changed.

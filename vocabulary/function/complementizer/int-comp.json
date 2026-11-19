@@ -18,11 +18,11 @@
   "examples": [
     {
       "phi": "mia pha shia to wepu pho phaelo.",
-      "translation": "I wonder whether they left."
+      "translation": "I wonder whether they went."
     },
     {
       "phi": "mia pha sua to wepu pho sano.",
-      "translation": "I know who left."
+      "translation": "I know who went."
     }
   ]
 }

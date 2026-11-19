@@ -164,13 +164,13 @@ A `hoshemi` hypothesis can propose a cause for a correlation or an account of em
 ```
 ha phialu ha terura koewi nai.
 PROX water PROX system input be.
-(The water is an input to this system.)
+(This water is an input to this system.)
 ```
 
 ```
 ha kenua ha terura thirulo nai.
 PROX energy PROX system output be.
-(The energy is this system's output.)
+(This energy is this system's output.)
 ```
 
 `sekaru` is movement from a source toward a recipient. Flowing, carrying, sending, and transferring can all describe pieces of the same event, but none of them alone proves the whole amount arrived unchanged.
@@ -194,7 +194,7 @@ PROX component charge hold.
 ```
 ha sephaki selu.
 PROX current flow.
-(The electric current flows.)
+(This electric current flows.)
 ```
 
 `poweshi` identifies voltage, the electrical potential difference between two stated points. `phoselu` is technical power, the rate at which energy is transferred or converted. A battery may hold much `kenua` energy and still deliver little `phoselu`; a voltage reading may be present while the device does no useful work.
@@ -222,7 +222,7 @@ A `kirowi` is a detectable variation read as information, and its source, medium
 ```
 ha kirowi ha terura mirela shelo.
 PROX signal PROX system state signify.
-(This signal indicates the system's state.)
+(This signal indicates this system's state.)
 ```
 
 `ketora` stays inside the technical fence: adjusting a process or a variable, never a person. `turelo` needs a real return: something about a later output or state has to reach back and change what came before it. A circular diagram is not yet feedback until something actually loops back and shifts course.
@@ -236,7 +236,7 @@ PROX component water flow control.
 ```
 ha turelo ha ketora helui.
 PROX feedback PROX control change.
-(This feedback changes the control.)
+(This feedback changes this control.)
 ```
 
 `naropu` feedforward changes control from an observed or expected input before the resulting output returns. A cistern controller may reduce incoming flow after an upstream rain report instead of waiting for the water level itself to rise. Prediction supplies an expectation; feedforward begins when that expectation changes the control.
@@ -244,7 +244,7 @@ PROX feedback PROX control change.
 ```
 ha naropu ha ketora helui.
 PROX feedforward PROX control change.
-(This feedforward changes the control.)
+(This feedforward changes this control.)
 ```
 
 ## Capacity, load, storage, and efficiency
@@ -262,7 +262,7 @@ PROX record PROX system capacity describe.
 ```
 ha takori nela ha henora sharoi.
 PROX load COORD PROX capacity exceed.
-(This load exceeds the capacity.)
+(This load exceeds this capacity.)
 ```
 
 `phelure` retains something for later retrieval, and the verb alone leaves open whether the store has room, keeps its contents safe, or belongs to anyone in particular.
@@ -302,7 +302,7 @@ A `seluwhe` is the stretch of unavailable service a user actually experiences. A
 ```
 ha seluwhe mosha teku nai.
 PROX outage period short be.
-(The outage period is short.)
+(This outage period is short.)
 ```
 
 ## Calibration, inspection, and specifications
@@ -326,7 +326,7 @@ mia ha terura nilaki.
 ```
 ha kisholu ha henora thelima.
 PROX specification PROX capacity describe.
-(This specification describes the capacity.)
+(This specification describes this capacity.)
 ```
 
 ## Hazards, redundancy, and reliability

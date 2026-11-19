@@ -148,7 +148,7 @@ DECL.COMP PROX infection contagious NEG be DECL.COMP.CLOSE POT be.
 ```
 ha kaworu thephaku phelu.
 PROX injury inflammation hold.
-(The injury has inflammation.)
+(This injury has inflammation.)
 ```
 
 `suloru` is fever against a stated reference, for this person, at this site, by this method. The exact reading and its threshold belong to the record.
@@ -174,7 +174,7 @@ PROX injury acute be.
 ```
 lo mia ha pelaku kisome.
 PL 1SG PROX severity assess.
-(We assess the severity.)
+(We assess this severity.)
 ```
 
 Urgency is yet another question. A mild condition can call for immediate action; a severe chronic burden can go too long without serious attention. Naming the time relation keeps `pelaku` from quietly deciding it.
@@ -196,7 +196,7 @@ A diagnosis can be provisional, differential, revised, or disputed, and the exac
 ```
 shia ha wireki lilea.
 3SG PROX prognosis clarify.
-(They clarify the prognosis.)
+(They clarify this prognosis.)
 ```
 
 `soranu` looks across people for possible need, usually before any diagnosis. A screening has a purpose, a method, and a follow-up path. Participation requires its own consent; the screening supplies none.
@@ -244,7 +244,7 @@ A care conversation can keep its parts visible. The record and its meaning come 
 ```
 ha nepha porewi phelu.
 PROX medicine side effect hold.
-(The medicine has a side effect.)
+(This medicine has a side effect.)
 ```
 
 ```
@@ -298,7 +298,7 @@ Remission, recurrence, cure, and response remain explicit claims about findings,
 ```
 ha peshiro thue phialu po sewaro.
 PROX infection THROUGH water POT transmit.
-(The infection may transmit through water.)
+(This infection may transmit through water.)
 ```
 
 ```
@@ -342,7 +342,7 @@ shia miso sonari.
 ```
 ha punoki shia teshori.
 PROX institution 3SG quarantine.
-(The institution quarantines them.)
+(This institution quarantines them.)
 ```
 
 `kithawu` orders care under real constraints, and the ordering answers to stated criteria that can be examined and argued with. What it must never become is a ranking of who deserves to live.
