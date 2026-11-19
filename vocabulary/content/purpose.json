@@ -18,8 +18,8 @@
   "usage_notes": "The person, object, or activity whose purpose is meant precedes the noun, as in 'keli porua' (device purpose). A purpose may be personal, shared, assigned, contested, or discovered in use. Fulfilling it still requires a stated criterion.",
   "examples": [
     {
-      "phi": "ha keli porua nai.",
-      "translation": "This is the device's purpose."
+      "phi": "ha keli porua nuwi nai.",
+      "translation": "This device's purpose is clear."
     }
   ],
   "pillars": {

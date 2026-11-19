@@ -6,7 +6,7 @@ Phi uses complementizer frames for clauses that occupy an argument position. Cla
 
 ## Clause relators
 
-**pheo**, **phoe**, **lao**, **shai**, and **lila** precede a dependent clause, which is followed by the main clause:
+**pheo**, **phoe**, **whau**, **lao**, **shai**, and **lila** precede a dependent clause, which is followed by the main clause:
 
 `[relator] [dependent clause] [main clause]`
 
@@ -16,7 +16,7 @@ BECAUSE 3SG PST go 1SG sadness feel.
 (Because they left, I feel sadness.)
 ```
 
-The verb **wepu** completes the reason introduced by **lao**. The main clause, **mia nuhe phaelo**, states what that reason explains. Purpose keeps the same order: **lila** opens the intended outcome before the action it explains. Chapter 19 closes with all five relators.
+The verb **wepu** completes the reason introduced by **lao**. The main clause, **mia nuhe phaelo**, states what that reason explains. Purpose keeps the same order: **lila** opens the intended outcome before the action it explains. Chapter 19 closes with all six relators.
 
 ## Complementizer frames
 

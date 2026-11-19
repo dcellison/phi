@@ -503,7 +503,7 @@ def colophon_page(body):
 SHORT_ROAD_SECTION_TITLES = (
     "Let the vowels finish",
     "One organizing principle",
-    "Thirty-five particles keep their places",
+    "Thirty-eight particles keep their places",
     "The question stands where the answer will",
     "Count in threes",
     "The day follows the sky",

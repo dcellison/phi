@@ -145,7 +145,7 @@ The middle of the frequency range quantifies *shemu*, moments. Its ends quantify
 
 ## The day, lived
 
-The journal practice of chapter 23 uses these words, and the evidentiality pamphlet's journal of sources uses them too:
+The journal practice of chapter 22 uses these words, and the evidentiality pamphlet's journal of sources uses them too:
 
 ```
 lopia sui philo to wile.
