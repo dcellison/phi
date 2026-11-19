@@ -52,6 +52,16 @@ class ProductiveNameFormTests(unittest.TestCase):
         self.assertTrue(name_forms.form_errors("sawerikona"))
         self.assertTrue(name_forms.form_errors("amina"))
 
+    def test_doubled_vowel_is_prohibited(self):
+        self.assertTrue(name_forms.form_errors("kaali"))
+        self.assertTrue(name_forms.form_errors("samiira"))
+        self.assertFalse(name_forms.form_errors("kaeli"))
+        self.assertIn(
+            "doubled vowel 'aa' (a vowel pair is two distinct vowels)",
+            validate_examples.check_word_phonology("kaali"),
+        )
+        self.assertEqual(validate_examples.check_word_phonology("kaeli"), [])
+
     def test_duplicated_syllables_remain_prohibited(self):
         self.assertTrue(name_forms.form_errors("mimimi"))
         self.assertTrue(name_forms.form_errors("toronoto"))
