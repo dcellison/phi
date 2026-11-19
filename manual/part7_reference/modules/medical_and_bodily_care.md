@@ -138,9 +138,9 @@ PROX disease chronic be.
 ```
 
 ```
-ha peshiro welathi ma nai.
-PROX infection contagious NEG be.
-(This infection is not contagious.)
+tha ha peshiro welathi ma nai tho po nai.
+DECL.COMP PROX infection contagious NEG be DECL.COMP.CLOSE POT be.
+(This infection may not be contagious.)
 ```
 
 `thephaku` is the body answering, not the invader: infection can raise it, but so can injury and the immune system's own work.

@@ -96,6 +96,14 @@ mia tha thia tha shia to wepu tho phaelo tho shelomu.
 (I understand that you feel that they left.)
 ```
 
+**A frame before `nai`**: a frame may stand with no subject before `nai`, which then asserts that the framed condition holds. With `po` on that outer `nai` it is the possibility frame, the settled way to say "may not" when the negative is what is possible:
+```
+tha shia so ma shua tho po nai.
+DECL.COMP 3SG FUT NEG come DECL.COMP.CLOSE POT be.
+(It may be that they will not come. They may not come.)
+```
+Negation stays in the inner stack and possibility in the outer one, so neither particle leaves its rank.
+
 **Comparison with `sha`/`sho`**:
 - `shia sha mia wepu sho to haolu` = They said: "I'm leaving." (exact words)
 - `shia tha thia to wepu tho to haolu` = They said that you left. (reported content)

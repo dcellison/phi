@@ -684,7 +684,7 @@
       "variant": "lesson"
     },
     "pamphlets/three_slots/05_slot_1_evidence_modality.md": {
-      "shape": "h1,3,3,3,3;t2x4;f3,11;q-;u2;o6;r0;s1",
+      "shape": "h1,3,3,3,3;t2x4;f3,11;q-;u2;o7;r0;s1",
       "variant": "lesson"
     },
     "pamphlets/three_slots/06_the_stack.md": {
@@ -696,7 +696,7 @@
       "variant": "lesson"
     },
     "pamphlets/three_slots/08_the_interaction_tables.md": {
-      "shape": "h1,3,3,3,3,3;t2x10,2x8,3x6,2x8;f-;q-;u-;o12;r0;s1",
+      "shape": "h1,3,3,3,3,3;t2x10,2x9,3x6,2x8;f-;q-;u-;o12;r0;s1",
       "variant": "tables"
     },
     "pamphlets/three_slots/09_one_sentence_grown.md": {
@@ -704,7 +704,7 @@
       "variant": "scenario"
     },
     "pamphlets/three_slots/10_common_errors.md": {
-      "shape": "h1,3,3,3,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "shape": "h1,3,3,3,3,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
       "variant": "errors"
     },
     "pamphlets/three_slots/11_exercises.md": {

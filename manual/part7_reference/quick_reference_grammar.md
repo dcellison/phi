@@ -21,6 +21,7 @@ Notation: the diagrams use square brackets to show the span of a slot, constitue
 | Conditional | lu A. B | `lu thia naphe. mia towe phaelo.` (If you help, I feel well.) |
 | Wish | su + statement | `su sila towe nai.` (May the community be well.) |
 | Need not | S lila V ralu nai | `thia lila wepu ralu nai.` (You need not go.) |
+| May not | tha [negated clause] tho po nai | `tha shia so ma shua tho po nai.` (They might not come.) |
 
 Phi uses periods only: no commas, question marks, or exclamation marks. Punctuation is spoken (`wa`, `sha…sho`, `kona`, the closers, `ne`), and pauses are free. Source material outside a Phi passage retains the script, punctuation, and case of its own medium. Topic-drop: an established subject may be omitted.
 

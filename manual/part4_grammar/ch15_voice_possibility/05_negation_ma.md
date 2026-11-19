@@ -67,6 +67,20 @@ thia lila wepu ralu nai.
 
 The construction leaves going and refraining available. It is longer than a modal pair because it makes freedom, rather than denied necessity, the predicate.
 
+## May not
+
+English "may not" does two jobs. In "you may not enter" it withholds permission, and Phi says that with **po ma**. In "rain may not fall" it leaves room for the negative. **po ma** cannot say that, because **ma** stands last in the stack and denies whatever possibility comes before it.
+
+Phi gives the two particles a clause each. The negated statement goes inside the declarative frame **tha ... tho**, and **po** stays outside with **nai**:
+
+```
+tha pheralu ma lepa tho po nai.
+DECL.COMP rain NEG fall DECL.COMP.CLOSE POT be.
+(It may be that rain does not fall. Rain may not fall.)
+```
+
+**pheralu po lepa** says rain may fall, and **pheralu po ma lepa** says it cannot. The framed sentence makes a third claim: rain may fail to fall. English "not necessarily" makes that claim too, and takes the same frame.
+
 ## What negation leaves open
 
 Negating one predicate leaves the rest open. **mia ma nulae** says that I do not sleep; work, wakeful rest, and an inability to sleep are all still possible. **pheralu ma lepa** denies falling rain without promising a clear sky. A second clause names what remains when that matters.

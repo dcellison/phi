@@ -111,6 +111,10 @@ With a modal, the fixed order carries settled meanings: **po ma** is "cannot," a
 
 **thia lila wepu ralu nai.** — You need not go. Literally, you are free with regard to going.
 
+The possibility of a negative leaves the particles in place too. It takes two clauses, one for each particle:
+
+**tha shia so ma shua tho po nai.** — They might not come. Literally, it may be that they will not come.
+
 ## Reading a stack
 
 **mia to si ke po ma nila.** — I infer that I was unable to see while the event was in progress.

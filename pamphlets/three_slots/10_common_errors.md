@@ -64,7 +64,13 @@ The sentence says that the water was not given without identifying a giver. That
 
 This says, "I did not cause the child to sleep." It does not say whether the child slept for another reason. Negation applies to the causal relation expressed by `ka`; the caused event remains open.
 
-### Error 10: treating Slot 2 as a one-word slot
+### Error 10: reading `po ma` as "may not"
+
+**Form:** `melu po ma shua.`
+
+`po ma` denies possibility, so the sentence means that the friend cannot come. A learner thinking in English "may not" may have meant less: that the friend's absence is possible. Swapping the particles does not get there, since negation is the last rank and `ma po` is refused. The weaker claim takes the frame: `tha melu ma shua tho po nai.`
+
+### Error 11: treating Slot 2 as a one-word slot
 
 **Form:** `li ha lo melu`
 

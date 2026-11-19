@@ -31,6 +31,7 @@ Phi's particle grammar is closed. Its combinations follow the inventories and or
 | `na ma` | must not; necessity applies to refraining |
 | `ka ma` | causation denied; the caused event remains open |
 | need not | expressed with the freedom construction, not reordered particles |
+| may not | `po` on an outer `nai`, over a negated clause framed by `tha ... tho`; `ma po` is not licensed |
 
 Tense and aspect combine compositionally: `to ki`, `so ki`, `to si`, `so si`, `to ro`, and `so ro` all follow the same order. The same rule extends across the remaining ranks. A sequence such as `to si ke po ma` is legal if one event truly needs every distinction.
 

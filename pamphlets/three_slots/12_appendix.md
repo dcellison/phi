@@ -38,7 +38,7 @@ The documented combined forms are `pi wa`, `pi no`, and `lu he`. Other multiple 
 | modality | `na` | NEC | necessity or obligation; `na ma` means must not |
 | negation | `ma` | NEG | negates the verb phrase and follows every other rank |
 
-Each rank permits one particle. The sole same-rank pair is `se ka`, in that order. `ka ma` denies causation without asserting or denying the caused event. Need not takes the corresponding freedom construction, such as `thia lila wepu ralu nai.`
+Each rank permits one particle. The sole same-rank pair is `se ka`, in that order. `ka ma` denies causation without asserting or denying the caused event. Need not takes the corresponding freedom construction, such as `thia lila wepu ralu nai.` May not, when the negative is what is possible, takes a framed clause with `po` outside it: `tha melu ma shua tho po nai.`
 
 ### Slot 2: constituent
 

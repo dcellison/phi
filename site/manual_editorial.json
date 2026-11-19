@@ -430,7 +430,7 @@
       "variant": "standard"
     },
     "manual/part4_grammar/ch15_voice_possibility/05_negation_ma.md": {
-      "shape": "h1,2,2,2,2,2;t2x4;f3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2;t2x4;f3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch16_evidentiality/01_introduction.md": {
@@ -586,7 +586,7 @@
       "variant": "standard"
     },
     "manual/part7_reference/quick_reference_grammar.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2,2;t3x9,3x3,3x6;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2;t3x10,3x3,3x6;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part7_reference/sample_texts.md": {
