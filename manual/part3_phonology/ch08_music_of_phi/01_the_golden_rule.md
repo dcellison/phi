@@ -37,4 +37,6 @@ Record a few attempts if hearing the boundary from inside the word proves diffic
 
 Phi permits a pair of adjacent vowels but never a sequence of three or more. The hypothetical *maou* would have three consecutive vowels and is therefore not a possible Phi form. A consonant onset must follow a vowel pair before another vowel can appear.
 
+The two vowels of a pair are always different. No Phi word or name doubles a vowel. A form like *kaa* would ask for two syllables of the same sound with nothing between them, and the ear would hear one long vowel where the spelling promised two.
+
 The constraint belongs to Phi word formation. Other languages and their speakers are free to pronounce longer vowel sequences; this sound system simply does not build words from them.

@@ -74,6 +74,9 @@ As stated in 1.4, all Vowel Pairs (`P`) are pronounced in hiatus. This means the
 | `CP` | `nau` (/ˈn̪ä.u/) | `CVP` | `maou` (`a` + `ou`) |
 | `CVC` + `P` | `nelau` (/n̪e̞.ˈlä.u/) | `CPV` | `naui` (`au` + `i`) |
 
+### 3.3. No Doubled Vowel
+- **Strictly Forbidden:** A vowel never follows itself. The sequences `aa`, `ee`, `ii`, `oo`, and `uu` occur in no lexicon word and no productive name-form.
+- **Reason:** Phi has no long vowels. Two adjacent syllables of one vowel quality, with no onset between them, could not be told from a single long vowel, so the twenty pairs in 1.4 are the complete set.
 
 ## 4. Word-Level Constraints
 
