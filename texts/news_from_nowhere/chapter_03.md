@@ -202,9 +202,9 @@ morris: "though I could not help noticing that they looked askance at my garment
 ## kelua nurome — The breakfast
 
 ```
-ne selomi ta sola wi phelui to loa. pheo thena lo miona wei lo mia to reshi riola.
-NAME selomi one DISJ two word PST give. POST thing PL person DAT PL 1SG PST fast labor.
-(Weaver offered a word or two, and then they quickly set to work for us.)
+pheo ne selomi ta sola wi phelui to loa lo miona wei lo mia to reshi riola.
+POST NAME selomi one DISJ two word PST give PL person DAT PL 1SG PST fast labor.
+(After Weaver gave a word or two, the people worked quickly for us.)
 morris: "A word or two from Robert the weaver, and they bustled about on our behoof,"
 
 pheo teku shemu lo miona lo mia lo manuwe to pilu. lo miona lo mia kau whu mua lona lokue mo ko loshi phanoi whano wonepa to kulo.
@@ -1093,9 +1093,9 @@ ADD POST PL person DAT 3SG PL inquire respond 3SG DAT 1SG POT CMPR good respond.
 (Besides, once people have answered their questions, they may answer mine better.")
 morris: "Besides, perhaps he will be the better able to answer _my_ questions after his own have been answered.\""
 
-pheo thena shia to rato. shia miso mue lona lokue to ka roke.
-POST thing 3SG PST turn. 3SG REFL OUT.OF meeting place PST CAUS move.
-(Then they turned and swung themselves out of the hall.)
+shia mua ra shemu to rato. shia mue lona lokue miso to ka roke.
+3SG LOC DIST moment PST turn. 3SG OUT.OF meeting place REFL PST CAUS move.
+(At that moment they turned. They took themself out of the hall.)
 morris: "And therewith he turned and swung himself out of the hall."
 ```
 

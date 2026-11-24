@@ -109,14 +109,14 @@ The headcount and its consequence occupy separate sentences. Additive `sheno` op
 ### nurako — The railway
 
 ```
-pheo thena kohura mosha to nai.
-POST thing noise period PST be.
-(After that, there was a period of noise.)
+pheo shia ha to haolu kohura mosha to nai.
+POST 3SG PROX PST speak noise period PST be.
+(After they had said this, there was a period of noise.)
 morris: "after which befel a period of noise,"
 
-pheo thena maeli mosha to nai.
-POST thing quiet period PST be.
-(After that, there was a quiet interval.)
+maeli mosha to nai.
+quiet period PST be.
+(There was a period of quiet.)
 morris: "and then a lull,"
 
 shia sui maeli wei lo melu sha pao sho to ru noeli haolu.
@@ -190,7 +190,7 @@ walk path ABL railway place ALL 3SG home short PST be. 3SG home BESIDE river ATT
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge."
 ```
 
-**Notes:** `pheo thena` carries the sequence from the outburst to a period of noise and then to a quiet interval. During that lull the man explicitly says `pao`, goodbye, to his friends, and `ru noeli` makes the farewell very warm. `sonu` modifies his going, so Morris says that he travelled by himself rather than that he was otherwise alone. His home is in `whalo silawo sileta lumae phanoi`, the western part of the great town: enough to place a suburb without asking Phi for London's administrative vocabulary.
+**Notes:** `pheo` holds the outburst as the earlier event (`pheo shia ha to haolu`, after he had said this), and the period of noise follows it. The quiet interval needs no relator, since narrative order already puts it after the noise. During that lull the man explicitly says `pao`, goodbye, to his friends, and `ru noeli` makes the farewell very warm. `sonu` modifies his going, so Morris says that he travelled by himself rather than that he was otherwise alone. His home is in `whalo silawo sileta lumae phanoi`, the western part of the great town: enough to place a suburb without asking Phi for London's administrative vocabulary.
 
 Morris calls railway travel something civilisation has forced upon "us." Phi keeps that pronoun: society coerced `lo mia`, and the railway journey became habitual. The man then sits in a carriage of `whu phou muila wepu nurako`, the railway that runs below the earth. Morris's vapour-bath survives as `sulae heshowa sawa lokue`, a warm vapour-washing place. Hurried and discontented people crowd around him, and he shares both their heat and their discontent.
 
@@ -421,14 +421,14 @@ PL thread DAT 3SG INTO REL 3SG amused CAUS become story REFL INCH weave.
 (The threads began to weave themselves into a story that amused them.)
 morris: "began to shape themselves into an amusing story for him."
 
-shia ta teli haoni ki hea. pheo thena shia wi teli haoni ki hea. pheo thena shia ta shao teli haoni ki hea.
-3SG one bell voice PFV hear. POST thing 3SG two bell voice PFV hear. POST thing 3SG one three-group bell voice PFV hear.
-(They heard the bell sound once, then twice, then three times.)
+shia teli ta haoni to hea. shia teli wi haoni to hea. shia teli ta shao haoni to hea.
+3SG bell one voice PST hear. 3SG bell two voice PST hear. 3SG bell one three-group voice PST hear.
+(They heard one voice of the bell. They heard two voices of the bell. They heard three voices of the bell.)
 morris: "He heard one o'clock strike, then two and then three;"
 
-pheo thena shia we to pa nulae.
-POST thing 3SG ALSO PST INCH sleep.
-(After that, they slept again.)
+pheo shia ha ki hea shia we to pa nulae.
+POST 3SG PROX PFV hear 3SG ALSO PST INCH sleep.
+(After they had heard this, they also fell asleep.)
 morris: "after which he fell asleep again."
 ```
 
@@ -436,7 +436,7 @@ morris: "after which he fell asleep again."
 
 Morris then widens from one sleepless man to all of us. The condition is `kuewa`, strange, and `ru waeli`, thoroughly awake, even for a good sleeper. In this use, English "curiously" means strangely; `kuelo` would instead describe an inquisitive state. What makes the condition so unnerving follows: every `remori`, reasoning faculty, feels intensely sharp. Each miserable `remo tiwa`, confusion or thought-tangle, insists on presenting itself to that reason for consideration. One long coordination would turn `tiwa` into a predicate, so the shames and losses take their own sentence. The night appears to have kept records, though nobody recalls asking it to.
 
-The lying awake carries another parenthetical "says our friend," so `ti` returns. He stays there until he has nearly begun to `kaeli`, enjoy, the state. The story of his foolish acts then makes him `monelu`, amused. His entanglements become tied threads that weave themselves into an amusing story. Separate `pheo thena` clauses preserve the sequence of one, then two, then three voices of the bell without naming clock hours; Morris gives the exact hours in the source witness. Inchoative `pa` then brings the long night back to sleep. Mercifully, Morris does not ask the bell for a fourth opinion.
+The lying awake carries another parenthetical "says our friend," so `ti` returns. He stays there until he has nearly begun to `kaeli`, enjoy, the state. The story of his foolish acts then makes him `monelu`, amused. His entanglements become tied threads that weave themselves into an amusing story. The bell is counted, not timed: `teli ta haoni`, `teli wi haoni`, `teli ta shao haoni`, one voice of the bell, then two, then three, each in its own sentence and with no clock hour named; Morris gives the exact hours in the source witness. `pheo shia ha ki hea`, after he had heard this, and inchoative `pa` bring the long night back to sleep. Mercifully, Morris does not ask the bell for a fourth opinion.
 
 ## The report continues
 
@@ -446,9 +446,9 @@ friend DECL.COMP 3SG ABL DIST sleep ALSO PST awaken DECL.COMP.CLOSE speak.
 (The friend says that from that sleep they woke once more.)
 morris: "Our friend says that from that sleep he awoke once more,"
 
-pheo thena shia thue whu ru wakomi lo rulami to wepu.
-POST thing 3SG THROUGH REL INTS surprise PL adventure PST go.
-(After that, they went through truly surprising adventures.)
+pheo shia to nowae shia thue whu ru wakomi lo rulami to wepu.
+POST 3SG PST awaken 3SG THROUGH REL INTS surprise PL adventure PST go.
+(After they had woken, they went through very surprising adventures.)
 morris: "and afterwards went through such surprising adventures"
 
 shia tha lo thena wei lo mia wemi nela we theula miona se na shane tho remo.
