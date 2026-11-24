@@ -20,6 +20,16 @@ Phi needs ordinary, respectful language for sexual and reproductive anatomy. Con
 
 The effort will inventory existing body, birth, consent, and Medical vocabulary, then decide which distinctions belong in base vocabulary, an optional module, a registered compound, or separately preserved source terminology. Anatomy cannot be assigned to gender by default, and one common body cannot become the standard against which others are treated as deviations.
 
+### Adjacent repeated words
+
+Status: Open design question, raised by the maintainer on 2026-11-24 and deliberately left for a later discussion.
+
+The maintainer never intended a Phi word to stand directly beside itself and finds the repetition ugly. Canon carries only the narrow case: a subject pronoun is not said a second time to mark its own possession (not `mia mia melu`). Nothing else forbids the pattern, the validators accept it, and it entered the corpus without his knowledge.
+
+It arises in four ways. A pronoun subject meets the same pronoun as possessor or object (`shia shia rokai`, `mia mia riola`, `thia thia naseru`); *The Velveteen Rabbit* holds most of these, with others in *News from Nowhere* and *On Giving*. A name meets itself the same way (`ne tupiwa tupiwa`). Kinship stacks a term on itself, as in `phao phao phao` for a great-grandparent in *News from Nowhere*. The grammar itself produces the last kind: nested relatives open with `whu whu`, a headless relative sets a noun beside the same form used as its verb (`whu naphe naphe howela`), both taught in the Relative Clauses pamphlet, and two declarative frames opening together give `tha tha`, which a parser regression test pins.
+
+A ruling has to say whether the bar covers every adjacent repetition or only some of these kinds, and what replaces each one: a restructured clause, a new kinship word, a rule for nested frames. Several affected lines stand in certified translations, so each repair there needs fresh source-blind derivation, and a validator check should follow the ruling, not precede it.
+
 ## Parked corpus and tooling work
 
 ### Lexical relations between content words
