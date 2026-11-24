@@ -106,6 +106,10 @@ Degree is not comparison. **ru mioru** strengthens one description, while **mo m
 
 **li** restricts identity, not quantity. "Only three eggs" is stated as the exact count, or as a shortfall with **henoi ma nai** when insufficiency is the point. **we** and **li** do not stack on the same phrase.
 
+When either one applies to a verb, it stands before the whole verb phrase, Slot 1 particles included:
+
+**shia we to pa nulae.** — They also fell asleep.
+
 ## ne: name
 
 **ne** licenses the following atom as a proper designation:

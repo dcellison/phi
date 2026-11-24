@@ -170,9 +170,9 @@ mia sha wa mia kurathi thumiro lirowa nela thumiro keli po pilu sho to thilou.
 (I asked, "Could I take some dried smoke-leaf and a smoke-device?")
 morris: "Said I: \"Could I get some tobacco and a pipe?\""
 
-ne kulo sha lia. mia misa phoe ha thia ma thilou sho to haolu.
-NAME kulo QUOT.COMP yes. 1SG why ANT PROX 2SG NEG inquire QUOT.COMP.CLOSE PST speak.
-(Guide said, "Yes. Why did I not ask you about this before?")
+ne kulo sha lia. mia misa phoe ha shemu thia to ma thilou sho to haolu.
+NAME kulo QUOT.COMP yes. 1SG why ANT PROX moment 2SG PST NEG inquire QUOT.COMP.CLOSE PST speak.
+(Guide said, "Yes. Why did I not ask you before now?")
 morris: "\"Of course,\" said he; \"what was I thinking of, not asking you before?"
 
 melu ne selomi wei mia tha lo whu thumiro ma whunei miona kasuno nai tho ro shane. mia tha shia shewo nai tho sukima phaelo.
@@ -191,9 +191,9 @@ morris: "But come along; here is a place just handy.\""
 ## solai welisha whila nela nuelo haolu — Golden hair and dark speech
 
 ```
-ne kulo lo kalora tiwa to natu. shia lue rolutha to pakiro mulu roke. mia pheo shia to wepu.
-NAME kulo PL horse tie PST pull. 3SG ABL wagon PST sudden low move. 1SG POST 3SG PST go.
-(Guide pulled the reins and got down from the wagon without warning. I followed them.)
+ne kulo lo kalora tiwa to natu. shia lue rolutha to pakiro mulu roke. mia noe shia to wepu.
+NAME kulo PL horse tie PST pull. 3SG ABL wagon PST sudden low move. 1SG BEHIND 3SG PST go.
+(Guide pulled the horses' ties. They moved suddenly down from the wagon. I went behind them.)
 morris: "Therewith he drew rein and jumped down, and I followed."
 
 ta ru mioru miona sena phelu sileo wethalu to ru keru wenuha. whau shia phei lo mia to sheru thalo shia lo wira to nila.
@@ -428,9 +428,9 @@ PURP 1SG kind be 1SG PST lie. SIMUL 1SG PROX do different child PST return. 3SG 
 (I lied to be kind. While I did so, the other child returned carrying a large tray. On it, I saw a long bottle and two beautiful glass vessels.)
 morris: "As I told this lie from pure politeness, in came the lad again, with a tray in his hands, on which I saw a long flask and two beautiful glasses."
 
-shai shia lomea nilua nai ha lopia theula phelui to haolu. lopia sha kona lo phewani. lao phea lo thia phemi mawha philo mua ha lokue ro shua phoe lo thia wepu. pi no nua lo mia ta lopha milau sho to haolu.
-CONC 3SG sibling shy be PROX child UNIV word PST speak. child QUOT.COMP VOC PL neighbor. BECAUSE AS PL 2SG guest NONE day LOC PROX place HAB come ANT PL 2SG go. POL IMP COM PL 1SG one vessel drink QUOT.COMP.CLOSE PST speak.
-(Although their sibling was shy, this child did all the speaking. The child said, "Neighbours, guests like you never come to this place. Before you go, please drink the contents of one vessel with us.")
+shai shia lomea nilua nai ha lopia theula phelui to haolu. lopia sha kona lo phewani. lo whu phea lo thia nai phemi phina shemu kau ha lokue ro shua. pi no thelao phoe lo thia wepu nua lo mia ta lopha milau sho to haolu.
+CONC 3SG sibling shy be PROX child UNIV word PST speak. child QUOT.COMP VOC PL neighbor. PL REL AS PL 2SG be guest FEW moment ALL PROX place HAB come. POL IMP CONS ANT PL 2SG go COM PL 1SG one vessel drink QUOT.COMP.CLOSE PST speak.
+(Although their sibling was shy, this child spoke all the words. The child said, "Neighbors, guests like you rarely come to this place. So please, before you go, drink one glass with us.")
 morris: "\"Neighbours,\" said the girl (who did all the talking, her brother being very shy, clearly) \"please to drink a glass to us before you go, since we do not have guests like this every day.\""
 
 lopia nia wonepa whalo palu to thinu. shia muo wi laeno noru kurathi whelina welisha lureko milau to thesa seluto.

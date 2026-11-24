@@ -23,12 +23,12 @@ Certified: 8 of 10.
 |---|---|---|---|
 | lothea thole — The Practice of Love | [metta_sutta.md](../../texts/metta_sutta.md) | Certified | D105; [PR #693](https://github.com/dcellison/phi/pull/693); 36 units |
 | sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto | [solarpunk_manifesto.md](../../texts/solarpunk_manifesto.md) | Certified | D106; [PR #694](https://github.com/dcellison/phi/pull/694); 38 units |
-| nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D103; [PR #691](https://github.com/dcellison/phi/pull/691); 17 units |
+| nitho howeli nela sileta — The North Wind and the Sun | [north_wind_and_sun.md](../../texts/north_wind_and_sun.md) | Certified | D127; [PR #725](https://github.com/dcellison/phi/pull/725); 17 units |
 | theula miona — Article 1 of the Universal Declaration of Human Rights | [human_rights_article_one.md](../../texts/human_rights_article_one.md) | Certified | D108; [PR #697](https://github.com/dcellison/phi/pull/697); 2 units |
 | ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Certified | D109; [PR #698](https://github.com/dcellison/phi/pull/698); 9 units |
 | mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Certified | D107; [PR #696](https://github.com/dcellison/phi/pull/696); 4 units |
 | thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Certified | D110; [PR #699](https://github.com/dcellison/phi/pull/699); 5 units |
-| wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Certified | D124; [PR #723](https://github.com/dcellison/phi/pull/723); 426 units |
+| wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Certified | D127; [PR #725](https://github.com/dcellison/phi/pull/725); 426 units |
 | keiro — Selections from the Tao Te Ching | [tao_te_ching.md](../../texts/tao_te_ching.md) | Pending | Awaiting D102 certification. |
 | nulo sano korua — The Heart Sutra | [heart_sutra.md](../../texts/heart_sutra.md) | Pending | Awaiting D102 certification. |
 
@@ -92,18 +92,18 @@ da5fe1c281eb8716b2156db6088f8322edd2be0f132ecb929193233516a36eaf
 
 ### nitho howeli nela sileta — The North Wind and the Sun
 
-D103 certified this document in [PR #691](https://github.com/dcellison/phi/pull/691) on 2026-08-02. The freeze contains 17 aligned Phi units, and its `aesop` citations reconstruct 1,172 normalized source characters exactly. Two lines rejected during assembly were derived again from anonymous Phi units in a second source-blind context.
+D127 certified this document in [PR #725](https://github.com/dcellison/phi/pull/725) on 2026-11-24. The freeze contains 17 aligned Phi units, and its `aesop` citations reconstruct 1,172 normalized source characters exactly. Two lines rejected during assembly were derived again from anonymous Phi units in a second source-blind context. D103 first certified this text in PR #691 on 2026-08-02. The present record follows one unit, in which `pheo` over a bare `ha` gave way to plain narrative order; a fresh anonymous context derived that unit again and a second one checked it. The other sixteen units are unchanged.
 
 Frozen Phi SHA-256:
 
 ```text
-63fbc9282fe0651f27f18107ad34914e2358be446301e1bdf08f638d9296f470
+aba22ae4df1dbe7864f177cfc8ecd13b45ac6610ecc3cc91c28e09217deddc72
 ```
 
 Published aligned-layer SHA-256:
 
 ```text
-b82be806aaa23c52329448b61f622b39ea96c378df3edd21d73d12b81d314b25
+f6c7adac4b214b3b0672310eea209a17056d55ae14684e8d2cef7a9b59bd2025
 ```
 
 ### theula miona — Article 1 of the Universal Declaration of Human Rights
@@ -172,18 +172,18 @@ Published aligned-layer SHA-256:
 
 ### wuloe wetha tupiwa — The Velveteen Rabbit
 
-D124 certified this document in [PR #723](https://github.com/dcellison/phi/pull/723) on 2026-11-24. The freeze contains 426 aligned Phi units, and its `williams` citations reconstruct 20,296 normalized source characters exactly. D111 first certified this text in PR #700 on 2026-08-03 from a complete fresh derivation with targeted repairs. The present record follows a five-unit repair that removes `pheo` standing over the bare noun `thena`. The affected glosses and English were discarded, fresh anonymous contexts derived and independently checked every repaired unit, and one unit took a second repair and a second fresh derivation after that check. The other 421 units are unchanged.
+D127 certified this document in [PR #725](https://github.com/dcellison/phi/pull/725) on 2026-11-24. The freeze contains 426 aligned Phi units, and its `williams` citations reconstruct 20,296 normalized source characters exactly. D111 first certified this text in PR #700 on 2026-08-03 from a complete fresh derivation with targeted repairs, and D124 recertified it in PR #723 after a five-unit repair of `pheo` over the bare noun `thena`. The present record follows six further units: `pheo` over a meal noun and `phoe` over a bare demonstrative become clauses, and four neighbouring units that source-blind readers had doubted are repaired. The affected glosses and English were discarded, fresh anonymous contexts derived and independently checked every repaired unit, and one unit took a second repair and a second fresh derivation. The other 415 units are unchanged since D111.
 
 Frozen Phi SHA-256:
 
 ```text
-f4cec7944b16a4d42b6aeb07436793d190a5a10e1bed1b91f88a87b8dbac018a
+0ccac8acbb49729339d063dd52218c57e9e85d382974627f876c0820a597fa7a
 ```
 
 Published aligned-layer SHA-256:
 
 ```text
-34af937bc307ce5019a21f99e893362d590084e627f054627e57dd07c6aa8526
+bb01401a20fc1adc230e7e78487834c452d6e2f73390c0614d5bfd0048e08049
 ```
 
 ### lothea — On Love

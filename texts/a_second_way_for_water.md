@@ -87,17 +87,17 @@ pelori phialu to milau. tuleno sio weoli to manolu. nireku leo melothe to wapi.
 bird water PST drink. frog BESIDE reed PST stay. insect ABOVE pond PST fly.
 (A bird drank from the water. The frog stayed beside the reeds. An insect flew over the pond.)
 
-ne samira pheo ha somela shoeka to thalo. shoeka lue pukate wea koshira kurathi to nai.
-NAME samira POST PROX observe route PST walk. route ABL break TOWARD grove dry PST be.
-(After watching the pond, samira followed the channel. From the break to the grove, it was dry.)
+pheo ne samira ha to somela shia shoeka to thalo. shoeka lue pukate wea koshira kurathi to nai.
+POST NAME samira PROX PST observe 3SG route PST walk. route ABL break TOWARD grove dry PST be.
+(After samira had observed this, they walked the route. From the break toward the grove, the route was dry.)
 
 phialu mua shoeka to ma selu. ne samira mua limu shiro tumeki muila to palo.
 water LOC route PST NEG flow. NAME samira LOC young tree root earth PST touch.
 (No water flowed through that part of the channel. samira touched the earth at the young trees' roots.)
 
-ne samira nia kurathi muila manuwe to thinu. shia pheo ha nia wirua muila manuwe to thinu.
-NAME samira ON dry earth hand PST put. 3SG POST PROX ON wet earth hand PST put.
-(samira placed a hand on the dry earth. Afterwards, they laid it on the wet earth.)
+ne samira nia kurathi muila manuwe to thinu. shia we nia wirua muila manuwe to thinu.
+NAME samira ON dry earth hand PST put. 3SG ALSO ON wet earth hand PST put.
+(samira put their hand on the dry earth. They put their hand on wet earth too.)
 
 muila kethua to nai. limu shiro lirowa mulu to nai. soli lirowa to pa kureno.
 earth hard PST be. young tree leaf low PST be. SOME leaf PST INCH wither.
@@ -271,9 +271,9 @@ lo miona wirua mueri to pumeli. lo shia roe ha mueri pukate to whori.
 PL person wet clay PST knead. PL 3SG INS PROX clay break PST mend.
 (They kneaded wet clay. With it, they mended the break.)
 
-mueri pheo pumeli sulae to kelu. muphia nia lo miona manuwe to nai.
-clay POST knead warm PST become. mud ON PL person hand PST be.
-(The clay grew warm after kneading. Mud was on the people's hands.)
+pheo mueri to se pumeli mueri sulae to kelu. muphia nia lo miona manuwe to nai.
+POST clay PST PASS knead clay warm PST become. mud ON PL person hand PST be.
+(After the clay had been kneaded, the clay became warm. Mud was on the people's hands.)
 
 toru whori miona lue serao toru mueta to thola. lopia thiku mueta to kolua.
 roof mend person ABL old roof ceramic PST bring. child small ceramic PST carry.

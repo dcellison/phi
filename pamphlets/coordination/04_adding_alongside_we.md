@@ -28,6 +28,16 @@ NAME sulae come. NAME siora ALSO come.
 
 Here the second sentence adds siora's coming alongside sulae's, the shared action the point of the telling. One small word, two possible perches, and the listener hears from its position what has been placed beside what.
 
+When the verb brings a tense or aspect particle with it, `we` keeps to the edge of the whole verb phrase and the particles follow:
+
+```
+shia to therilu. shia we to pa nulae.
+3SG PST rest. 3SG ALSO PST INCH sleep.
+(They rested. They also fell asleep.)
+```
+
+The place between those particles and the verb is kept for a manner word, so `to we nulae` is not Phi.
+
 ### `we` and `nela`
 
 The two words answer different questions. `nela` stands between grammatical equals present in the same expression: `shiro nela peloru`, trees and flowers, both named now. `we` marks the new against the understood: the flowers were mentioned; now the trees arrive too. English "X and Y" usually calls for `nela`; "Y too" calls for `we`; and translating by relation rather than by word keeps each in its home.

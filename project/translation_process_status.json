@@ -46,19 +46,19 @@
       "path": "texts/north_wind_and_sun.md",
       "status": "certified",
       "certification": {
-        "decision": "D103",
-        "pull_request": 691,
-        "certified_on": "2026-08-02",
+        "decision": "D127",
+        "pull_request": 725,
+        "certified_on": "2026-11-24",
         "unit_count": 17,
-        "phi_sha256": "63fbc9282fe0651f27f18107ad34914e2358be446301e1bdf08f638d9296f470",
-        "aligned_sha256": "b82be806aaa23c52329448b61f622b39ea96c378df3edd21d73d12b81d314b25",
+        "phi_sha256": "aba22ae4df1dbe7864f177cfc8ecd13b45ac6610ecc3cc91c28e09217deddc72",
+        "aligned_sha256": "f6c7adac4b214b3b0672310eea209a17056d55ae14684e8d2cef7a9b59bd2025",
         "source_reconstruction": {
           "exact": true,
           "label": "aesop",
           "normalized_characters": 1172
         },
         "english_derivation": "fresh-source-blind-context",
-        "note": "Two lines rejected during assembly were derived again from anonymous Phi units in a second source-blind context."
+        "note": "Two lines rejected during assembly were derived again from anonymous Phi units in a second source-blind context. D103 first certified this text in PR #691 on 2026-08-02. The present record follows one unit, in which `pheo` over a bare `ha` gave way to plain narrative order; a fresh anonymous context derived that unit again and a second one checked it. The other sixteen units are unchanged."
       }
     },
     {
@@ -141,19 +141,19 @@
       "path": "texts/velveteen_rabbit.md",
       "status": "certified",
       "certification": {
-        "decision": "D124",
-        "pull_request": 723,
+        "decision": "D127",
+        "pull_request": 725,
         "certified_on": "2026-11-24",
         "unit_count": 426,
-        "phi_sha256": "f4cec7944b16a4d42b6aeb07436793d190a5a10e1bed1b91f88a87b8dbac018a",
-        "aligned_sha256": "34af937bc307ce5019a21f99e893362d590084e627f054627e57dd07c6aa8526",
+        "phi_sha256": "0ccac8acbb49729339d063dd52218c57e9e85d382974627f876c0820a597fa7a",
+        "aligned_sha256": "bb01401a20fc1adc230e7e78487834c452d6e2f73390c0614d5bfd0048e08049",
         "source_reconstruction": {
           "exact": true,
           "label": "williams",
           "normalized_characters": 20296
         },
         "english_derivation": "fresh-source-blind-context",
-        "note": "D111 first certified this text in PR #700 on 2026-08-03 from a complete fresh derivation with targeted repairs. The present record follows a five-unit repair that removes `pheo` standing over the bare noun `thena`. The affected glosses and English were discarded, fresh anonymous contexts derived and independently checked every repaired unit, and one unit took a second repair and a second fresh derivation after that check. The other 421 units are unchanged."
+        "note": "D111 first certified this text in PR #700 on 2026-08-03 from a complete fresh derivation with targeted repairs, and D124 recertified it in PR #723 after a five-unit repair of `pheo` over the bare noun `thena`. The present record follows six further units: `pheo` over a meal noun and `phoe` over a bare demonstrative become clauses, and four neighbouring units that source-blind readers had doubted are repaired. The affected glosses and English were discarded, fresh anonymous contexts derived and independently checked every repaired unit, and one unit took a second repair and a second fresh derivation. The other 415 units are unchanged since D111."
       }
     },
     {

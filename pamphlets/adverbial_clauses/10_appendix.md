@@ -4,8 +4,8 @@
 
 | Relator | Gloss | Relation | Frame holds | Over a noun phrase |
 |---|---|---|---|---|
-| `pheo` | POST | after | the earlier event | counted time: in two days, with `so` |
-| `phoe` | ANT | before | the later reference event | counted time: two days ago, with `to` |
+| `pheo` | POST | after | the earlier event | a time phrase: `pheo wi philo`, in two days, with `so` |
+| `phoe` | ANT | before | the later reference event | a time phrase: `phoe wi philo`, two days ago, with `to` |
 | `whau` | SIMUL | overlap | the event holding the span open | no: `sui` (DUR) takes the noun instead |
 | `lao` | BECAUSE | cause | the claimed reason | yes: because of |
 | `shai` | CONC | concession | the conceded circumstance | yes: despite |

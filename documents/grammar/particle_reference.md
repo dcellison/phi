@@ -364,6 +364,13 @@ RESTR 3SG understand.
 ```
 **Note**: `li` fences identity — who, which, when — never quantity; counts are stated exactly or with `henoi` (canon: *li is a fence, not a sigh*).
 
+**On a verb**: when `we` or `li` applies to the verb, it stands before the whole verb phrase, outside the Slot 1 block, and never between the block and the verb:
+```
+shia we to pa nulae.
+3SG ALSO PST INCH sleep.
+(They also fell asleep.)
+```
+
 ### Degree
 
 Four particles occupy the degree position, each standing directly in front of the word it measures. That word can be an adjective, a verb, or a noun with degrees of its own. One per phrase: they never stack with each other.

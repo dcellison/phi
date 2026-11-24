@@ -63,7 +63,7 @@ Every span, whatever its size, has *thorui* (beginning), *kesho* (middle), and *
 
 The near days compose from words you already know: *ha philo* (today), *luera philo* (yesterday), *wireo philo* (tomorrow). The primer's journal chapter dates its entries this way, and the compounds keep the tense system visible every time they are said.
 
-For distances beyond a day, *pheo* and *phoe* do the work. Chapter 19 will teach them as subordinators over clauses; with counted time phrases, they occupy the ordinary preposition-phrase position after the subject and before the object.
+For distances beyond a day, *pheo* and *phoe* do the work. Chapter 19 will teach them as subordinators over clauses; with time phrases, they occupy the ordinary preposition-phrase position after the subject and before the object.
 
 ```
 mia pheo wi philo so shua.

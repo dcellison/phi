@@ -24,7 +24,6 @@ PHL001	keru	primer/11_every_morning.md	1	sileta keru pa loa.
 PHL001	keru	texts/news_from_nowhere/chapter_02.md	1	sileta keru to keru loa.
 PHL001	kethua	texts/tao_te_ching.md	1	shai riola kethua se ma nila phewo riola kethua nila.
 PHL001	kolu	texts/a_second_way_for_water.md	1	weoli kolu to manolu.
-PHL001	kuewa	texts/news_from_nowhere/chapter_02.md	1	lo miona ha ru kuewa so nila.
 PHL001	laeno	texts/news_from_nowhere/chapter_03.md	1	leo lo wira roe whu se pharelo mueri lo miona kire laeno to wepu.
 PHL001	laeno	texts/news_from_nowhere/chapter_06.md	1	mia tha serao miona mo laeno po haolu tho to rinu.
 PHL001	laeno	texts/velveteen_rabbit.md	1	ne kalora sheo theula phirae wilemo mua lopia tholu mo laeno to ki liona.
@@ -109,7 +108,6 @@ PHL002	melu	texts/news_from_nowhere/chapter_02.md	1	mia newu melu mua ra shemu r
 PHL002	mia	texts/news_from_nowhere/chapter_03.md	1	lu thia mia tawi remo ka ma sano nela thia mia muo thia newu mioru sano ka ma wepu.
 PHL002	mia	texts/news_from_nowhere/chapter_03.md	1	mia tha shia mia phea la shelu riola miona nila tho sano.
 PHL002	mia	texts/news_from_nowhere/chapter_03.md	1	shia mia phea whu wi lau wi phoi wi shao wi torua phelu miona to ki nila.
-PHL002	miona	texts/news_from_nowhere/chapter_02.md	1	mia lo miona roa phialu we kolua.
 PHL002	miona	texts/news_from_nowhere/chapter_05.md	1	shia phirae miona wei pha roa ha remole lo mo ko welao shelu nai pho po reshi thilou.
 PHL002	miona	texts/news_from_nowhere/chapter_05.md	1	whekai mia lumani miona wei thia ha so mo solae.
 PHL002	mioru	texts/solarpunk_manifesto.md	1	shia keru welisha mioru nela phea muila patoku muralo mioru shemoli.
