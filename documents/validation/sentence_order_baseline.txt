@@ -22,7 +22,6 @@
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 
 PHL001	keloa	texts/news_from_nowhere/chapter_03.md	1	mua mia punoa theula rolutha ha keloa to ro phelu.
-PHL001	kema	texts/news_from_nowhere/chapter_01.md	1	mua shareo lumae soli phirae melu lo newu seroli punoa wireo remo ru kema to sherewa.
 PHL001	kema	texts/velveteen_rabbit.md	1	whekai ne lopia shia senao kema to lothea.
 PHL001	keru	primer/07_yesterday.md	1	thero keru to loa.
 PHL001	keru	primer/08_tomorrow.md	1	sileta keru so loa.
@@ -41,7 +40,6 @@ PHL001	mulu	texts/news_from_nowhere/chapter_04.md	1	shia mua womu po manolu sola
 PHL001	mulu	texts/velveteen_rabbit.md	1	sileta pheo soli shemu mo mulu to lepa.
 PHL001	nirelo	texts/news_from_nowhere/chapter_03.md	1	sheno lao mia lo miona weshoru ma nai siora nela welao korua to nila mia nirelo to phaelo.
 PHL001	nirelo	texts/news_from_nowhere/chapter_05.md	1	mua piloe shomelu mia ru nirelo to phaelo.
-PHL001	noeli	texts/news_from_nowhere/chapter_01.md	1	shai shareo thena punoa moluki nai shareo noeli to ti manolu.
 PHL001	noshi	texts/news_from_nowhere/chapter_05.md	1	lo miona mua ha lokue noshi ro sholei.
 PHL001	noshi	texts/news_from_nowhere/chapter_06.md	1	lo miona mua theula muila noshi ro menui.
 PHL001	noshi	texts/velveteen_rabbit.md	1	lo shia phea sulae nulo shelira noshi to whano.
@@ -126,14 +124,12 @@ PHL002	norea	texts/gibran/on_children.md	1	whekai lo shia lo norea mua wireo wom
 PHL002	norea	vocabulary/content/soul.json	1	lo shia norea mua wireo womu menui.
 PHL002	paloi	texts/velveteen_rabbit.md	1	lo shia paloi nia muila to wuloe thalo.
 PHL002	pelio	texts/news_from_nowhere/chapter_03.md	1	shia pelio leo meipa to ka ruemi.
-PHL002	phaelo	texts/news_from_nowhere/chapter_01.md	1	mia ra wemi lo phaelo sheo theula phirae muila miona mo shelomu.
 PHL002	phao	texts/news_from_nowhere/chapter_05.md	1	mia phao phao phao mua ta ro menui.
 PHL002	phao	texts/news_from_nowhere/chapter_06.md	1	shia sha mia phao mua lo shia limu thimu lo shia ro sano.
 PHL002	phelui	texts/news_from_nowhere/chapter_05.md	1	mia sha mia ra phelui phea limu miona thumela terura to shemui sho to haolu.
 PHL002	phemi	texts/news_from_nowhere/chapter_03.md	1	lo mia phemi wei thia nela thia lo nophi so manolu.
 PHL002	phewani	texts/news_from_nowhere/chapter_02.md	1	mia phewani mua ha lokue kamo lokue to ki lorima.
 PHL002	remo	texts/news_from_nowhere/chapter_05.md	1	lo shia lo remo wei sheloi riola loa.
-PHL002	rinu	texts/news_from_nowhere/chapter_01.md	1	mia shia lo rinu sheo theula phirae muila miona mo shelomu.
 PHL002	rokai	texts/velveteen_rabbit.md	1	shia rokai phea tisu molu lue ta thena to se pilewa.
 PHL002	seru	documents/evaluation/philosophical_test_corpus.md	1	thia seru wei thia kiru norae ma loa.
 PHL002	shao	texts/news_from_nowhere/chapter_02.md	1	lo mia ta shao himo wea phemi womu ponu to rato.
