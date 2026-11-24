@@ -227,7 +227,22 @@
     },
     {
       "path": "texts/news_from_nowhere/chapter_01.md",
-      "status": "pending"
+      "status": "certified",
+      "certification": {
+        "decision": "D129",
+        "pull_request": 727,
+        "certified_on": "2026-11-24",
+        "unit_count": 77,
+        "phi_sha256": "b8e2ae226d10405915618993bb9584d4e5974f537d88863ef5d9f12e8a9258ff",
+        "aligned_sha256": "16b58781e03b9222d28afa612bd2c09ce08a7070610e30d7684774670e857edc",
+        "source_reconstruction": {
+          "exact": true,
+          "label": "morris",
+          "normalized_characters": 5214
+        },
+        "english_derivation": "fresh-source-blind-context",
+        "note": "The source-to-Phi pass read all 77 units against Morris and repaired 30 under the rulings of D126 and D128: subject-first adjunct order, tense in dependent clauses, `miso` as possessor, past narration that had lost its `to`, and manner inside the Slot 1 block. Three fresh anonymous contexts then derived the complete frozen stream in order, and a fourth checked the 26 units of the risk queue and sample. That check led to five further repairs, three of them in units the first pass had left alone, which a fifth and a sixth context derived and checked."
+      }
     },
     {
       "path": "texts/news_from_nowhere/chapter_02.md",

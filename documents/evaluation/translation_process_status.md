@@ -10,9 +10,9 @@ A pending translation may still be accurate and carefully reviewed. Pending mean
 
 | State | Documents |
 |---|---:|
-| Certified | 11 |
+| Certified | 12 |
 | In progress | 0 |
-| Pending | 9 |
+| Pending | 8 |
 | Total | 20 |
 
 ## Short works
@@ -45,11 +45,11 @@ Certified: 3 of 4.
 
 ## nophi lue mawha lokue — News from Nowhere
 
-Certified: 0 of 6.
+Certified: 1 of 6.
 
 | Document | File | State | Record |
 |---|---|---|---|
-| nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed | [chapter_01.md](../../texts/news_from_nowhere/chapter_01.md) | Pending | Awaiting D102 certification. |
+| nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed | [chapter_01.md](../../texts/news_from_nowhere/chapter_01.md) | Certified | D129; [PR #727](https://github.com/dcellison/phi/pull/727); 77 units |
 | nophi lue mawha lokue — News from Nowhere, ch. 2: A Morning Bath | [chapter_02.md](../../texts/news_from_nowhere/chapter_02.md) | Pending | Awaiting D102 certification. |
 | nophi lue mawha lokue — News from Nowhere, ch. 3: The Guest House and Breakfast Therein | [chapter_03.md](../../texts/news_from_nowhere/chapter_03.md) | Pending | Awaiting D102 certification. |
 | nophi lue mawha lokue — News from Nowhere, ch. 4: A Market by the Way | [chapter_04.md](../../texts/news_from_nowhere/chapter_04.md) | Pending | Awaiting D102 certification. |
@@ -232,6 +232,22 @@ Published aligned-layer SHA-256:
 
 ```text
 261d6c12e19d5ee42fd6a5a2d26f9958f35de2099d0410f57c03f0a48089dd6d
+```
+
+### nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed
+
+D129 certified this document in [PR #727](https://github.com/dcellison/phi/pull/727) on 2026-11-24. The freeze contains 77 aligned Phi units, and its `morris` citations reconstruct 5,214 normalized source characters exactly. The source-to-Phi pass read all 77 units against Morris and repaired 30 under the rulings of D126 and D128: subject-first adjunct order, tense in dependent clauses, `miso` as possessor, past narration that had lost its `to`, and manner inside the Slot 1 block. Three fresh anonymous contexts then derived the complete frozen stream in order, and a fourth checked the 26 units of the risk queue and sample. That check led to five further repairs, three of them in units the first pass had left alone, which a fifth and a sixth context derived and checked.
+
+Frozen Phi SHA-256:
+
+```text
+b8e2ae226d10405915618993bb9584d4e5974f537d88863ef5d9f12e8a9258ff
+```
+
+Published aligned-layer SHA-256:
+
+```text
+16b58781e03b9222d28afa612bd2c09ce08a7070610e30d7684774670e857edc
 ```
 
 ## Maintaining the ledger
