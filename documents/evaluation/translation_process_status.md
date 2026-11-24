@@ -28,7 +28,7 @@ Certified: 8 of 10.
 | ta haluma — The Babel Text | [babel_text.md](../../texts/babel_text.md) | Certified | D109; [PR #698](https://github.com/dcellison/phi/pull/698); 9 units |
 | mophira nela lo kalora — Schleicher's Fable | [schleicher_fable.md](../../texts/schleicher_fable.md) | Certified | D107; [PR #696](https://github.com/dcellison/phi/pull/696); 4 units |
 | thiku miona lue silero — Selections from The Little Prince | [little_prince_excerpts.md](../../texts/little_prince_excerpts.md) | Certified | D110; [PR #699](https://github.com/dcellison/phi/pull/699); 5 units |
-| wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Certified | D111; [PR #700](https://github.com/dcellison/phi/pull/700); 426 units |
+| wuloe wetha tupiwa — The Velveteen Rabbit | [velveteen_rabbit.md](../../texts/velveteen_rabbit.md) | Certified | D124; [PR #723](https://github.com/dcellison/phi/pull/723); 426 units |
 | keiro — Selections from the Tao Te Ching | [tao_te_ching.md](../../texts/tao_te_ching.md) | Pending | Awaiting D102 certification. |
 | nulo sano korua — The Heart Sutra | [heart_sutra.md](../../texts/heart_sutra.md) | Pending | Awaiting D102 certification. |
 
@@ -172,18 +172,18 @@ Published aligned-layer SHA-256:
 
 ### wuloe wetha tupiwa — The Velveteen Rabbit
 
-D111 certified this document in [PR #700](https://github.com/dcellison/phi/pull/700) on 2026-08-03. The freeze contains 426 aligned Phi units, and its `williams` citations reconstruct 20,296 normalized source characters exactly. A fresh anonymous context derived the complete frozen stream. Independent source-blind review exposed further Phi faults; each affected English layer was discarded, and targeted fresh contexts derived and audited every repaired unit before publication.
+D124 certified this document in [PR #723](https://github.com/dcellison/phi/pull/723) on 2026-11-24. The freeze contains 426 aligned Phi units, and its `williams` citations reconstruct 20,296 normalized source characters exactly. D111 first certified this text in PR #700 on 2026-08-03 from a complete fresh derivation with targeted repairs. The present record follows a five-unit repair that removes `pheo` standing over the bare noun `thena`. The affected glosses and English were discarded, fresh anonymous contexts derived and independently checked every repaired unit, and one unit took a second repair and a second fresh derivation after that check. The other 421 units are unchanged.
 
 Frozen Phi SHA-256:
 
 ```text
-16597a3af79e10b9ff4e66638108da09e4c9fb6bce6ccd4d275ccb4b841c3f59
+f4cec7944b16a4d42b6aeb07436793d190a5a10e1bed1b91f88a87b8dbac018a
 ```
 
 Published aligned-layer SHA-256:
 
 ```text
-42ab9396fd582eb5a3d6970eaea221f80a6fb5c0707bfd351121095c15e272c5
+34af937bc307ce5019a21f99e893362d590084e627f054627e57dd07c6aa8526
 ```
 
 ### lothea — On Love

@@ -500,9 +500,9 @@ CONTR 1SG LOC wondrous PST quiet stay.
 (But I remained quiet in my wonder.)
 morris: "but held my peace in my wonder,"
 
-whau mia remo tiwa to phaelo mia wea sileta thorui lo mirae to rato. mia repha we to nila. pheo thena mia luphore lo kerime to nila.
-SIMUL 1SG think tie PST feel 1SG TOWARD sun beginning PL eye PST turn. 1SG bridge ALSO PST see. POST thing 1SG river PL shore PST see.
-(While my thoughts felt tangled, I turned my eyes eastward. I looked at the bridge again, then at the riverbanks.)
+whau mia remo tiwa to phaelo mia wea sileta thorui lo mirae to rato. mia repha we to nila. mia we luphore lo kerime to nila.
+SIMUL 1SG think tie PST feel 1SG TOWARD sun beginning PL eye PST turn. 1SG bridge ALSO PST see. 1SG ALSO river PL shore PST see.
+(While I felt puzzled, I turned my eyes toward the east. I also saw the bridge. I saw the banks of the river too.)
 morris: "and turned my bewildered eyes eastward to look at the bridge again, and thence to the shores of the London river;"
 
 whu mia wakomi thena henoi to nai.
@@ -816,9 +816,9 @@ mia kuewa miona nai. mia thia lo keno ma sano. mia thia lo thiku keluo thena we 
 (I am a stranger. I do not know your customs, nor do I know your little metal pieces.)
 morris: "You see I am a stranger, and don't know your customs--or your coins.\""
 
-pheo thena mia mue wethalu manuwe pheno lo thiku keluo thena to pilu.
-POST thing 1SG OUT.OF garment hand full PL small metal thing PST take.
-(Then I took a handful of the little metal pieces out of my garment.)
+mia mua ra shemu mue wethalu manuwe pheno lo thiku keluo thena to pilu.
+1SG LOC DIST moment OUT.OF garment hand full PL small metal thing PST take.
+(At that moment I took a handful of small metal things out of my clothing.)
 morris: "And therewith I took a handful of money out of my pocket,"
 
 mia phea whu mua kuewa muila laniru miona to phoa.
@@ -851,9 +851,9 @@ BECAUSE 3SG heart INTS sharp be 1SG INT.COMP COND 1SG DAT 3SG PL small metal thi
 (Because their mind was so sharp, I wondered whether, if I gave them the little metal pieces, they might agree to guide me for one or two days.)
 morris: "I wonder, by the way, whether I couldn't hire him as a guide for a day or two, since he is so intelligent."
 
-pheo thena mia newu melu roe nulo remo to haolu.
-POST thing 1SG new friend INS deep think PST speak.
-(My new friend then spoke thoughtfully:)
+mia newu melu mua ra shemu roe nulo remo to haolu.
+1SG new friend LOC DIST moment INS deep think PST speak.
+(At that moment my new friend spoke with deep thought.)
 morris: "Therewith my new friend said thoughtfully:"
 
 mia tha mia thia remo sano tho remo.
@@ -891,9 +891,9 @@ COND 1SG COM labor PL gift take. PL person PROX INTS strange FUT see.
 (If I took gifts along with the work, people would see that as very strange.)
 morris: "so to take gifts in connection with it would look very queer."
 
-lu sheno ta miona wei mia thena loa. wi miona so po loa. pheo thena lo mo miona so po loa.
-COND ADD one person DAT 1SG thing give. two person FUT POT give. POST thing PL CMPR person FUT POT give.
-(Besides, if one person gave me something, a second might, and then more might, and so on.)
+lu sheno ta miona wei mia thena loa. wi miona so po loa. lo mo miona so po loa.
+COND ADD one person DAT 1SG thing give. two person FUT POT give. PL CMPR person FUT POT give.
+(Besides, if one person gives me something, two people will be able to give. More people will be able to give.)
 morris: "Besides, if one person gave me something, then another might, and another, and so on;"
 
 mia pha mia kua sheloi melu halemu thena phelu pho so ma sano. su thia tha mia keloa nai tho ma remo.
