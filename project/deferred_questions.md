@@ -48,6 +48,25 @@ Status: Parked with the rest of the teaching pass, by the maintainer's instructi
 
 D134 added a thirty-ninth particle. Canon, the references, and the manual teach it. These pages still say thirty-eight or give a particle inventory without it: `short_road.md` (the section heading "Thirty-eight particles keep their places", which `scripts/build_site.py` also pins), `primer/30_this_one_only_this_one.md` and `primer/README.md`, the Three Slots pamphlet (`00_title.md`, the Slot 2 pages, and `12_appendix.md`), `pamphlets/README.md`, and `pamphlets/catalogue.json`. The primer teaches no lesson on `ku`, and the Pronouns and Relative Clauses pamphlets do not mention it.
 
+### Teaching pages that do not yet know `hia`
+
+Status: Parked with the rest of the teaching pass, by the maintainer's instruction of 2026-11-24 that the structural questions come first.
+
+D135 added a fourth core pronoun and stated that an unsaid subject is the subject of the sentence before. Canon, the entry, and the manual's pronoun chapter teach both. The Pronouns and Topic-Drop pamphlet still teaches three pronouns (`00_title.md`, `01_three_words_one_shape.md`, `07_the_dropped_subject.md`, the exercises, and the appendix), and the primer and the Short Road do not mention `hia`.
+
+### Text lines awaiting the reference sweep
+
+Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.
+
+D128 and D135 settle how Phi keeps third persons apart: `miso` for the subject's own, an unsaid subject for the same one continuing, `hia` for the other of two, and a name for anything else. The texts were written before those rulings. Nothing in them was changed. The study in `archive/reference_study.md` holds the measurements.
+
+- Two `shia` in one clause, 38 clauses, 25 of them in `velveteen_rabbit`: 29 are the same person twice and take `miso` (`shia shia nophae hisae`, `shia muo shia pelio`); three are two different persons (`shia shia to ru kema lothea`, `shia wei shia shonui to whishela` in `news_from_nowhere/chapter_06`, `shia nua shia muo shelira to wapi`) and may take `hia`; five set a singular against a plural and stand.
+- `velveteen_rabbit` 224, `shia roa shia to pa rato. shia to pa rotiku.`, where the source-blind English has the wrong rabbit whirl and dance. The source's "whirl round" is the wild rabbit turning on itself.
+- Two improvised forms in `velveteen_rabbit`: `ha shia` for "this one" (218) and `phirae shia` for "the other".
+- Names said where the source has only a pronoun: 75 in `velveteen_rabbit` by a word match on the source line. Some can become `hia`, `miso`, or an unsaid subject; each needs reading in place, and a text is free to keep its names.
+
+`velveteen_rabbit` is certified, so a changed unit there needs fresh source-blind derivation under D102. What brings this back: the maintainer's word that the language-level items of the November 2026 assessment are settled.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.

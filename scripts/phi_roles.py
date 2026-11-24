@@ -9,9 +9,10 @@ cannot see are where readers of the certified texts actually went wrong:
   unsaid and marks no case, so the phrase is the subject (with nothing said
   about an object) or the object (with the subject unsaid). ``lopia nuola``
   is "the child eats" and "(it) eats the child".
-* **A contested third person.** Phi has one third-person pronoun. When two
-  or more third persons are live in the story, ``shia`` and an unsaid
-  subject both leave the listener to choose.
+* **A contested third person.** ``shia`` is unmarked. When two or more
+  third persons are live in the story, ``shia`` and an unsaid subject both
+  leave the listener to choose. ``hia``, the other one, is counted beside
+  them so that the ledger shows where a text has said which.
 
 Neither count uses meanings. Whether a verb takes an object is read from
 the corpus itself, so the figures are indicators of exposure, not rates of
@@ -109,6 +110,8 @@ class ReferenceCounts:
 
     third_person_pronouns: int = 0
     contested_pronouns: int = 0
+    # Uses of hia, which says that it is not the subject at hand.
+    other_pronouns: int = 0
     doubled_clauses: int = 0
     unsaid_subjects: int = 0
     contested_unsaid: int = 0
@@ -145,6 +148,7 @@ class ReferenceTracker:
         counts = ReferenceCounts(live=tuple(sorted(live)))
         words = sentence.text.replace(".", " ").split()
         counts.third_person_pronouns = words.count("shia")
+        counts.other_pronouns = words.count("hia")
         if len(live) >= 2:
             counts.contested_pronouns = counts.third_person_pronouns
         for clause in sentence.clauses:

@@ -7,6 +7,7 @@ The plural particle **lo** stands before a singular pronoun just as it stands be
 | first | **mia** (I, me) | **lo mia** (we, us) |
 | second | **thia** (you) | **lo thia** (you all) |
 | third | **shia** (another, it) | **lo shia** (they, them) |
+| third, the other | **hia** (the other one) | **lo hia** (the others) |
 
 ## In clauses
 

@@ -12,7 +12,7 @@ and measured three ways.
 * **Open roles** (``phi_roles``): clauses whose one bare phrase may be
   subject or object, because the verb takes an object elsewhere.
 * **Third persons** (``phi_roles``): uses of ``shia``, and unsaid subjects,
-  while two or more third persons are live in the text.
+  while two or more third persons are live in the text, and uses of ``hia``.
 
 None of the counts uses meanings, so each is an upper bound on what the
 grammar leaves open. None is a rate of misunderstanding.
@@ -79,8 +79,9 @@ LEDGER_HEADER = """\
 # shia        uses of shia
 # contested   uses of shia while two or more third persons are live
 # doubled     clauses with two separate shia
+# other       uses of hia, the third person who is not the subject at hand
 #
-# Columns: file, sentences, divided, full, roles, relroles, shia, contested, doubled.
+# Columns: file, sentences, divided, full, roles, relroles, shia, contested, doubled, other.
 """
 
 
@@ -189,6 +190,7 @@ def render_ledger(rows: list[Row]) -> str:
                     sum(r.reference.third_person_pronouns for r in group),
                     sum(r.reference.contested_pronouns for r in group),
                     sum(r.reference.doubled_clauses for r in group),
+                    sum(r.reference.other_pronouns for r in group),
                 )
             )
         )
@@ -291,8 +293,9 @@ def render_report(rows: list[Row], verbs: Counter[str], top: int) -> str:
         "## Third persons",
         "",
         "| Corpus | Uses of `shia` | While two or more third persons are live | "
-        "Clauses with two `shia` | Unsaid subjects | Unsaid while two or more are live |",
-        "|---|---:|---:|---:|---:|---:|",
+        "Clauses with two `shia` | Uses of `hia` | Unsaid subjects | "
+        "Unsaid while two or more are live |",
+        "|---|---:|---:|---:|---:|---:|---:|",
     ]
     for name in GROUP_ORDER:
         group = by_group.get(name)
@@ -303,9 +306,10 @@ def render_report(rows: list[Row], verbs: Counter[str], top: int) -> str:
         doubled = sum(r.reference.doubled_clauses for r in group)
         unsaid = sum(r.reference.unsaid_subjects for r in group)
         unsaid_contested = sum(r.reference.contested_unsaid for r in group)
+        other = sum(r.reference.other_pronouns for r in group)
         lines.append(
             f"| {name} | {uses} | {contested} ({percent(contested, uses)}) | {doubled} | "
-            f"{unsaid} | {unsaid_contested} ({percent(unsaid_contested, unsaid)}) |"
+            f"{other} | {unsaid} | {unsaid_contested} ({percent(unsaid_contested, unsaid)}) |"
         )
 
     lines += [

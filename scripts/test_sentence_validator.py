@@ -616,6 +616,39 @@ class SentenceParserTest(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertInvalid(text, code)
 
+    def test_the_other_pronoun_stands_wherever_shia_stands(self):
+        for text in (
+            "wheo wei lopia to haolu. hia to hola.",
+            "shia hia womu to nila.",
+            "shia ku hia to naphe.",
+            "shia roa hia to pa rato.",
+            "lo hia to wepu.",
+            "shia tha ne lopia hia phelona tho to sano.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+
+    def test_a_lone_deictic_is_a_whole_phrase(self):
+        for text in (
+            "ha to wepu.",
+            "lo ha to wepu.",
+            "lo ra mua womu to nai.",
+            "ha ku lopia to nila.",
+            "lo ha ku lopia nila.",
+            "ne tupiwa ku ha to nila.",
+            "ha ra to nila.",
+            "ra we lopia to nila.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        for text, code in (
+            ("lo ha melu to wepu.", "PHS111"),
+            ("we ku lopia nila.", "PHS111"),
+            ("mia ku to nila.", "PHS118"),
+        ):
+            with self.subTest(text=text):
+                self.assertInvalid(text, code)
+
     def test_a_marked_object_is_not_a_manner_candidate(self):
         self.assertAdvisories("shia welao to thumela.", [("PHL001", "welao")])
         self.assertAdvisories("shia ku welao to thumela.", [])

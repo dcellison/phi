@@ -988,10 +988,11 @@
 | `whuo` | WITHOUT |
 | `woe` | FAR |
 
-## pronoun (5)
+## pronoun (6)
 
 | Word | Gloss |
 |---|---|
+| `hia` | 3ALT |
 | `mia` | 1SG |
 | `miso` | REFL |
 | `shia` | 3SG |
