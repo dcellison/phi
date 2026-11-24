@@ -119,6 +119,17 @@ python3 scripts/audit_phonetic_neighbors.py --candidate proposed_word
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
 
+## audit_phrase_readings.py
+
+Counts the structural readings of every sentence in the lexicon and the active Markdown, using `phi_readings.py`: the ways each clause divides into subject, adjuncts, object, and manner, and the places each dependent clause could end. It prints a table by corpus, the kinds of open seam, a table by text, and the sentences with the most readings. The counter has no verb valency, so the figures are an upper bound on structural choice. `documents/validation/sentence_validator.md` describes the model and its limits.
+
+```bash
+python3 scripts/audit_phrase_readings.py
+python3 scripts/audit_phrase_readings.py --sentence "phao lopia shelu theo."
+python3 scripts/audit_phrase_readings.py --openers ha ra lo
+python3 scripts/test_phi_readings.py
+```
+
 ## audit_sentence_order.py
 
 Lists every sentence in the lexicon and the active Markdown that parses and still has a reading under which canon's order is broken: a manner word outside the Slot 1 block (`PHL001`), a direct object before a prepositional phrase (`PHL002`), a period before `sho` (`PHL003`), an adjunct before the subject (`PHL004`), or a past `lu` condition with no habit marked (`PHL005`). The parser has no verb valency and cannot choose between the readings, so the list is for a person. CI regenerates the committed ledger and fails on any difference.
