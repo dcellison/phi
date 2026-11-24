@@ -19,7 +19,7 @@
   "usage_notes": "The noun may name quality in general or one selected quality. 'kirema' (criterion) supplies the standard and 'kisome' (assess) the act of evaluating evidence against it. Fault, beauty, goodness, and compliance remain narrower claims.",
   "examples": [
     {
-      "phi": "mia ha kirero kisome.",
+      "phi": "mia kirero kisome.",
       "translation": "I assess the quality."
     }
   ],

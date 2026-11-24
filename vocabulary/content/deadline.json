@@ -18,7 +18,7 @@
   "usage_notes": "Deadlines are countable and retain their source. Exact calendar or clock information stays in source material when its form matters. 'thimora' names a planned arrangement across time, 'lumae' an end, 'naseru' an obligation, and 'na' necessity; none follows merely from 'lumethi'.",
   "examples": [
     {
-      "phi": "ha riporu lumethi pheo wi philo nai.",
+      "phi": "ha riporu lumethi pheo wi philo so nai.",
       "translation": "This task's deadline is in two days."
     }
   ],

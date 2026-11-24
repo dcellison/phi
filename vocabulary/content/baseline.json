@@ -18,8 +18,8 @@
   "usage_notes": "The noun is countable. An informative comparison names the selected features and the source of the reference. Place, period, method, and uncertainty complete the account when relevant. A baseline anchors the comparison; it does not become an ideal or an exact dataset by doing so.",
   "examples": [
     {
-      "phi": "ha mirela ha mothami senao ma nai.",
-      "translation": "This state is not the same as this baseline."
+      "phi": "ha mirela nela ha mothami senao ma nai.",
+      "translation": "This state and this baseline are not the same."
     }
   ],
   "pillars": {

@@ -17,7 +17,7 @@
   "usage_notes": "The enforcing agent is the subject and the rule or decision is the object. Its method and consequence are separate claims, especially when enforcement constrains someone. When power or threat narrows practical choice, 'kawhera' (coerce) is also present. The event-noun rule supplies enforcement.",
   "examples": [
     {
-      "phi": "ha punoki ha nasholu nashaku.",
+      "phi": "punoki ha nasholu nashaku.",
       "translation": "The institution enforces this rule."
     }
   ],

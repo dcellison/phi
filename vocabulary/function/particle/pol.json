@@ -18,8 +18,8 @@
   "usage_notes": "When Slot 0 markers combine, 'pi' leads: 'pi wa' makes a polite question and 'pi no' a polite directive. It may also soften a declaration on its own. Courtesy describes the speaker's manner; the other person's consent and the speaker's authority remain separate questions.",
   "examples": [
     {
-      "phi": "pi no thepalu naphe.",
-      "translation": "Please help with the garden."
+      "phi": "pi no mua thepalu naphe.",
+      "translation": "Please help in the garden."
     },
     {
       "phi": "pi wa thia po shua.",

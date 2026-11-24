@@ -44,7 +44,7 @@ PROX PL friend
 (these friends)
 ```
 
-Standing with no noun after it, the deictic takes `lo` in front, exactly the way the pronouns do, and the phrase points at a plurality without naming a class. With a group of bricks already in view, one speaker might say:
+With no noun after it, either word does the pointing by itself: `ha mia kupela nai.` says this is my secret. When there is more than one thing to point at, `lo` goes in front, exactly the way it does with the pronouns, and the phrase names no class. With a group of bricks already in view, one speaker might say:
 
 ```
 su lo mia lo ha ru thape.

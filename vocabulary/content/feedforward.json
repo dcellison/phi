@@ -18,7 +18,7 @@
   "usage_notes": "The noun may be countable or mass. The relation includes the observed or predicted input, the basis for that expectation, the control action, and the output still to come. Prediction supplies an expectation. Feedforward begins when that expectation changes control before the output returns.",
   "examples": [
     {
-      "phi": "ha naropu ha ketora helui.",
+      "phi": "ha naropu ketora helui.",
       "translation": "This feedforward changes the control."
     }
   ],

@@ -26,7 +26,7 @@ The chapters add sentence shapes in a fixed order, usually with a small set of w
 | 2 | Subject-object-verb | The day begins |
 | 3 | Plural *lo*; adjective before noun | Big and small |
 | 4 | Questions with *wa*; yes and no; greetings | At the door |
-| 5 | Possessor before possessed; place with *mua* | Whose and where |
+| 5 | Possessor before possessed; place with *mua* and *nia* | Whose and where |
 | 6 | *lue* (from) and *wei* (to, for) | Around the village |
 
 **Part II: Time**

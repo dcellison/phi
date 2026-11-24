@@ -18,7 +18,7 @@
   "usage_notes": "The retaliating agent is the subject and the targeted person or group is the direct object. Name the prior action and imposed disadvantage, then give the timing and power relation. Evidence and plausible alternatives belong in the account as well. The event-noun rule supplies retaliation. 'lonae' (respond) is neutral, 'nashaku' (enforce) acts on a stated rule or decision, and 'helolu' (redress) acts to address harm rather than to penalise the person who raised it.",
   "examples": [
     {
-      "phi": "ha sithora miona ha wemari whepelo.",
+      "phi": "sithora miona wemari whepelo.",
       "translation": "The role holder retaliates against the member."
     }
   ],

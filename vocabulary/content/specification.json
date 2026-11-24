@@ -18,7 +18,7 @@
   "usage_notes": "The noun is countable. Exact values, units, identifiers, and versions remain in the source record, along with any quoted requirement. Ordinary 'heno' can say that a system satisfies a specification. Certification and safety require their own grounds.",
   "examples": [
     {
-      "phi": "ha kisholu ha henora thelima.",
+      "phi": "ha kisholu henora thelima.",
       "translation": "This specification describes the capacity."
     }
   ],

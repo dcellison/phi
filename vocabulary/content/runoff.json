@@ -18,7 +18,7 @@
   "usage_notes": "Runoff may be discussed as a mass or as a bounded flow. Source, surface, and timing begin the path; carried material and receiving place complete it. Rain, stream flow, wastewater, and pollution remain separate relations.",
   "examples": [
     {
-      "phi": "ha wiralu lue ha kosha wea ha luphore selu.",
+      "phi": "ha wiralu lue kosha wea luphore selu.",
       "translation": "This runoff flows from the field toward the river."
     }
   ],

@@ -33,8 +33,8 @@
 
 ## III
 
-> **misheko mua wonepa po thalo.**
-> phao: **no mua wonepa ma thalo.**
+> **misheko nia wonepa po thalo.**
+> phao: **no nia wonepa ma thalo.**
 > **lohau nekuma po pilu.**
 > phao: **no nekuma ma pilu.**
 > **lopia mua luphore na ma sonu wishe.**

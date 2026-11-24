@@ -18,7 +18,7 @@
   "usage_notes": "Individual decisions count. The maker and procedure come before 'kanuro' when they belong inside the noun phrase; scope and conditions follow the same rule. A separate clause may carry any relation that needs more room. Implementation and review remain later acts. Exact judgments, orders, resolutions, or other source categories retain the names and force used by their institutions.",
   "examples": [
     {
-      "phi": "ha kowela ha kanuro to phoa.",
+      "phi": "kowela ha kanuro to phoa.",
       "translation": "The council made this decision."
     }
   ],

@@ -18,7 +18,7 @@
   "usage_notes": "The noun is countable. A clear account identifies the service and the affected place or participants. Its beginning, duration, and source may be stated separately. A passing interruption counts only when the stated service becomes unavailable.",
   "examples": [
     {
-      "phi": "ha seluwhe mosha teku nai.",
+      "phi": "seluwhe mosha teku nai.",
       "translation": "The outage period is short."
     }
   ],

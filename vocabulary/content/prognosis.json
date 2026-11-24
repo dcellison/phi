@@ -17,7 +17,7 @@
   "usage_notes": "A count picks out one prognosis. Bare 'wireki' discusses prognosis as part of care. Its condition and time horizon set the question; evidence and assumptions support the answer. Alternatives and uncertainty give the claim its bounds. 'kithero' (diagnose) concerns the present clinical conclusion instead of this expected course.",
   "examples": [
     {
-      "phi": "shia ha wireki lilea.",
+      "phi": "shia wireki lilea.",
       "translation": "They clarify the prognosis."
     }
   ],

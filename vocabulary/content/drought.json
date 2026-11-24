@@ -18,7 +18,7 @@
   "usage_notes": "A speaker can count individual 'kuramo' events or discuss drought as a condition. Its scope comes from the affected place, water relation, duration, and reference condition; its consequences are a further part of the account. Source records retain exact classifications, thresholds, dates, and measurements.",
   "examples": [
     {
-      "phi": "ha thepalu kuramo phelu.",
+      "phi": "thepalu kuramo phelu.",
       "translation": "The garden has a drought."
     }
   ],

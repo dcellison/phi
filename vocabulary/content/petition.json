@@ -18,7 +18,7 @@
   "usage_notes": "The petitioner opens the clause and 'wei' marks the recipient; an object or complement clause states the requested action. The same form becomes a petition under event-noun use. The source record keeps its exact wording and named signatories, along with signatures, filing status, and procedural effect.",
   "examples": [
     {
-      "phi": "lo wemari wei ha kowela ha tukiro pashenu.",
+      "phi": "lo wemari wei kowela tukiro pashenu.",
       "translation": "The members petition the council for a review."
     }
   ],

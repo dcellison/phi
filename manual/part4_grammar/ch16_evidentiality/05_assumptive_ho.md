@@ -4,7 +4,7 @@
 
 **thia shorui ho nai.** — I assume you are weary.
 
-**shia womu ho nai.** — I assume they are home.
+**shia mua womu ho nai.** — I assume they are home.
 
 **pheralu so ho lepa.** — I assume rain will fall.
 

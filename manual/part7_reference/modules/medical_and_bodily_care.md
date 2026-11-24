@@ -146,8 +146,8 @@ DECL.COMP PROX infection contagious NEG be DECL.COMP.CLOSE POT be.
 `thephaku` is the body answering, not the invader: infection can raise it, but so can injury and the immune system's own work.
 
 ```
-ha kaworu thephaku phelu.
-PROX injury inflammation hold.
+kaworu thephaku phelu.
+injury inflammation hold.
 (The injury has inflammation.)
 ```
 
@@ -172,8 +172,8 @@ PROX injury acute be.
 `pelaku` is severity on someone's stated scale, and the scales can disagree with each other: pain, function, physiological danger, and daily burden are different dimensions, and a person can score high on one and low on another.
 
 ```
-lo mia ha pelaku kisome.
-PL 1SG PROX severity assess.
+lo mia pelaku kisome.
+PL 1SG severity assess.
 (We assess the severity.)
 ```
 
@@ -194,8 +194,8 @@ A diagnosis can be provisional, differential, revised, or disputed, and the exac
 `wireki` looks forward, conditionally. It rests on a condition, a time horizon, available care, and honest uncertainty, and evidence from many people can inform one person's prognosis without dictating it.
 
 ```
-shia ha wireki lilea.
-3SG PROX prognosis clarify.
+shia wireki lilea.
+3SG prognosis clarify.
 (They clarify the prognosis.)
 ```
 
@@ -242,8 +242,8 @@ A care conversation can keep its parts visible. The record and its meaning come 
 `porewi` is anything an intervention does beyond its target, and it can be a gift, a nuisance, or a harm. `whekaro` makes the harm claim specifically, while leaving cause an open question.
 
 ```
-ha nepha porewi phelu.
-PROX medicine side effect hold.
+nepha porewi phelu.
+medicine side effect hold.
 (The medicine has a side effect.)
 ```
 
@@ -296,8 +296,8 @@ Remission, recurrence, cure, and response remain explicit claims about findings,
 `sewaro` follows an agent along a pathway; `welathi` says the pathway is open under conditions. Neither word turns a host into a moral or social danger.
 
 ```
-ha peshiro thue phialu po sewaro.
-PROX infection THROUGH water POT transmit.
+peshiro thue phialu po sewaro.
+infection THROUGH water POT transmit.
 (The infection may transmit through water.)
 ```
 
@@ -340,8 +340,8 @@ shia miso sonari.
 ```
 
 ```
-ha punoki shia teshori.
-PROX institution 3SG quarantine.
+punoki shia teshori.
+institution 3SG quarantine.
 (The institution quarantines them.)
 ```
 

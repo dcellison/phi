@@ -111,9 +111,9 @@ The three nouns tell a listener what is being followed. A source record still ca
 `litero` borrows systems thinking for ecological ground: selected living beings and the nonliving conditions around them, bounded by a place, a time, and a scale the speaker names. `litero norui` marks that boundary directly, and naming it is an act of analysis, not a claim that the boundary exists on its own in nature.
 
 ```
-ha litero lo lima nela lo muralo lorea.
-PROX ecosystem PL alive COORD PL material connect.
-(This ecosystem connects living beings and materials.)
+ha litero lo lima thena nela lo muralo lorea.
+PROX ecosystem PL alive thing COORD PL material connect.
+(This ecosystem connects living things and materials.)
 ```
 
 One forest can hold several useful ecosystem boundaries at once, drawn for different questions, and a pattern that looks balanced proves nothing about whether the system is actually closed.
@@ -137,8 +137,8 @@ PROX species PL animal different be.
 ```
 
 ```
-ha liloni mua ha menuro thuroa.
-PROX population LOC PROX habitat grow.
+ha liloni mua menuro thuroa.
+PROX population LOC habitat grow.
 (This population grows in the habitat.)
 ```
 
@@ -163,30 +163,30 @@ PROX habitat biodiversity rich be.
 `luphano` follows drainage, not ownership: the slopes, channels, and surfaces that feed one outlet, whatever line a map might draw across them.
 
 ```
-ha luphano ha luphore panoru.
-PROX watershed PROX river support.
+ha luphano luphore panoru.
+PROX watershed river support.
 (This watershed supports the river.)
 ```
 
 `wiralu` is water crossing a surface, carrying sediment, nutrients, warmth, or nothing worth noting, and its presence alone proves neither pollution nor its source.
 
 ```
-ha wiralu lue ha kosha wea ha luphore selu.
-PROX runoff ABL PROX field TOWARD PROX river flow.
+ha wiralu lue kosha wea luphore selu.
+PROX runoff ABL field TOWARD river flow.
 (This runoff flows from the field toward the river.)
 ```
 
 ```
-ha wiralu munari kolua.
-PROX runoff sediment carry.
+wiralu munari kolua.
+runoff sediment carry.
 (The runoff carries sediment.)
 ```
 
 `wheraku` is the detaching and the carrying; `munari` is the particulate matter that results. One can be observed at a site without the other showing up there at the same moment.
 
 ```
-phialu ha muila wheraku.
-water PROX earth erode.
+phialu muila wheraku.
+water earth erode.
 (Water erodes the soil.)
 ```
 
@@ -203,22 +203,22 @@ PROX weather warm be.
 ```
 
 ```
-ha meluri ha howenu senao ma nai.
-PROX climate PROX weather same NEG be.
-(This climate is not the same as this weather.)
+ha meluri nela ha howenu senao ma nai.
+PROX climate COORD PROX weather same NEG be.
+(This climate and this weather are not the same.)
 ```
 
 `phaluwe` and `kuramo` name water past its usual bounds and water withheld too long, each measured against what a place normally expects. Neither word decides whether the event counts as a disaster, or who is responsible for it.
 
 ```
-ha luphore ha kosha to phaluwe.
-PROX river PROX field PST flood.
+luphore kosha to phaluwe.
+river field PST flood.
 (The river flooded the field.)
 ```
 
 ```
-ha thepalu kuramo phelu.
-PROX garden drought hold.
+thepalu kuramo phelu.
+garden drought hold.
 (The garden has a drought.)
 ```
 
@@ -235,8 +235,8 @@ PROX dye PROX water contaminant be.
 ```
 
 ```
-ha tinoa ha phuliro pesenu.
-PROX dye PROX stream pollute.
+tinoa phuliro pesenu.
+dye stream pollute.
 (The dye pollutes the stream.)
 ```
 
@@ -309,8 +309,8 @@ PROX wood IPFV decompose.
 ```
 
 ```
-ha lurepa ha shiro thuroa panoru.
-PROX nutrient PROX tree grow support.
+ha lurepa shiro thuroa panoru.
+PROX nutrient tree grow support.
 (This nutrient supports the tree's growth.)
 ```
 
@@ -337,22 +337,22 @@ mia ha phialu phisuri masue.
 `mothami` is a reference chosen for comparison, historical, modeled, or administratively set, and it need not be the healthiest or most natural state a place has ever held.
 
 ```
-ha mirela ha mothami senao ma nai.
-PROX state PROX baseline same NEG be.
-(This state is not the same as this baseline.)
+ha mirela nela ha mothami senao ma nai.
+PROX state COORD PROX baseline same NEG be.
+(This state and this baseline are not the same.)
 ```
 
 `herani` names a pattern already seen across ordered observations, without supplying its cause or promising it continues. `reteru` is a representation built for a purpose, and it stays a representation, never the ecosystem or future it stands in for.
 
 ```
-ha herani ha nomiki thuroa shelo.
-PROX trend PROX concentration grow signify.
+ha herani nomiki thuroa shelo.
+PROX trend concentration grow signify.
 (This trend indicates increasing concentration.)
 ```
 
 ```
-ha reteru ha litero thelima.
-PROX model PROX ecosystem describe.
+ha reteru litero thelima.
+PROX model ecosystem describe.
 (This model describes the ecosystem.)
 ```
 
@@ -363,8 +363,8 @@ A model's exact name, version, and equations belong to the source record; Phi ca
 `somethi` is repeated observation tied to a stated purpose across time. An assessable monitoring plan names what it watches, where the observations occur, their recurrence and duration, and the baseline used for comparison.
 
 ```
-lo mia ha luphore somethi.
-PL 1SG PROX river monitor.
+lo mia luphore somethi.
+PL 1SG river monitor.
 (We monitor the river.)
 ```
 

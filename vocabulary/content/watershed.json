@@ -18,7 +18,7 @@
   "usage_notes": "'luphano' is countable, and 'luphano norui' identifies the selected drainage boundary. The outlet and scale show which watershed is meant. Exact mapped, legal, or scientific definitions stay with their sources.",
   "examples": [
     {
-      "phi": "ha luphano ha luphore panoru.",
+      "phi": "ha luphano luphore panoru.",
       "translation": "This watershed supports the river."
     }
   ],

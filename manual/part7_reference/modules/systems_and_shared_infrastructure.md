@@ -162,14 +162,14 @@ A `hoshemi` hypothesis can propose a cause for a correlation or an account of em
 `koewi` and `thirulo` are always relative to whichever boundary is in question, so the same water, energy, or signal can be one system's output and the next system's input in the very same sentence. Their unlike forms help keep that direction audible.
 
 ```
-ha phialu ha terura koewi nai.
-PROX water PROX system input be.
+phialu ha terura koewi nai.
+water PROX system input be.
 (The water is an input to this system.)
 ```
 
 ```
-ha kenua ha terura thirulo nai.
-PROX energy PROX system output be.
+kenua ha terura thirulo nai.
+energy PROX system output be.
 (The energy is this system's output.)
 ```
 
@@ -192,8 +192,8 @@ PROX component charge hold.
 ```
 
 ```
-ha sephaki selu.
-PROX current flow.
+sephaki selu.
+current flow.
 (The electric current flows.)
 ```
 
@@ -220,8 +220,8 @@ PROX system power transfer.
 A `kirowi` is a detectable variation read as information, and its source, medium, and meaning are each worth naming, since a signal can point at a `mirela` state without commanding anything or guaranteeing that the reading is correct.
 
 ```
-ha kirowi ha terura mirela shelo.
-PROX signal PROX system state signify.
+ha kirowi terura mirela shelo.
+PROX signal system state signify.
 (This signal indicates the system's state.)
 ```
 
@@ -234,16 +234,16 @@ PROX component water flow control.
 ```
 
 ```
-ha turelo ha ketora helui.
-PROX feedback PROX control change.
+ha turelo ketora helui.
+PROX feedback control change.
 (This feedback changes the control.)
 ```
 
 `naropu` feedforward changes control from an observed or expected input before the resulting output returns. A cistern controller may reduce incoming flow after an upstream rain report instead of waiting for the water level itself to rise. Prediction supplies an expectation; feedforward begins when that expectation changes the control.
 
 ```
-ha naropu ha ketora helui.
-PROX feedforward PROX control change.
+ha naropu ketora helui.
+PROX feedforward control change.
 (This feedforward changes the control.)
 ```
 
@@ -260,8 +260,8 @@ PROX record PROX system capacity describe.
 ```
 
 ```
-ha takori nela ha henora sharoi.
-PROX load COORD PROX capacity exceed.
+ha takori nela henora sharoi.
+PROX load COORD capacity exceed.
 (This load exceeds the capacity.)
 ```
 
@@ -300,8 +300,8 @@ PROX component PST fail.
 A `seluwhe` is the stretch of unavailable service a user actually experiences. A single component can fail with no outage following, and an outage can happen with no component failing at all: planned work, a missing input, or an outside interruption can each take a service down on their own.
 
 ```
-ha seluwhe mosha teku nai.
-PROX outage period short be.
+seluwhe mosha teku nai.
+outage period short be.
 (The outage period is short.)
 ```
 
@@ -324,8 +324,8 @@ mia ha terura nilaki.
 `kisholu` names a set of technical requirements; the exact values, wording, and version stay in the source record, since precision there is usually the whole point. Meeting a specification says nothing yet about whether its requirements were wise or current.
 
 ```
-ha kisholu ha henora thelima.
-PROX specification PROX capacity describe.
+ha kisholu henora thelima.
+PROX specification capacity describe.
 (This specification describes the capacity.)
 ```
 

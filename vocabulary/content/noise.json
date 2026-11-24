@@ -18,7 +18,7 @@
   "usage_notes": "Whether a sound counts as 'kohura' depends on the listening situation. Technical use identifies the relevant signal or system rather than treating every unwanted sound as the same physical kind.",
   "examples": [
     {
-      "phi": "mua nuroa kohura nai.",
+      "phi": "kohura mua nuroa nai.",
       "translation": "There is noise in the kitchen."
     }
   ],

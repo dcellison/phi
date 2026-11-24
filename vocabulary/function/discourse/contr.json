@@ -20,7 +20,7 @@
   "usage_notes": "'whekai' follows any Slot 0 particle and precedes the subject of the contrasting sentence. It can introduce a counterpoint or a correction without turning the two sentences into one coordination.",
   "examples": [
     {
-      "phi": "mia to shonela. whekai mia shelomu ma nai.",
+      "phi": "mia to shonela. whekai mia ma shelomu.",
       "translation": "I learned. However, I do not understand."
     }
   ],

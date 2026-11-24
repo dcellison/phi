@@ -19,7 +19,7 @@
   "usage_notes": "The supervised work, task, or participant is the object. Its event noun is supervision. Scope and claimed responsibility belong near the verb when they are disputed. Coordination, facilitation, observation, and technical control remain separate relations.",
   "examples": [
     {
-      "phi": "shia ha shiroka someru.",
+      "phi": "shia shiroka someru.",
       "translation": "They supervise the repair."
     }
   ],
