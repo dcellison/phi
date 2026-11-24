@@ -89,7 +89,7 @@ NUMERAL_SCALES = {"rei": 4, "lau": 3, "phoi": 2, "shao": 1}
 
 PREDICATIVE_VERBS = frozenset({"nai", "kelu"})
 
-SUBJECT_PRONOUNS = frozenset({"mia", "thia", "shia"})
+SUBJECT_PRONOUNS = frozenset({"mia", "thia", "shia", "hia"})
 ADVISORY_MANNER = "PHL001"
 ADVISORY_ADJUNCT_ORDER = "PHL002"
 ADVISORY_QUOTE_PERIOD = "PHL003"
@@ -1308,10 +1308,13 @@ class PhiParser:
             for index in range(mark + 1, boundary)
             if index not in nested and self._word(index) != "."
         ]
+        lone_deictic = bool(object_words) and self._word(object_words[-1]) in SLOT2_DEIXIS
         if not any(
             index in self.name_atoms or self.lexicon.is_nominal(self._word(index))
             for index in object_words
-        ) and not any(mark < opener < boundary for opener in self.frame_close):
+        ) and not lone_deictic and not any(
+            mark < opener < boundary for opener in self.frame_close
+        ):
             self._error("PHS118", "ku needs an object phrase after it", mark)
         for index in object_words:
             word = self._word(index)
@@ -1400,8 +1403,22 @@ class PhiParser:
         if not run:
             return
         words = [self._word(index) for index in run]
+        # A deictic standing alone is a whole phrase. A Slot 2 word of its own
+        # rank or wider cannot nest inside it, so it opens the next phrase:
+        # ha ku lopia nila, ha ra nila, ra we lopia nila.
+        if (
+            len(words) > 1
+            and words[0] in SLOT2_DEIXIS
+            and words[1] in SLOT2_OBJECT | SLOT2_OUTER | SLOT2_DEIXIS
+        ):
+            self._validate_slot2_run(run[1:], target)
+            return
         if words in (["lo", "ha"], ["lo", "ra"]):
-            if target is None or self.lexicon.pos(self._word(target)) == "verb":
+            # The bare plural stands in any noun position. Only material it
+            # could be taken to modify shows the order is wrong.
+            if target is None or self.lexicon.pos(self._word(target)) not in {
+                "noun", "adjective", "numeral", "quantifier", "classifier"
+            }:
                 return
             self._error(
                 "PHS111",

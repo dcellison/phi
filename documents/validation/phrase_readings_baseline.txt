@@ -14,264 +14,265 @@
 # shia        uses of shia
 # contested   uses of shia while two or more third persons are live
 # doubled     clauses with two separate shia
+# other       uses of hia, the third person who is not the subject at hand
 #
-# Columns: file, sentences, divided, full, roles, relroles, shia, contested, doubled.
+# Columns: file, sentences, divided, full, roles, relroles, shia, contested, doubled, other.
 
-book/00_the_boatman.md	7	5	5	0	1	1	0	0
-book/02_what_a_refusal_is.md	4	2	2	1	0	1	1	0
-book/03_announce_then_deliver.md	2	2	2	0	0	0	0	0
-book/05_what_it_will_not_say.md	2	1	2	0	0	0	0	0
-book/07_a_literature_before_a_community.md	2	2	2	0	0	1	0	0
-book/09_a_serious_practice.md	8	3	3	0	0	0	0	0
-book/10_the_distance_of_a_learned_tongue.md	2	0	0	0	0	0	0	0
-book/11_the_lens_not_the_cage.md	2	1	1	0	0	1	0	0
-book/12_a_language_for_the_commons.md	2	1	1	0	1	0	0	0
-book/13_escaping_words.md	1	0	0	0	0	0	0	0
-book/14_the_mind_question.md	1	0	0	1	0	0	0	0
-book/15_the_door.md	1	0	0	0	0	0	0	0
-documents/evaluation/content_vocabulary_scenario_tests.md	60	29	47	1	0	10	7	0
-documents/evaluation/narrative_test_corpus.md	75	18	27	7	0	1	1	0
-documents/evaluation/peace_linguistics_vocabulary_audit.md	2	1	1	0	0	0	0	0
-documents/evaluation/philosophical_capability_matrix.md	19	8	16	1	0	0	0	0
-documents/evaluation/philosophical_test_corpus.md	279	125	207	20	0	6	0	0
-documents/grammar/complementizer_reference.md	21	1	4	1	0	7	0	0
-documents/grammar/numeral_reference.md	14	0	0	1	0	0	0	0
-documents/grammar/particle_reference.md	60	8	17	22	0	5	0	0
-documents/grammar/philosophical_conversation.md	14	2	2	6	0	0	0	0
-documents/modules/household_and_daily_life.md	5	2	3	0	0	0	0	0
-documents/modules/work_craft_and_repair.md	2	2	2	0	0	0	0	0
-documents/reference/language_guide.md	3	1	1	0	0	0	0	0
-documents/reference/taught_patterns.md	49	11	19	0	0	0	0	0
-kia.md	5	0	0	0	0	0	0	0
-manual/part1_first_light/ch02_first_words/02_your_first_sentence.md	6	1	1	0	0	0	0	0
-manual/part1_first_light/ch02_first_words/03_the_music_of_vowel_hiatus.md	3	3	3	0	0	0	0	0
-manual/part1_first_light/ch02_first_words/04_ten_essential_words.md	6	1	1	0	0	0	0	0
-manual/part1_first_light/ch02_first_words/05_a_simple_conversation.md	8	1	1	0	0	0	0	0
-manual/part2_soul/ch05_social_philosophy/02_conversation_as_collaboration.md	2	0	0	2	0	0	0	0
-manual/part4_grammar/ch09_particle_system/01_introduction.md	2	0	0	2	0	0	0	0
-manual/part4_grammar/ch09_particle_system/02_three_slots_explained.md	2	1	1	0	0	0	0	0
-manual/part4_grammar/ch09_particle_system/03_slot_0_framing.md	14	0	2	1	0	1	1	0
-manual/part4_grammar/ch09_particle_system/04_slot_1_verb_phrase.md	27	4	5	9	0	4	0	0
-manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md	18	3	10	1	0	3	2	0
-manual/part4_grammar/ch09_particle_system/06_combining_particles.md	17	6	6	8	0	0	0	0
-manual/part4_grammar/ch10_mindful_sentence/01_introduction.md	1	1	1	0	0	0	0	0
-manual/part4_grammar/ch10_mindful_sentence/02_sov_worldview.md	1	1	1	0	0	0	0	0
-manual/part4_grammar/ch10_mindful_sentence/04_building_sentences.md	7	4	4	0	0	0	0	0
-manual/part4_grammar/ch10_mindful_sentence/05_questions_requests_conditions.md	18	6	7	3	0	0	0	0
-manual/part4_grammar/ch10_mindful_sentence/06_exercises.md	34	24	25	5	0	0	0	0
-manual/part4_grammar/ch11_nouns/02_zero_article_system.md	2	2	2	0	0	0	0	0
-manual/part4_grammar/ch11_nouns/03_plural_marking.md	1	1	1	0	0	0	0	0
-manual/part4_grammar/ch11_nouns/06_expressing_possession.md	5	2	4	0	0	0	0	0
-manual/part4_grammar/ch11_nouns/07_the_words_of_color.md	5	3	5	0	0	0	0	0
-manual/part4_grammar/ch11_nouns/08_the_words_of_place.md	21	5	9	0	0	3	3	0
-manual/part4_grammar/ch11_nouns/09_the_words_of_the_body.md	12	6	6	0	0	1	0	0
-manual/part4_grammar/ch11_nouns/10_the_words_of_the_heart.md	6	2	2	0	0	1	0	0
-manual/part4_grammar/ch11_nouns/11_the_words_of_the_arts.md	8	6	6	0	0	1	0	0
-manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md	4	1	1	0	0	0	0	0
-manual/part4_grammar/ch13_pronouns/01_core_pronouns.md	15	4	6	0	0	3	0	0
-manual/part4_grammar/ch13_pronouns/02_forming_plurals.md	7	1	1	0	0	2	0	0
-manual/part4_grammar/ch13_pronouns/03_reflexive_miso.md	14	0	0	1	0	6	0	0
-manual/part4_grammar/ch13_pronouns/04_reciprocal_wiso.md	11	0	0	0	0	1	0	0
-manual/part4_grammar/ch13_pronouns/05_deixis.md	8	3	5	0	0	1	0	0
-manual/part4_grammar/ch14_verbs_time/01_introduction.md	2	0	0	2	0	0	0	0
-manual/part4_grammar/ch14_verbs_time/02_past_to.md	10	1	1	6	0	3	0	0
-manual/part4_grammar/ch14_verbs_time/03_future_so.md	6	2	2	3	0	0	0	0
-manual/part4_grammar/ch14_verbs_time/04_aspect.md	9	0	0	5	0	4	0	0
-manual/part4_grammar/ch14_verbs_time/05_combining_tense_aspect.md	5	1	1	3	0	0	0	0
-manual/part4_grammar/ch14_verbs_time/06_event_nouns.md	7	1	4	1	0	1	0	0
-manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md	21	8	8	1	0	1	1	0
-manual/part4_grammar/ch14_verbs_time/08_the_turning_of_a_life.md	11	3	4	0	0	2	1	0
-manual/part4_grammar/ch15_voice_possibility/01_the_passive_se.md	9	1	1	0	0	0	0	0
-manual/part4_grammar/ch15_voice_possibility/02_the_causative_ka.md	13	6	7	0	0	0	0	0
-manual/part4_grammar/ch15_voice_possibility/03_possibility_po.md	10	0	0	2	0	1	0	0
-manual/part4_grammar/ch15_voice_possibility/04_necessity_na.md	8	0	0	1	0	0	0	0
-manual/part4_grammar/ch15_voice_possibility/05_negation_ma.md	11	0	1	5	0	0	0	0
-manual/part4_grammar/ch16_evidentiality/01_introduction.md	3	0	0	0	0	0	0	0
-manual/part4_grammar/ch16_evidentiality/02_direct_hi.md	5	0	1	1	0	2	0	0
-manual/part4_grammar/ch16_evidentiality/03_inferential_ke.md	5	0	0	0	0	2	0	0
-manual/part4_grammar/ch16_evidentiality/04_reportative_ti.md	6	0	2	1	0	1	0	0
-manual/part4_grammar/ch16_evidentiality/05_assumptive_ho.md	8	0	0	0	0	3	0	0
-manual/part4_grammar/ch16_evidentiality/06_why_evidentiality_matters.md	4	1	1	0	0	3	0	0
-manual/part5_complex/ch17_coordination/01_simple_conjunction.md	6	1	3	2	0	0	0	0
-manual/part5_complex/ch17_coordination/02_contrast.md	7	1	3	4	0	2	1	0
-manual/part5_complex/ch17_coordination/03_alternative.md	6	1	2	3	0	0	0	0
-manual/part5_complex/ch17_coordination/04_addition_we.md	8	2	3	0	0	0	0	0
-manual/part5_complex/ch18_discourse/01_introduction.md	4	0	0	3	0	0	0	0
-manual/part5_complex/ch18_discourse/02_consequence_and_contrast.md	11	0	2	6	0	2	0	0
-manual/part5_complex/ch18_discourse/03_addition_and_example.md	11	7	11	0	0	3	0	0
-manual/part5_complex/ch18_discourse/04_precision.md	10	2	3	4	0	3	0	0
-manual/part5_complex/ch19_subordinate_clauses/01_introduction.md	2	1	1	0	0	2	0	0
-manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md	10	0	1	1	0	7	0	0
-manual/part5_complex/ch19_subordinate_clauses/03_speech.md	10	1	1	0	0	2	1	0
-manual/part5_complex/ch19_subordinate_clauses/04_adverbial_clauses.md	20	5	7	7	0	3	1	0
-manual/part5_complex/ch20_relative_clauses/01_introduction.md	2	0	0	0	0	0	0	0
-manual/part5_complex/ch20_relative_clauses/02_relativizer_whu.md	4	2	2	0	1	0	0	0
-manual/part5_complex/ch20_relative_clauses/03_headed_relative_clauses.md	11	7	7	0	3	2	0	0
-manual/part5_complex/ch20_relative_clauses/04_headless_relative_clauses.md	6	1	1	0	1	0	0	0
-manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md	6	0	0	0	0	0	0	0
-manual/part6_mastery/ch21_social_context/02_politeness_pi.md	2	0	0	1	0	0	0	0
-manual/part6_mastery/ch21_social_context/03_the_honorific_system.md	5	0	0	0	0	0	0	0
-manual/part6_mastery/ch21_social_context/04_register_and_formality.md	5	1	1	2	0	0	0	0
-manual/part6_mastery/ch21_social_context/05_when_to_use_what.md	8	0	0	2	0	0	0	0
-manual/part6_mastery/ch22_living_in_phi/01_daily_practice.md	4	2	2	0	0	0	0	0
-manual/part6_mastery/ch22_living_in_phi/02_journaling.md	3	2	2	0	0	0	0	0
-manual/part6_mastery/ch22_living_in_phi/03_meditation.md	5	1	2	0	0	0	0	0
-manual/part6_mastery/ch22_living_in_phi/05_the_ongoing_journey.md	5	2	2	0	0	0	0	0
-manual/part6_mastery/ch23_source_material/01_where_source_material_lives.md	1	0	1	0	0	0	0	0
-manual/part6_mastery/ch23_source_material/02_names_across_languages.md	1	1	1	0	0	0	0	0
-manual/part6_mastery/ch23_source_material/03_exact_records_and_technical_material.md	2	0	2	0	0	0	0	0
-manual/part6_mastery/ch23_source_material/04_translation_and_responsibility.md	2	0	1	0	0	1	0	0
-manual/part7_reference/modules/accessibility_and_participation.md	29	8	22	0	0	4	1	0
-manual/part7_reference/modules/commons_and_collective_governance.md	34	25	32	0	0	1	0	0
-manual/part7_reference/modules/ecological_systems_and_material_life.md	33	23	31	0	0	0	0	0
-manual/part7_reference/modules/household_and_daily_life.md	32	27	30	0	0	0	0	0
-manual/part7_reference/modules/medical_and_bodily_care.md	31	15	23	0	0	13	1	0
-manual/part7_reference/modules/philosophical_reasoning.md	29	11	22	1	0	6	2	0
-manual/part7_reference/modules/systems_and_shared_infrastructure.md	32	23	31	0	0	0	0	0
-manual/part7_reference/modules/work_craft_and_repair.md	35	24	28	0	0	8	0	0
-manual/part7_reference/sample_texts.md	23	4	6	1	0	0	0	0
-pamphlets/adverbial_clauses/01_the_frame_before_the_deed.md	1	0	0	0	0	0	0	0
-pamphlets/adverbial_clauses/02_sequence_pheo_phoe.md	5	0	0	3	0	1	0	0
-pamphlets/adverbial_clauses/03_simultaneity_whau.md	4	1	1	0	0	0	0	0
-pamphlets/adverbial_clauses/04_reason_lao.md	3	1	2	1	0	0	0	0
-pamphlets/adverbial_clauses/05_purpose_lila.md	3	0	1	3	0	1	0	0
-pamphlets/adverbial_clauses/06_concession_shai.md	2	1	1	0	0	0	0	0
-pamphlets/adverbial_clauses/07_the_frame_and_the_main_clause.md	2	1	1	1	0	0	0	0
-pamphlets/coordination/01_equal_partners_nela.md	6	2	3	2	0	0	0	0
-pamphlets/coordination/02_the_contrast_thona.md	4	0	1	2	0	2	1	0
-pamphlets/coordination/03_the_fork_sola.md	5	1	1	3	0	0	0	0
-pamphlets/coordination/04_adding_alongside_we.md	8	0	1	0	0	2	2	0
-pamphlets/evidentiality/01_four_sources_one_stack.md	7	1	1	0	0	2	0	0
-pamphlets/evidentiality/02_witness_hi.md	7	6	6	0	0	0	0	0
-pamphlets/evidentiality/03_signs_ke.md	9	3	3	0	0	1	0	0
-pamphlets/evidentiality/04_word_ti.md	13	3	4	0	0	4	2	0
-pamphlets/evidentiality/05_expectation_ho.md	10	1	1	0	0	5	0	0
-pamphlets/evidentiality/06_choosing_and_combining.md	10	4	5	1	0	2	2	0
-pamphlets/evidentiality/07_a_journal_of_sources.md	7	2	2	0	0	0	0	0
-pamphlets/evidentiality/08_common_errors.md	10	2	2	0	0	2	0	0
-pamphlets/evidentiality/10_appendix.md	11	2	2	0	0	1	0	0
-pamphlets/naming/01_a_name_is_a_word.md	4	4	4	0	0	0	0	0
-pamphlets/naming/02_the_announcing_ne.md	10	6	8	0	0	2	0	0
-pamphlets/naming/03_calling_kona.md	8	0	0	0	0	0	0	0
-pamphlets/naming/04_the_three_honorifics.md	5	0	0	0	0	0	0	0
-pamphlets/naming/05_the_family_register.md	8	0	2	2	0	0	0	0
-pamphlets/naming/07_the_open_door.md	20	7	8	1	0	0	0	0
-pamphlets/naming/08_common_errors.md	6	0	0	0	0	0	0	0
-pamphlets/nouns_classifiers/01_the_bare_noun.md	1	1	1	0	0	0	0	0
-pamphlets/nouns_classifiers/02_marking_many_lo.md	1	1	1	0	0	0	0	0
-pamphlets/nouns_classifiers/05_describing_before_the_noun.md	1	1	1	0	0	0	0	0
-pamphlets/nouns_classifiers/07_having_and_holding.md	2	2	2	0	0	0	0	0
-pamphlets/pronouns_topic_drop/01_three_words_one_shape.md	4	0	0	0	0	2	0	0
-pamphlets/pronouns_topic_drop/02_case_from_position.md	5	1	2	0	0	0	0	0
-pamphlets/pronouns_topic_drop/03_building_we.md	5	1	1	0	0	2	0	0
-pamphlets/pronouns_topic_drop/04_back_to_yourself_miso.md	8	0	0	1	0	3	0	0
-pamphlets/pronouns_topic_drop/05_between_each_other_wiso.md	8	0	0	0	0	1	0	0
-pamphlets/pronouns_topic_drop/06_pointing_ha_ra.md	5	0	2	0	0	1	0	0
-pamphlets/pronouns_topic_drop/07_the_dropped_subject.md	8	2	2	0	0	0	0	0
-pamphlets/relative_clauses/03_headed_relatives_examples.md	10	5	5	0	3	2	0	0
-pamphlets/relative_clauses/04_headless_relatives.md	16	6	6	1	4	0	0	0
-pamphlets/relative_clauses/05_advanced_patterns.md	21	10	10	0	1	2	0	0
-pamphlets/relative_clauses/07_exercises.md	2	1	1	0	1	0	0	0
-pamphlets/source_material/02_names_and_adaptation.md	1	1	1	0	0	0	0	0
-pamphlets/source_material/03_preserving_records.md	2	0	2	0	0	0	0	0
-pamphlets/source_material/04_reference_without_an_atom.md	2	2	2	0	0	0	0	0
-pamphlets/source_material/05_translation_and_commitment.md	1	0	1	0	0	0	0	0
-pamphlets/source_material/06_voice_page_and_modes.md	1	0	1	0	0	0	0	0
-pamphlets/source_material/08_answers.md	2	1	2	0	0	0	0	0
-pamphlets/spoken_punctuation/01_one_silent_mark.md	2	0	0	0	0	0	0	0
-pamphlets/spoken_punctuation/02_the_question_mark_wa.md	8	2	3	1	0	0	0	0
-pamphlets/spoken_punctuation/03_the_quotation_marks.md	10	3	3	0	0	1	0	0
-pamphlets/spoken_punctuation/04_comma_of_address_capital.md	6	1	1	1	0	0	0	0
-pamphlets/spoken_punctuation/05_the_clause_commas.md	6	2	3	3	0	1	0	0
-pamphlets/spoken_punctuation/06_the_exclamation_worded.md	4	0	1	0	0	0	0	0
-pamphlets/spoken_punctuation/07_twenty_complete_utterances.md	15	1	1	1	0	0	0	0
-pamphlets/spoken_punctuation/08_the_marks_with_no_counterpart.md	8	3	4	2	0	2	0	0
-pamphlets/spoken_punctuation/09_the_dictation_test.md	9	0	0	1	0	0	0	0
-pamphlets/tengwar_mode/01_two_hands_for_one_language.md	1	1	1	0	0	0	0	0
-pamphlets/tengwar_mode/03_the_vowel_marks_above_and_below.md	1	1	1	0	0	0	0	0
-pamphlets/tengwar_mode/04_one_tengwa_two_vowels.md	2	1	1	0	0	0	0	0
-pamphlets/tengwar_mode/05_romen_and_ore_the_two_rs.md	2	2	2	0	0	0	0	0
-pamphlets/tengwar_mode/06_the_silent_marks.md	1	0	1	0	0	0	0	0
-pamphlets/tengwar_mode/07_a_line_written_by_hand.md	3	1	1	0	0	0	0	0
-pamphlets/tengwar_mode/08_common_errors.md	5	3	4	0	0	0	0	0
-pamphlets/tengwar_mode/11_examples.md	23	5	7	0	0	4	2	0
-pamphlets/tense_aspect/01_the_verb_at_rest.md	3	0	0	3	0	0	0	0
-pamphlets/tense_aspect/02_looking_back_to.md	4	0	0	2	0	1	0	0
-pamphlets/tense_aspect/03_looking_forward_so.md	4	1	1	2	0	0	0	0
-pamphlets/tense_aspect/04_within_and_whole_si_ki.md	6	2	2	2	0	1	0	0
-pamphlets/tense_aspect/05_the_edges_pa_te.md	4	0	0	0	0	1	1	0
-pamphlets/tense_aspect/06_the_pattern_ro.md	5	0	0	0	0	0	0	0
-pamphlets/tense_aspect/07_the_ten_combinations.md	6	2	2	0	0	2	1	0
-pamphlets/tense_aspect/08_the_day_around_the_verb.md	7	3	3	1	0	0	0	0
-pamphlets/ternary_numerals/01_counting_in_threes.md	5	1	1	0	0	0	0	0
-pamphlets/ternary_numerals/03_the_four_natures.md	6	0	0	0	0	0	0	0
-pamphlets/ternary_numerals/04_position_nu.md	2	0	0	0	0	0	0	0
-pamphlets/ternary_numerals/05_the_honest_about.md	4	0	0	0	0	0	0	0
-pamphlets/ternary_numerals/06_calculating_aloud.md	16	0	0	1	0	0	0	0
-pamphlets/ternary_numerals/07_market_day.md	24	9	9	0	0	0	0	0
-pamphlets/ternary_numerals/08_common_errors.md	6	0	0	0	0	0	0	0
-pamphlets/three_slots/01_one_machine_three_scopes.md	1	1	1	0	0	0	0	0
-pamphlets/three_slots/02_slot_0_framing.md	7	0	0	1	0	1	0	0
-pamphlets/three_slots/03_slot_1_tense_aspect.md	7	0	0	4	0	1	0	0
-pamphlets/three_slots/04_slot_1_voice.md	7	4	4	0	0	0	0	0
-pamphlets/three_slots/05_slot_1_evidence_modality.md	6	0	1	2	0	0	0	0
-pamphlets/three_slots/07_slot_2_nesting_phrase.md	4	1	2	1	0	1	0	0
-pamphlets/three_slots/09_one_sentence_grown.md	8	5	5	0	0	0	0	0
-primer/01_the_household.md	24	9	17	0	0	0	0	0
-primer/02_the_day_begins.md	18	9	9	0	0	0	0	0
-primer/03_big_and_small.md	17	5	13	0	0	0	0	0
-primer/04_at_the_door.md	20	1	5	0	0	0	0	0
-primer/05_whose_and_where.md	21	2	7	0	0	0	0	0
-primer/06_around_the_village.md	24	6	6	0	0	0	0	0
-primer/07_yesterday.md	23	4	6	0	0	0	0	0
-primer/08_tomorrow.md	25	9	10	0	0	0	0	0
-primer/09_meanwhile.md	18	2	2	3	0	0	0	0
-primer/10_finished_work.md	20	8	8	0	0	0	0	0
-primer/11_every_morning.md	18	3	5	0	0	0	0	0
-primer/12_the_year_turns.md	28	1	4	0	0	0	0	0
-primer/13_what_is_not.md	17	2	4	1	0	0	0	0
-primer/14_the_rules_of_the_house.md	23	3	3	0	0	0	0	0
-primer/15_at_the_market.md	25	5	5	1	0	1	1	0
-primer/16_visitors.md	25	2	3	0	0	1	0	0
-primer/17_the_gift.md	27	6	11	4	0	0	0	0
-primer/18_together.md	16	5	6	0	0	0	0	0
-primer/19_the_message.md	17	4	6	1	0	0	0	0
-primer/20_the_question.md	14	4	4	0	0	0	0	0
-primer/21_the_elders_story.md	21	7	8	0	0	0	0	0
-primer/22_the_one_who.md	16	1	1	0	0	0	0	0
-primer/23_weather_plans.md	17	2	2	0	0	0	0	0
-primer/24_the_news.md	24	10	10	3	0	0	0	0
-primer/25_the_work_gets_done.md	13	2	3	0	0	0	0	0
-primer/26_making_it_happen.md	13	7	8	0	0	0	0	0
-primer/27_the_wish.md	13	5	5	0	0	0	0	0
-primer/28_how_warm_is_the_soup.md	13	0	13	0	0	0	0	0
-primer/29_more_and_most.md	11	2	11	0	0	1	1	0
-primer/30_this_one_only_this_one.md	11	2	2	0	0	0	0	0
-short_road.md	16	6	6	0	0	0	0	0
-texts/a_second_way_for_water.md	198	93	143	8	0	44	35	0
-texts/babel_text.md	28	17	19	1	0	17	8	0
-texts/care_and_coercion.md	82	28	51	5	0	0	0	0
-texts/gibran/on_children.md	31	15	19	1	0	14	2	0
-texts/gibran/on_giving.md	50	24	36	8	0	1	0	0
-texts/gibran/on_love.md	50	21	33	8	0	17	7	1
-texts/gibran/on_work.md	24	8	18	8	0	1	0	0
-texts/heart_sutra.md	37	11	26	1	0	8	1	0
-texts/human_rights_article_one.md	4	3	3	0	0	5	3	1
-texts/little_prince_excerpts.md	7	4	5	1	0	0	0	0
-texts/metta_sutta.md	28	8	17	1	0	17	3	0
-texts/news_from_nowhere/chapter_01.md	109	54	77	2	2	82	20	1
-texts/news_from_nowhere/chapter_02.md	403	157	266	31	7	87	11	0
-texts/news_from_nowhere/chapter_03.md	462	186	298	40	5	119	21	2
-texts/news_from_nowhere/chapter_04.md	159	76	115	9	4	39	12	0
-texts/news_from_nowhere/chapter_05.md	308	134	210	32	4	119	30	4
-texts/news_from_nowhere/chapter_06.md	361	139	227	22	5	127	57	4
-texts/north_wind_and_sun.md	25	11	14	3	0	13	7	0
-texts/ring_verse_refusal.md	4	2	2	0	0	2	2	0
-texts/schleicher_fable.md	17	9	10	1	0	0	0	0
-texts/solarpunk_manifesto.md	110	71	88	2	7	41	13	0
-texts/tao_te_ching.md	52	13	39	1	0	17	9	0
-texts/the_mended_wall.md	57	25	45	2	0	1	1	0
-texts/the_report_at_dusk.md	56	30	47	2	0	2	2	0
-texts/the_worth_of_a_fallen_branch.md	56	26	42	0	0	1	1	0
-texts/velveteen_rabbit.md	530	223	323	25	4	376	158	25
-vocabulary/	1469	614	945	44	2	0	0	0
+book/00_the_boatman.md	7	5	5	0	1	1	0	0	0
+book/02_what_a_refusal_is.md	4	2	2	1	0	1	1	0	0
+book/03_announce_then_deliver.md	2	2	2	0	0	0	0	0	0
+book/05_what_it_will_not_say.md	2	1	2	0	0	0	0	0	0
+book/07_a_literature_before_a_community.md	2	2	2	0	0	1	0	0	0
+book/09_a_serious_practice.md	8	3	3	0	0	0	0	0	0
+book/10_the_distance_of_a_learned_tongue.md	2	0	0	0	0	0	0	0	0
+book/11_the_lens_not_the_cage.md	2	1	1	0	0	1	0	0	0
+book/12_a_language_for_the_commons.md	2	1	1	0	1	0	0	0	0
+book/13_escaping_words.md	1	0	0	0	0	0	0	0	0
+book/14_the_mind_question.md	1	0	0	1	0	0	0	0	0
+book/15_the_door.md	1	0	0	0	0	0	0	0	0
+documents/evaluation/content_vocabulary_scenario_tests.md	60	29	47	1	0	10	7	0	0
+documents/evaluation/narrative_test_corpus.md	75	18	27	7	0	1	1	0	0
+documents/evaluation/peace_linguistics_vocabulary_audit.md	2	1	1	0	0	0	0	0	0
+documents/evaluation/philosophical_capability_matrix.md	19	8	16	1	0	0	0	0	0
+documents/evaluation/philosophical_test_corpus.md	279	125	207	20	0	6	0	0	0
+documents/grammar/complementizer_reference.md	21	1	4	1	0	7	0	0	0
+documents/grammar/numeral_reference.md	14	0	0	1	0	0	0	0	0
+documents/grammar/particle_reference.md	60	8	17	22	0	5	0	0	0
+documents/grammar/philosophical_conversation.md	14	2	2	6	0	0	0	0	0
+documents/modules/household_and_daily_life.md	5	2	3	0	0	0	0	0	0
+documents/modules/work_craft_and_repair.md	2	2	2	0	0	0	0	0	0
+documents/reference/language_guide.md	3	1	1	0	0	0	0	0	0
+documents/reference/taught_patterns.md	49	11	19	0	0	0	0	0	0
+kia.md	5	0	0	0	0	0	0	0	0
+manual/part1_first_light/ch02_first_words/02_your_first_sentence.md	6	1	1	0	0	0	0	0	0
+manual/part1_first_light/ch02_first_words/03_the_music_of_vowel_hiatus.md	3	3	3	0	0	0	0	0	0
+manual/part1_first_light/ch02_first_words/04_ten_essential_words.md	6	1	1	0	0	0	0	0	0
+manual/part1_first_light/ch02_first_words/05_a_simple_conversation.md	8	1	1	0	0	0	0	0	0
+manual/part2_soul/ch05_social_philosophy/02_conversation_as_collaboration.md	2	0	0	2	0	0	0	0	0
+manual/part4_grammar/ch09_particle_system/01_introduction.md	2	0	0	2	0	0	0	0	0
+manual/part4_grammar/ch09_particle_system/02_three_slots_explained.md	2	1	1	0	0	0	0	0	0
+manual/part4_grammar/ch09_particle_system/03_slot_0_framing.md	14	0	2	1	0	1	1	0	0
+manual/part4_grammar/ch09_particle_system/04_slot_1_verb_phrase.md	27	4	5	9	0	4	0	0	0
+manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md	18	3	10	1	0	3	2	0	0
+manual/part4_grammar/ch09_particle_system/06_combining_particles.md	17	6	6	8	0	0	0	0	0
+manual/part4_grammar/ch10_mindful_sentence/01_introduction.md	1	1	1	0	0	0	0	0	0
+manual/part4_grammar/ch10_mindful_sentence/02_sov_worldview.md	1	1	1	0	0	0	0	0	0
+manual/part4_grammar/ch10_mindful_sentence/04_building_sentences.md	7	4	4	0	0	0	0	0	0
+manual/part4_grammar/ch10_mindful_sentence/05_questions_requests_conditions.md	18	6	7	3	0	0	0	0	0
+manual/part4_grammar/ch10_mindful_sentence/06_exercises.md	34	24	25	5	0	0	0	0	0
+manual/part4_grammar/ch11_nouns/02_zero_article_system.md	2	2	2	0	0	0	0	0	0
+manual/part4_grammar/ch11_nouns/03_plural_marking.md	1	1	1	0	0	0	0	0	0
+manual/part4_grammar/ch11_nouns/06_expressing_possession.md	5	2	4	0	0	0	0	0	0
+manual/part4_grammar/ch11_nouns/07_the_words_of_color.md	5	3	5	0	0	0	0	0	0
+manual/part4_grammar/ch11_nouns/08_the_words_of_place.md	21	5	9	0	0	3	3	0	0
+manual/part4_grammar/ch11_nouns/09_the_words_of_the_body.md	12	6	6	0	0	1	0	0	0
+manual/part4_grammar/ch11_nouns/10_the_words_of_the_heart.md	6	2	2	0	0	1	0	0	0
+manual/part4_grammar/ch11_nouns/11_the_words_of_the_arts.md	8	6	6	0	0	1	0	0	0
+manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md	4	1	1	0	0	0	0	0	0
+manual/part4_grammar/ch13_pronouns/01_core_pronouns.md	24	4	7	1	0	6	1	0	3
+manual/part4_grammar/ch13_pronouns/02_forming_plurals.md	7	1	1	0	0	2	0	0	0
+manual/part4_grammar/ch13_pronouns/03_reflexive_miso.md	14	0	0	1	0	6	0	0	0
+manual/part4_grammar/ch13_pronouns/04_reciprocal_wiso.md	11	0	0	0	0	1	0	0	0
+manual/part4_grammar/ch13_pronouns/05_deixis.md	8	3	5	0	0	1	0	0	0
+manual/part4_grammar/ch14_verbs_time/01_introduction.md	2	0	0	2	0	0	0	0	0
+manual/part4_grammar/ch14_verbs_time/02_past_to.md	10	1	1	6	0	3	0	0	0
+manual/part4_grammar/ch14_verbs_time/03_future_so.md	6	2	2	3	0	0	0	0	0
+manual/part4_grammar/ch14_verbs_time/04_aspect.md	9	0	0	5	0	4	0	0	0
+manual/part4_grammar/ch14_verbs_time/05_combining_tense_aspect.md	5	1	1	3	0	0	0	0	0
+manual/part4_grammar/ch14_verbs_time/06_event_nouns.md	7	1	4	1	0	1	0	0	0
+manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md	21	8	8	1	0	1	1	0	0
+manual/part4_grammar/ch14_verbs_time/08_the_turning_of_a_life.md	11	3	4	0	0	2	1	0	0
+manual/part4_grammar/ch15_voice_possibility/01_the_passive_se.md	9	1	1	0	0	0	0	0	0
+manual/part4_grammar/ch15_voice_possibility/02_the_causative_ka.md	13	6	7	0	0	0	0	0	0
+manual/part4_grammar/ch15_voice_possibility/03_possibility_po.md	10	0	0	2	0	1	0	0	0
+manual/part4_grammar/ch15_voice_possibility/04_necessity_na.md	8	0	0	1	0	0	0	0	0
+manual/part4_grammar/ch15_voice_possibility/05_negation_ma.md	11	0	1	5	0	0	0	0	0
+manual/part4_grammar/ch16_evidentiality/01_introduction.md	3	0	0	0	0	0	0	0	0
+manual/part4_grammar/ch16_evidentiality/02_direct_hi.md	5	0	1	1	0	2	0	0	0
+manual/part4_grammar/ch16_evidentiality/03_inferential_ke.md	5	0	0	0	0	2	0	0	0
+manual/part4_grammar/ch16_evidentiality/04_reportative_ti.md	6	0	2	1	0	1	0	0	0
+manual/part4_grammar/ch16_evidentiality/05_assumptive_ho.md	8	0	0	0	0	3	0	0	0
+manual/part4_grammar/ch16_evidentiality/06_why_evidentiality_matters.md	4	1	1	0	0	3	0	0	0
+manual/part5_complex/ch17_coordination/01_simple_conjunction.md	6	1	3	2	0	0	0	0	0
+manual/part5_complex/ch17_coordination/02_contrast.md	7	1	3	4	0	2	1	0	0
+manual/part5_complex/ch17_coordination/03_alternative.md	6	1	2	3	0	0	0	0	0
+manual/part5_complex/ch17_coordination/04_addition_we.md	8	2	3	0	0	0	0	0	0
+manual/part5_complex/ch18_discourse/01_introduction.md	4	0	0	3	0	0	0	0	0
+manual/part5_complex/ch18_discourse/02_consequence_and_contrast.md	11	0	2	6	0	2	0	0	0
+manual/part5_complex/ch18_discourse/03_addition_and_example.md	11	7	11	0	0	3	0	0	0
+manual/part5_complex/ch18_discourse/04_precision.md	10	2	3	4	0	3	0	0	0
+manual/part5_complex/ch19_subordinate_clauses/01_introduction.md	2	1	1	0	0	2	0	0	0
+manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md	10	0	1	1	0	7	0	0	0
+manual/part5_complex/ch19_subordinate_clauses/03_speech.md	10	1	1	0	0	2	1	0	0
+manual/part5_complex/ch19_subordinate_clauses/04_adverbial_clauses.md	20	5	7	7	0	3	1	0	0
+manual/part5_complex/ch20_relative_clauses/01_introduction.md	2	0	0	0	0	0	0	0	0
+manual/part5_complex/ch20_relative_clauses/02_relativizer_whu.md	4	2	2	0	1	0	0	0	0
+manual/part5_complex/ch20_relative_clauses/03_headed_relative_clauses.md	11	7	7	0	3	2	0	0	0
+manual/part5_complex/ch20_relative_clauses/04_headless_relative_clauses.md	6	1	1	0	1	0	0	0	0
+manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md	6	0	0	0	0	0	0	0	0
+manual/part6_mastery/ch21_social_context/02_politeness_pi.md	2	0	0	1	0	0	0	0	0
+manual/part6_mastery/ch21_social_context/03_the_honorific_system.md	5	0	0	0	0	0	0	0	0
+manual/part6_mastery/ch21_social_context/04_register_and_formality.md	5	1	1	2	0	0	0	0	0
+manual/part6_mastery/ch21_social_context/05_when_to_use_what.md	8	0	0	2	0	0	0	0	0
+manual/part6_mastery/ch22_living_in_phi/01_daily_practice.md	4	2	2	0	0	0	0	0	0
+manual/part6_mastery/ch22_living_in_phi/02_journaling.md	3	2	2	0	0	0	0	0	0
+manual/part6_mastery/ch22_living_in_phi/03_meditation.md	5	1	2	0	0	0	0	0	0
+manual/part6_mastery/ch22_living_in_phi/05_the_ongoing_journey.md	5	2	2	0	0	0	0	0	0
+manual/part6_mastery/ch23_source_material/01_where_source_material_lives.md	1	0	1	0	0	0	0	0	0
+manual/part6_mastery/ch23_source_material/02_names_across_languages.md	1	1	1	0	0	0	0	0	0
+manual/part6_mastery/ch23_source_material/03_exact_records_and_technical_material.md	2	0	2	0	0	0	0	0	0
+manual/part6_mastery/ch23_source_material/04_translation_and_responsibility.md	2	0	1	0	0	1	0	0	0
+manual/part7_reference/modules/accessibility_and_participation.md	29	8	22	0	0	4	1	0	0
+manual/part7_reference/modules/commons_and_collective_governance.md	34	25	32	0	0	1	0	0	0
+manual/part7_reference/modules/ecological_systems_and_material_life.md	33	23	31	0	0	0	0	0	0
+manual/part7_reference/modules/household_and_daily_life.md	32	27	30	0	0	0	0	0	0
+manual/part7_reference/modules/medical_and_bodily_care.md	31	15	23	0	0	13	1	0	0
+manual/part7_reference/modules/philosophical_reasoning.md	29	11	22	1	0	6	2	0	0
+manual/part7_reference/modules/systems_and_shared_infrastructure.md	32	23	31	0	0	0	0	0	0
+manual/part7_reference/modules/work_craft_and_repair.md	35	24	28	0	0	8	0	0	0
+manual/part7_reference/sample_texts.md	23	4	6	1	0	0	0	0	0
+pamphlets/adverbial_clauses/01_the_frame_before_the_deed.md	1	0	0	0	0	0	0	0	0
+pamphlets/adverbial_clauses/02_sequence_pheo_phoe.md	5	0	0	3	0	1	0	0	0
+pamphlets/adverbial_clauses/03_simultaneity_whau.md	4	1	1	0	0	0	0	0	0
+pamphlets/adverbial_clauses/04_reason_lao.md	3	1	2	1	0	0	0	0	0
+pamphlets/adverbial_clauses/05_purpose_lila.md	3	0	1	3	0	1	0	0	0
+pamphlets/adverbial_clauses/06_concession_shai.md	2	1	1	0	0	0	0	0	0
+pamphlets/adverbial_clauses/07_the_frame_and_the_main_clause.md	2	1	1	1	0	0	0	0	0
+pamphlets/coordination/01_equal_partners_nela.md	6	2	3	2	0	0	0	0	0
+pamphlets/coordination/02_the_contrast_thona.md	4	0	1	2	0	2	1	0	0
+pamphlets/coordination/03_the_fork_sola.md	5	1	1	3	0	0	0	0	0
+pamphlets/coordination/04_adding_alongside_we.md	8	0	1	0	0	2	2	0	0
+pamphlets/evidentiality/01_four_sources_one_stack.md	7	1	1	0	0	2	0	0	0
+pamphlets/evidentiality/02_witness_hi.md	7	6	6	0	0	0	0	0	0
+pamphlets/evidentiality/03_signs_ke.md	9	3	3	0	0	1	0	0	0
+pamphlets/evidentiality/04_word_ti.md	13	3	4	0	0	4	2	0	0
+pamphlets/evidentiality/05_expectation_ho.md	10	1	1	0	0	5	0	0	0
+pamphlets/evidentiality/06_choosing_and_combining.md	10	4	5	1	0	2	2	0	0
+pamphlets/evidentiality/07_a_journal_of_sources.md	7	2	2	0	0	0	0	0	0
+pamphlets/evidentiality/08_common_errors.md	10	2	2	0	0	2	0	0	0
+pamphlets/evidentiality/10_appendix.md	11	2	2	0	0	1	0	0	0
+pamphlets/naming/01_a_name_is_a_word.md	4	4	4	0	0	0	0	0	0
+pamphlets/naming/02_the_announcing_ne.md	10	6	8	0	0	2	0	0	0
+pamphlets/naming/03_calling_kona.md	8	0	0	0	0	0	0	0	0
+pamphlets/naming/04_the_three_honorifics.md	5	0	0	0	0	0	0	0	0
+pamphlets/naming/05_the_family_register.md	8	0	2	2	0	0	0	0	0
+pamphlets/naming/07_the_open_door.md	20	7	8	1	0	0	0	0	0
+pamphlets/naming/08_common_errors.md	6	0	0	0	0	0	0	0	0
+pamphlets/nouns_classifiers/01_the_bare_noun.md	1	1	1	0	0	0	0	0	0
+pamphlets/nouns_classifiers/02_marking_many_lo.md	1	1	1	0	0	0	0	0	0
+pamphlets/nouns_classifiers/05_describing_before_the_noun.md	1	1	1	0	0	0	0	0	0
+pamphlets/nouns_classifiers/07_having_and_holding.md	2	2	2	0	0	0	0	0	0
+pamphlets/pronouns_topic_drop/01_three_words_one_shape.md	4	0	0	0	0	2	0	0	0
+pamphlets/pronouns_topic_drop/02_case_from_position.md	5	1	2	0	0	0	0	0	0
+pamphlets/pronouns_topic_drop/03_building_we.md	5	1	1	0	0	2	0	0	0
+pamphlets/pronouns_topic_drop/04_back_to_yourself_miso.md	8	0	0	1	0	3	0	0	0
+pamphlets/pronouns_topic_drop/05_between_each_other_wiso.md	8	0	0	0	0	1	0	0	0
+pamphlets/pronouns_topic_drop/06_pointing_ha_ra.md	5	0	2	0	0	1	0	0	0
+pamphlets/pronouns_topic_drop/07_the_dropped_subject.md	8	2	2	0	0	0	0	0	0
+pamphlets/relative_clauses/03_headed_relatives_examples.md	10	5	5	0	3	2	0	0	0
+pamphlets/relative_clauses/04_headless_relatives.md	16	6	6	1	4	0	0	0	0
+pamphlets/relative_clauses/05_advanced_patterns.md	21	10	10	0	1	2	0	0	0
+pamphlets/relative_clauses/07_exercises.md	2	1	1	0	1	0	0	0	0
+pamphlets/source_material/02_names_and_adaptation.md	1	1	1	0	0	0	0	0	0
+pamphlets/source_material/03_preserving_records.md	2	0	2	0	0	0	0	0	0
+pamphlets/source_material/04_reference_without_an_atom.md	2	2	2	0	0	0	0	0	0
+pamphlets/source_material/05_translation_and_commitment.md	1	0	1	0	0	0	0	0	0
+pamphlets/source_material/06_voice_page_and_modes.md	1	0	1	0	0	0	0	0	0
+pamphlets/source_material/08_answers.md	2	1	2	0	0	0	0	0	0
+pamphlets/spoken_punctuation/01_one_silent_mark.md	2	0	0	0	0	0	0	0	0
+pamphlets/spoken_punctuation/02_the_question_mark_wa.md	8	2	3	1	0	0	0	0	0
+pamphlets/spoken_punctuation/03_the_quotation_marks.md	10	3	3	0	0	1	0	0	0
+pamphlets/spoken_punctuation/04_comma_of_address_capital.md	6	1	1	1	0	0	0	0	0
+pamphlets/spoken_punctuation/05_the_clause_commas.md	6	2	3	3	0	1	0	0	0
+pamphlets/spoken_punctuation/06_the_exclamation_worded.md	4	0	1	0	0	0	0	0	0
+pamphlets/spoken_punctuation/07_twenty_complete_utterances.md	15	1	1	1	0	0	0	0	0
+pamphlets/spoken_punctuation/08_the_marks_with_no_counterpart.md	8	3	4	2	0	2	0	0	0
+pamphlets/spoken_punctuation/09_the_dictation_test.md	9	0	0	1	0	0	0	0	0
+pamphlets/tengwar_mode/01_two_hands_for_one_language.md	1	1	1	0	0	0	0	0	0
+pamphlets/tengwar_mode/03_the_vowel_marks_above_and_below.md	1	1	1	0	0	0	0	0	0
+pamphlets/tengwar_mode/04_one_tengwa_two_vowels.md	2	1	1	0	0	0	0	0	0
+pamphlets/tengwar_mode/05_romen_and_ore_the_two_rs.md	2	2	2	0	0	0	0	0	0
+pamphlets/tengwar_mode/06_the_silent_marks.md	1	0	1	0	0	0	0	0	0
+pamphlets/tengwar_mode/07_a_line_written_by_hand.md	3	1	1	0	0	0	0	0	0
+pamphlets/tengwar_mode/08_common_errors.md	5	3	4	0	0	0	0	0	0
+pamphlets/tengwar_mode/11_examples.md	23	5	7	0	0	4	2	0	0
+pamphlets/tense_aspect/01_the_verb_at_rest.md	3	0	0	3	0	0	0	0	0
+pamphlets/tense_aspect/02_looking_back_to.md	4	0	0	2	0	1	0	0	0
+pamphlets/tense_aspect/03_looking_forward_so.md	4	1	1	2	0	0	0	0	0
+pamphlets/tense_aspect/04_within_and_whole_si_ki.md	6	2	2	2	0	1	0	0	0
+pamphlets/tense_aspect/05_the_edges_pa_te.md	4	0	0	0	0	1	1	0	0
+pamphlets/tense_aspect/06_the_pattern_ro.md	5	0	0	0	0	0	0	0	0
+pamphlets/tense_aspect/07_the_ten_combinations.md	6	2	2	0	0	2	1	0	0
+pamphlets/tense_aspect/08_the_day_around_the_verb.md	7	3	3	1	0	0	0	0	0
+pamphlets/ternary_numerals/01_counting_in_threes.md	5	1	1	0	0	0	0	0	0
+pamphlets/ternary_numerals/03_the_four_natures.md	6	0	0	0	0	0	0	0	0
+pamphlets/ternary_numerals/04_position_nu.md	2	0	0	0	0	0	0	0	0
+pamphlets/ternary_numerals/05_the_honest_about.md	4	0	0	0	0	0	0	0	0
+pamphlets/ternary_numerals/06_calculating_aloud.md	16	0	0	1	0	0	0	0	0
+pamphlets/ternary_numerals/07_market_day.md	24	9	9	0	0	0	0	0	0
+pamphlets/ternary_numerals/08_common_errors.md	6	0	0	0	0	0	0	0	0
+pamphlets/three_slots/01_one_machine_three_scopes.md	1	1	1	0	0	0	0	0	0
+pamphlets/three_slots/02_slot_0_framing.md	7	0	0	1	0	1	0	0	0
+pamphlets/three_slots/03_slot_1_tense_aspect.md	7	0	0	4	0	1	0	0	0
+pamphlets/three_slots/04_slot_1_voice.md	7	4	4	0	0	0	0	0	0
+pamphlets/three_slots/05_slot_1_evidence_modality.md	6	0	1	2	0	0	0	0	0
+pamphlets/three_slots/07_slot_2_nesting_phrase.md	4	1	2	1	0	1	0	0	0
+pamphlets/three_slots/09_one_sentence_grown.md	8	5	5	0	0	0	0	0	0
+primer/01_the_household.md	24	9	17	0	0	0	0	0	0
+primer/02_the_day_begins.md	18	9	9	0	0	0	0	0	0
+primer/03_big_and_small.md	17	5	13	0	0	0	0	0	0
+primer/04_at_the_door.md	20	1	5	0	0	0	0	0	0
+primer/05_whose_and_where.md	21	2	7	0	0	0	0	0	0
+primer/06_around_the_village.md	24	6	6	0	0	0	0	0	0
+primer/07_yesterday.md	23	4	6	0	0	0	0	0	0
+primer/08_tomorrow.md	25	9	10	0	0	0	0	0	0
+primer/09_meanwhile.md	18	2	2	3	0	0	0	0	0
+primer/10_finished_work.md	20	8	8	0	0	0	0	0	0
+primer/11_every_morning.md	18	3	5	0	0	0	0	0	0
+primer/12_the_year_turns.md	28	1	4	0	0	0	0	0	0
+primer/13_what_is_not.md	17	2	4	1	0	0	0	0	0
+primer/14_the_rules_of_the_house.md	23	3	3	0	0	0	0	0	0
+primer/15_at_the_market.md	25	5	5	1	0	1	1	0	0
+primer/16_visitors.md	25	2	3	0	0	1	0	0	0
+primer/17_the_gift.md	27	6	11	4	0	0	0	0	0
+primer/18_together.md	16	5	6	0	0	0	0	0	0
+primer/19_the_message.md	17	4	6	1	0	0	0	0	0
+primer/20_the_question.md	14	4	4	0	0	0	0	0	0
+primer/21_the_elders_story.md	21	7	8	0	0	0	0	0	0
+primer/22_the_one_who.md	16	1	1	0	0	0	0	0	0
+primer/23_weather_plans.md	17	2	2	0	0	0	0	0	0
+primer/24_the_news.md	24	10	10	3	0	0	0	0	0
+primer/25_the_work_gets_done.md	13	2	3	0	0	0	0	0	0
+primer/26_making_it_happen.md	13	7	8	0	0	0	0	0	0
+primer/27_the_wish.md	13	5	5	0	0	0	0	0	0
+primer/28_how_warm_is_the_soup.md	13	0	13	0	0	0	0	0	0
+primer/29_more_and_most.md	11	2	11	0	0	1	1	0	0
+primer/30_this_one_only_this_one.md	11	2	2	0	0	0	0	0	0
+short_road.md	16	6	6	0	0	0	0	0	0
+texts/a_second_way_for_water.md	198	93	143	8	0	44	35	0	0
+texts/babel_text.md	28	17	19	1	0	17	8	0	0
+texts/care_and_coercion.md	82	28	51	5	0	0	0	0	0
+texts/gibran/on_children.md	31	15	19	1	0	14	2	0	0
+texts/gibran/on_giving.md	50	24	36	8	0	1	0	0	0
+texts/gibran/on_love.md	50	21	33	8	0	17	7	1	0
+texts/gibran/on_work.md	24	8	18	8	0	1	0	0	0
+texts/heart_sutra.md	37	11	26	1	0	8	1	0	0
+texts/human_rights_article_one.md	4	3	3	0	0	5	3	1	0
+texts/little_prince_excerpts.md	7	4	5	1	0	0	0	0	0
+texts/metta_sutta.md	28	8	17	1	0	17	3	0	0
+texts/news_from_nowhere/chapter_01.md	109	54	77	2	2	82	20	1	0
+texts/news_from_nowhere/chapter_02.md	403	157	266	31	7	87	11	0	0
+texts/news_from_nowhere/chapter_03.md	462	186	298	40	5	119	21	2	0
+texts/news_from_nowhere/chapter_04.md	159	76	115	9	4	39	12	0	0
+texts/news_from_nowhere/chapter_05.md	308	134	210	32	4	119	30	4	0
+texts/news_from_nowhere/chapter_06.md	361	139	227	22	5	127	57	4	0
+texts/north_wind_and_sun.md	25	11	14	3	0	13	7	0	0
+texts/ring_verse_refusal.md	4	2	2	0	0	2	2	0	0
+texts/schleicher_fable.md	17	9	10	1	0	0	0	0	0
+texts/solarpunk_manifesto.md	110	71	88	2	7	41	13	0	0
+texts/tao_te_ching.md	52	13	39	1	0	17	9	0	0
+texts/the_mended_wall.md	57	25	45	2	0	1	1	0	0
+texts/the_report_at_dusk.md	56	30	47	2	0	2	2	0	0
+texts/the_worth_of_a_fallen_branch.md	56	26	42	0	0	1	1	0	0
+texts/velveteen_rabbit.md	530	223	323	25	4	376	158	25	0
+vocabulary/	1474	614	946	45	2	0	0	0	0

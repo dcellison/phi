@@ -64,8 +64,9 @@ Click or hover on a row for a longer explanation of that gloss.
 
 | Abbr. | Phi | Meaning | Explanation |
 |---|---|---|---|
-| 1SG/2SG/3SG | mia, thia, shia | I / you / they-one | `mia` (I), `thia` (you), and `shia` (they, singular, no gender) are the three personal pronouns. None changes with grammatical role; the same form serves as subject, object, or the object of a preposition. |
+| 1SG/2SG/3SG | mia, thia, shia | I / you / they-one | `mia` (I), `thia` (you), and `shia` (they, singular, no gender) are the pronouns of the three persons. None changes with grammatical role; the same form serves as subject, object, or the object of a preposition. |
 | 1PL | lo mia | we | The plural marker `lo` before `mia`: we. The same pattern gives `lo thia` (you all) and `lo shia` (they, plural). |
+| 3ALT | hia | the other one | A second third-person pronoun for the one who is not the subject at hand: `wheo wei lopia to haolu. hia to hola.` is the elder spoke to the child, and the child laughed. Optional: `shia` remains the everyday pronoun. |
 | ABL | lue | from | From, a source: `melu lue nitho shua` is the friend comes from the north. |
 | ABST.CLF | nophe | abstraction classifier | The optional classifier for concepts, time units, events, and other non-physical countables; it marks a category without settling the referent's ontological status. |
 | ADVRS | thona | but (mild) | The adversative conjunction: contrast or exception between two joined elements, without negating what came before. Where `whekai` turns a whole sentence against the last one, `thona` joins two phrases of equal weight that pull in different directions. |

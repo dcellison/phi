@@ -105,6 +105,20 @@ class ReadingCounterTests(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertEqual((1, 1), self.counts(text))
 
+    def test_a_lone_deictic_ends_its_phrase(self):
+        for text in (
+            "ha ra to nila.",
+            "ha ra lopia to nila.",
+            "ha ku lopia to nila.",
+            "ra we lopia to nila.",
+        ):
+            with self.subTest(text=text):
+                self.assertEqual((1, 1), self.counts(text))
+
+    def test_the_other_pronoun_begins_its_phrase_as_shia_does(self):
+        self.assertEqual((1, 1), self.counts("mia hia wiru ma nila."))
+        self.assertEqual((1, 1), self.counts("shia roa hia to pa rato."))
+
     def test_a_causee_before_a_marked_object_may_still_join_the_subject(self):
         result = self.counter.analyse("phao lopia ku shelu ka theo.")
         self.assertEqual(

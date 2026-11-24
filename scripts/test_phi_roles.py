@@ -89,6 +89,14 @@ class RoleTests(unittest.TestCase):
         (sentence,) = self.sentences("shia roa shia to pa rato.")
         self.assertEqual(1, tracker.observe(sentence).doubled_clauses)
 
+    def test_the_other_pronoun_is_counted_apart_from_shia(self):
+        tracker = ReferenceTracker()
+        (sentence,) = self.sentences("shia roa hia to pa rato.")
+        counts = tracker.observe(sentence)
+        self.assertEqual((1, 1, 0), (
+            counts.third_person_pronouns, counts.other_pronouns, counts.doubled_clauses
+        ))
+
     def test_an_unsaid_subject_is_counted(self):
         tracker = ReferenceTracker()
         first, second, third = self.sentences(

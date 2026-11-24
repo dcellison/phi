@@ -54,6 +54,7 @@ from phi_sentence_validator import (
     PREDICATIVE_VERBS,
     PhiParser,
     SLOT2_DEGREE,
+    SLOT2_DEIXIS,
     SLOT2_OBJECT,
     SLOT2_OUTER,
     SLOT2_WORDS,
@@ -829,6 +830,18 @@ class ReadingCounter(PhiParser):
                     unit.cls == "S2"
                     and unit.word in self.openers
                     and any(earlier.cls != "S2" for earlier in conjunct[:offset])
+                ):
+                    return None
+                # ku, we, li, and a deictic are wider than a deictic, so none
+                # of them can nest under one. Directly after a deictic, with
+                # no noun between, such a word shows the deictic stood alone
+                # and its phrase has ended.
+                if (
+                    unit.cls == "S2"
+                    and unit.word in SLOT2_OBJECT | SLOT2_OUTER | SLOT2_DEIXIS
+                    and offset > 0
+                    and all(earlier.cls == "S2" for earlier in conjunct[:offset])
+                    and any(earlier.word in SLOT2_DEIXIS for earlier in conjunct[:offset])
                 ):
                     return None
             alone = len(content) <= 1

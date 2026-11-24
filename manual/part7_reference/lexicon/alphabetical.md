@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1307 words.*
+*1308 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -48,6 +48,7 @@
 | `hewasu` | audible | /he̞.ˈwä.su/ | adjective |
 | `hewe` | wipe | /ˈhe̞.we̞/ | verb |
 | `hi` | DIR | /ˈhi/ | particle |
+| `hia` | 3ALT | /ˈhi.ä/ | pronoun |
 | `hieru` | narrow | /hi.ˈe̞.ru/ | adjective |
 | `himo` | HUM.CLF | /ˈhi.mo̞/ | classifier |
 | `hina` | what | /ˈhi.n̪ä/ | interrogative |
