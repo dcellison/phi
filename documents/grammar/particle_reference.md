@@ -296,7 +296,7 @@ These particles appear **immediately before** the specific word they modify (nou
 
 #### `ku` - Object Opener (OBJ)
 **Function**: Announces that the direct object begins here
-**Usage**: Optional. `ku` stands at the outer edge of the object phrase, before `we` or `li` and before any possessor. Everything from `ku` to the Slot 1 stack, or to the verb when there is no stack, is the object; the subject, every adjunct, and in a causative the one made to act stand before it. One per clause.
+**Usage**: Optional wherever a subject is said, and needed when an object stands alone (canon: *The lone phrase is the subject*). `ku` stands at the outer edge of the object phrase, before `we` or `li` and before any possessor. Everything from `ku` to the Slot 1 stack, or to the verb when there is no stack, is the object; the subject, every adjunct, and in a causative the one made to act stand before it. One per clause.
 **Example**:
 ```
 phao lopia ku shelu theo.

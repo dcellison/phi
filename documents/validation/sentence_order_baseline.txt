@@ -21,6 +21,9 @@
 # PHL005  a lu condition and its consequence are both past and neither carries
 #         ro. lu states an open condition or a habit; one past occasion takes
 #         pheo or whau. The sentence stands when the condition is truly open.
+# PHL006  ku or passive se stands with a verb entered as intransitive, which
+#         takes an object only through ka. Either the clause needs ka or the
+#         entry's valency is wrong.
 #
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 

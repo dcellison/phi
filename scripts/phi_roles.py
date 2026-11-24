@@ -14,11 +14,20 @@ cannot see are where readers of the certified texts actually went wrong:
   leave the listener to choose. ``hia``, the other one, is counted beside
   them so that the ledger shows where a text has said which.
 
-Neither count uses meanings. Whether a verb takes an object is read from
-the corpus itself, so the figures are indicators of exposure, not rates of
-misunderstanding.
+Neither count uses meanings, so the figures are indicators of exposure, not
+rates of misunderstanding. Whether a verb takes an object is read from the
+``valency`` field of its entry: a transitive verb leaves the role of a lone
+phrase open, an intransitive verb does not, and with a verb entered as
+``both`` the lone phrase is the affected thing whichever way it is read.
 
-A verb counts as taking an object when the corpus shows it at least once
+Canon now settles the open role in a main or dependent clause: one bare
+phrase before the verb is the subject, and an object standing alone is
+opened by ``ku``. The count stays as the list of clauses that rule decides.
+Inside a relative clause the role stays open.
+
+The corpus is still asked, as a check on the entries, which verbs it shows
+with an object. A verb counts as a witness when the corpus shows it at least
+once
 
 * with its object opened by ``ku`` (``phao ku shelu theo``),
 * in the passive (``shelu se theo``),
@@ -78,6 +87,15 @@ def object_taking_verbs(sentences: Iterable[SentenceReadings]) -> Counter[str]:
             ):
                 seen[verb] += 1
     return seen
+
+
+def transitive_verbs(lexicon) -> frozenset[str]:
+    """Verbs whose entries give them a direct object and a separate subject."""
+    return frozenset(
+        word
+        for word, entry in lexicon.entries.items()
+        if entry.pos == "verb" and entry.valency == "transitive"
+    )
 
 
 def open_role(clause: ClauseReadings, object_verbs: Counter[str] | set[str]) -> str | None:

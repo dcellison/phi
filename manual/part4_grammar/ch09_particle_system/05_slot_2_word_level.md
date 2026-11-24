@@ -144,7 +144,7 @@ The three honorifics follow **ne** and state the speaker's relationship to the n
 
 **phao lopia ku shelu theo.** — The parent's child reads the book.
 
-It stands before everything else in its phrase, **we** and **li** included, and it is always optional. Chapter 10 shows what it settles.
+It stands before everything else in its phrase, **we** and **li** included, and wherever a subject is said it is optional. Chapter 10 shows what it settles, and the one place it is needed.
 
 ## Nesting Slot 2
 

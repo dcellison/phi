@@ -69,6 +69,16 @@
       ],
       "description": "The entry's single lexical class. Rule-supplied uses, such as an event noun formed from a verb, do not add another class."
     },
+    "valency": {
+      "type": "string",
+      "enum": [
+        "intransitive",
+        "transitive",
+        "both",
+        "complement"
+      ],
+      "description": "What a verb takes. intransitive: a subject only, and an object needs causative ka. transitive: a subject and a direct object, which may go unsaid. both: the thing affected stands alone as subject or is the object of whoever acts on it. complement: a predicative complement and never an object. This field appears only on verbs."
+    },
     "search_terms": {
       "type": "array",
       "items": {
@@ -290,6 +300,24 @@
               "required": ["modules"]
             }
           ]
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "pos": {
+            "const": "verb"
+          }
+        },
+        "required": ["pos"]
+      },
+      "then": {
+        "required": ["valency"]
+      },
+      "else": {
+        "not": {
+          "required": ["valency"]
         }
       }
     }

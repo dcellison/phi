@@ -43,7 +43,7 @@ These two are the only same-rank pair in the language, and their order is fixed:
 |---|---|---|
 | the object starts here | `ku` | `phao lopia ku shelu theo.` |
 
-Without `ku` that sentence is the parent's child reading a book or the parent reading the child's book, and the listener chooses. With it, the object is `shelu` and the two nouns before it are one subject. It is optional, like the four source particles below: said when the edge matters.
+Without `ku` that sentence is the parent's child reading a book or the parent reading the child's book, and the listener chooses. With it, the object is `shelu` and the two nouns before it are one subject. Where a subject is said it is optional, like the four source particles below: said when the edge matters. An object standing alone always takes it, since a lone phrase before a verb is the subject.
 
 ## Naming where your claim comes from
 

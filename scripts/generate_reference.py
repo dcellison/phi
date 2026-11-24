@@ -137,6 +137,14 @@ def by_module(entries):
     return "\n".join(lines) + "\n"
 
 
+VERB_TAKES = {
+    "intransitive": "a subject",
+    "transitive": "a subject and an object",
+    "both": "either way",
+    "complement": "a complement",
+}
+
+
 def by_pos(entries):
     groups = defaultdict(list)
     for d, cls, subclass in entries:
@@ -153,6 +161,18 @@ def by_pos(entries):
     for group in sorted(groups):
         words = sorted(groups[group], key=lambda d: d["word"])
         lines.append(f"\n## {group} ({len(words)})\n")
+        if group == "verb":
+            lines.append(
+                "*The last column says what each verb takes. A verb marked "
+                "either way lets the thing affected stand alone as its subject "
+                "or be the object of whoever acts on it.*\n"
+            )
+            lines.append("| Word | Gloss | Takes |")
+            lines.append("|---|---|---|")
+            for d in words:
+                takes = VERB_TAKES.get(d.get("valency", ""), "")
+                lines.append(f"| `{d['word']}` | {d['gloss']} | {takes} |")
+            continue
         lines.append("| Word | Gloss |")
         lines.append("|---|---|")
         for d in words:

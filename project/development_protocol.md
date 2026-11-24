@@ -228,7 +228,7 @@ Every addition to Phi should make the following practices available without clai
 
 The lexicon prose migration is complete. The schema requires `description`, `articulatory_notes`, and structured `examples`, and it rejects the retired `concept` and `grammatical_notes` properties. The committed coverage report records the completed target state and exposes any attempted return to a legacy, partial, or dual shape.
 
-Particles alone have `slot`. A Slot 1 particle also has `slot1_rank`, whose value places it in the canonical sequence of tense, aspect, voice, evidentiality, modality, and negation. The validator reads that ordering from the entries themselves.
+Verbs alone have `valency`, one of `intransitive`, `transitive`, `both`, or `complement`, which says whether the verb takes a direct object; canon's ruling *Every verb says what it takes* defines the four. Particles alone have `slot`. A Slot 1 particle also has `slot1_rank`, whose value places it in the canonical sequence of tense, aspect, voice, evidentiality, modality, and negation. The validator reads that ordering from the entries themselves.
 
 Install the pinned validation dependency with `python3 -m pip install --requirement project/requirements.txt`, then run the validator as a standalone command. JSON Schema checks the entry's structure before the custom Phi checks inspect phonology, canonical serialization, cross-entry relations, and cited examples.
 

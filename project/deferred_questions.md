@@ -67,6 +67,26 @@ D128 and D135 settle how Phi keeps third persons apart: `miso` for the subject's
 
 `velveteen_rabbit` is certified, so a changed unit there needs fresh source-blind derivation under D102. What brings this back: the maintainer's word that the language-level items of the November 2026 assessment are settled.
 
+### Text lines awaiting the roles sweep
+
+Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.
+
+D136 rules that a lone bare phrase before a verb is its subject and that an object standing alone takes `ku`, and it gives every verb entry a valency. The texts were written before both. Nothing in them was changed. The study is `archive/roles_study.md`. Unit numbers count the aligned blocks of each file in order.
+
+- A lone object with its subject unsaid, which now takes `ku`: `news_from_nowhere/chapter_02` 9 (`wethalu lomare`); `chapter_05` 107 (`serao miona ma thumela`) and 117 (`wisola lokue thela thiranu`). These three came from reading 214 clauses once; the sweep should read the role column of the phrase-reading ledger again, file by file.
+- A lone object after `nela`, `thona`, or `sola`, where `ku` stays optional and each line needs judging for whether a reader could take the phrase for a new subject: `news_from_nowhere/chapter_04` 99 (`sola mioru nai menoa nila`); `chapter_06` 62 (`nela sheloi thena po phelu`) and 63 (`nela sio mia shia to thinu`); `solarpunk_manifesto` 13; `the_report_at_dusk` 10 (`nela repha po nilaki`).
+- `velveteen_rabbit` 215, `shia tha lo phirae tupiwa so ma nila tho to soliru`. The Phi is right under the rule (the other rabbits are the subject). Its derived English, "it would not see the other rabbits", is the misreading the rule answers and needs fresh source-blind derivation under D102.
+- An intransitive verb given a bare object against its own entry: `news_from_nowhere/chapter_03` 67 (`hasi`, which takes `wei`), 206 (`lonae`, which takes `wei`), and 233 (`roke`, which takes `ka`); `chapter_05` 80 (`lonae`).
+- `news_from_nowhere/chapter_06` 106 has a `tha` frame before `peshu`, which its entry calls intransitive while allowing reported content. The entry and the line should be read together.
+
+What brings this back: the maintainer's word that the language-level items of the November 2026 assessment are settled.
+
+### Teaching pages that do not yet know the lone-phrase rule
+
+Status: Parked with the rest of the teaching pass, by the maintainer's instruction of 2026-11-24.
+
+Canon and the manual's page on building sentences teach the rule and the three kinds of verb. The primer, the Short Road, and the Three Slots, Relative Clauses, and Pronouns pamphlets do not. Where one of them shows `ku` before a lone phrase as a free choice, it now understates the rule.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.

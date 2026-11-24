@@ -330,7 +330,7 @@
     head.innerHTML =
       `<span class="w">${esc(e.word)}</span>` +
       `<span class="g">${esc(e.gloss)}</span>` +
-      `<span class="pos">${esc(e.pos)}</span>` +
+      `<span class="pos">${esc(e.pos)}${e.valency ? ", " + esc(e.valency) : ""}</span>` +
       `<span class="ipa-line">${esc(e.ipa)}<span class="syll">${e.syllables.join(" · ")}</span></span>`;
     head.addEventListener("click", () => {
       const open = li.querySelector(".entry-body");

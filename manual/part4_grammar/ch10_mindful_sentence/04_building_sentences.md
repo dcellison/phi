@@ -57,8 +57,36 @@ When the edge matters, the particle **ku** opens the object:
 
 **phao lopia ku shelu theo.** — The parent's child reads the book.
 
-Everything from **ku** to the verb's own particles is the object, and everything before it is not. That one rule does more than split a row of nouns. It separates an object from the manner word it could be mistaken for: **shia welao thumela** is "they teach well" or "they teach goodness," and **shia ku welao thumela** is only the second. It gives a role to a phrase standing alone: **ku lopia to nila** is "it saw the child," where **lopia to nila** leaves the child free to be the one who saw. And inside a relative clause, **whu ku mia nila miona** is the person who sees me, not the person I see.
+Everything from **ku** to the verb's own particles is the object, and everything before it is not. That one rule does more than split a row of nouns. It separates an object from the manner word it could be mistaken for: **shia welao thumela** is "they teach well" or "they teach goodness," and **shia ku welao thumela** is only the second. It gives a role to a phrase standing alone: **ku lopia to nila** is "it saw the child," where plain **lopia to nila** is the child seeing. And inside a relative clause, **whu ku mia nila miona** is the person who sees me, not the person I see.
 
-**ku** is never required. A speaker chooses it as a source particle is chosen, on judging that this edge is part of what needs saying. Three other tools do neighboring work and cost no particle. A possessor can move into a clause of its own: **whu phao phelu shelu**, the book the parent holds. A bare time phrase after a subject can take **mua** or **sui**, so that **ne lopia mua ta howai** cannot be heard as Lopia's evening. A main clause that follows a dependent one can begin with a pronoun or a name, which nothing before it can own.
+Wherever a subject is said, **ku** is a choice. A speaker reaches for it as a source particle is chosen, on judging that this edge is part of what needs saying. Three other tools do neighboring work and cost no particle. A possessor can move into a clause of its own: **whu phao phelu shelu**, the book the parent holds. A bare time phrase after a subject can take **mua** or **sui**, so that **ne lopia mua ta howai** cannot be heard as Lopia's evening. A main clause that follows a dependent one can begin with a pronoun or a name, which nothing before it can own.
+
+## One phrase alone
+
+**lopia to nila.** has one phrase and a verb that could take two. Phi reads it one way: a single bare phrase before the verb is the subject. The child saw. Whoever or whatever was seen is left to the story.
+
+To say the other thing, that someone already in view saw the child, the lone object takes **ku**:
+
+```
+lohau mua thepalu to nai. ku lopia to nila.
+dog LOC garden PST be. OBJ child PST see.
+(The dog was in the garden. It saw the child.)
+```
+
+Here **ku** is not a choice. Without it the child does the seeing.
+
+Four places fall outside the rule. A command already has its subject, the one addressed, so **no shelu theo** is "read the book." A quotation before a verb of speaking cannot be mistaken for the speaker. Inside a relative clause the head noun is one of the two parties, so **whu mia sano luphore** (the river I know) and **whu shelu kealo miona** (people who make books) both stand as they are. And after **nela**, **thona**, or **sola** a clause may be borrowing the subject before it: **mia hasumi ma milau thona phialu milau** is "I do not drink tea but water," while **mia theo nela thia sheluo** is "I read and you listen." In those last two places **ku** is on hand whenever a pair could be confused.
+
+## What a verb takes
+
+Whether a second phrase can be an object at all depends on the verb, and the lexicon says of each verb which kind it is.
+
+Some verbs have a subject and nothing else. **lureko to lepa** is "the fruit fell," and nobody can **lepa** a fruit. The one who makes it fall arrives with **ka**: **mia lureko to ka lepa**, I made the fruit fall. These are the intransitive verbs.
+
+Most verbs take a subject and an object, and let the object go unsaid when it is understood: **mia shelu theo** (I read a book), **mia theo** (I read). These are transitive.
+
+A smaller group works either way round. **wolea to thape** is "the wood burned," and **mia wolea to thape** is "I burned the wood": the thing affected is the subject when it stands alone and the object when someone acts on it. With these verbs a lone phrase is the affected thing on either reading, so nothing needs marking.
+
+**nai** and **kelu** stand apart. What comes before them is a complement, what the subject is or becomes, and never an object.
 
 Word order supplies the ordinary roles, particles mark a departure, and the final verb completes the relation. When those cues are still not enough, a second sentence is better than pretending the first one could never be misunderstood.

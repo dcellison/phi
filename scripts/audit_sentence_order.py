@@ -4,11 +4,12 @@
 The sentence parser accepts every sentence listed here. Each one also has a
 reading under which a manner word stands outside the Slot 1 block (PHL001), a direct
 object stands before a prepositional phrase (PHL002), or an adjunct stands
-before the subject (PHL004). The parser has no verb valency, so it cannot
-choose between the readings; a person can. PHL003 marks a period before sho,
+before the subject (PHL004). The parser cannot choose between the readings;
+a person can. PHL003 marks a period before sho,
 which is a fault with no second reading. PHL005 marks a lu condition whose two
 sentences are past with no ro, which reads as "if" and is wrong for a single
-past occasion.
+past occasion. PHL006 marks ku or passive se on a verb whose entry says it is
+intransitive, where either the clause or the entry is wrong.
 
 The committed ledger records the candidates already seen. Continuous
 integration regenerates it and fails on any difference, so a new candidate
@@ -51,6 +52,9 @@ HEADER = """\
 # PHL005  a lu condition and its consequence are both past and neither carries
 #         ro. lu states an open condition or a habit; one past occasion takes
 #         pheo or whau. The sentence stands when the condition is truly open.
+# PHL006  ku or passive se stands with a verb entered as intransitive, which
+#         takes an object only through ka. Either the clause needs ka or the
+#         entry's valency is wrong.
 #
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 """
