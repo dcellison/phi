@@ -28,7 +28,7 @@ Some items are ungrammatical, some are grammatical but claim the wrong thing for
 
 11. `*mia thole lila mia shonela.` intended as "I practice in order to learn."
 12. `phoe lo phemi shua lo mia pharelo.` intended as "We cook before the guests come."
-13. `*mia tei melu kamo thole.` intended as "I practice until the friend arrives."
+13. `*mia tei melu to kamo to thole.` intended as "I practiced until the friend arrived."
 14. `lao pheralu to lepa ruela wirua nai.` intended as "Because the rain fell, the path is wet."
 15. `*lu pheralu lepa lo mia mua womu meilo.` as one sentence, intended as a condition.
 
@@ -62,7 +62,7 @@ Choose the relator inside one sentence or the discourse marker across two, and b
 
 ### Part C
 
-11. Ungrammatical: the purpose frame trails. Repair: `lila mia shonela mia thole.` 12. Grammatical and correct for the intent: `phoe` introduces the later reference event, the guests' coming, and the cooking precedes it. Defend it. 13. Ungrammatical: `tei` took a clause. Repair with a relator, `pheo melu kamo mia thole.`, or an endpoint noun. 14. Grammatical and correct: a full reason clause with its own past tense. Defend it. 15. Ungrammatical as one sentence: the `lu` condition takes its own period. Repair: `lu pheralu lepa. lo mia mua womu meilo.`
+11. Ungrammatical: the purpose frame trails. Repair: `lila mia shonela mia thole.` 12. Grammatical and correct for the intent: `phoe` introduces the later reference event, the guests' coming, and the cooking precedes it. Defend it. 13. Ungrammatical: a tensed clause under `tei` stands first. Repair: `tei melu to kamo mia to thole.` 14. Grammatical and correct: a full reason clause with its own past tense. Defend it. 15. Ungrammatical as one sentence: the `lu` condition takes its own period. Repair: `lu pheralu lepa. lo mia mua womu meilo.`
 
 ### Part D
 

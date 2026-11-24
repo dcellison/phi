@@ -50,6 +50,9 @@ ADVERBIAL_RELATORS = frozenset({"lao", "pheo", "phoe", "shai", "lila", "whau"})
 CLAUSE_ONLY_RELATORS = frozenset({"lila", "whau"})
 TEMPORAL_NP_RELATORS = frozenset({"pheo", "phoe"})
 NOMINAL_RELATORS = frozenset({"lao", "shai"})
+# A preposition that may also stand over a clause. The clause comes first,
+# as a relator's does, and ends at its own verb.
+CLAUSAL_PREPOSITIONS = frozenset({"tei"})
 
 SLOT2_OUTER = frozenset({"we", "li"})
 SLOT2_DEIXIS = frozenset({"ha", "ra"})
@@ -86,6 +89,7 @@ ADVISORY_MANNER = "PHL001"
 ADVISORY_ADJUNCT_ORDER = "PHL002"
 ADVISORY_QUOTE_PERIOD = "PHL003"
 ADVISORY_FRONTED_ADJUNCT = "PHL004"
+ADVISORY_PAST_CONDITION = "PHL005"
 
 
 @dataclass(frozen=True)
@@ -633,6 +637,8 @@ class PhiParser:
     def _try_adverbial_clause(
         self, start: int, end: int, allow_gap: bool
     ) -> SyntaxNode | None:
+        if start < end and self._word(start) in CLAUSAL_PREPOSITIONS:
+            return self._try_prepositional_clause(start, end, allow_gap)
         if start >= end or self._word(start) not in ADVERBIAL_RELATORS:
             return None
         relator = self._word(start)
@@ -695,6 +701,36 @@ class PhiParser:
             start,
         )
         return SyntaxNode("invalid-adverbial", start, end, value=relator)
+
+    def _try_prepositional_clause(
+        self, start: int, end: int, allow_gap: bool
+    ) -> SyntaxNode | None:
+        """A clause under tei, standing before its main clause.
+
+        tei stays a preposition, so a sentence that opens with it may also be
+        a phrase with its subject left unsaid (tei norawhi wile). When no
+        clause reading parses, the caller falls back to the ordinary clause.
+        """
+        for split in self._candidate_clause_ends(start + 1, end):
+            if split >= end:
+                continue
+            checkpoint = len(self.diagnostics)
+            dependent = self._parse_clause(start + 1, split, allow_gap=False)
+            if len(self.diagnostics) != checkpoint:
+                del self.diagnostics[checkpoint:]
+                continue
+            main = self._parse_clause(split, end, allow_gap=allow_gap)
+            if len(self.diagnostics) != checkpoint:
+                del self.diagnostics[checkpoint:]
+                continue
+            return SyntaxNode(
+                "adverbial-clause",
+                start,
+                end,
+                [dependent, main] if dependent and main else [],
+                self._word(start),
+            )
+        return None
 
     def _parse_core_clause(
         self,
@@ -1487,6 +1523,10 @@ class PhiParser:
                 fronted = self._advise_fronted_time_phrase(node)
                 if fronted is not None:
                     found.append(fronted)
+            if node.kind == "realis-conditional" and len(node.children) == 2:
+                past = self._advise_past_condition(node)
+                if past is not None:
+                    found.append(past)
             inside_relative = gapped or node.kind == "relative-phrase"
             for child in node.children:
                 visit(child, inside_relative)
@@ -1535,6 +1575,34 @@ class PhiParser:
             if fronted is not None:
                 advisories.append(fronted)
         return advisories
+
+    def _advise_past_condition(self, node: SyntaxNode) -> Diagnostic | None:
+        """Flag a lu condition whose two sentences are past with no habit marked.
+
+        lu states an open condition or, with ro, a habit. One past occasion,
+        the English "when", takes pheo or whau.
+        """
+        condition, consequence = node.children
+
+        def top_level_words(part: SyntaxNode) -> list[str]:
+            return [
+                self._word(index)
+                for index in self._top_level_indices(part.start, part.end)
+            ]
+
+        condition_words = top_level_words(condition)
+        consequence_words = top_level_words(consequence)
+        if "to" not in condition_words or "to" not in consequence_words:
+            return None
+        if "ro" in condition_words or "ro" in consequence_words:
+            return None
+        return Diagnostic(
+            ADVISORY_PAST_CONDITION,
+            "this lu condition and its consequence are both past and neither "
+            "carries ro; lu states an open condition or a habit, and one past "
+            "occasion takes pheo or whau",
+            node.start,
+        )
 
     def _opens_with_subject(self, words: Sequence[str]) -> bool:
         if not words:

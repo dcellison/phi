@@ -73,7 +73,7 @@
       "variant": "lesson"
     },
     "pamphlets/adverbial_clauses/03_simultaneity_whau.md": {
-      "shape": "h1,3,3;t-;f3,3,3;q-;u-;o3;r0;s1",
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
       "variant": "lesson"
     },
     "pamphlets/adverbial_clauses/04_reason_lao.md": {
@@ -102,7 +102,7 @@
     },
     "pamphlets/adverbial_clauses/10_appendix.md": {
       "section_level": 2,
-      "shape": "h1,2,2,2,2,2;t5x6,3x4,3x12;f-;q-;u7,5;o-;r0;s-",
+      "shape": "h1,2,2,2,2,2;t5x6,3x4,3x12;f-;q-;u8,5;o-;r0;s-",
       "variant": "appendix"
     },
     "pamphlets/complementizers/00_title.md": {

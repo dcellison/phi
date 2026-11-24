@@ -10,11 +10,12 @@
   "search_terms": [
     "although",
     "despite",
-    "concession"
+    "concession",
+    "even if"
   ],
   "description": "'shai' introduces a circumstance that raises an expectation which the main clause overturns: 'although' before a clause and 'despite' before a noun phrase. 'thona' (ADVRS) coordinates contrasting equals; 'shai' makes one circumstance subordinate to the main assertion that still holds.",
   "articulatory_notes": "Raise the tongue blade toward the postalveolar area and channel unvoiced air along its centre for 'sh', then open the jaw fully into central 'a'. Hold the hiatus before lifting the tongue toward high-front unrounded 'i'. Stress 'sha'.",
-  "usage_notes": "The conceded clause or noun phrase follows 'shai' and precedes the main clause. A full dependent clause ends with its own verb and takes no closer.",
+  "usage_notes": "The conceded clause or noun phrase follows 'shai' and precedes the main clause. A full dependent clause ends with its own verb and takes no closer. 'po' (POT) in the conceded clause leaves the circumstance open, and the sentence reads as even if.",
   "examples": [
     {
       "phi": "shai pheralu to ma nai lo peloru thuroa.",
@@ -23,6 +24,10 @@
     {
       "phi": "shai pheralu lo peloru thuroa.",
       "translation": "Despite the rain, the flowers grow."
+    },
+    {
+      "phi": "shai pheralu po lepa lo mia so thalo.",
+      "translation": "Even if it rains, we will walk."
     }
   ]
 }

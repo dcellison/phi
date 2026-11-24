@@ -20,11 +20,11 @@ When the reason deserves its own sentence, give it one, and open the conclusion 
 
 `lila` claims intention, and the rain intended nothing. The wet path takes `lao` with the rain as reason, or two sentences with `thelao`. Grammatical shape cannot repair a false claim about aim.
 
-### Error 4: a clause handed to `tei`
+### Error 4: a tensed clause left behind `tei`
 
-**Wrong:** `*mia tei lopia nulae thole.` intended as "I practice until the child sleeps."
+**Wrong:** `*mia tei lopia to pa nulae to thole.` intended as "I practiced until the child fell asleep."
 
-`tei` is a preposition over a noun phrase, and it takes no clause. Name the endpoint as a time, `mia tei shero thole.`, or reframe the sequence with a relator: `pheo lopia nulae mia thole.` puts the falling asleep first and the practicing after it.
+After the subject, `tei` takes a noun phrase and nothing larger. An endpoint with its own tense is a clause, and a clause under `tei` stands first like any frame: `tei lopia to pa nulae mia to thole.` When a plain time will do, name it and leave the phrase where it was: `mia tei shero to thole.`
 
 ### Error 5: the swapped pair
 

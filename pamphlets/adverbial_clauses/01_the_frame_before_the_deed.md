@@ -14,7 +14,7 @@ Two words keep ending up in this family by mistake, and each has its own home.
 
 `lu` opens a condition, but it is a Slot 0 particle, not a clause relator, and its grammar shows the difference: a `lu` condition is one complete sentence with its own period, and the consequence is another. `lu pheralu lepa. lo mia mua womu meilo.` is two sentences. A relator frame and its main clause are one.
 
-`tei` is a preposition, not a clause relator. It stands over a noun phrase naming an endpoint, and no clause hides inside it:
+`tei` is a preposition that has picked up one of the relators' habits. Over a noun phrase naming an endpoint it is an ordinary adjunct:
 
 ```
 mia tei howai thole.
@@ -22,7 +22,7 @@ mia tei howai thole.
 (I practice until evening.)
 ```
 
-Evening is a noun, not an event with a verb. The phrase sits where adjuncts sit, and the sentence has one clause.
+Evening is a noun, the phrase sits where adjuncts sit, and the sentence has one clause. Hand `tei` an event with its own subject and tense, and that clause comes to the front and closes at its verb the way a frame does: `tei melu to kamo mia to thole.` (Until the friend arrived, I practiced.) It is still a preposition, and the set is still six.
 
 ### Practice: sort the openers
 

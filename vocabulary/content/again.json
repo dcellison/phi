@@ -1,0 +1,38 @@
+{
+  "word": "ture",
+  "gloss": "again",
+  "ipa": "/ˈt̪u.re̞/",
+  "syllables": [
+    "tu",
+    "re"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "once more",
+    "another",
+    "one more",
+    "anew"
+  ],
+  "description": "The child laughs, a moment passes, and the child laughs once more: that second laugh is 'ture'. The word marks an occurrence as one more of something that has already happened or been counted. 'we' (ALSO) sets a new participant or act beside what is established, while 'ture' is the same thing coming round a further time.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for voiceless dental 't' and release into stressed high back rounded 'u'. The tip taps once for 'r' as the lips relax, and the tongue moves forward to mid front 'e'.",
+  "sound_symbolism": "'ture' opens on the same two syllables as 'turema' (return), so what comes back and what happens again sound like kin. Inside the word the tongue tip touches twice, once at the teeth and once in the tap, and a speaker may hear a small repeat in that.",
+  "usage_notes": "Directly before a verb, inside the Slot 1 block, 'ture' is again: 'shia to ture hola' (they laughed again). Before a noun it is one more of the same kind, where 'phirae' (different) would pick out another kind. The quality-noun reading gives a repeat. A count of occasions takes an ordinal instead: 'nu wi shemu' is a second time.",
+  "examples": [
+    {
+      "phi": "lopia to hola. shia pheo teku shemu to ture hola.",
+      "translation": "The child laughed. After a short moment, they laughed again."
+    },
+    {
+      "phi": "pheralu ture lepa.",
+      "translation": "The rain is falling again."
+    },
+    {
+      "phi": "mia ture soeli rinu.",
+      "translation": "I want another cup."
+    }
+  ],
+  "semantic_domains": {
+    "quantity": "one more of a kind already present or counted",
+    "temporal": "an event that comes round a further time after an earlier one"
+  }
+}

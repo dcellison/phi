@@ -11,15 +11,25 @@
     "until",
     "up to",
     "as far as",
-    "endpoint"
+    "endpoint",
+    "still",
+    "not yet"
   ],
-  "description": "Dusk may end a child's play, and 'tei norawhi' says that the play lasts to that point. 'tei' marks the endpoint reached by an ongoing event or extent. 'phoe' (ANT) merely places one event before another; it does not say that the earlier event continues to that boundary.",
+  "description": "Dusk may end a child's play, and 'tei norawhi' says that the play lasts to that point. 'tei' marks the endpoint reached by an ongoing event or extent. The endpoint may also be an event with its own subject and tense, and then 'tei' opens a whole clause before the main one. 'phoe' (ANT) merely places one event before another; it does not say that the earlier event continues to that boundary.",
   "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release it into middle-height front 'e'. The tongue then rises into high-front unrounded 'i' for the separate second syllable. Stress 'te'.",
-  "usage_notes": "The endpoint follows 'tei'. It may be a time such as dusk or a named boundary such as 'lumae' (end).",
+  "usage_notes": "The endpoint follows 'tei'. A noun phrase, whether a time such as dusk or a named boundary such as 'lumae' (end), stands where adjuncts stand, after the subject. A clause comes first instead, ends at its own verb with no closer, and carries its own tense. Over 'nosa' (now), 'tei nosa' is up to now: still, or with a negated verb not yet.",
   "examples": [
     {
       "phi": "lopia tei norawhi wile.",
       "translation": "The child plays until dusk."
+    },
+    {
+      "phi": "tei pheralu to te lepa lo mia mua womu to manolu.",
+      "translation": "Until the rain stopped falling, we stayed at home."
+    },
+    {
+      "phi": "melu tei nosa ma kamo.",
+      "translation": "The friend has not arrived yet."
     }
   ]
 }

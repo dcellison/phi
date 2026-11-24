@@ -10,16 +10,21 @@
   "search_terms": [
     "only",
     "solely",
-    "restrictive focus"
+    "restrictive focus",
+    "except"
   ],
   "description": "Restrictive 'li' says that the following constituent alone satisfies the claim. It can fence a person or thing, and it can bound a time such as 'li nosa' (only now). Focus 'ko' (FOC) singles out an alternative and leaves the others in play.",
   "articulatory_notes": "The tongue tip touches the alveolar ridge for 'l' while voiced air passes around its sides. The tongue body then rises into high-front unrounded 'i'; the single syllable is stressed.",
   "sound_symbolism": "The lateral airflow finishes in the narrow front vowel 'i'. That compact motion may suggest scope drawing to one choice.",
-  "usage_notes": "The particle occupies the widest Slot 2 position and never shares a phrase with 'we' (ALSO). It stands immediately before the whole constituent under restriction. On a verb, that means before any Slot 1 particle: 'shia li to seniku' (they only smiled). Counts state their own quantity; when a count falls short, Phi uses 'henoi ma nai' (there is not enough) instead of attaching 'li' to a numeral.",
+  "usage_notes": "The particle occupies the widest Slot 2 position and never shares a phrase with 'we' (ALSO). It stands immediately before the whole constituent under restriction. On a verb, that means before any Slot 1 particle: 'shia li to seniku' (they only smiled). Counts state their own quantity; when a count falls short, Phi uses 'henoi ma nai' (there is not enough) instead of attaching 'li' to a numeral. An exception is the same fence seen from outside: 'li phao to ma shua' says only the parent did not come, which is everyone except the parent.",
   "examples": [
     {
       "phi": "li shia sano.",
       "translation": "Only they know."
+    },
+    {
+      "phi": "li phao kau kowela to ma shua.",
+      "translation": "Only the parent did not come to the council."
     }
   ]
 }

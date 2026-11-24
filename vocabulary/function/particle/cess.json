@@ -10,16 +10,21 @@
   "pos": "particle",
   "search_terms": [
     "cessative aspect",
-    "stop"
+    "stop",
+    "no longer"
   ],
   "description": "Cessative 'te' catches an action or state at the point it stops. This differs from 'ki' (PFV): an activity can stop without reaching completion. The inchoative 'pa' (INCH) covers the other boundary, when the event begins.",
   "articulatory_notes": "The tongue tip meets the backs of the upper teeth for dental 't' and releases into true-mid front 'e'. The syllable is fully stressed.",
   "sound_symbolism": "The dental closure gives 'te' a brief edge, then releases into the vowel. That compact settling can recall an event coming to rest.",
-  "usage_notes": "The aspect position follows tense, so 'to te' means stopped and 'so te' means will stop. The particle can mark a deliberate stopping or an event that simply ceases; it adds no separate claim about the cause.",
+  "usage_notes": "The aspect position follows tense, so 'to te' means stopped and 'so te' means will stop. The particle can mark a deliberate stopping or an event that simply ceases; it adds no separate claim about the cause. Unmarked 'te' is the stopping itself, under way now. A state that has ended, English no longer, has its stop in the past and takes 'to te'.",
   "examples": [
     {
       "phi": "mia te theo.",
       "translation": "I stop reading."
+    },
+    {
+      "phi": "lopia mua ha womu to te menui.",
+      "translation": "The child no longer lives in this home."
     }
   ]
 }

@@ -10,15 +10,20 @@
   "search_terms": [
     "also",
     "too",
-    "additive focus"
+    "additive focus",
+    "even"
   ],
   "description": "Additive 'we' places the following constituent alongside an alternative already established in speech or context. It can add a participant, an object, an action, or another constituent. The conjunction 'nela' (COORD) joins grammatical equals within one expression; 'we' reaches back to what is already understood.",
   "articulatory_notes": "The lips round while the back of the tongue rises for voiced 'w'. They relax as the tongue shifts forward into true-mid 'e', and full stress covers the monosyllable.",
-  "usage_notes": "At the outer edge of a Slot 2 phrase, 'we' precedes every narrower modifier. A phrase carries 'we' or 'li' (RESTR), not both. Position fixes the addition: 'we lohau wile' adds the dog, while 'ne siora we shua' adds the act of coming. When the verb has Slot 1 particles, 'we' stands before all of them: 'shia we to pa nulae' (they also fell asleep).",
+  "usage_notes": "At the outer edge of a Slot 2 phrase, 'we' precedes every narrower modifier. A phrase carries 'we' or 'li' (RESTR), not both. Position fixes the addition: 'we lohau wile' adds the dog, while 'ne siora we shua' adds the act of coming. When the verb has Slot 1 particles, 'we' stands before all of them: 'shia we to pa nulae' (they also fell asleep). Followed directly by 'ko' (FOC), it becomes even: 'we ko lopia' is even a child. A second occurrence of the same act belongs to 'ture' (again).",
   "examples": [
     {
       "phi": "we lohau wile.",
       "translation": "The dog plays too."
+    },
+    {
+      "phi": "we ko lopia ha shelu po theo.",
+      "translation": "Even a child can read this book."
     }
   ],
   "pillars": {

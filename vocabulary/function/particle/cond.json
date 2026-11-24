@@ -10,16 +10,26 @@
   "search_terms": [
     "conditional",
     "if",
-    "realis condition"
+    "realis condition",
+    "whenever",
+    "unless"
   ],
   "description": "Conditional 'lu' opens an if-clause treated as a live possibility. Phi places that condition in its own sentence before the consequence. Conditions contrary to fact take the pair 'lu he' (COND IRR).",
   "articulatory_notes": "Touch the alveolar ridge with the tip of the tongue for voiced lateral 'l'. Let voice travel around both sides. For 'u', lift the tongue body towards the soft palate while rounding the lips. Stress sits on this monosyllable.",
   "sound_symbolism": "Because 'l' never closes the airflow, the voice runs cleanly into 'u'. The continuous motion is a useful Phi mnemonic for an if-clause whose consequence remains open.",
-  "usage_notes": "At the absolute beginning, 'lu' scopes over the condition alone. Its final verb closes that sentence, and the consequence begins another with ordinary word order.",
+  "usage_notes": "At the absolute beginning, 'lu' scopes over the condition alone. Its final verb closes that sentence, and the consequence begins another with ordinary word order. A consequence marked with 'ro' (HAB) turns the pair into a habit, English whenever, and a negated condition does the work of unless. A single past occasion is not a condition at all; English when takes 'pheo' (POST) or 'whau' (SIMUL) there.",
   "examples": [
     {
       "phi": "lu pheralu lepa. lo mia mua womu therilu.",
       "translation": "If rain falls, we rest at home."
+    },
+    {
+      "phi": "lu pheralu lepa. lo mia mua womu ro manolu.",
+      "translation": "Whenever it rains, we stay at home."
+    },
+    {
+      "phi": "lu pheralu ma lepa. lo mia so thalo.",
+      "translation": "Unless it rains, we will walk."
     }
   ],
   "pillars": {

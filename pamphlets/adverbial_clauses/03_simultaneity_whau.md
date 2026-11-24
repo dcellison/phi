@@ -32,6 +32,18 @@ PL 1SG DUR rain LOC workshop PST stay.
 
 Both sentences put the staying inside the rain. The difference shows when the framing event has its own actor. Feed `sui` an event and that event has to turn into a noun with an owner: `sui phao lumoi phelu` is during the parent's holding of the lantern, where the parent has stopped doing and started possessing. Feed the same thing to `whau` and the parent goes on holding a lantern. Reach for `sui` when the span is a thing or a stretch of weather, and for `whau` when somebody is doing the thing that holds the span open.
 
+### English when
+
+So far the frame has held the longer event. It does not have to. English *when* covers two relations that Phi keeps apart. If one thing happened and then the other, the word is `pheo`. If the two overlapped, the word is `whau`, whichever of them was brief.
+
+```
+whau melu to kamo lo mia to si nuola.
+SIMUL friend PST arrive PL 1SG PST IPFV eat.
+(When the friend arrived, we were eating.)
+```
+
+The arrival took a moment and the meal took an hour. The frame holds the arrival anyway, because that is where the speaker chose to start. What `whau` promises is one shared time, and which event was longer is left to the verbs and their aspect.
+
 ### Practice: overlap without order
 
 For each item, build the sentence, and decide whether the span wants a clause or a noun.

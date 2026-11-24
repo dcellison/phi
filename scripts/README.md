@@ -121,7 +121,7 @@ python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 
 
 ## audit_sentence_order.py
 
-Lists every sentence in the lexicon and the active Markdown that parses and still has a reading under which canon's order is broken: a manner word outside the Slot 1 block (`PHL001`) or a direct object before a prepositional phrase (`PHL002`). The parser has no verb valency and cannot choose between the readings, so the list is for a person. CI regenerates the committed ledger and fails on any difference.
+Lists every sentence in the lexicon and the active Markdown that parses and still has a reading under which canon's order is broken: a manner word outside the Slot 1 block (`PHL001`), a direct object before a prepositional phrase (`PHL002`), a period before `sho` (`PHL003`), an adjunct before the subject (`PHL004`), or a past `lu` condition with no habit marked (`PHL005`). The parser has no verb valency and cannot choose between the readings, so the list is for a person. CI regenerates the committed ledger and fails on any difference.
 
 ```bash
 python3 scripts/audit_sentence_order.py --output documents/validation/sentence_order_baseline.txt
