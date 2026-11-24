@@ -51,4 +51,4 @@ Regular use can become a practice of noticing how a claim arrived. No speech evi
 
 When provenance matters, it receives a particle; when it does not, it stays unmarked. In either case, the next person remains free to ask how you know.
 
-That closes the particle system, and with it the grammar of the single clause. Chapter 9 called the inventory finite; you have now met all thirty-eight, each in its slot. What remains is what clauses do in company. Part V joins them, frames them, and sets them inside one another, and every sentence it teaches stands on the clause you can now build.
+That closes the particle system, and with it the grammar of the single clause. Chapter 9 called the inventory finite; you have now met all thirty-nine, each in its slot. What remains is what clauses do in company. Part V joins them, frames them, and sets them inside one another, and every sentence it teaches stands on the clause you can now build.

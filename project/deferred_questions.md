@@ -20,6 +20,16 @@ Phi needs ordinary, respectful language for sexual and reproductive anatomy. Con
 
 The effort will inventory existing body, birth, consent, and Medical vocabulary, then decide which distinctions belong in base vocabulary, an optional module, a registered compound, or separately preserved source terminology. Anatomy cannot be assigned to gender by default, and one common body cannot become the standard against which others are treated as deviations.
 
+### Optional subject and verb particles
+
+Status: Open design question, raised by the maintainer on 2026-11-24 after the object particle was proposed. Measured, not ruled.
+
+Phi's 2021 design had optional markers for subject, object, and verb (`si`, `na`, `te`, forms that now do other work). D134 restores an optional object marker as `ku`. The question is whether a subject particle and a verb particle should join it.
+
+The addendum to `archive/seams_study.md` holds the measurement. On the ambiguous sentences of the texts shelf, `ku` can settle 72 percent; a subject particle or a verb particle adds about three points each; `ku` with `mua` or `sui` before a bare time phrase reaches 89 percent, and all four devices 95 percent. A subject particle would show where a main clause begins after a dependent clause and let a lone phrase be asserted as subject. A verb particle would separate manner from object where no Slot 1 particle stands and show where a relative clause ends; it would amount to an optional present-tense particle beside `to` and `so`.
+
+What brings this back: the maintainer's ruling, or evidence from the phrase-reading ledger once `ku` is in use.
+
 ### Adjacent repeated words
 
 Status: Open design question, raised by the maintainer on 2026-11-24 and deliberately left for a later discussion.
@@ -31,6 +41,12 @@ It arises in four ways. A pronoun subject meets the same pronoun as possessor or
 Since this entry was written, D128 has licensed `miso` and `wiso` as possessors, so the pronoun kind has its replacement (`shia miso rokai`); the existing lines change as their texts are certified. A ruling still has to say whether the bar covers every adjacent repetition or only some of these kinds, and what replaces each one: a restructured clause, a new kinship word, a rule for nested frames. Several affected lines stand in certified translations, so each repair there needs fresh source-blind derivation, and a validator check should follow the ruling, not precede it.
 
 ## Parked corpus and tooling work
+
+### Teaching pages that do not yet know `ku`
+
+Status: Parked with the rest of the teaching pass, by the maintainer's instruction of 2026-11-24 that the structural questions come first.
+
+D134 added a thirty-ninth particle. Canon, the references, and the manual teach it. These pages still say thirty-eight or give a particle inventory without it: `short_road.md` (the section heading "Thirty-eight particles keep their places", which `scripts/build_site.py` also pins), `primer/30_this_one_only_this_one.md` and `primer/README.md`, the Three Slots pamphlet (`00_title.md`, the Slot 2 pages, and `12_appendix.md`), `pamphlets/README.md`, and `pamphlets/catalogue.json`. The primer teaches no lesson on `ku`, and the Pronouns and Relative Clauses pamphlets do not mention it.
 
 ### Text lines awaiting the small-words sweep
 

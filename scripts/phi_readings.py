@@ -54,6 +54,7 @@ from phi_sentence_validator import (
     PREDICATIVE_VERBS,
     PhiParser,
     SLOT2_DEGREE,
+    SLOT2_OBJECT,
     SLOT2_OUTER,
     SLOT2_WORDS,
     SyntaxNode,
@@ -117,6 +118,8 @@ class ClauseReadings:
     bare_heads: tuple[tuple[str, str], ...] = ()
     # Third-person pronouns standing as separate words in the clause.
     third_persons: int = 0
+    # Whether the object particle opens the object, which settles its role.
+    object_marked: bool = False
 
 
 @dataclass
@@ -408,6 +411,7 @@ class ReadingCounter(PhiParser):
         bare_heads: tuple[tuple[str, str], ...] | None = None
         slot1: tuple[str, ...] = ()
         third_persons = 0
+        object_marked = False
         mark = self._mark()
         for units, inner_c, inner_w in self._unit_sequences(start, predicate_index):
             if inner_w == 0:
@@ -444,6 +448,9 @@ class ReadingCounter(PhiParser):
                 if len(shown) < MAX_SHOWN:
                     shown.append(self._render(pre, division))
             slot1 = tuple(u.word for u in units if u.cls == "S1")
+            object_marked = object_marked or any(
+                u.cls == "S2" and u.word in SLOT2_OBJECT for u in pre
+            )
             third_persons = max(
                 third_persons,
                 sum(1 for u in pre if u.cls == "PRON" and u.word == "shia"),
@@ -483,6 +490,7 @@ class ReadingCounter(PhiParser):
                     first_bare=first_bare,
                     bare_heads=bare_heads or (),
                     third_persons=third_persons,
+                    object_marked=object_marked,
                 )
             )
         return cons_total, wide_total
@@ -686,9 +694,23 @@ class ReadingCounter(PhiParser):
             ):
                 position -= 1
                 tails.append(position)
+        # The object particle settles where the object begins: the phrase it
+        # opens is the last one, it is the object, and it runs to the verb
+        # group, so no manner tail is split off after it.
+        marks = [
+            position
+            for position, unit in enumerate(pre)
+            if unit.cls == "S2" and unit.word in SLOT2_OBJECT
+        ]
         for tail in sorted(set(tails)):
+            if marks and tail != len(pre):
+                continue
             body = pre[:tail]
             for boundaries, types in self._segmentations(body, allow_gap, full):
+                if marks:
+                    start_of_last = boundaries[-2] if len(boundaries) > 1 else 0
+                    if start_of_last != marks[0] or types[-1] != "BARE":
+                        continue
                 if self._template_ok(body, types, has_ka, predicative, relaxed):
                     results.append((boundaries, tail, types))
         return results

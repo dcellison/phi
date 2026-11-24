@@ -912,7 +912,7 @@
 | `ta` | one |
 | `wi` | two |
 
-## particle (38)
+## particle (39)
 
 | Word | Gloss |
 |---|---|
@@ -924,6 +924,7 @@
 | `ke` | INFER |
 | `ki` | PFV |
 | `ko` | FOC |
+| `ku` | OBJ |
 | `la` | ATTEN |
 | `le` | HON.ROLE |
 | `li` | RESTR |

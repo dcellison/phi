@@ -4,7 +4,7 @@ The particle reference and manual chapter 9 are organized by slot, which is the 
 
 This page runs the other way. The left column is what you want to say; the middle column is the word for it. Cross-references at the end lead to the rules.
 
-Every particle appears here exactly once, under the job it does. Thirty-eight of them, and the whole page is one sitting.
+Every particle appears here exactly once, under the job it does. Thirty-nine of them, and the whole page is one sitting.
 
 ## Putting an event in time
 
@@ -36,6 +36,14 @@ One of these at a time. Ending and finishing are different claims: `te` says the
 | somebody made it happen | `ka` | `phao lopia ka nulae.` |
 
 These two are the only same-rank pair in the language, and their order is fixed: `se ka`.
+
+## Saying what is acted on
+
+| You want to say | Reach for | Example |
+|---|---|---|
+| the object starts here | `ku` | `phao lopia ku shelu theo.` |
+
+Without `ku` that sentence is the parent's child reading a book or the parent reading the child's book, and the listener chooses. With it, the object is `shelu` and the two nouns before it are one subject. It is optional, like the four source particles below: said when the edge matters.
 
 ## Naming where your claim comes from
 

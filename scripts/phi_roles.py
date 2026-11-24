@@ -19,6 +19,7 @@ misunderstanding.
 
 A verb counts as taking an object when the corpus shows it at least once
 
+* with its object opened by ``ku`` (``phao ku shelu theo``),
 * in the passive (``shelu se theo``),
 * with two bare phrases that cannot be read as one, each headed by a noun,
   pronoun, name, or complement frame (``mia thia nila``,
@@ -60,7 +61,7 @@ def object_taking_verbs(sentences: Iterable[SentenceReadings]) -> Counter[str]:
             verb = clause.verb
             if not verb or verb in PREDICATIVE_VERBS or "ka" in clause.slot1:
                 continue
-            if "se" in clause.slot1:
+            if "se" in clause.slot1 or clause.object_marked:
                 seen[verb] += 1
                 continue
             if clause.gapped or clause.full != 1:
@@ -88,6 +89,8 @@ def open_role(clause: ClauseReadings, object_verbs: Counter[str] | set[str]) -> 
     if clause.verb not in object_verbs or clause.verb in PREDICATIVE_VERBS:
         return None
     if "se" in clause.slot1 or "ka" in clause.slot1:
+        return None
+    if clause.object_marked:
         return None
     if clause.bare_counts != (1,):
         return None

@@ -14,7 +14,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Phonology rules](reference/phonology_rules.md) and [phonetics](reference/phonetics.md) | Word-form rules, pronunciation, stress, and boundary behaviour. |
 | [Compound registry](reference/compounds.md) | Established compositions and their documented interpretations. |
 | [Taught patterns](reference/taught_patterns.md) | Indexed inventory of constructions taught across the learning materials. |
-| [Finding the particle](reference/particle_finder.md) | The thirty-eight particles indexed by what a speaker wants to say rather than by slot. |
+| [Finding the particle](reference/particle_finder.md) | The thirty-nine particles indexed by what a speaker wants to say rather than by slot. |
 | [Finding the small word](reference/small_words.md) | The registry for again, still, already, even, except, when, until, and their kin, indexed by what a speaker wants to say. |
 | [The voice, for models](reference/voice_for_models.md) | Writing reference for Phi's register, mechanics, Humanizer pass, and final audit. |
 | [What certified means](reference/translation_certification.md) | Public explanation of the mark on completed translations, what the process checks, and why a certified text may still contain errors. |

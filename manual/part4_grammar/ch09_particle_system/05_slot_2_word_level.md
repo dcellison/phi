@@ -138,10 +138,18 @@ The three honorifics follow **ne** and state the speaker's relationship to the n
 
 **ne sa sulae**, **ne ni moli**, and **ne le siora** name three different relations. None assigns universal rank to the bearer; each records how the speaker holds the relation.
 
+## ku: the object
+
+**ku** opens the direct object phrase when its edge or its role needs saying:
+
+**phao lopia ku shelu theo.** — The parent's child reads the book.
+
+It stands before everything else in its phrase, **we** and **li** included, and it is always optional. Chapter 10 shows what it settles.
+
 ## Nesting Slot 2
 
 Wider scope comes first:
 
-**we / li > ha / ra > lo / numeral > ko > degree > word**
+**ku > we / li > ha / ra > lo / numeral > ko > degree > word**
 
 This gives **ha lo melu** (these friends), **ra nu wi shiro** (that second tree), **ha mo ko mioru peloru** (this most beautiful flower), and **li ha lo melu** (only these friends). The sequence is learned once, but a crowded phrase still takes effort to hear. When a stack begins to obscure its noun, another sentence is available.

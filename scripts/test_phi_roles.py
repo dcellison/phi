@@ -53,6 +53,13 @@ class RoleTests(unittest.TestCase):
                 (clause,) = self.sentences(text)[0].clauses
                 self.assertIsNone(open_role(clause, verbs))
 
+    def test_the_object_particle_settles_a_role_and_witnesses_the_verb(self):
+        (clause,) = self.sentences("ku lopia to nila.")[0].clauses
+        self.assertIsNone(open_role(clause, {"nila"}))
+        clauses = self.sentences("whu ku mia nila miona shua.")[0].clauses
+        self.assertNotIn("relative", [open_role(clause, {"nila"}) for clause in clauses])
+        self.assertEqual({"somela"}, set(object_taking_verbs(self.sentences("ku lopia somela."))))
+
     def test_a_relative_clause_with_one_phrase_leaves_its_head_open(self):
         verbs = {"nila"}
         clauses = self.sentences("whu mia nila miona shua.")[0].clauses

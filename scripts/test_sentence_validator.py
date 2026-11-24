@@ -589,6 +589,37 @@ class SentenceParserTest(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertAdvisories(text, [])
 
+    def test_object_particle_opens_the_object_phrase(self):
+        for text in (
+            "phao ku lopia shelu theo.",
+            "phao lopia ku shelu theo.",
+            "ku lopia to nila.",
+            "whu ku mia nila miona shua.",
+            "phao lopia ku shelu ka theo.",
+            "mia ku we lopia shelu to theo.",
+            "shia ku welao thumela.",
+            "mia wei melu ku shelu to loa.",
+            "mia ku tha shia shua tho sano.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        for text, code in (
+            ("mia we ku shelu theo.", "PHS111"),
+            ("mia ku shelu wei melu to loa.", "PHS118"),
+            ("mia mua ku womu nulae.", "PHS118"),
+            ("mia ku shelu ku noru phelu.", "PHS118"),
+            ("mia ku to nila.", "PHS118"),
+            ("mia to ku shelu theo.", "PHS118"),
+            ("mia ku lohau nai.", "PHS119"),
+            ("ku shelu se theo.", "PHS119"),
+        ):
+            with self.subTest(text=text):
+                self.assertInvalid(text, code)
+
+    def test_a_marked_object_is_not_a_manner_candidate(self):
+        self.assertAdvisories("shia welao to thumela.", [("PHL001", "welao")])
+        self.assertAdvisories("shia ku welao to thumela.", [])
+
     def test_also_and_only_stand_outside_the_slot_one_block(self):
         for text in (
             "shia we to pa nulae.",

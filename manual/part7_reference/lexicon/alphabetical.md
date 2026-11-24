@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1306 words.*
+*1307 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -197,6 +197,7 @@
 | `koshira` | grove | /ko̞.ˈʃi.rä/ | noun |
 | `kowanu` | governance | /ko̞.ˈwä.n̪u/ | noun |
 | `kowela` | council | /ko̞.ˈwe̞.lä/ | noun |
+| `ku` | OBJ | /ˈku/ | particle |
 | `kua` | where | /ˈku.ä/ | interrogative |
 | `kuelo` | curious | /ku.ˈe̞.lo̞/ | adjective |
 | `kuewa` | strange | /ku.ˈe̞.wä/ | adjective |
