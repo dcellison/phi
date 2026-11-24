@@ -28,6 +28,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `quality_noun_adjudication.md` | The word-by-word audit behind the quality-noun rule (adjective+noun dual listings pruned, 2026-07-06); the rule lives in `/canon.md` |
 | `adjective_verb_adjudication.md` | The word-by-word audit behind the qualities-do-not-act ruling (adjective+verb dual listings pruned, 2026-07-06); the rule lives in `/canon.md` |
 | `manner_placement_study.md` | The attestation study behind the manner-descriptor placement ruling (2026-07-06); the rule lives in `/canon.md` |
+| `seams_study.md` | The measurement of unmarked phrase boundaries and the source-blind reading test behind the object particle `ku` (2026-11-24), with the unruled comparison of subject and verb particles; the rule lives in `/canon.md` |
 | `small_words_study.md` | The text survey and source-blind reading test behind the small-word and clause-relation rulings and the `ture` coinage (2026-11-24); the rules live in `/canon.md` and the registry in `documents/reference/small_words.md` |
 | `function_word_shape_audit.md` | The 113-word audit behind the function-word shape charter (2026-07-06); the ruling lives in `/canon.md` |
 | `digraph_merger_audit.md` | Every digraph word measured against its plain-consonant twin (2026-07-26); the `wh` against `w` ruling lives in `/canon.md` |

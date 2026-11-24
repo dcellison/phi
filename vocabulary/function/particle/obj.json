@@ -1,0 +1,39 @@
+{
+  "word": "ku",
+  "gloss": "OBJ",
+  "ipa": "/ˈku/",
+  "syllables": [
+    "ku"
+  ],
+  "slot": 2,
+  "pos": "particle",
+  "search_terms": [
+    "object marker",
+    "direct object",
+    "accusative"
+  ],
+  "description": "In 'phao lopia shelu theo' three nouns stand in a row, and nothing says where the reader ends and the thing read begins. Object 'ku' says it: the direct object starts at 'ku' and runs to the verb's own particles. It is optional and a clause without it is complete, so a speaker reaches for it when the edge or the role would otherwise be a guess. 'ko' (FOC) points at a word for contrast and leaves its role alone.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for voiceless 'k', release it, and round the lips closely for high back 'u'. As a single syllable it takes full stress.",
+  "usage_notes": "'ku' stands at the outer edge of the object phrase, before 'we' (ALSO) or 'li' (RESTR) and before any possessor. Everything between it and the Slot 1 particles, or the verb when there are none, is the object, so adjuncts stand before 'ku' and a manner word after it needs a Slot 1 particle in front. Before a clause's only phrase it marks an object whose subject is unsaid, and inside a relative clause it works the same way. In a causative the one made to act stands bare before it: 'phao lopia ku shelu ka theo'. A complement of 'nai' (be) or 'kelu' (become) is not an object and never takes it, and a passive clause has no object to mark.",
+  "examples": [
+    {
+      "phi": "phao ku lopia shelu theo.",
+      "translation": "The parent reads the child's book."
+    },
+    {
+      "phi": "phao lopia ku shelu theo.",
+      "translation": "The parent's child reads the book."
+    },
+    {
+      "phi": "lohau mua thepalu to nai. ku lopia to nila.",
+      "translation": "The dog was in the garden. It saw the child."
+    },
+    {
+      "phi": "whu ku mia nila miona shua.",
+      "translation": "The person who sees me is coming."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "When an account of who acted on whom will be relied on, 'ku' lets the speaker fix the roles in the sentence itself instead of leaving them to a hearer's guess."
+  }
+}

@@ -290,7 +290,31 @@ Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`t
 
 ## Slot 2: Word-Level Particles
 
-These particles appear **immediately before** the specific word they modify (noun, verb, or adjective). When several modify the same word, wider relations stand earlier — `we`/`li` > `ha`/`ra` > `lo`/numerals > `ko` > `ru`/`la`/`pe`/`wo`/`mo` > word — modifier-first inside the phrase (canon, *Slot 2 nests*).
+These particles appear **immediately before** the specific word they modify (noun, verb, or adjective). When several modify the same word, wider relations stand earlier — `ku` > `we`/`li` > `ha`/`ra` > `lo`/numerals > `ko` > `ru`/`la`/`pe`/`wo`/`mo` > word — modifier-first inside the phrase (canon, *Slot 2 nests*).
+
+### Object
+
+#### `ku` - Object Opener (OBJ)
+**Function**: Announces that the direct object begins here
+**Usage**: Optional. `ku` stands at the outer edge of the object phrase, before `we` or `li` and before any possessor. Everything from `ku` to the Slot 1 stack, or to the verb when there is no stack, is the object; the subject, every adjunct, and in a causative the one made to act stand before it. One per clause.
+**Example**:
+```
+phao lopia ku shelu theo.
+parent child OBJ book read.
+(The parent's child reads the book.)
+```
+```
+phao ku lopia shelu theo.
+parent OBJ child book read.
+(The parent reads the child's book.)
+```
+Before a clause's only phrase it marks an object whose subject is unsaid, and it works the same inside a relative clause:
+```
+ku lopia to nila.
+OBJ child PST see.
+(It saw the child.)
+```
+**Note**: a complement of `nai` or `kelu` never takes `ku`, a passive clause has no object to mark, and `ku` never opens the object of a preposition. With no Slot 1 particle after it, a word directly before the verb belongs to the object (canon: *`ku` opens the object*).
 
 ### Number
 
@@ -633,7 +657,7 @@ PL 1SG RECP love.
 |------|----------|----------|
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu he`, `su`, `pi` |
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `ro`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
-| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `la`, `pe`, `wo`, `we`, `li` |
+| **2** | Word-level | `ku`, `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `la`, `pe`, `wo`, `we`, `li` |
 
 **Note**: Complementizers (`whu`, `sha`/`sho`, `tha`/`tho`, `pha`/`pho`) and vocative (`kona`) are not particles—see `complementizer_reference.md`.
 

@@ -21,7 +21,7 @@ Counting syllables is unusually kind to the learner: count the vowels. `phelona`
 
 A lexicon word cannot repeat a syllable. `kala` has two different syllables and is structurally possible; *kaka* repeats `ka` and cannot enter the vocabulary. Productive names use the related rule that no syllable with its own onset may repeat.
 
-Phi also reserves every one-syllable form for grammar, and the word's first sound says which kind of grammar. A plain consonant and a vowel gives one of the thirty-eight particles or the base numerals `mu`, `ta`, and `wi`. A fricative digraph and a vowel gives one of the seven complementizers, the words that bracket an embedded clause. A content word or productive name therefore cannot be one syllable at all. These two shapes announce their broad grammatical role before a learner knows the word, and the ear separates them at the first sound: a particle begins on a closure, a bracket on a breath.
+Phi also reserves every one-syllable form for grammar, and the word's first sound says which kind of grammar. A plain consonant and a vowel gives one of the thirty-nine particles or the base numerals `mu`, `ta`, and `wi`. A fricative digraph and a vowel gives one of the seven complementizers, the words that bracket an embedded clause. A content word or productive name therefore cannot be one syllable at all. These two shapes announce their broad grammatical role before a learner knows the word, and the ear separates them at the first sound: a particle begins on a closure, a bracket on a breath.
 
 ## What other shapes can tell you
 

@@ -256,7 +256,7 @@
       "variant": "standard"
     },
     "manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2,2,2;t-;f-;q-;u3;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2;t-;f-;q-;u3;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch09_particle_system/06_combining_particles.md": {
@@ -276,7 +276,7 @@
       "variant": "standard"
     },
     "manual/part4_grammar/ch10_mindful_sentence/04_building_sentences.md": {
-      "shape": "h1,2,2,2,2,2;t4x2;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2;t4x2;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch10_mindful_sentence/05_questions_requests_conditions.md": {
@@ -630,7 +630,7 @@
       "variant": "module_guide"
     },
     "manual/appendices/appendix_a_glossary.md": {
-      "shape": "h1,2;t4x70;f-;q-;u-;o-;r0",
+      "shape": "h1,2;t4x71;f-;q-;u-;o-;r0",
       "variant": "glossary",
       "definition_count": 27
     },

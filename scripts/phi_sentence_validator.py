@@ -60,8 +60,12 @@ SLOT2_QUANTITY = frozenset({"lo"})
 SLOT2_FOCUS = frozenset({"ko"})
 SLOT2_DEGREE = frozenset({"ru", "la", "pe", "wo", "mo"})
 SLOT2_NAME = frozenset({"ne", "sa", "ni", "le"})
+# The optional object particle opens the direct object phrase and stands at
+# its outermost edge, before we or li and before any possessor.
+SLOT2_OBJECT = frozenset({"ku"})
 SLOT2_WORDS = (
-    SLOT2_OUTER
+    SLOT2_OBJECT
+    | SLOT2_OUTER
     | SLOT2_DEIXIS
     | SLOT2_QUANTITY
     | SLOT2_FOCUS
@@ -70,6 +74,7 @@ SLOT2_WORDS = (
     | {"nu"}
 )
 SLOT2_RANK = {
+    **{word: -1 for word in SLOT2_OBJECT},
     **{word: 0 for word in SLOT2_OUTER},
     **{word: 1 for word in SLOT2_DEIXIS},
     "lo": 2,
@@ -799,6 +804,7 @@ class PhiParser:
                 nested,
             )
         self._validate_slot2_and_quantity(start, end, nested)
+        self._validate_object_particle(start, predicate_index, slot1_indices, nested)
         self._validate_prepositions(start, end, predicate_index, slot1_indices, nested, allow_gap)
         self._validate_predicative_order(start, predicate_index, slot1_indices, nested)
 
@@ -1241,6 +1247,89 @@ class PhiParser:
                     adjective_after[0],
                 )
 
+    def _validate_object_particle(
+        self,
+        start: int,
+        predicate_index: int,
+        slot1_indices: Sequence[int],
+        nested: set[int],
+    ) -> None:
+        """ku opens the direct object, and the object runs to the verb group."""
+        marks = [
+            index
+            for index in range(start, predicate_index)
+            if index not in nested
+            and index not in self.name_atoms
+            and self._word(index) in SLOT2_OBJECT
+        ]
+        if not marks:
+            return
+        if len(marks) > 1:
+            self._error(
+                "PHS118",
+                "a clause has one direct object, so ku stands once",
+                marks[1],
+            )
+        mark = marks[0]
+        boundary = slot1_indices[0] if slot1_indices else predicate_index
+        predicate = self._word(predicate_index)
+        if predicate in PREDICATIVE_VERBS:
+            self._error(
+                "PHS119",
+                f"'{predicate}' takes a complement, not an object; ku does not stand before it",
+                mark,
+            )
+            return
+        if any(self._word(index) == "se" for index in slot1_indices):
+            self._error(
+                "PHS119",
+                "a passive clause has no direct object for ku to open",
+                mark,
+            )
+            return
+        if mark >= boundary:
+            self._error(
+                "PHS118",
+                "ku opens the object phrase, which stands before the Slot 1 stack",
+                mark,
+            )
+            return
+        previous = mark - 1
+        while previous >= start and previous in nested:
+            previous -= 1
+        if previous >= start and self._word(previous) in self.lexicon.prepositions:
+            self._error(
+                "PHS118",
+                "ku opens the direct object, never the object of a preposition",
+                mark,
+            )
+        object_words = [
+            index
+            for index in range(mark + 1, boundary)
+            if index not in nested and self._word(index) != "."
+        ]
+        if not any(
+            index in self.name_atoms or self.lexicon.is_nominal(self._word(index))
+            for index in object_words
+        ) and not any(mark < opener < boundary for opener in self.frame_close):
+            self._error("PHS118", "ku needs an object phrase after it", mark)
+        for index in object_words:
+            word = self._word(index)
+            if index in self.name_atoms:
+                continue
+            if (
+                word in self.lexicon.prepositions
+                or word in TEMPORAL_NP_RELATORS
+                or word in {"misa", "weno", "kua", "thela"}
+            ):
+                self._error(
+                    "PHS118",
+                    f"everything from ku to the verb is the object; the adjunct opened by "
+                    f"'{word}' stands before ku",
+                    index,
+                )
+                break
+
     def _validate_predicative_order(
         self,
         start: int,
@@ -1349,7 +1438,7 @@ class PhiParser:
             if current[0] < previous[0]:
                 self._error(
                     "PHS111",
-                    "Slot 2 nesting is we/li > ha/ra > quantity > ko > degree > target",
+                    "Slot 2 nesting is ku > we/li > ha/ra > quantity > ko > degree > target",
                     current[2],
                 )
 
@@ -1669,6 +1758,12 @@ class PhiParser:
 
         # A word that marks a noun phrase settles the reading: the adjective is
         # a quality noun, so there is nothing to review.
+        if any(
+            self._word(earlier) in SLOT2_OBJECT
+            for earlier in range(start, index)
+            if earlier not in nested and earlier not in self.name_atoms
+        ):
+            return None
         marker_index = index - 1
         while (
             marker_index >= start

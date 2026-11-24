@@ -94,6 +94,24 @@ class ReadingCounterTests(unittest.TestCase):
         strict = ReadingCounter(openers=frozenset({"ha", "ra", "lo"}))
         self.assertEqual(1, strict.analyse("phao ha shelu theo.").conservative)
 
+    def test_the_object_particle_settles_where_the_object_begins(self):
+        for text in (
+            "phao ku lopia shelu theo.",
+            "phao lopia ku shelu theo.",
+            "shia ku welao thumela.",
+            "mia mua womu ku shelu theo.",
+            "mia ku nohero to helui.",
+        ):
+            with self.subTest(text=text):
+                self.assertEqual((1, 1), self.counts(text))
+
+    def test_a_causee_before_a_marked_object_may_still_join_the_subject(self):
+        result = self.counter.analyse("phao lopia ku shelu ka theo.")
+        self.assertEqual(
+            ["[phao] [lopia] [ku shelu]", "[phao lopia] [ku shelu]"],
+            result.clauses[0].divisions,
+        )
+
     def test_a_sentence_that_does_not_parse_has_no_count(self):
         self.assertIsNone(self.counter.analyse("mia shua mia."))
 
