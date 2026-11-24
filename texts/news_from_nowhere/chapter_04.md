@@ -251,9 +251,9 @@ ADD PL build generous create COORD abundant life PST express.
 (The buildings also expressed generosity in their making and abundant life.)
 morris: "but it bore upon it the expression of such generosity and abundance of life"
 
-phoe ha mia mawha thimu ru rashowe to nai.
-ANT PROX 1SG NONE time INTS excited PST be.
-(Before this, I had never been so excited.)
+mia ru rashowe to kelu. mia phoe ha shemu mawha thimu mo rashowe to nai.
+1SG INTS excited PST become. 1SG ANT PROX moment NONE time CMPR excited PST be.
+(I became very excited. I had never been more excited before this moment.)
 morris: "that I was exhilarated to a pitch that I had never yet reached."
 
 mia roe nirelo to maeli hola.

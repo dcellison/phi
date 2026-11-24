@@ -18,9 +18,9 @@ ANT PL 1SG PST speak 1SG PST prepare.
 
 Hold the two sentences side by side and the discipline appears: in both, the speaking and the arriving keep their own tense marks, because each clause carries the tense appropriate to its own event. The relator supplies the relation; it is not a tense particle, and it borrows nothing from the main clause.
 
-### Counted time
+### Time phrases
 
-The same two words stand over a counted duration instead of a clause, and the pairing with tense is exact. `phoe` with a past verb reaches back:
+The same two words stand over a time phrase instead of a clause, and the pairing with tense is exact. `phoe` with a past verb reaches back:
 
 ```
 melu phoe wi philo to kamo.
@@ -36,7 +36,17 @@ friend POST two day FUT arrive.
 (The friend arrives in two days.)
 ```
 
-The past and future marks belong to `kamo`; the counted phrase supplies only the distance from now. It stands where adjuncts stand, before the object position, circumstances first.
+The past and future marks belong to `kamo`; the time phrase supplies only the distance from now. It stands where adjuncts stand, before the object position, circumstances first.
+
+The phrase does not have to be counted. `pheo teku shemu` is after a short moment, `pheo laeno thimu` after a long time, and `phoe ra thimu` before that time. What it needs is a time noun at its head. English lets *after* lean on anything: after that, after tea, after the bridge. Phi asks which event came first and gives it a clause of its own:
+
+```
+pheo shia ha to haolu mia to wepu.
+POST 3SG PROX PST speak 1SG PST go.
+(After they said this, I left.)
+```
+
+A place takes a preposition of place instead: `noe repha`, behind the bridge.
 
 ### Practice: which event does the relator hold
 

@@ -295,7 +295,7 @@ class SentenceParserTest(unittest.TestCase):
             "misa ma sano.",
             "ha wisola lokue misa ru waora nai.",
             "thia misa tha mokela miona mua ruela po nai tho remo.",
-            "mia misa phoe ha thia ma thilou.",
+            "mia misa phoe ha shemu thia ma thilou.",
             "whekai misa mia ma sano.",
             "mia ka mo nila.",
         ):
@@ -474,6 +474,45 @@ class SentenceParserTest(unittest.TestCase):
         self.assertIn("REVIEW", completed.stdout)
         self.assertIn("PHL001", completed.stdout)
         self.assertIn("Valid Phi utterance.", completed.stdout)
+
+    def test_temporal_relators_take_a_clause_or_a_time_phrase(self):
+        for text in (
+            "mia pheo wi philo so shua.",
+            "melu phoe wi philo to kamo.",
+            "pheo teku shemu lo miona shua.",
+            "pheo laeno thimu shia to turema.",
+            "phoe ra thimu mua ra lokue repha to whano.",
+            "mia phoe ha shemu thia to ma thilou.",
+            "pheo shia ha to haolu kohura mosha to nai.",
+            "pheo ha shero wepu shia to nulae.",
+            "whekai phoe pai wi phoi wi shao ta torua punoki karami to pilu.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        for text in (
+            "pheo thena kohura mosha to nai.",
+            "pheo ha sileta to pa keru loa.",
+            "pheo ha mia soli thimu to maeli manolu.",
+            "phoe ha mia mawha thimu ru rashowe to nai.",
+            "shia pheo hasumi nurome to ro wile.",
+            "mia pheo shia to wepu.",
+            "mia pheo repha la wuero lokue to nila.",
+        ):
+            with self.subTest(text=text):
+                self.assertInvalid(text, "PHS062")
+
+    def test_also_and_only_stand_outside_the_slot_one_block(self):
+        for text in (
+            "shia we to pa nulae.",
+            "ne kalora li to seniku.",
+            "mia we shua.",
+            "shia to ru noeli haolu.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        for text in ("shia to we nulae.", "ne kalora to li seniku."):
+            with self.subTest(text=text):
+                self.assertInvalid(text, "PHS106")
 
     def test_sentence_cli_fragment_mode(self):
         command = [

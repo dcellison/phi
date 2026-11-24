@@ -76,9 +76,9 @@ aesop: "but all his efforts were in vain."
 ### The sun
 
 ```
-pheo ha sileta to pa keru loa.
-POST PROX sun PST INCH bright give.
-(After this, the sun began to shine.)
+sileta to pa keru loa.
+sun PST INCH bright give.
+(The sun began to shine.)
 aesop: "Then the Sun began to shine."
 
 mua thorui shia keru loa moli to nai nela pheo nitho howeli puko pelui to te nai whu laniru miona mua nirelo sulae wethalu to phae nela shia nia miso lo talua wethalu to ka ralu manolu.
@@ -136,7 +136,7 @@ sileta sha su lo mia tha whu ra laniru miona wethalu po leiro miona mo kema nai 
 
 roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to reshi tiripe. whekai pheo mu thimu shia wethalu miso to ka noshi lomare. lao howeli to mo kema whesu miona roa miso wethalu to mo noshi phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo ha sileta to pa keru loa. mua thorui shia keru loa moli to nai nela pheo nitho howeli puko pelui to te nai whu laniru miona mua nirelo sulae wethalu to phae nela shia nia miso lo talua wethalu to ka ralu manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia lue miso weloni miso wethalu to natu. shia wethalu to leiro. sio ruela ta shiro to whano. lila miona lue whu thape sileta keru phesari miona wea muila muo whu shia whelani shiro shomelu miso to wapho.
+sileta to pa keru loa. mua thorui shia keru loa moli to nai nela pheo nitho howeli puko pelui to te nai whu laniru miona mua nirelo sulae wethalu to phae nela shia nia miso lo talua wethalu to ka ralu manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia lue miso weloni miso wethalu to natu. shia wethalu to leiro. sio ruela ta shiro to whano. lila miona lue whu thape sileta keru phesari miona wea muila muo whu shia whelani shiro shomelu miso to wapho.
 
 moli nela phena sharemi porua korei. whekai kawhera porua ma korei nela theisa kapura porua ma korei.
 ```

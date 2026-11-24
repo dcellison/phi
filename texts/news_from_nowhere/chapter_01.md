@@ -45,9 +45,9 @@ CONC discuss thing society transform be discuss warm PST REP stay.
 (The friend reports that, although the discussion's subject was society's transformation, it remained warm and good-natured.)
 morris: "Says our friend: Considering the subject, the discussion was good-tempered;"
 
-wheli miona lona nela pheo thumela shareo lo miona keno to nai.
-ANY person meeting COORD POST teach discuss PL person custom PST be.
-(Public meetings and discussions after teaching were customary for them.)
+thumela lumae shareo nela wheli miona lona lo miona keno to nai.
+teach end discuss COORD ANY person meeting PL person custom PST be.
+(A discussion at the end of the teaching and a meeting for anyone were the people's custom.)
 morris: "for those present being used to public meetings and after-lecture debates,"
 
 lu lo miona lo wiso remo ma sheluo. whekai lo miona li soli shemu tha nuawe haolu tho to mesatu. mawha miona tha lo miona lo wiso remo so sheluo tho ho po remo.
@@ -226,9 +226,9 @@ winter beginning night beautiful PST be.
 (The night at winter's beginning was beautiful.)
 morris: "It was a beautiful night of early winter,"
 
-haowu pheo sukaro tholupi nela whu pothu nurako rolutha pe neri to nai. thelao ha newai to nai.
-air POST hot room COORD REL stink railway wagon SUFF cool PST be. CONS PROX fresh PST be.
-(After the hot room and the stinking railway carriage, the air was cool enough to feel fresh.)
+pheo shia lue sukaro tholupi nela whu pothu nurako rolutha to wepu haowu pe neri to nai. thelao ha newai to nai.
+POST 3SG ABL hot room COORD REL stink railway wagon PST go air SUFF cool PST be. CONS PROX fresh PST be.
+(After they had left the hot room and the stinking railway carriage, the air was cool enough. Therefore this was fresh.)
 morris: "the air just sharp enough to be refreshing after the hot room and the stinking railway carriage."
 
 howeli mua teku luera thimu lue sileta lumae wea nitho to ki la rato.
@@ -416,9 +416,9 @@ shia neo miso whu se tiwa lo sima to ru nuwi nila.
 (Before them, they saw the tied threads very clearly.)
 morris: "and the entanglements before him, which he saw so clearly,"
 
-lo sima wei shia muo whu shia monelu ka kelu nophi miso pa selomi.
-PL thread DAT 3SG INTO REL 3SG amused CAUS become story REFL INCH weave.
-(The threads began to weave themselves into a story that amused them.)
+lo sima wei shia muo whu shia monelu ka kelu nophi miso to pa selomi.
+PL thread DAT 3SG INTO REL 3SG amused CAUS become story REFL PST INCH weave.
+(For them, the threads began to weave themselves into a story that amused them.)
 morris: "began to shape themselves into an amusing story for him."
 
 shia teli ta haoni to hea. shia teli wi haoni to hea. shia teli ta shao haoni to hea.

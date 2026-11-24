@@ -28,7 +28,7 @@ ANT PL 1SG PST speak 1SG PST prepare.
 
 Each clause carries the tense appropriate to its own event. The dependent verb marks the point at which the main clause begins; neither relator takes a closer.
 
-The same words can stand over a counted duration rather than a clause:
+The same words can stand over a time phrase instead of a clause:
 
 ```
 melu phoe wi philo to kamo.
@@ -37,6 +37,14 @@ friend ANT two day PST arrive.
 ```
 
 The past **to** belongs to **kamo**. **phoe wi philo** supplies the distance from now rather than acting as a tense marker.
+
+The phrase need not be counted. **pheo teku shemu** is after a short moment, and **phoe ra thimu** is before that time. What it must have is a time noun at its head. *After that* and *after tea* have none, so each becomes a clause that says what happened first:
+
+```
+pheo shia hasumi nurome to nuola shia to ro wile.
+POST 3SG tea meal PST eat 3SG PST HAB play.
+(After they had tea, they would play.)
+```
 
 ## A temporal endpoint: `tei`
 

@@ -656,20 +656,36 @@ class PhiParser:
             )
 
         if relator in TEMPORAL_NP_RELATORS | NOMINAL_RELATORS:
+            needs_time = relator in TEMPORAL_NP_RELATORS
+            other_noun_phrase = False
             for split in range(start + 2, end):
                 if not self._valid_nominal_span(start + 1, split):
                     continue
+                is_time_phrase = self._is_time_phrase(self._words(start + 1, split))
                 checkpoint = len(self.diagnostics)
                 main = self._parse_clause(split, end, allow_gap=allow_gap)
-                if len(self.diagnostics) == checkpoint:
-                    return SyntaxNode(
-                        "adverbial-nominal",
-                        start,
-                        end,
-                        [main] if main else [],
-                        relator,
-                    )
+                parsed = len(self.diagnostics) == checkpoint
                 del self.diagnostics[checkpoint:]
+                if not parsed:
+                    continue
+                if needs_time and not is_time_phrase:
+                    other_noun_phrase = True
+                    continue
+                return SyntaxNode(
+                    "adverbial-nominal",
+                    start,
+                    end,
+                    [main] if main else [],
+                    relator,
+                )
+            if other_noun_phrase:
+                self._error(
+                    "PHS062",
+                    f"'{relator}' stands over a clause or a time phrase, never over "
+                    "another noun or a bare ha or ra",
+                    start,
+                )
+                return SyntaxNode("invalid-adverbial", start, end, value=relator)
 
         self._error(
             "PHS060",
@@ -729,6 +745,7 @@ class PhiParser:
             direct_question,
         )
         self._validate_clause_relators(start, end, predicate_index, nested)
+        self._validate_temporal_phrases(start, predicate_index, slot1_indices, nested)
         missing_question_frame = self._validate_unframed_content_question(
             start,
             predicate_index,
@@ -882,6 +899,67 @@ class PhiParser:
                     "PHS061",
                     f"'{word}' opens dependent material before the main clause; "
                     "it cannot be postposed",
+                    index,
+                )
+
+    def _time_phrase_word(self, word: str, position: int) -> bool:
+        """Whether a word may stand inside a time phrase before its head."""
+        return (
+            word in self.lexicon.temporal_nouns
+            or word in SLOT2_WORDS
+            or word in self.lexicon.quantifiers
+            or word in self.lexicon.classifiers
+            or word in NUMERAL_SCALES
+            or self.lexicon.pos(word) in {"numeral", "adjective"}
+            or (word == "pai" and position == 0)
+        )
+
+    def _is_time_phrase(self, words: Sequence[str]) -> bool:
+        """A time noun, with nothing before it but counts, measures, and deixis."""
+        if not words or words[-1] not in self.lexicon.temporal_nouns:
+            return False
+        if words[0] == "whu":
+            return True
+        return all(
+            self._time_phrase_word(word, position)
+            for position, word in enumerate(words[:-1])
+        )
+
+    def _validate_temporal_phrases(
+        self,
+        start: int,
+        predicate_index: int,
+        slot1_indices: Sequence[int],
+        nested: set[int],
+    ) -> None:
+        """Inside a clause, pheo and phoe stand over a time phrase only."""
+        boundary = slot1_indices[0] if slot1_indices else predicate_index
+        for index in range(start, boundary):
+            if index in nested or self._word(index) not in TEMPORAL_NP_RELATORS:
+                continue
+            first = index + 1
+            if first < boundary and self._word(first) == "whu":
+                # A relative clause before a time noun: look for that head.
+                found = any(
+                    self._word(other) in self.lexicon.temporal_nouns
+                    for other in range(first + 1, boundary)
+                )
+            else:
+                found = False
+                words: list[str] = []
+                for other in range(first, boundary):
+                    word = self._word(other)
+                    if other in nested or not self._time_phrase_word(word, len(words)):
+                        break
+                    words.append(word)
+                    if self._is_time_phrase(words):
+                        found = True
+                        break
+            if not found:
+                self._error(
+                    "PHS062",
+                    f"'{self._word(index)}' stands over a clause or a time phrase, "
+                    "never over another noun or a bare ha or ra",
                     index,
                 )
 
@@ -1074,6 +1152,14 @@ class PhiParser:
                 continue
             word = self._word(index)
             pos = self.lexicon.pos(word)
+            if word in SLOT2_OUTER and index > first:
+                self._error(
+                    "PHS106",
+                    f"'{word}' stands at the outer edge of the verb phrase, before "
+                    "the Slot 1 stack, never between the stack and the verb",
+                    index,
+                )
+                continue
             if word in self.lexicon.slot1_words or word in SLOT2_WORDS:
                 continue
             if pos == "adjective" and index > last:

@@ -44,9 +44,9 @@ shia sha ha wisola lokue sho to haolu.
 (They said, "This is the exchange-place.")
 morris: "\"Kensington Market.\""
 
-pheo ha lo mia muo teku womu ruela to wepu.
-POST PROX PL 1SG INTO short home path PST go.
-(After that, we entered a short street of houses.)
+lo mia pheo teku shemu muo teku womu ruela to wepu.
+PL 1SG POST short moment INTO short home path PST go.
+(After a short moment we went into a short path of homes.)
 morris: "Just after this we came into a short street of houses:"
 
 shekoi mua theli ruela phanoi ta laeno womu to whano.
@@ -1160,9 +1160,9 @@ CONTR 2SG DECL.COMP UNIV exterior ANT MANY ancient year PST PFV spoil DECL.COMP.
 (But you know that the whole exterior was spoiled many centuries ago.)
 morris: "But you know the whole outside was spoiled centuries ago:"
 
-whekai pheo lo miona lo halemu kire mue ra lorima to mue sekaru muwi mioru manolu. lue ra sekaru tei nosa thimu sheo ta rei wi phoi ta torua mo laeno nai.
-CONTR POST PL person PL remember shape OUT.OF DIST build PST OUT.OF transfer interior beautiful stay. ABL DIST transfer UNTIL now time THAN one eighty-one-group two nine-group one year CMPR long be.
-(But after people moved the memorial forms out of that building, its interior remained beautiful. More than one hundred years have passed since that removal.)
+whekai pheo lo miona mue ra lorima lo halemu kire to sekaru muwi mioru manolu. lue ra sekaru tei nosa thimu sheo ta rei wi phoi ta torua mo laeno nai.
+CONTR POST PL person OUT.OF DIST build PL remember shape PST transfer interior beautiful stay. ABL DIST transfer UNTIL now time THAN one eighty-one-group two nine-group one year CMPR long be.
+(However, after people moved the shapes of remembrance out of that building, the interior remains beautiful. From that move to the present time it is longer than a hundred years.)
 morris: "as to the inside, that remains in its beauty after the great clearance, which took place over a hundred years ago,"
 
 lo halemu kire ru whu mioru ma nai to nai. shia lo whu tawimo phoa nela wero ma haolu miona to keluro.

@@ -50,13 +50,15 @@ The default command parses every structured sentence under `vocabulary/` and eve
 | Questions | `wa` asks about the whole proposition and stays out of a content question; each content-question clause has one gap-word; `misa` follows an explicit subject and precedes the remaining clause material |
 | Predicate | A complete assertion ends in a lexical verb; interjections, vocatives, and recognized nominal fragments have their own trees |
 | Slot 1 | Tense, aspect, voice, evidentiality, modality, and negation keep their fixed order and one-per-rank limit, with `se ka` as the single paired voice |
-| Slot 2 | Wider scope comes first, a noun phrase uses one quantity strategy, `lo` cannot double, `mo ko` keeps its fixed order, and `lo ha` or `lo ra` is licensed only as a bare plural pronoun |
+| Slot 2 | Wider scope comes first, a noun phrase uses one quantity strategy, `lo` cannot double, `mo ko` keeps its fixed order, and `lo ha` or `lo ra` is licensed only as a bare plural pronoun; `we` and `li` on a verb stand before the Slot 1 stack, never between it and the verb (`PHS106`) |
 | Complements | `tha ... tho`, `pha ... pho`, and `sha ... sho` balance and nest; every embedded question takes `pha ... pho`; `wa` stays out of that frame; quotations close on one of the four canonical speech or hearing verbs |
-| Dependent material | Relative, adverbial, purpose, and conditional material precedes what it modifies; a `lu` condition is a complete sentence before its consequence |
+| Dependent material | Relative, adverbial, purpose, and conditional material precedes what it modifies; a `lu` condition is a complete sentence before its consequence; `pheo` and `phoe` stand over a clause or a time phrase and over no other noun or bare `ha` or `ra` (`PHS062`) |
 | Being and becoming | The predicative complement precedes the Slot 1 stack and `nai` or `kelu`; manner remains immediately before the final verb |
 | Relations and number | Prepositions receive an object before the predicate stack, exact numerals descend through each scale once, and classifiers appear only where the numeral system licenses them |
 
 Diagnostic codes begin with `PHS`. They are stable enough for regression tests and direct a reader to the first word at which the rejected structure becomes determinate.
+
+`PHS062` reads a time phrase narrowly: a time noun at the head, with nothing before it except counts, quantifiers, adjectives, Slot 2 particles, or a relative clause. Inside a clause the check stops at the first time noun it reaches, so `phoe kelua nurome` (before the morning meal) passes as `phoe kelua`; that shape still needs a reader.
 
 `PHS085` catches the clearest missing question frame: a top-level gap-word is followed by a visibly finite inner predicate and then a matrix predicate. The diagnostic points back to `pha ... pho` without pretending that every unmarked verb has a known valency.
 

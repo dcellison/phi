@@ -302,14 +302,14 @@ shia sha kona phewani. teku wishe to nai. sho to haolu.
 (They said, "Neighbour, that was a short swim.")
 morris: "and said--\"A short swim, neighbour;"
 
-whekai thia pheo thia laniru mua ha kelua tha phialu pelui nai tho po phaelo.
-CONTR 2SG POST 2SG journey LOC PROX morning DECL.COMP water cold be DECL.COMP.CLOSE POT feel.
-(But perhaps, after your journey, the water feels cold to you this morning.)
+whekai pheo thia to laniru thia mua ha kelua tha phialu pelui nai tho po phaelo.
+CONTR POST 2SG PST journey 2SG LOC PROX morning DECL.COMP water cold be DECL.COMP.CLOSE POT feel.
+(But after your journey, you may feel this morning that the water is cold.)
 morris: "but perhaps you find the water cold this morning, after your journey."
 
-wa mia thia nosa kau kerime kolua sola thia phoe kelua nurome wea luphore lumae wepu rinu.
-Q 1SG 2SG now ALL shore carry DISJ 2SG ANT morning meal TOWARD river end go want.
-(Shall I carry you ashore now, or would you like to go downstream before breakfast?)
+wa mia nosa kau kerime thia kolua sola phoe thia kelua nurome nuola thia wea luphore lumae wepu rinu.
+Q 1SG now ALL shore 2SG carry DISJ ANT 2SG morning meal eat 2SG TOWARD river end go want.
+(Shall I carry you to the shore now, or do you want to go toward the end of the river before you eat breakfast?)
 morris: "Shall I put you ashore at once, or would you like to go down to Putney before breakfast?\""
 
 mia tha mia womu muila luphonu miona phirae kire so haolu tho to ho remo. thelao mia shia to ru nila.
@@ -338,7 +338,7 @@ thia mua kelua thorui to nowae. mia siora phaelo. sileta li nosa ki rihe.
 morris: "I'm glad you got up early; it's barely five o'clock yet.\""
 ```
 
-**Notes:** the seeing itself is the subject of the astonishment: `whu mia nila`, what I saw. The surprise belongs to the seer, while the forgetting takes swimming as a plain object because `wishe` supplies its event noun by the ordinary rule. The spluttering keeps its own body: a fall below the water and a cough. Upstream and downstream never need compass words. They are `wea luphore thorui` and `wea luphore lumae`, toward the river's beginning and toward its end, the same `thorui` and `lumae` that already give Phi its east and west from the sun. The waterman's strange courtesy survives in his own grammar: `pheo thia laniru`, after your journey, drops into his sentence as easily as Morris drops it. This is the first small sign that the man knows more about his passenger than a stranger should. Barn Elms keeps its trees instead of its name: `ra welamu lokue`, that elm-place. The elm itself was coined for the first chapter. The refused clock does not cost the morning its earliness: the sun has only now risen, which on a June morning says five o'clock more honestly than a bell could.
+**Notes:** the seeing itself is the subject of the astonishment: `whu mia nila`, what I saw. The surprise belongs to the seer, while the forgetting takes swimming as a plain object because `wishe` supplies its event noun by the ordinary rule. The spluttering keeps its own body: a fall below the water and a cough. Upstream and downstream never need compass words. They are `wea luphore thorui` and `wea luphore lumae`, toward the river's beginning and toward its end, the same `thorui` and `lumae` that already give Phi its east and west from the sun. The waterman's strange courtesy survives in his own grammar: `pheo thia to laniru`, after you have journeyed, opens his sentence as a small clause of its own. This is the first small sign that the man knows more about his passenger than a stranger should. Barn Elms keeps its trees instead of its name: `ra welamu lokue`, that elm-place. The elm itself was coined for the first chapter. The refused clock does not cost the morning its earliness: the sun has only now risen, which on a June morning says five o'clock more honestly than a bell could.
 
 ## luphonu miona — The waterman
 
@@ -654,9 +654,9 @@ CONS 1SG REFL content PST CAUS see. 1SG AS custom river PL shore PST see.
 (So I made myself look content and looked at the riverbanks as though this were customary.)
 morris: "So I tried to look unconcerned, and to glance in a matter-of-course way at the banks of the river,"
 
-whekai mia tei repha to nila. mia pheo repha la wuero lokue to nila. mia tei whu lo sawa thena riola womu to whano lokue to nila.
-CONTR 1SG UNTIL bridge PST see. 1SG POST bridge ATTEN far place PST see. 1SG UNTIL REL PL wash thing labor home PST stand place PST see.
-(Yet I looked all the way to the bridge, a little beyond it, and as far as the place where the workshops for washing things had stood.)
+whekai mia tei repha to nila. mia noe repha la wuero lokue to nila. mia tei whu lo sawa thena riola womu mua to whano lokue to nila.
+CONTR 1SG UNTIL bridge PST see. 1SG BEHIND bridge ATTEN far place PST see. 1SG UNTIL REL PL wash thing labor home LOC PST stand place PST see.
+(However, I saw as far as the bridge. Behind the bridge I saw a place a little way off. I saw as far as the place where the works for washing-things had stood.)
 morris: "though this is what I saw up to the bridge and a little beyond; say as far as the site of the soap-works."
 ```
 
@@ -881,14 +881,14 @@ POL PROX custom DAT PL 1SG hard COORD AS tie path custom INFER be. PL 1SG INT.CO
 (Please understand that this custom seems difficult to us, like a tangled path. We do not know how to follow it.)
 morris: "but pardon me for saying, that it seems to us a troublesome and roundabout custom; and we don't know how to manage it."
 
-mia thue phialu miona kolua. mia lo miona roa phialu we kolua. ha mia riola nai. mia wei theula miona ha ro phoa.
-1SG THROUGH water person carry. 1SG PL person AROUND water ALSO carry. PROX 1SG labor be. 1SG DAT UNIV person PROX HAB do.
-(I carry people across the water and around it. This is my work, and I do it for anyone.)
+mia thue phialu miona kolua. mia roa phialu lo miona we kolua. ha mia riola nai. mia wei theula miona ha ro phoa.
+1SG THROUGH water person carry. 1SG AROUND water PL person ALSO carry. PROX 1SG labor be. 1SG DAT UNIV person PROX HAB do.
+(I carry people across the water. I also carry people around the water. This is my work. I regularly do this for everyone.)
 morris: "And you see this ferrying and giving people casts about the water is my _business_, which I would do for anybody;"
 
-lu mia nua riola lo loami pilu. lo miona ha ru kuewa so nila.
-COND 1SG COM labor PL gift take. PL person PROX INTS strange FUT see.
-(If I took gifts along with the work, people would see that as very strange.)
+lu mia nua riola lo loami pilu. lo miona ha so ru kuewa nila.
+COND 1SG COM labor PL gift take. PL person PROX FUT INTS strange see.
+(If I take gifts along with the work, people will see this as very strange.)
 morris: "so to take gifts in connection with it would look very queer."
 
 lu sheno ta miona wei mia thena loa. wi miona so po loa. lo mo miona so po loa.
@@ -896,9 +896,9 @@ COND ADD one person DAT 1SG thing give. two person FUT POT give. PL CMPR person 
 (Besides, if one person gives me something, two people will be able to give. More people will be able to give.)
 morris: "Besides, if one person gave me something, then another might, and another, and so on;"
 
-mia pha mia kua sheloi melu halemu thena phelu pho so ma sano. su thia tha mia keloa nai tho ma remo.
-1SG INT.COMP 1SG where MANY friend remember thing hold INT.COMP.CLOSE FUT NEG know. OPT 2SG DECL.COMP 1SG rough be DECL.COMP.CLOSE NEG think.
-(I would not know where to keep so many remembrances of friendship. Please do not think me rude.)
+mia pha mia kua sheloi melu halemu thena po phelu pho so ma sano. su thia tha mia keloa nai tho ma remo.
+1SG INT.COMP 1SG where MANY friend remember thing POT hold INT.COMP.CLOSE FUT NEG know. OPT 2SG DECL.COMP 1SG rough be DECL.COMP.CLOSE NEG think.
+(I will not know where I can keep many mementos of friends. I hope you do not think that I am rough.)
 morris: "and I hope you won't think me rude if I say that I shouldn't know where to stow away so many mementos of friendship.\""
 
 shia to theisa hola. shia siora to phaelo.
@@ -1228,9 +1228,9 @@ IMP PL 2SG now COM 1SG INTO home go. IMP SOME food take. watch out. PL 2SG LOC j
 (Come into the house with me now, both of you, and take some food. Take care, or you may forget the meal while you are enjoying yourselves.)
 morris: "But you had better both come in with me at once and get something to eat, lest you should forget your dinner in your amusement."
 
-mia tha thia pheo mia nulae mua luera shero muo phemi womu kamo tho ho remo.
-1SG DECL.COMP 2SG POST 1SG sleep LOC past night INTO guest home arrive DECL.COMP.CLOSE ASSUM think.
-(I assume you came into the Guest House last night after I had fallen asleep.)
+mia tha pheo mia to nulae thia mua luera shero muo phemi womu to kamo tho ho remo.
+1SG DECL.COMP POST 1SG PST sleep 2SG LOC past night INTO guest home PST arrive DECL.COMP.CLOSE ASSUM think.
+(I suppose you arrived in the guest-house last night, after I was asleep.)
 morris: "I suppose you came into the Guest House after I had gone to bed last night?\""
 
 mia roe koma kiroa to loa. mia laeno whu kau mu thena wepu haolu to ma rinu.
