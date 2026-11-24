@@ -54,6 +54,24 @@ shia miso thumela.
 
 Teaching takes a learner; here the learner is the teacher, and `miso` says so in the ordinary object position, no new grammar required.
 
+### Two more seats
+
+`miso` can also stand after a preposition, and before a noun as its owner:
+
+```
+shia neo miso nila.
+3SG FRONT REFL see.
+(They look in front of themselves.)
+```
+
+```
+shia miso womu to nila.
+3SG REFL home PST see.
+(They saw their own home.)
+```
+
+The second one answers a question the pronouns alone cannot. `shia womu to nila` leaves the owner to context, which is usually enough. When another person's home is also in the story, `miso` says the home is the seer's own.
+
 ### Practice: turn it home
 
 1. I heal myself.

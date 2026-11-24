@@ -12,7 +12,7 @@ BECAUSE 1SG PST NEG listen 1SG PST NEG understand.
 (Because I did not listen, I did not understand.)
 ```
 
-Two clauses, two independent Slot 1 stacks, and neither borrows from the other. When the frame's event and the main event sit in different times, say both times; the relator will not say either for you.
+Two clauses, two independent Slot 1 stacks, and neither borrows from the other. When the frame's event and the main event sit in different times, say both times; the relator will not say either for you. When they share a past, both clauses still take `to`, because each is tensed from the moment of speaking. A `lila` clause alone goes without: a purpose has no place in time yet.
 
 ### The main clause keeps its shape
 

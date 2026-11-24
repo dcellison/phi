@@ -13,8 +13,8 @@ Neither event is earlier. Neither causes the other. The frame says only that the
 Aspect is free on both sides, and it is worth knowing what it adds rather than reaching for it by reflex. `si` on the framing verb says the event was already under way:
 
 ```
-whau pheralu si lepa lo mia mua keritha to manolu.
-SIMUL rain IPFV fall PL 1SG LOC workshop PST stay.
+whau pheralu to si lepa lo mia mua keritha to manolu.
+SIMUL rain PST IPFV fall PL 1SG LOC workshop PST stay.
 (While the rain was falling, we stayed in the workshop.)
 ```
 

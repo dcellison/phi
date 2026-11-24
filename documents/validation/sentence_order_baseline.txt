@@ -12,6 +12,12 @@
 #         prepositional phrase. As a direct object it belongs after the phrase
 #         (S PP O V). The order stands when pronoun and noun form one possessed
 #         subject.
+# PHL003  a period stands before sho. The closer follows the last quoted word.
+#         Every line with this code is a known fault awaiting repair.
+# PHL004  a prepositional phrase, or a pheo or phoe time phrase, opens a
+#         sentence and a noun phrase follows it. An adjunct that is not a
+#         clause follows an explicit subject. The order stands only when the
+#         following phrase is not the subject.
 #
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 
@@ -141,3 +147,110 @@ PHL002	thena	texts/news_from_nowhere/chapter_05.md	1	wa lo shia phirae thena phe
 PHL002	thia	texts/news_from_nowhere/chapter_02.md	1	mia tha mia thia lue riola sola lue siora natu tho sukima phaelo.
 PHL002	tupeka	texts/news_from_nowhere/chapter_02.md	1	mia nulae tupeka lue miso to ka po ma lepa.
 PHL002	whila	texts/velveteen_rabbit.md	1	shia mureli nolika whila mua soli lokue to ki wepu.
+PHL003	hekawi	texts/news_from_nowhere/chapter_02.md	1	whekai mia mua mia thueli lokue whu mia kolua miona so ho hekawi.
+PHL003	kaeli	texts/news_from_nowhere/chapter_03.md	1	whu thia kaeli.
+PHL003	kelomi	texts/news_from_nowhere/chapter_02.md	1	mia tha thia mia kulo tho so kelomi.
+PHL003	lepa	texts/news_from_nowhere/chapter_02.md	1	thia muo mia riola so lepa.
+PHL003	lonae	texts/news_from_nowhere/chapter_03.md	1	selomi miona sha mia roe siora so lonae.
+PHL003	morae	texts/news_from_nowhere/chapter_02.md	1	mia ha to ma morae.
+PHL003	nai	texts/news_from_nowhere/chapter_02.md	1	ha lokue phea ra welamu lokue mioru nai.
+PHL003	nai	texts/news_from_nowhere/chapter_02.md	1	mia sha phialu mua ha kelua ru nuwi nai.
+PHL003	nai	texts/news_from_nowhere/chapter_02.md	1	mia tha mia sha wa ha whu mia sano luphore nai.
+PHL003	nai	texts/news_from_nowhere/chapter_02.md	1	shia sha repha ru serao ma nai.
+PHL003	nai	texts/news_from_nowhere/chapter_02.md	1	teku wishe to nai.
+PHL003	nai	texts/news_from_nowhere/chapter_02.md	1	whekai ha kelomi wei mia kethua nai.
+PHL003	nai	texts/news_from_nowhere/chapter_03.md	1	shia sha ha nai.
+PHL003	nai	texts/news_from_nowhere/chapter_03.md	1	shia sha ra lokue we mioru nai.
+PHL003	nai	texts/news_from_nowhere/chapter_03.md	1	thelao lo thena wei mia nosa kuewa ke nai.
+PHL003	nemo	texts/news_from_nowhere/chapter_02.md	1	shai wheli thena so po kelu mia tha mia wei shia sha nemo.
+PHL003	nila	texts/news_from_nowhere/chapter_02.md	1	mia luphore muphia welisha we to ki hi nila.
+PHL003	nila	texts/news_from_nowhere/chapter_02.md	1	shia sha thia nila.
+PHL003	phaelo	texts/news_from_nowhere/chapter_02.md	1	mia sha mia tha lo miona leo ra welamu lokue to ma lorima tho siora phaelo.
+PHL003	phoa	texts/news_from_nowhere/chapter_03.md	1	wa mia ha ho phoa.
+PHL003	phoa	texts/news_from_nowhere/chapter_03.md	1	wei lo mia we ha phoa.
+PHL003	remo	texts/news_from_nowhere/chapter_03.md	1	mia ha ke remo.
+PHL003	remo	texts/news_from_nowhere/chapter_03.md	1	ne kulo sha thia ha shewo remo.
+PHL003	remo	texts/news_from_nowhere/chapter_03.md	1	shia sha thia pha mia wia torua phelu pho remo.
+PHL003	rinu	texts/news_from_nowhere/chapter_02.md	1	mia tha mia roa mia teku nila tho rinu.
+PHL003	sano	texts/news_from_nowhere/chapter_03.md	1	mia sha mia we ha nomei nuwi ma sano.
+PHL003	whano	texts/news_from_nowhere/chapter_02.md	1	mia sha repha wia torua to ki whano.
+PHL003	wia	book/00_the_boatman.md	1	mia sha wia.
+PHL003	wia	short_road.md	1	mia sha wia.
+PHL003	wia	texts/news_from_nowhere/chapter_02.md	1	mia sha wia.
+PHL004	lue	texts/news_from_nowhere/chapter_05.md	1	lue ha shia wea nitho nela wea sileta lumae thue ta phirae lokue wepu.
+PHL004	lue	texts/news_from_nowhere/chapter_05.md	1	lue ra shia wea nitho nela wea sileta thorui ta phirae molira wepu.
+PHL004	mua	texts/gibran/on_work.md	1	whekai mua thaeso mia ma nulae.
+PHL004	mua	texts/news_from_nowhere/chapter_02.md	1	mua nu ta shemu mia meraho to kelu.
+PHL004	mua	texts/news_from_nowhere/chapter_02.md	1	mua nu wi shemu mia lo remo to pa sholei.
+PHL004	mua	texts/news_from_nowhere/chapter_02.md	1	sheno mua shewo mua ha thimu mia ha nophi miso to pa ma theomi.
+PHL004	mua	texts/news_from_nowhere/chapter_02.md	1	whekai mua ha lokue mia to te haolu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	lo miona theula thimu wei mia tha mua ta mia punoa miona remole miona lo torua phea miona nila kire nai tho to haolu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ha ne kulo muo haolu to reshi koema.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ha philo mia phina riola phelu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua lumae mia to haolu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua neo ra lokue rolutha lo mia to hasi.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ra lokue mia phao phao phao menui.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ra manuwe shia soli heru to phelu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ra shemu lo mia shalimo miona wei siora kau ra raelu lokue to wepu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ra shemu mia ne kulo tawi to reshi halemu.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ra shemu mia tha lo miona leo theula ra lokue to ki lorima tho to nila.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ra wonepa lo mia kelua nurome to ki se welura.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	mua ta noshi philo lo mia tha whu mioru thiku nila lo miona ra shelira thepalu ka kelu thueli tho to hea.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	shia sha mua ra mia wei thia ru kelasu so ma nai.
+PHL004	mua	texts/news_from_nowhere/chapter_03.md	1	whekai mua mo thesa shelu riola mia thenoi.
+PHL004	mua	texts/news_from_nowhere/chapter_04.md	1	lao mua phirae thimu thia mo miona so nila lo mia ha wisola lokue so mo welao nila.
+PHL004	mua	texts/news_from_nowhere/chapter_04.md	1	mua ha philo wuero shemu lo mia lo ponu so po nilaki.
+PHL004	mua	texts/news_from_nowhere/chapter_04.md	1	shia tha mua mawha phirae thimu shia ra menoa so nila tho po remo.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	lila lo shia mua shelira wile mua keloi lo shia sui sheloi phaeno nuawe ro shua.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mia tha mua lo mia punoa thorui lo miona shia theula pukate to thueli tho nohero.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua keloi lumae lo shia wea shia so na turema.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua luera shia phina pheloma to phoa.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua mia kuri thue shelira laeno phae lokue mia to nila.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua phirae reo lo mia ra phelui phea shela senalu ro shemui.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua piloe shomelu mia ru nirelo to phaelo.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua ra lo lokue shia leo lo wirua wemo raelu muila ro welura.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua ra shemu lo mia wea raelu muila lumae to kamo.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua ta reo lo mia ra phelui phea lo shalu sholei ro shemui.
+PHL004	mua	texts/news_from_nowhere/chapter_05.md	1	mua thorui reo lo mia ra phelui phea lo lopia sholei po shemui.
+PHL004	mua	texts/north_wind_and_sun.md	1	mua thorui shia keru loa moli to nai nela pheo nitho howeli puko pelui to te nai whu laniru miona mua nirelo sulae wethalu to phae nela shia nia miso lo talua wethalu to ka ralu manolu.
+PHL004	mua	texts/solarpunk_manifesto.md	1	mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa.
+PHL004	mua	texts/solarpunk_manifesto.md	1	mua nosa shia ha lo keiro nuawe pharune.
+PHL004	mua	texts/velveteen_rabbit.md	1	lila ne lopia whano mua ta philo ne lopia ralu to se ka kelu.
+PHL004	mua	texts/velveteen_rabbit.md	1	mua ta shemu lo shia laeno nela lemi to nai.
+PHL004	mua	texts/velveteen_rabbit.md	1	mua wireo shemu lo shia theru nela wuloe to nai.
+PHL004	pai	texts/news_from_nowhere/chapter_02.md	1	pai theula miona thia phea mia towe po kulo.
+PHL004	pai	texts/velveteen_rabbit.md	1	pai theula shia kolai to ki lepa.
+PHL004	pai	texts/velveteen_rabbit.md	1	pai theula shia tulira whila wei nolue kerou tiwa to ki se natu.
+PHL004	phea	texts/news_from_nowhere/chapter_05.md	1	phea whu thia nila lo shia mua lo shuroa ro menui.
+PHL004	phea	texts/velveteen_rabbit.md	1	no phea ha mia lo shia ka nila sho to haolu.
+PHL004	pheo	texts/news_from_nowhere/chapter_02.md	1	pheo sheloi philo lo melu miso wei lo mia so ki thilonu.
+PHL004	pheo	texts/news_from_nowhere/chapter_02.md	1	pheo teku shemu lo mia mua kamo lokue we to nai.
+PHL004	pheo	texts/news_from_nowhere/chapter_02.md	1	pheo teku shemu shia we to haolu.
+PHL004	pheo	texts/news_from_nowhere/chapter_02.md	1	whekai lao pheo phina philo lo mia mua lo whelina pelowa na nai mia ha riola laeno thimu so ma phelu.
+PHL004	pheo	texts/news_from_nowhere/chapter_02.md	1	whekai pheo teku thimu mia ha to sano.
+PHL004	pheo	texts/news_from_nowhere/chapter_03.md	1	pheo teku shemu lo miona lo mia lo manuwe to pilu.
+PHL004	pheo	texts/news_from_nowhere/chapter_03.md	1	pheo teku thimu lo mia mua ha la mehalu so nai.
+PHL004	pheo	texts/news_from_nowhere/chapter_03.md	1	whekai lao pheo teku shemu lo mia muo womu to wepu mia mua ta shemu ha theula thena to nila.
+PHL004	pheo	texts/news_from_nowhere/chapter_04.md	1	pheo laeno shemu mia sha mia whu henoi panuri ma phelu miona shareo.
+PHL004	pheo	texts/news_from_nowhere/chapter_04.md	1	pheo teku shemu lo mia mua whu thue ha lokue wepu whalo ruela to wepu.
+PHL004	pheo	texts/news_from_nowhere/chapter_05.md	1	pheo laeno shemu shia miso shena to ka kelu.
+PHL004	pheo	texts/news_from_nowhere/chapter_05.md	1	pheo teku shemu lo mia thue mioru thiku phuliro to wepu.
+PHL004	pheo	texts/news_from_nowhere/chapter_05.md	1	pheo teku shemu lo shia phirae haluma we ro sano.
+PHL004	pheo	texts/north_wind_and_sun.md	1	nitho howeli sha lia sho roe keloa haoni to haolu nela pheo mu thimu shia kau laniru miona whu kapura pelui kema howeli to sepho.
+PHL004	pheo	texts/north_wind_and_sun.md	1	pheo laeno shemu shia ru sukaro to kelu.
+PHL004	pheo	texts/north_wind_and_sun.md	1	whekai pheo mu thimu shia wethalu miso to ka noshi lomare.
+PHL004	pheo	texts/velveteen_rabbit.md	1	shia tha pheo laeno thimu ha shewo whekelu wei shia so nai tho to remo.
+PHL004	phoe	texts/news_from_nowhere/chapter_03.md	1	whekai phoe pai wi phoi wi shao ta torua whalo silawo punoki leo ra shelira karami to pilu.
+PHL004	phou	texts/news_from_nowhere/chapter_03.md	1	phou mia nila shia menoa la rulo to kelu.
+PHL004	sio	texts/news_from_nowhere/chapter_06.md	1	lopia lirupa pheno ka kelu nela sio mia shia to thinu.
+PHL004	sui	texts/care_and_coercion.md	1	sui sukaro lorui ne sanuwe mua ne telari womu kamo.
+PHL004	sui	texts/news_from_nowhere/chapter_02.md	1	sui lo mia wepu mia muo phialu to nila.
+PHL004	sui	texts/news_from_nowhere/chapter_03.md	1	sui mia nu ta nuora muo phulae sepho mia nia wolea moru whu se kati nela solai phelu lo thekiro to nila.
+PHL004	sui	texts/news_from_nowhere/chapter_03.md	1	sui shia wepu shia lue lo mia wonepa sileta keru phanoi to pilu.
+PHL004	thue	texts/news_from_nowhere/chapter_03.md	1	thue ta toreku mia soli thepalu to nila.
+PHL004	wea	texts/news_from_nowhere/chapter_05.md	1	wea ronua shia ma wuero wepu.
+PHL004	wei	texts/care_and_coercion.md	1	pi no wei mia thia remotha solae.
+PHL004	wei	texts/news_from_nowhere/chapter_03.md	1	wei ha thia mu haolu po phelu.
+PHL004	wei	texts/news_from_nowhere/chapter_05.md	1	whekai wei sheloi phirae riola mia tha norui po nai tho nila.
+PHL004	wei	texts/velveteen_rabbit.md	1	shia sha no wei mia mia ne tupiwa loa sho to haolu.
+PHL004	whuo	texts/news_from_nowhere/chapter_03.md	1	thelao whuo peloma nela whuo ru kaelo haolu mia tha thia wi phoi wi torua phelu tho po haolu.

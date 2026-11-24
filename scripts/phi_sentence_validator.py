@@ -84,6 +84,8 @@ PREDICATIVE_VERBS = frozenset({"nai", "kelu"})
 SUBJECT_PRONOUNS = frozenset({"mia", "thia", "shia"})
 ADVISORY_MANNER = "PHL001"
 ADVISORY_ADJUNCT_ORDER = "PHL002"
+ADVISORY_QUOTE_PERIOD = "PHL003"
+ADVISORY_FRONTED_ADJUNCT = "PHL004"
 
 
 @dataclass(frozen=True)
@@ -1481,18 +1483,31 @@ class PhiParser:
                 for child in node.children:
                     visit(child, False)
                 return
+            if node.kind == "adverbial-nominal" and node.children:
+                fronted = self._advise_fronted_time_phrase(node)
+                if fronted is not None:
+                    found.append(fronted)
             inside_relative = gapped or node.kind == "relative-phrase"
             for child in node.children:
                 visit(child, inside_relative)
 
         visit(tree, False)
+        for opener, closer in self.frame_close.items():
+            if self._word(opener) == "sha" and self._word(closer - 1) == ".":
+                found.append(
+                    Diagnostic(
+                        ADVISORY_QUOTE_PERIOD,
+                        "a period stands between this word and sho; the closer "
+                        "follows the last quoted word directly",
+                        max(closer - 2, opener),
+                    )
+                )
         return self._deduplicate(sorted(found, key=lambda item: item.token_index))
 
     def _advise_core_clause(self, node: SyntaxNode, gapped: bool) -> list[Diagnostic]:
         start, end = node.start, node.end
         predicate_index = end - 1
-        if self._word(predicate_index) in PREDICATIVE_VERBS:
-            return []
+        predicative = self._word(predicate_index) in PREDICATIVE_VERBS
         nested = self._nested_mask(start, end)
         for child in node.children:
             if child.kind == "relative-phrase" and child.children:
@@ -1507,17 +1522,71 @@ class PhiParser:
         ]
         boundary = slot1_indices[0] if slot1_indices else predicate_index
         advisories = []
-        if slot1_indices:
+        if slot1_indices and not predicative:
             manner = self._advise_manner(start, boundary, nested)
             if manner is not None:
                 advisories.append(manner)
         if not gapped:
-            order = self._advise_adjunct_order(
-                start, [index for index in top_level if index < boundary]
-            )
+            before = [index for index in top_level if index < boundary]
+            order = None if predicative else self._advise_adjunct_order(start, before)
             if order is not None:
                 advisories.append(order)
+            fronted = self._advise_fronted_phrase(start, before)
+            if fronted is not None:
+                advisories.append(fronted)
         return advisories
+
+    def _opens_with_subject(self, words: Sequence[str]) -> bool:
+        if not words:
+            return False
+        if words[0] in SUBJECT_PRONOUNS or words[0] == "ne":
+            return True
+        return len(words) > 1 and words[0] == "lo" and words[1] in SUBJECT_PRONOUNS
+
+    def _advise_fronted_time_phrase(self, node: SyntaxNode) -> Diagnostic | None:
+        """Flag a pheo or phoe time phrase that opens a sentence before its subject."""
+        if node.value not in TEMPORAL_NP_RELATORS:
+            return None
+        first = self._word(node.children[0].start)
+        opens_with_noun_phrase = (
+            first in SLOT2_WORDS
+            or first in self.lexicon.quantifiers
+            or self.lexicon.pos(first) in {"noun", "pronoun", "adjective", "numeral"}
+        )
+        if not opens_with_noun_phrase:
+            return None
+        return Diagnostic(
+            ADVISORY_FRONTED_ADJUNCT,
+            f"the time phrase opened by '{node.value}' stands before the noun "
+            "phrase that follows it; if that phrase is the subject, the time "
+            "phrase belongs after it",
+            node.start,
+        )
+
+    def _advise_fronted_phrase(
+        self, start: int, before: Sequence[int]
+    ) -> Diagnostic | None:
+        """Flag a prepositional phrase that opens a clause before its subject."""
+        if len(before) < 3 or before[0] != start:
+            return None
+        if self._word(start) not in self.lexicon.prepositions:
+            return None
+        for position in range(2, len(before)):
+            index = before[position]
+            previous = self._word(before[position - 1])
+            if previous in self.lexicon.prepositions or previous in COORDINATORS:
+                continue
+            words = [self._word(item) for item in before[position : position + 2]]
+            if previous == "lo" or not self._opens_with_subject(words):
+                continue
+            return Diagnostic(
+                ADVISORY_FRONTED_ADJUNCT,
+                f"the phrase opened by '{self._word(start)}' stands before the "
+                f"subject '{words[0] if words[0] != 'lo' else ' '.join(words)}'; "
+                "an adjunct that is not a clause follows an explicit subject",
+                start,
+            )
+        return None
 
     def _advise_manner(
         self, start: int, stack_start: int, nested: set[int]

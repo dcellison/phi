@@ -22,6 +22,16 @@ mia sha wa thia towe nai sho to hea.
 (I heard, "Are you well?")
 ```
 
+A long speech needs no second pair. One `sha` opens it, each sentence inside closes with a period as usual, and `sho` arrives when the speaker's final word has been said:
+
+```
+ne sulae sha mia so wepu. mia so turema sho to haolu.
+NAME sulae QUOT.COMP 1SG FUT go. 1SG FUT return QUOT.COMP.CLOSE PST speak.
+(sulae said, "I will go. I will return.")
+```
+
+No period goes before `sho`, and no sentence of the speech is left outside the marks.
+
 ### Exactness belongs inside the frame
 
 The quote preserves the original Phi wording: tense, evidentiality, clause force, and reference from the quoted speaker's point of view. The reporter's source for the speech event belongs in the matrix clause when it matters. `sha ... sho` does not certify that the quoted claim is true; it says which words are being presented as exact.

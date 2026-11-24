@@ -370,11 +370,11 @@
       "variant": "standard"
     },
     "manual/part4_grammar/ch13_pronouns/03_reflexive_miso.md": {
-      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch13_pronouns/04_reciprocal_wiso.md": {
-      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch13_pronouns/05_deixis.md": {
@@ -498,7 +498,7 @@
       "variant": "standard"
     },
     "manual/part5_complex/ch19_subordinate_clauses/03_speech.md": {
-      "shape": "h1,2,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2;t-;f3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part5_complex/ch19_subordinate_clauses/04_adverbial_clauses.md": {

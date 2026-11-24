@@ -50,6 +50,13 @@ The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`) or of rec
 
 **`sho` is required.** It marks where the quotation ends so the main verb can follow unambiguously.
 
+**A speech of several sentences**: one frame holds the whole speech. The sentences inside keep their periods, `sho` follows the last quoted word with no period before it, and no part of the speech stands outside the frame. A text that sets a long speech in several aligned units opens a new frame in each; the speaker may be left unsaid.
+```
+ne sulae sha mia so wepu. mia wireo philo so turema sho to shemui.
+NAME sulae QUOT.COMP 1SG FUT go. 1SG future day FUT return QUOT.COMP.CLOSE PST utter.
+(sulae said, "I will go. I will return tomorrow.")
+```
+
 **Examples**:
 ```
 shia sha sileta mioru nai sho haolu.

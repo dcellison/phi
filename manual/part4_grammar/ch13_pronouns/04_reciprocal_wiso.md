@@ -30,6 +30,14 @@ A singular **mia wiso nila** is not grammatical because one participant cannot s
 
 The contrast matters most when the plural subject is already established and only the short object pronoun changes.
 
+## From each other, each other's
+
+**wiso** can also follow a preposition, and it can own a noun. As an owner it stands before the whole phrase it owns:
+
+**lo miona lue wiso to shonela.** — The people learned from each other.
+
+**lo miona wiso lo remo sheluo.** — The people listen to each other's thoughts.
+
 ## Sound family and use
 
 The opening **wi** is also Phi's word for two, a useful mnemonic for mutual action. It is not a claim that every reciprocal event contains exactly two participants. Final **so** links the form audibly with **miso**.

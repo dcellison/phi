@@ -52,6 +52,22 @@ PL 1SG RECP see.
 
 Mirrors, or eyes meeting: the first sends each gaze back to its own face, the second sends the gazes across. Ask where the action lands, on each actor or between them, and the right `so` word chooses itself.
 
+### After a preposition, and as owner
+
+`wiso` takes the same two extra seats as `miso`. As an owner it stands before everything it owns, the plural particle included:
+
+```
+lo miona lue wiso to shonela.
+PL person ABL RECP PST learn.
+(The people learned from each other.)
+```
+
+```
+lo miona wiso lo remo sheluo.
+PL person RECP PL think listen.
+(The people listen to each other's thoughts.)
+```
+
 ### Practice: pass it around
 
 1. We love each other.
