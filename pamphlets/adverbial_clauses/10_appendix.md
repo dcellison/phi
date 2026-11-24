@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | `pheo` | POST | after | the earlier event | a time phrase: `pheo wi philo`, in two days, with `so` |
 | `phoe` | ANT | before | the later reference event | a time phrase: `phoe wi philo`, two days ago, with `to` |
-| `whau` | SIMUL | overlap | the event holding the span open | no: `sui` (DUR) takes the noun instead |
+| `whau` | SIMUL | overlap | the event sharing the time, long or brief | no: `sui` (DUR) takes the noun instead |
 | `lao` | BECAUSE | cause | the claimed reason | yes: because of |
 | `shai` | CONC | concession | the conceded circumstance | yes: despite |
 | `lila` | PURP | purpose | the intended outcome | no |
@@ -18,7 +18,7 @@ One shape for all six: `[relator] [dependent clause] [main clause]`, the frame c
 | Word | What it is | Why it is not a relator |
 |---|---|---|
 | `lu` | Slot 0 condition | its condition is a complete sentence with its own period |
-| `tei` | preposition, UNTIL | stands over a noun phrase; no clause inside |
+| `tei` | preposition, UNTIL | a preposition still: over a noun phrase it sits with the adjuncts, and only over a clause does it stand first |
 | `thelao` | discourse marker, CONS | draws a conclusion across a sentence boundary |
 | `whekai` | discourse marker, CONTR | redirects across a sentence boundary |
 
@@ -29,6 +29,7 @@ One shape for all six: `[relator] [dependent clause] [main clause]`, the frame c
 - `pheo` and `phoe` name the event inside the frame, not the direction of the main clause.
 - `lao` marks the reason the speaker claims; `lila` claims intention, and an accident is not a purpose.
 - `shai` concedes within the speaker's framing; the world is not asked to agree.
+- English *when* is `pheo` for one thing after another and `whau` for two at once; a past `lu` sentence reads as *if*.
 - Scope is the choice between a relator and a discourse marker: one sentence, or two.
 - `lila ... ralu nai` is the freedom construction, one clause with no main clause coming.
 

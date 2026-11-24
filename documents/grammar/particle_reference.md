@@ -50,6 +50,7 @@ lu thia naphe. mia towe phaelo.
 COND 2SG help. 1SG well feel.
 (If you help, I will feel well.)
 ```
+**Note**: with `ro` on the consequence the pair states a habit, English whenever (`lu pheralu lepa. lo mia mua womu ro manolu.`), and a negated condition is unless. One past occasion is not a condition; English when takes `pheo` or `whau` there (canon: *"When" is sorted, not coined*).
 
 ### `lu he` - Irrealis Conditional (COND.IRR)
 **Function**: Announces an unreal, hypothetical, or counterfactual conditional ("if only", "if it were that")
@@ -154,6 +155,7 @@ mia te shelomu.
 1SG CESS understand.
 (I stop understanding / I cease to understand.)
 ```
+**Note**: unmarked `te` is the stopping itself. A state that has ended, English no longer, has its stop in the past and takes `to te`: `lopia mua ha womu to te menui.` (canon: *The small words compose*).
 
 #### `ro` - Habitual Aspect (HAB)
 **Function**: Announces that the action recurs regularly or characteristically
@@ -370,6 +372,14 @@ shia we to pa nulae.
 3SG ALSO PST INCH sleep.
 (They also fell asleep.)
 ```
+
+**Even and except**: `we` followed directly by `ko` says even, and with a negated verb not even:
+```
+we ko lopia ha shelu po theo.
+ALSO FOC child PROX book POT read.
+(Even a child can read this book.)
+```
+`li` on the exception, with the verb negated, says all but: `li phao kau kowela to ma shua.` is only the parent did not come to the council. Again is the adjective `ture`, not `we` (canon: *Again is `ture`* and *The small words compose*).
 
 ### Degree
 

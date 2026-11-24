@@ -32,6 +32,21 @@ Since this entry was written, D128 has licensed `miso` and `wiso` as possessors,
 
 ## Parked corpus and tooling work
 
+### Text lines awaiting the small-words sweep
+
+Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.
+
+D130 and D131 settle how Phi says again, still, already, not yet, no longer, even, at once, and when. The texts were written before those rulings and keep their earlier devices. Nothing in them was changed. Unit numbers count the aligned blocks of each file in order.
+
+- `we` where the source says again or once more, now `ture`: `news_from_nowhere/chapter_01` 63, 72, 73; `chapter_02` 43, 46, 54, 92, 140; `chapter_03` 42, 122, 136, 142, 143, 223; `chapter_05` 229; `chapter_06` 120. Five more units leave again unsaid.
+- `we` where the source says even, now `we ko`: `gibran/on_children` 11; `news_from_nowhere/chapter_01` 64; `chapter_02` 26, 40, 101; `chapter_05` 30, 146; `chapter_06` 43, 118; `velveteen_rabbit` 40, 170, 258.
+- Still, yet, already, and no longer by other means (`si` alone, `nosa`, `mawha thimu`, present `te`, or nothing): `gibran/on_children` 6; `news_from_nowhere/chapter_01` 27, 32; `chapter_02` 17, 62, 145, 155, 207; `chapter_03` 195; `chapter_04` 7, 29, 47; `chapter_05` 232; `chapter_06` 9, 24, 82, 109; `schleicher_fable` 3; `solarpunk_manifesto` 16, 33; `velveteen_rabbit` 88, 161, 259, 315, 337, 378, 422. Some of these already say the right thing (`to te` in *The Velveteen Rabbit* 161 and 337); each needs reading against its source.
+- `nosa` or `reshi` where the source says at once, now `pheo mu thimu`: `news_from_nowhere/chapter_02` 57, 226, 231; `chapter_03` 9, 84; `chapter_04` 1, 6; `chapter_05` 27; `velveteen_rabbit` 313.
+- A past `lu` sentence where the source says when: the review ledger lists these under `PHL005`.
+- Until with a clause that was dropped: `news_from_nowhere/chapter_01` 68 and `velveteen_rabbit` 225. The noun forms elsewhere (`tei thia luwi`) remain grammatical.
+
+Three of these texts are certified. A changed unit there needs fresh source-blind derivation under D102, and the sweep is the place for it. What brings this back: the maintainer's word that the language-level items of the November 2026 assessment are settled.
+
 ### Lexical relations between content words
 
 Status: Parked until curated navigation would justify maintaining the field.

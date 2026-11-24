@@ -78,6 +78,16 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 | `sheloi shemu` | many moments | often | Many moments express frequent occurrence over a contextually understood span. |
 | `phina shemu` | few moments | rarely | Few moments express infrequent occurrence without supplying an exact threshold. |
 | `soli shemu` | some moments | sometimes | Some moments place an occurrence within the span without calling it frequent or infrequent. |
+| `pheo mu thimu` | after zero time | at once, immediately | The wait between two events is counted and comes to nothing. Speed is a different claim and keeps `reshi`. |
+| `pheo teku shemu` | after a short moment | soon, shortly | A short moment is named and placed ahead of the event; with `so` on the verb it points forward from now. |
+| `tei nosa` | until now | still; with a negated verb, not yet | The state is followed up to the present and found unchanged. In an account of the past, `tei ra shemu` follows it to that moment. |
+| `phoe nosa` | before now | already, with `ki` on the verb | The event is placed ahead of the present, and `ki` says it is complete. `phoe ra shemu` does the same for a past account. |
+
+## Addition and focus
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `we ko` | also, in focus | even | `we` says the item joins the others, and `ko` says it is the one worth remarking. A negated verb after the pair gives not even. |
 
 ## Beings and life
 

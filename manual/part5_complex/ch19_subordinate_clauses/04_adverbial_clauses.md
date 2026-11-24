@@ -48,7 +48,7 @@ POST 3SG tea meal PST eat 3SG PST HAB play.
 
 ## A temporal endpoint: `tei`
 
-**tei** is a preposition, not a clause relator. It introduces the noun phrase that marks how long an action or state continues.
+**tei** is a preposition, and most of the time it behaves like one. It introduces the noun phrase that marks how long an action or state continues, and the phrase stands with the other adjuncts.
 
 ```
 mia tei howai thole.
@@ -62,7 +62,15 @@ PL child UNTIL evening play.
 (The children play until evening.)
 ```
 
-Morning or evening names the endpoint. No second clause is hidden inside the phrase.
+Evening names the endpoint. When the endpoint is an event instead, with a subject and a tense of its own, **tei** takes the whole clause, and the clause moves to the front as a relator's frame does:
+
+```
+tei pheralu to te lepa lo mia mua womu to manolu.
+UNTIL rain PST CESS fall PL 1SG LOC home PST stay.
+(Until the rain stopped falling, we stayed at home.)
+```
+
+The frame ends at **lepa**, its own verb, and each clause keeps its tense. **tei** is still a preposition and the relators are still six. It borrows their order for the one job a noun phrase cannot do.
 
 ## Overlap: `whau`
 
@@ -83,6 +91,18 @@ SIMUL rain PST IPFV fall PL 1SG LOC workshop PST stay.
 ```
 
 **sui** (DUR) does the same job for a noun, so `lo mia sui pheralu mua keritha to manolu` says we stayed during the rain. Choose between them by asking whether the span has an actor. A stretch of weather does not, and takes **sui**. An act does, and under **sui** that actor would be reduced to owning an event noun, where **whau** lets the actor keep the verb.
+
+## When: `pheo` or `whau`
+
+Phi has no single word for *when*, because the English word hides a choice. *When the friend arrived, we ate* puts one event after the other and takes **pheo**. *When the friend arrived, we were eating* puts the arrival inside the meal and takes **whau**:
+
+```
+whau melu to kamo lo mia to si nuola.
+SIMUL friend PST arrive PL 1SG PST IPFV eat.
+(When the friend arrived, we were eating.)
+```
+
+The clause under **whau** may be the briefer of the two events, as it is here. The relator claims only that they shared a time. *Whenever* is a habit and belongs to **lu** with **ro** on the consequence, as chapter 10 shows. A single past occasion never takes **lu**, which would turn *when* into *if*.
 
 ## Cause: `lao`
 
@@ -162,6 +182,14 @@ CONC rain PL flower grow.
 (Despite the rain, the flowers grow.)
 ```
 
+With **po** in the conceded clause the circumstance is only a possibility, and English calls the result *even if*:
+
+```
+shai pheralu po lepa lo mia so thalo.
+CONC rain POT fall PL 1SG FUT walk.
+(Even if it rains, we will walk.)
+```
+
 The expectation belongs to the speaker's framing. **shai** does not declare smallness contrary to beauty in every setting; it says that this sentence treats it as a conceded circumstance.
 
 ## The six clause relators
@@ -175,4 +203,4 @@ The expectation belongs to the speaker's framing. **shai** does not declare smal
 | `shai` | CONC | concession | dependent clause or noun phrase, then main clause |
 | `lila` | PURP | intended outcome | dependent clause, then main clause |
 
-The final verb in each dependent clause supplies its boundary. With **lila**, the purpose arrives first and closes before the action it explains begins.
+The final verb in each dependent clause supplies its boundary. **tei** stands outside the table as a preposition, though over a clause it keeps the same order. With **lila**, the purpose arrives first and closes before the action it explains begins.

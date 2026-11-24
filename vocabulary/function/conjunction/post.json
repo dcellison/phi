@@ -10,12 +10,14 @@
   "search_terms": [
     "after",
     "following",
-    "later"
+    "later",
+    "at once",
+    "soon"
   ],
   "description": "'pheo' orders two events as after. The dependent clause following it gives the earlier event, and the main clause gives what happens later. Over a time phrase, it places an event after that span or moment.",
   "articulatory_notes": "Bring the lips close together and pass unvoiced air through the narrow opening for 'ph', then spread them slightly for unrounded front 'e' at middle height. Keep the vowels in separate syllables as the tongue draws back and the lips round for mid-back 'o'. Stress 'phe'.",
   "sound_symbolism": "The reversed vowel order of 'pheo' and 'phoe' (ANT) makes the temporal pair audible. Their mirror is a mnemonic for opposite temporal ordering; the vowels themselves carry their ordinary sounds.",
-  "usage_notes": "A dependent clause opened by 'pheo' ends at its verb and needs no closer; the main clause follows. A time phrase occupies the ordinary adjunct position, and with 'so' (FUT) on the main verb a counted one points forward from now. The phrase may also be measured or pointed at, as in 'pheo teku shemu' (after a short moment). Its head is always a time noun: 'after that' and 'after tea' each take a clause naming the earlier event.",
+  "usage_notes": "A dependent clause opened by 'pheo' ends at its verb and needs no closer; the main clause follows. A time phrase occupies the ordinary adjunct position, and with 'so' (FUT) on the main verb a counted one points forward from now. The phrase may also be measured or pointed at, as in 'pheo teku shemu' (after a short moment). Its head is always a time noun: 'after that' and 'after tea' each take a clause naming the earlier event. Two set phrases live here: 'pheo mu thimu' (after zero time) is at once, and 'pheo teku shemu' with 'so' (FUT) is soon.",
   "examples": [
     {
       "phi": "pheo mia to theo mia shea phaelo.",
@@ -28,6 +30,10 @@
     {
       "phi": "melu pheo teku shemu to turema.",
       "translation": "After a short moment, the friend returned."
+    },
+    {
+      "phi": "lo mia pheo mu thimu to wepu.",
+      "translation": "We left at once."
     }
   ]
 }

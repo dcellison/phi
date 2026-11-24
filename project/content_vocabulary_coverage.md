@@ -51,6 +51,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Gibran's On Love fidelity repair | **DONE** | The complete 35-unit source stream remains exact. Nineteen units change; base `ratenu` and `salenu` replace two material workarounds, while direct current vocabulary repairs loudness, sufficiency, desire, waking, midday, lips, portion, and deservingness. |
 | Architectural arch repair | **DONE** | Work `toreku` replaces the recurring rainbow comparison in five *News from Nowhere* chapters. Arcade and cloister remain arrangements of arches, roof, path, and surrounding building rather than second names for the span. |
 | Bodily waste placement and manure | **DONE** | `tomewu` urine and `mokathi` faeces now belong to Medical and Bodily Care, Household `muneki` remains the ordinary latrine word, bodily acts compose with existing grammar, and Ecological `lomathu` names manure as material gathered for soil use. |
+| Small words and clause relations | **DONE** | Base `ture` gives again and additive another. Still, not yet, already, even, at once, and soon are registered compounds over existing words; no longer, instead, except, and the clause relations from when to whether-or-not compose with existing grammar, with `tei` licensed over a clause. Other and else stay deferred under `CV-SMALL-07`. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1889,6 +1890,23 @@ A request for a latrine and a medical report do not need the same lexical burden
 
 The batch moves two existing roots from base study into Medical and Bodily Care, adds one Ecological root, and leaves `muneki` in Household and Daily Life. It adds no function word, registered compound, or grammar.
 
+## Small words and clause relations
+
+The November 2026 assessment found no settled way to say again, still, already, not yet, no longer, even, instead, or except, and no settled rendering of when, whenever, until with a clause, since, unless, or even if. The texts used several devices for each, with `we` standing for also, again, and even. A survey of every aligned text unit and a source-blind reading test of thirty-eight candidate sentences are preserved in `archive/small_words_study.md`; the maintainer ruled on all seven points on 2026-11-24.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Again, once more, one more | new base `ture` and `CV-SMALL-01` | **IMPLEMENTED** | Four existing devices were tested and none read reliably as again. `ture` before the verb is again; before a noun it is one more of the same kind. `turema` keeps coming back and an ordinal keeps counting occasions. |
+| Still, not yet, already | registered `tei nosa` and `phoe nosa` under `CV-SMALL-02` | **IMPLEMENTED** | Both readers took `tei nosa` with a negated verb as not yet and `phoe nosa` with `ki` as already without doubt. `ra shemu` replaces `nosa` in a past account. |
+| No longer | `to te` under `CV-SMALL-02` | **COMPOSITIONAL** | Readers took present `te` as the stopping in progress, so the ended state takes the past. |
+| Even, not even | registered `we ko` under `CV-SMALL-03` | **IMPLEMENTED** | Addition and focus in their ruled Slot 2 order. Bare `we` read as too in every test. |
+| At once, soon | registered `pheo mu thimu` and `pheo teku shemu` under `CV-SMALL-04` | **IMPLEMENTED** | The first already stood in a certified text. `nosa` and `reshi` are now and fast. |
+| Instead, except | negation with `thona` or `whekai`; `li` with the predicate turned, under `CV-SMALL-05` | **COMPOSITIONAL** | Both read without doubt. The place calque for instead read as a location. |
+| When, whenever, until with a clause, since, unless, even if, whether or not, only if, as soon as | `pheo`, `whau`, `lu`, `shai`, `sola`, and `tei` over a clause, under `CV-SMALL-06` | **COMPOSITIONAL** | No relator is coined for when. `tei` over a clause is a grammar extension the maintainer opened; the relator set stays six. |
+| Other, else, another as a different one | Existing `phirae`; `CV-SMALL-07` | **DEFERRED** | The remaining sense waits for the ordinary-vocabulary step of the same assessment. |
+
+The batch adds one base root, five registered compounds, and one grammar extension. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1980,4 +1998,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 72 implemented decisions and 129 compositional decisions. It also preserves 31 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,305 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 76 implemented decisions and 131 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,306 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

@@ -18,6 +18,9 @@
 #         sentence and a noun phrase follows it. An adjunct that is not a
 #         clause follows an explicit subject. The order stands only when the
 #         following phrase is not the subject.
+# PHL005  a lu condition and its consequence are both past and neither carries
+#         ro. lu states an open condition or a habit; one past occasion takes
+#         pheo or whau. The sentence stands when the condition is truly open.
 #
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 
@@ -250,3 +253,10 @@ PHL004	wei	texts/news_from_nowhere/chapter_03.md	1	wei ha thia mu haolu po phelu
 PHL004	wei	texts/news_from_nowhere/chapter_05.md	1	whekai wei sheloi phirae riola mia tha norui po nai tho nila.
 PHL004	wei	texts/velveteen_rabbit.md	1	shia sha no wei mia mia ne tupiwa loa sho to haolu.
 PHL004	whuo	texts/news_from_nowhere/chapter_03.md	1	thelao whuo peloma nela whuo ru kaelo haolu mia tha thia wi phoi wi torua phelu tho po haolu.
+PHL005	lu	texts/news_from_nowhere/chapter_02.md	1	lu mia roe luphore lo kerime nila to wakomi.
+PHL005	lu	texts/news_from_nowhere/chapter_06.md	2	lu ra mokanu to se ma ru nephoru.
+PHL005	lu	texts/velveteen_rabbit.md	1	lu lo shia to roke.
+PHL005	lu	texts/velveteen_rabbit.md	1	lu ne lopia kau wheli lokue to wepu.
+PHL005	lu	texts/velveteen_rabbit.md	1	lu ne lopia ne tupiwa noshi to phelu.
+PHL005	lu	texts/velveteen_rabbit.md	1	lu ne tupiwa ra to ma nai.
+PHL005	lu	texts/velveteen_rabbit.md	1	lu shia kau wheli lokue to se wapho.

@@ -2192,7 +2192,7 @@
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 | `wurashi` | crave | craving felt through bodily appetite or urge |
 
-## quantity (42)
+## quantity (43)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2230,6 +2230,7 @@
 | `thenoi` | falls-short | one amount remaining below another amount or threshold |
 | `thiku` | small | a small amount when the comparison concerns quantity rather than spatial extent |
 | `thuroa` | grow | an amount becoming greater |
+| `ture` | again | one more of a kind already present or counted |
 | `waleru` | length | a dimension that can be compared or measured along a chosen course |
 | `weilo` | balanced | proportions kept workable among competing needs or considerations |
 | `welura` | spread | multiplication in Phi's arithmetic construction |
@@ -2459,7 +2460,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (156)
+## temporal (157)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2606,6 +2607,7 @@
 | `thuroa` | grow | development traced across time |
 | `tiroe` | instant | a temporal point considered without duration |
 | `torua` | year | an annual cycle or conventional calendar year |
+| `ture` | again | an event that comes round a further time after an earlier one |
 | `turelo` | feedback | a later state or output affects a continuing or subsequent process |
 | `turema` | return | an earlier relation providing the reference for what comes back later |
 | `welira` | thrive | good health and development continuing through time |

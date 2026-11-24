@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1305 words.*
+*1306 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -1183,6 +1183,7 @@
 | `tupeka` | burden | /t̪u.ˈpe̞.kä/ | noun |
 | `tupi` | jump | /ˈt̪u.pi/ | verb |
 | `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
+| `ture` | again | /ˈt̪u.re̞/ | adjective |
 | `turelo` | feedback | /t̪u.ˈre̞.lo̞/ | noun |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb |
 | `wa` | Q | /ˈwä/ | particle |

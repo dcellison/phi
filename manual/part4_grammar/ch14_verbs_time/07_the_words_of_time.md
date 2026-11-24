@@ -143,6 +143,56 @@ child UNIV time play.
 
 The middle of the frequency range quantifies *shemu*, moments. Its ends quantify *thimu*, time entire, because "always" and "never" make claims about the whole relevant span.
 
+## Still, already, again
+
+A child asleep past sunrise raises three small questions in the house: are they still sleeping, have they already eaten, will they want the same story again tonight. English answers each with an adverb. Phi answers the first two with *nosa* and a preposition, and keeps one word of its own for the third.
+
+*tei nosa* is until now. Over an activity in progress it says still, and over a negated verb it says not yet.
+
+```
+lopia tei nosa si nulae.
+child UNTIL now IPFV sleep.
+(The child is still sleeping.)
+```
+
+```
+melu tei nosa ma kamo.
+friend UNTIL now NEG arrive.
+(The friend has not arrived yet.)
+```
+
+*phoe nosa* is before now, and with *ki* on the verb it says already. No longer looks back at a stop, so it is *te* placed in the past.
+
+```
+mia phoe nosa ki nuola.
+1SG ANT now PFV eat.
+(I have already eaten.)
+```
+
+```
+lopia mua ha womu to te menui.
+child LOC PROX home PST CESS dwell.
+(The child no longer lives in this home.)
+```
+
+When the whole account is in the past, *ra shemu* (that moment) stands where *nosa* stood: *tei ra shemu*, *phoe ra shemu*.
+
+Again is *ture*. It keeps company with the manner words, directly before the verb.
+
+```
+shia to ture hola.
+3SG PST again laugh.
+(They laughed again.)
+```
+
+Before a noun the same word is one more of a kind: *ture soeli*, another cup. And the shortest waits are simply counted. *pheo mu thimu*, after zero time, is at once; *pheo teku shemu* with *so* is soon.
+
+```
+lo mia pheo mu thimu to wepu.
+PL 1SG POST zero time PST go.
+(We left at once.)
+```
+
 ## The day, lived
 
 The journal practice of chapter 22 uses these words, and the evidentiality pamphlet's journal of sources uses them too:

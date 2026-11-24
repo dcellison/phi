@@ -9,14 +9,22 @@
   "pos": "noun",
   "search_terms": [
     "currently",
-    "at this time"
+    "at this time",
+    "still",
+    "already",
+    "yet"
   ],
   "description": "'nosa' locates an act or condition at the current time. Although it is a noun, it commonly occupies the adverbial position in a clause. 'nomi' instead makes the current span or a state of presence the subject, while 'nosa' answers when something is happening.",
   "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal airflow into stressed middle-height rounded 'o'. Bring the tongue blade near the alveolar ridge for unvoiced 's', then open the jaw into central 'a'.",
+  "usage_notes": "Phi's ways of putting still and already lean on it. 'tei nosa' (until now) gives still, and with a negated verb not yet; 'phoe nosa' (before now) with 'ki' (PFV) gives already. In an account of the past, 'ra shemu' (that moment) takes its place.",
   "examples": [
     {
       "phi": "mia nosa thole.",
       "translation": "I practice now."
+    },
+    {
+      "phi": "lopia tei nosa si nulae.",
+      "translation": "The child is still sleeping."
     }
   ],
   "pillars": {

@@ -68,6 +68,14 @@ The grammar covers requests and commands without disguising either as a statemen
 
 **lu** does not turn the consequence into part of the condition. Each clause keeps its own subject, tense, and predicate. **lu he** changes the condition to irrealis when the speaker presents it as imagined or counterfactual.
 
+A condition can also be a habit. With **ro** on the consequence the pair means *whenever*, and with the condition negated, *unless*:
+
+**lu pheralu lepa. lo mia mua womu ro manolu.** — Whenever it rains, we stay at home.
+
+**lu pheralu ma lepa. lo mia so thalo.** — Unless it rains, we will walk.
+
+What **lu** does not do is report one thing that happened once. *When the friend arrived, we ate* is a sequence, and chapter 19 gives it to **pheo**.
+
 ## A request and an answer
 
 Polite wording does not supply consent. Phi has a direct verb for a freely given answer to a particular act:

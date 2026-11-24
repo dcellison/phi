@@ -10,11 +10,12 @@
   "search_terms": [
     "but",
     "contrast",
-    "adversative"
+    "adversative",
+    "instead"
   ],
   "description": "'thona' places two equally ranked elements in contrast: Phi's 'but'. Both remain asserted, but the second sits against an expectation or tendency raised by the first. 'whekai' (CONTR) handles a turn between sentences; 'thona' keeps the contrast inside one coordination.",
   "articulatory_notes": "Extend the tongue tip slightly between the teeth and pass unvoiced air around it for 'th', then withdraw into rounded mid-back 'o'. Set the tip against the upper front teeth for voiced dental 'n' and keep the air nasal as the mouth opens onto central 'a'. Stress 'tho'.",
-  "usage_notes": "'thona' stands between the words, phrases, or clauses it coordinates. A contrast that begins after a period takes the discourse marker 'whekai' (CONTR) instead.",
+  "usage_notes": "'thona' stands between the words, phrases, or clauses it coordinates. A contrast that begins after a period takes the discourse marker 'whekai' (CONTR) instead. When the first element is negated, the second replaces it, and that is how Phi says instead.",
   "examples": [
     {
       "phi": "mia shelomu thona thia ma shelomu.",
@@ -23,6 +24,10 @@
     {
       "phi": "sileta sulae nai thona howeli pelui nai.",
       "translation": "The sun is warm, but the wind is cold."
+    },
+    {
+      "phi": "mia hasumi ma milau thona phialu milau.",
+      "translation": "I do not drink tea but water."
     }
   ],
   "pillars": {

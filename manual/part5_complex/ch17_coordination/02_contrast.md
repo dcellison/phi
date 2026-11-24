@@ -60,4 +60,12 @@ shia haolu thona lo miona ma sheluo.
 (They speak, but the people do not listen.)
 ```
 
+Deny the first half, and **thona** offers the second in its place. That is Phi's *instead*:
+
+```
+mia hasumi ma milau thona phialu milau.
+1SG tea NEG drink ADVRS water drink.
+(I do not drink tea but water.)
+```
+
 **thona** marks a local contrast inside one sentence. When the turn comes after a period and redirects a longer line of thought, Part V uses the discourse marker **whekai** instead.

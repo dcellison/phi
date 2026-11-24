@@ -6,7 +6,9 @@ reading under which a manner word stands outside the Slot 1 block (PHL001), a di
 object stands before a prepositional phrase (PHL002), or an adjunct stands
 before the subject (PHL004). The parser has no verb valency, so it cannot
 choose between the readings; a person can. PHL003 marks a period before sho,
-which is a fault with no second reading.
+which is a fault with no second reading. PHL005 marks a lu condition whose two
+sentences are past with no ro, which reads as "if" and is wrong for a single
+past occasion.
 
 The committed ledger records the candidates already seen. Continuous
 integration regenerates it and fails on any difference, so a new candidate
@@ -46,6 +48,9 @@ HEADER = """\
 #         sentence and a noun phrase follows it. An adjunct that is not a
 #         clause follows an explicit subject. The order stands only when the
 #         following phrase is not the subject.
+# PHL005  a lu condition and its consequence are both past and neither carries
+#         ro. lu states an open condition or a habit; one past occasion takes
+#         pheo or whau. The sentence stands when the condition is truly open.
 #
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 """

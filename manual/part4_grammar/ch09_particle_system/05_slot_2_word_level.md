@@ -106,6 +106,12 @@ Degree is not comparison. **ru mioru** strengthens one description, while **mo m
 
 **li** restricts identity, not quantity. "Only three eggs" is stated as the exact count, or as a shortfall with **henoi ma nai** when insufficiency is the point. **we** and **li** do not stack on the same phrase.
 
+*Except* needs no word of its own. Put **li** on the exception and turn the verb:
+
+**li phao kau kowela to ma shua.** — Only the parent did not come to the council.
+
+Everyone else came. **we** has a pairing of its own: with **ko** after it, **we ko** is *even*, and chapter 17 shows it at work.
+
 When either one applies to a verb, it stands before the whole verb phrase, Slot 1 particles included:
 
 **shia we to pa nulae.** — They also fell asleep.

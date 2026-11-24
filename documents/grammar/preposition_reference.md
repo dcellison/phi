@@ -6,7 +6,7 @@ This document is the authoritative inventory of Phi's 27 prepositions, completin
 
 Every preposition is a hiatus disyllable, (C)V.V, the relator shape of the function-word charter. Every preposition precedes its object (modifier-first), and the whole phrase stands in the adjunct slot: S PP O V, circumstances before the thing acted on. The phrase follows an explicit subject; it opens a sentence only when the subject is left unsaid. The object of a preposition may be `miso` or `wiso` (`neo miso`, in front of oneself; `lue wiso`, from each other). When the relativized element is a preposition's object, the preposition remains and its object is gapped (`whu mia mua ___ to thalo shelira`, the forest that I walked in); the preposition never drops and never moves.
 
-Prepositions over clauses are the five hiatus-shaped clause relators `lao` (BECAUSE), `pheo` (POST), `phoe` (ANT), `shai` (CONC), and `whau` (SIMUL); `pheo` and `phoe` also stand over time phrases, counted or not (`pheo wi philo`, in two days; `pheo teku shemu`, after a short moment), and over nothing else that is not a clause: no other noun, and no bare `ha` or `ra`. The plain-disyllable conjunction `lila` (PURP) joins them in the subordinate-clause grammar. All six open their dependent material before the main clause.
+Prepositions over clauses are the five hiatus-shaped clause relators `lao` (BECAUSE), `pheo` (POST), `phoe` (ANT), `shai` (CONC), and `whau` (SIMUL); `pheo` and `phoe` also stand over time phrases, counted or not (`pheo wi philo`, in two days; `pheo teku shemu`, after a short moment), and over nothing else that is not a clause: no other noun, and no bare `ha` or `ra`. The plain-disyllable conjunction `lila` (PURP) joins them in the subordinate-clause grammar. All six open their dependent material before the main clause. One preposition proper shares the habit: `tei` (UNTIL) may take a whole clause as its endpoint, and that clause stands first and carries its own tense (`tei pheralu to te lepa lo mia mua womu to manolu`, until the rain stopped falling, we stayed at home). Over a noun phrase `tei` stays in the adjunct slot, and the relator set stays six.
 
 ## Place
 
@@ -53,7 +53,7 @@ What counts as near depends on scale, and the pair carries no measurements; see 
 | `sui` | DUR | during, throughout | `mia sui kelua theo.` (I read during the morning.) |
 | `tei` | UNTIL | until, up to | `lopia tei norawhi wile.` (The child plays until dusk.) |
 
-With the day-cycle nouns these are Phi's time-telling; see the natural-clock ruling and manual ch14.
+With the day-cycle nouns these are Phi's time-telling; see the natural-clock ruling and manual ch14. Over `nosa` (now), `tei nosa` says still, and with a negated verb not yet (`melu tei nosa ma kamo`, the friend has not arrived yet).
 
 ## Relation
 

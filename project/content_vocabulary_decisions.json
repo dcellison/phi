@@ -1109,6 +1109,21 @@
         "CV-MED-04",
         "CV-ECO-10"
       ]
+    },
+    {
+      "id": "small-words-and-clause-relations",
+      "heading": "Small words and clause relations",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-SMALL-01",
+        "CV-SMALL-02",
+        "CV-SMALL-03",
+        "CV-SMALL-04",
+        "CV-SMALL-05",
+        "CV-SMALL-06",
+        "CV-SMALL-07"
+      ]
     }
   ],
   "candidates": [
@@ -5933,6 +5948,116 @@
       },
       "batches": [
         "bodily-waste-placement-and-manure"
+      ]
+    },
+    {
+      "id": "CV-SMALL-01",
+      "concept": "again, once more, and another in the sense of one more",
+      "status": "implemented",
+      "placement": "base temporal and quantity vocabulary",
+      "summary": "The texts used `we`, `turema`, ordinals, and `phirae shemu` for again, and source-blind readers recovered again from none of them reliably. Adjective `ture` marks an occurrence as one more: before the verb it is again, and before a noun it is one more of the same kind. `we` returns to also, and `phirae` keeps different.",
+      "implementation": {
+        "words": [
+          "ture"
+        ],
+        "files": [
+          "vocabulary/content/again.json"
+        ]
+      },
+      "batches": [
+        "small-words-and-clause-relations"
+      ]
+    },
+    {
+      "id": "CV-SMALL-02",
+      "concept": "still, not yet, already, and no longer",
+      "status": "implemented",
+      "placement": "registered time compounds over base `nosa`, with existing aspect",
+      "summary": "Still is `tei nosa`, not yet is `tei nosa` with a negated verb, and already is `phoe nosa` with `ki`. No longer is `to te`, an unregistered particle sequence, because the stopping lies in the past. In a past account `ra shemu` replaces `nosa`. Coined descriptors would only rename these phrases.",
+      "implementation": {
+        "compounds": [
+          "tei nosa",
+          "phoe nosa"
+        ]
+      },
+      "batches": [
+        "small-words-and-clause-relations"
+      ]
+    },
+    {
+      "id": "CV-SMALL-03",
+      "concept": "scalar even and not even",
+      "status": "implemented",
+      "placement": "registered pairing of two Slot 2 particles",
+      "summary": "`we ko` joins addition and focus in their ruled Slot 2 order. Readers took the pair as even where bare `we` read as too. A new particle would reopen the closed inventory for what two existing particles say together.",
+      "implementation": {
+        "compounds": [
+          "we ko"
+        ]
+      },
+      "batches": [
+        "small-words-and-clause-relations"
+      ]
+    },
+    {
+      "id": "CV-SMALL-04",
+      "concept": "at once, immediately, and soon",
+      "status": "implemented",
+      "placement": "registered time compounds under `pheo`",
+      "summary": "`pheo mu thimu` (after zero time) is at once and `pheo teku shemu` with `so` is soon. The texts had also written `nosa` and `reshi` for at once, which mean now and fast.",
+      "implementation": {
+        "compounds": [
+          "pheo mu thimu",
+          "pheo teku shemu"
+        ]
+      },
+      "batches": [
+        "small-words-and-clause-relations"
+      ]
+    },
+    {
+      "id": "CV-SMALL-05",
+      "concept": "instead and except",
+      "status": "compositional",
+      "placement": "base negation with `thona`, `whekai`, and `li`",
+      "summary": "Instead is the refused thing negated and then the chosen one, joined by `thona` or `whekai`. Except is `li` on the exception with the predicate turned. The place calque `mua X lokue` read as a location and is not used; `whuo` read as company as often as exception.",
+      "expressions": [
+        "mia hasumi ma milau thona phialu milau",
+        "li phao kau kowela to ma shua",
+        "li phao kau kowela to shua"
+      ],
+      "batches": [
+        "small-words-and-clause-relations"
+      ]
+    },
+    {
+      "id": "CV-SMALL-06",
+      "concept": "when, whenever, until with a clause, since, unless, even if, whether or not, only if, and as soon as",
+      "status": "compositional",
+      "placement": "existing clause relators, `lu`, and `tei` over a clause",
+      "summary": "No relator is coined for when: `pheo` takes sequence and `whau` takes overlap, with the briefer event allowed under `whau`. Whenever is `lu` with `ro`, unless is `lu` with a negated condition, even if is `shai` with `po`, and whether or not joins a verb and its negation with `sola` under `lu`. Until with a clause is `tei` over the clause, a grammar extension recorded in D130. Since is `lue` or a `pheo` clause with `tei nosa`.",
+      "expressions": [
+        "pheo melu to kamo lo mia to nuola",
+        "whau melu to kamo lo mia to si nuola",
+        "lu pheralu lepa. lo mia mua womu ro manolu",
+        "tei pheralu to te lepa lo mia mua womu to manolu",
+        "mia lue ra philo tei nosa shia ma nila",
+        "shai pheralu po lepa lo mia so thalo",
+        "lu pheralu lepa sola ma lepa. lo mia so thalo"
+      ],
+      "batches": [
+        "small-words-and-clause-relations"
+      ]
+    },
+    {
+      "id": "CV-SMALL-07",
+      "concept": "other and else, and another as a different one",
+      "status": "deferred",
+      "placement": "base vocabulary, undecided between `phirae` and a new word",
+      "summary": "The texts use `phirae` (different) for other, another, and else. `ture` now carries the additive another. Whether the remaining sense needs its own word belongs with the ordinary-vocabulary gaps of the November 2026 assessment.",
+      "revisit_when": "The ordinary-vocabulary step for assessment recommendation 22 (other, part, happen, use, and their neighbours) begins.",
+      "batches": [
+        "small-words-and-clause-relations"
       ]
     }
   ],

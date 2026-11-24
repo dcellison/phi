@@ -540,6 +540,55 @@ class SentenceParserTest(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertInvalid(text, "PHS062")
 
+    def test_until_stands_over_a_clause_or_a_noun_phrase(self):
+        for text in (
+            "tei pheralu to te lepa lo mia mua womu to manolu.",
+            "tei thia so shua mia so hasi.",
+            "tei phao to turema lopia nia whelina to wile.",
+            "lopia tei norawhi wile.",
+            "tei norawhi wile.",
+            "mia tei thia shua so hasi.",
+            "melu tei nosa ma kamo.",
+            "lopia tei nosa si nulae.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        # The clause comes first. After the subject, tei takes a noun phrase.
+        self.assertInvalid("mia tei thia so shua so hasi.", "PHS101")
+
+    def test_small_word_compositions_parse(self):
+        for text in (
+            "shia to ture hola.",
+            "mia ture lopha rinu.",
+            "mia phoe nosa ki nuola.",
+            "lopia mua ha womu to te menui.",
+            "we ko lopia ha shelu po theo.",
+            "we ko phao ha shelu ma shelomu.",
+            "mia hasumi ma milau thona phialu milau.",
+            "li ne samira kau kowela to ma shua.",
+            "whau melu to kamo lo mia to si nuola.",
+            "pheo melu to kamo lo mia pheo mu thimu to wepu.",
+            "mia lue ra philo tei nosa shia ma nila.",
+            "shai pheralu po lepa lo mia so thalo.",
+            "lu pheralu lepa sola ma lepa. lo mia so thalo.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+
+    def test_past_condition_advisory(self):
+        self.assertAdvisories(
+            "lu phao to turema. lopia siora to kelu.", [("PHL005", "lu")]
+        )
+        for text in (
+            "lu pheralu to lepa. lo mia mua womu to ro manolu.",
+            "lu pheralu lepa. lo mia mua womu ro manolu.",
+            "lu thia mia naphe. mia thia so whaline.",
+            "lu he mia to naphe. shia to ma wepu.",
+            "pheo phao to turema lopia siora to kelu.",
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [])
+
     def test_also_and_only_stand_outside_the_slot_one_block(self):
         for text in (
             "shia we to pa nulae.",

@@ -406,7 +406,7 @@
       "variant": "standard"
     },
     "manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2;t3x8;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2;t3x8;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part4_grammar/ch14_verbs_time/08_the_turning_of_a_life.md": {
@@ -462,7 +462,7 @@
       "variant": "standard"
     },
     "manual/part5_complex/ch17_coordination/02_contrast.md": {
-      "shape": "h1,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2;t-;f3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part5_complex/ch17_coordination/03_alternative.md": {
@@ -470,7 +470,7 @@
       "variant": "standard"
     },
     "manual/part5_complex/ch17_coordination/04_addition_we.md": {
-      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part5_complex/ch18_discourse/01_introduction.md": {
@@ -502,7 +502,7 @@
       "variant": "standard"
     },
     "manual/part5_complex/ch19_subordinate_clauses/04_adverbial_clauses.md": {
-      "shape": "h1,2,2,2,2,2,2,2;t4x6;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2;t4x6;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part5_complex/ch20_relative_clauses/01_introduction.md": {
@@ -582,7 +582,7 @@
       "variant": "directory"
     },
     "manual/part7_reference/compounds.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2,2;t4x8,4x3,4x10,4x1,4x3,4x4,4x9,4x19,4x20;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2;t4x8,4x3,4x10,4x1,4x3,4x4,4x13,4x1,4x19,4x20;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part7_reference/quick_reference_grammar.md": {

@@ -112,8 +112,9 @@ Put `mo` in front of something countable and it weighs amounts rather than degre
 | this one as against the others | `ko` | `ko mia thia nila.` |
 | only this one | `li` | `li shia sano.` |
 | this one too | `we` | `we lohau wile.` |
+| even this one | `we ko` | `we ko lopia ha sano.` |
 
-`li` fences identity and never counts. Only three eggs is a numeral's work, not `li`'s.
+`li` fences identity and never counts. Only three eggs is a numeral's work, not `li`'s. `we ko` is two particles doing one job, addition and then focus.
 
 ## Counting and ordering
 
@@ -139,4 +140,4 @@ The three honorifics record how the speaker holds the relation. None of them ran
 
 This page names the tool. The rules that govern it are elsewhere, and you will want them once a sentence needs more than one particle at a time.
 
-The complete inventory with slots and ranks is [the particle reference](../grammar/particle_reference.md). Manual chapter 9 explains the three scopes and how they nest, chapters 14 through 16 develop time, voice and claimed sources, and the [three slots pamphlet](../../pamphlets/three_slots/00_title.md) drills the combinations. The primer teaches every one of these in a story first, which is the shortest road for most readers.
+The complete inventory with slots and ranks is [the particle reference](../grammar/particle_reference.md). Manual chapter 9 explains the three scopes and how they nest, chapters 14 through 16 develop time, voice and claimed sources, and the [three slots pamphlet](../../pamphlets/three_slots/00_title.md) drills the combinations. The primer teaches every one of these in a story first, which is the shortest road for most readers. For the small words that are not particles at all (again, still, already, except, when), [the small-word finder](small_words.md) runs the same way.
