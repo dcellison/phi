@@ -26,6 +26,7 @@ jobs:
           python3 scripts/validate_sentences.py
           python3 scripts/test_sentence_validator.py
           python3 scripts/test_phi_readings.py
+          python3 scripts/test_phi_roles.py
 
       - name: Test vocabulary schema
         run: python3 scripts/test_vocabulary_schema.py
@@ -56,6 +57,9 @@ jobs:
 
       - name: Check sentence-order ledger is in sync
         run: python3 scripts/audit_sentence_order.py --check
+
+      - name: Check phrase-reading ledger is in sync
+        run: python3 scripts/audit_phrase_readings.py --check
 
       - name: Check generated reference is in sync with vocabulary
         run: |

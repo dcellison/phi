@@ -104,6 +104,19 @@ class ClauseReadings:
     relaxed: bool
     divisions: list[str] = field(default_factory=list)
     seams: list[str] = field(default_factory=list)
+    # Facts the role and reference counts need.
+    verb: str = ""
+    slot0: tuple[str, ...] = ()
+    slot1: tuple[str, ...] = ()
+    gapped: bool = False
+    # How many bare phrases (subject, object, complement) each division has.
+    bare_counts: tuple[int, ...] = ()
+    # The head of the first phrase when it is bare: (class, word).
+    first_bare: tuple[str, str] | None = None
+    # The head of every bare phrase in the first division.
+    bare_heads: tuple[tuple[str, str], ...] = ()
+    # Third-person pronouns standing as separate words in the clause.
+    third_persons: int = 0
 
 
 @dataclass
@@ -278,8 +291,9 @@ class ReadingCounter(PhiParser):
 
     def _count_clause(self, start: int, end: int, *, allow_gap: bool) -> tuple[int, int]:
         checkpoint = len(self.diagnostics)
-        index, _ = self._parse_sentence_frame(start, end)
+        index, frame_nodes = self._parse_sentence_frame(start, end)
         del self.diagnostics[checkpoint:]
+        slot0 = tuple(node.value for node in frame_nodes if node.value)
         if index < end and self._word(index) in DISCOURSE_MARKERS:
             index += 1
         if index >= end:
@@ -301,7 +315,7 @@ class ReadingCounter(PhiParser):
             counted = self._count_adverbial(index, end, allow_gap)
             if counted is not None:
                 return counted
-        return self._count_core(index, end, allow_gap=allow_gap)
+        return self._count_core(index, end, allow_gap=allow_gap, slot0=slot0)
 
     def _count_adverbial(
         self, start: int, end: int, allow_gap: bool
@@ -374,7 +388,13 @@ class ReadingCounter(PhiParser):
     # ------------------------------------------------------------------
 
     def _count_core(
-        self, start: int, end: int, *, allow_gap: bool, record: bool = True
+        self,
+        start: int,
+        end: int,
+        *,
+        allow_gap: bool,
+        record: bool = True,
+        slot0: tuple[str, ...] = (),
     ) -> tuple[int, int]:
         predicate_index = end - 1
         if predicate_index < start:
@@ -383,6 +403,11 @@ class ReadingCounter(PhiParser):
         relaxed_used = False
         shown: list[str] = []
         seams: set[str] = set()
+        bare_counts: set[int] = set()
+        first_bare: tuple[str, str] | None = None
+        bare_heads: tuple[tuple[str, str], ...] | None = None
+        slot1: tuple[str, ...] = ()
+        third_persons = 0
         mark = self._mark()
         for units, inner_c, inner_w in self._unit_sequences(start, predicate_index):
             if inner_w == 0:
@@ -418,6 +443,22 @@ class ReadingCounter(PhiParser):
             for division in cons:
                 if len(shown) < MAX_SHOWN:
                     shown.append(self._render(pre, division))
+            slot1 = tuple(u.word for u in units if u.cls == "S1")
+            third_persons = max(
+                third_persons,
+                sum(1 for u in pre if u.cls == "PRON" and u.word == "shia"),
+            )
+            for boundaries, _, types in cons or wide:
+                bare_counts.add(sum(1 for kind in types if kind == "BARE"))
+                if first_bare is None and types and types[0] == "BARE":
+                    head = pre[boundaries[0] - 1]
+                    first_bare = (head.cls, head.word)
+                if bare_heads is None:
+                    bare_heads = tuple(
+                        (pre[stop - 1].cls, pre[stop - 1].word)
+                        for stop, kind in zip(boundaries, types)
+                        if kind == "BARE"
+                    )
         if wide_total == 0:
             self._rollback(mark)
             return 0, 0
@@ -434,6 +475,14 @@ class ReadingCounter(PhiParser):
                     relaxed_used,
                     shown if cons_total > 1 else [],
                     sorted(seams),
+                    verb=self._word(predicate_index),
+                    slot0=slot0,
+                    slot1=slot1,
+                    gapped=allow_gap,
+                    bare_counts=tuple(sorted(bare_counts)),
+                    first_bare=first_bare,
+                    bare_heads=bare_heads or (),
+                    third_persons=third_persons,
                 )
             )
         return cons_total, wide_total
@@ -623,7 +672,7 @@ class ReadingCounter(PhiParser):
         full: bool,
         relaxed: bool,
     ) -> list[tuple]:
-        """Every legal division, as (boundaries, manner_start) tuples."""
+        """Every legal division, as (boundaries, manner_start, phrase_types)."""
         results: list[tuple] = []
         # A manner tail is a run of adjectives, each with any degree
         # particles, standing directly before the verb. A degree particle
@@ -641,7 +690,7 @@ class ReadingCounter(PhiParser):
             body = pre[:tail]
             for boundaries, types in self._segmentations(body, allow_gap, full):
                 if self._template_ok(body, types, has_ka, predicative, relaxed):
-                    results.append((boundaries, tail))
+                    results.append((boundaries, tail, types))
         return results
 
     def _segmentations(
@@ -814,7 +863,7 @@ class ReadingCounter(PhiParser):
     def _render(self, pre: Sequence[Unit], division: tuple) -> str:
         if not division:
             return ""
-        boundaries, tail = division
+        boundaries, tail, _ = division
         parts = []
         position = 0
         for stop in boundaries:
@@ -833,12 +882,12 @@ class ReadingCounter(PhiParser):
         types: set[str] = set()
         edge_sets = []
         manner_starts = set()
-        for boundaries, tail in divisions:
+        for boundaries, tail, _ in divisions:
             edges = set(boundaries)
             if tail < len(pre):
                 manner_starts.add(tail)
             edge_sets.append(edges - {len(pre)})
-        if len(manner_starts) > 0 and any(tail == len(pre) for _, tail in divisions):
+        if len(manner_starts) > 0 and any(tail == len(pre) for _, tail, _ in divisions):
             types.add("manner or object")
         every = set().union(*edge_sets) if edge_sets else set()
         for edge in sorted(every):

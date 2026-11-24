@@ -104,7 +104,7 @@ Two counts are reported. The conservative count lets a noun, pronoun, or name en
 What the figure is not:
 
 - It is an upper bound on structural choice. The counter has no verb valency and no meanings, so `mia nosa thole.` counts "my now practices" beside "I practice now". It does not estimate how often a reader goes wrong.
-- It does not count bracketing inside a phrase, the role of a clause's only bare phrase (subject or object), or which referent a pronoun picks out. The last two are where the certified texts' recorded misreadings fall.
+- It does not count bracketing inside a phrase, the role of a clause's only bare phrase (subject or object), or which referent a pronoun picks out. The last two are where the certified texts' recorded misreadings fall, and the next section counts them.
 - It follows the parser's choice for clause coordination, and a small share of sentences in the texts fall outside its clause model; the report lists them as not modelled.
 
 ```bash
@@ -114,7 +114,30 @@ python3 scripts/audit_phrase_readings.py --paths texts/velveteen_rabbit.md
 python3 scripts/audit_phrase_readings.py --openers ha ra lo
 ```
 
-The last form is a what-if. Canon lets a possessor stand before a phrase that opens with `ha` or `lo` (`lo mia lo manuwe`). `--openers` counts the readings that would remain if the listed Slot 2 words always began a new phrase. No baseline is committed and CI runs only the counter's unit tests.
+The last form is a what-if. Canon lets a possessor stand before a phrase that opens with `ha` or `lo` (`lo mia lo manuwe`). `--openers` counts the readings that would remain if the listed Slot 2 words always began a new phrase.
+
+## Open roles and third persons
+
+`scripts/phi_roles.py` counts the two things the reading count leaves out.
+
+An open role is a clause with one bare phrase and a verb that takes an object elsewhere. Phi marks no case and lets an established subject go unsaid, so the phrase is the subject, with nothing said about an object, or the object, with the subject unsaid. `lopia nuola.` is "the child eats" and "(it) eats the child". A relative clause has the same opening when one phrase is left inside it: in `whu mia nila miona`, the person is the one I see or the one who sees me. A passive, a command, or a second bare phrase settles the role.
+
+The lexicon records no valency, so the corpus supplies it. A verb counts as taking an object when it appears at least once in the passive, with two bare phrases that cannot be read as one (`mia thia nila.`), or in a command over a noun phrase (`no shelu theo.`), in a clause that has a single structural reading. A verb never witnessed that way is treated as taking no object, so the count leans low for rare verbs.
+
+A contested third person is a `shia`, or an unsaid subject, at a point where two or more third persons are live. A third person here is the head of a clause-initial bare phrase that is a noun or a name, and it stays live for three further sentences. The tracker knows nothing of animacy or plausibility. It also counts clauses with two separate `shia`, where the listener has to tell them apart inside one clause.
+
+Both counts are indicators of exposure. A first-person `mia nila.` is an open role by this definition and no reader stumbles on it, so the report also gives the open roles whose phrase is not `mia` or `thia`.
+
+## The phrase-reading ledger
+
+`documents/validation/phrase_readings_baseline.txt` holds one row per file: sentences, sentences with more than one division on each count, open roles, relative clauses with an open head, uses of `shia`, contested uses, and clauses with two `shia`. Every dictionary example is gathered into one `vocabulary/` row. CI regenerates the ledger and fails on any difference.
+
+```bash
+python3 scripts/audit_phrase_readings.py --output documents/validation/phrase_readings_baseline.txt
+python3 scripts/audit_phrase_readings.py --check
+```
+
+The figures are for watching a trend, text by text. A row usually changes only when its file does. The open-role columns can also move when another file adds the first witness that a verb takes an object.
 
 ## Limits
 
