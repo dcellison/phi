@@ -91,6 +91,54 @@ A literal `--sentence` always prints its advisories. Corpus runs print them with
 
 The ledger mixes two kinds of line: sentences whose order is right under the reading their author meant, and sentences that still need repair. Presence in the ledger means a sentence has been seen, not that it has been cleared. Lines from `texts/` wait for the two-phase translation process before any change.
 
+## Counting readings
+
+The parser answers whether a sentence has a canonical parse. `scripts/phi_readings.py` asks how many it has. Phi marks the edges of embedded statements, questions, and quotations with words and leaves the commoner edges unmarked: where the subject ends and the object begins, where a prepositional phrase ends, whether a quality word before the verb is manner or object, and where an adverbial or relative clause hands over to the clause around it.
+
+A reading is one way of dividing a clause into phrases. For each core clause the counter takes the words before the Slot 1 stack, or before the verb when there is no stack, and enumerates every division that canon's order allows: subject, adjuncts, object or complement, then manner. It adds every place a dependent clause could end, using the parser to decide which ends are grammatical and its own phrase rules to discard the ones that leave an undividable clause. Readings multiply across the clauses of a sentence. Each sentence inside a quotation is counted as a sentence of its own.
+
+`phao lopia shelu theo.` has three: the parent reads the child's book, the parent's child reads the book, and the single phrase in which nobody is named as reader. `mia shia wiru ma nila.` has one, because a pronoun begins its phrase.
+
+Two counts are reported. The conservative count lets a noun, pronoun, or name end a phrase anywhere and lets an adjective or verb stand as a phrase only by itself and only where nothing else can end the phrase. The full count also lets an adjective (quality noun) or a verb (event noun) head a phrase with modifiers of its own, so `mia nohero to helui.` gains "my belief changed" beside "I changed the belief".
+
+What the figure is not:
+
+- It is an upper bound on structural choice. The counter has no verb valency and no meanings, so `mia nosa thole.` counts "my now practices" beside "I practice now". It does not estimate how often a reader goes wrong.
+- It does not count bracketing inside a phrase, the role of a clause's only bare phrase (subject or object), or which referent a pronoun picks out. The last two are where the certified texts' recorded misreadings fall, and the next section counts them.
+- It follows the parser's choice for clause coordination, and a small share of sentences in the texts fall outside its clause model; the report lists them as not modelled.
+
+```bash
+python3 scripts/audit_phrase_readings.py --sentence "phao lopia shelu theo."
+python3 scripts/audit_phrase_readings.py
+python3 scripts/audit_phrase_readings.py --paths texts/velveteen_rabbit.md
+python3 scripts/audit_phrase_readings.py --openers ha ra lo
+```
+
+The last form is a what-if. Canon lets a possessor stand before a phrase that opens with `ha` or `lo` (`lo mia lo manuwe`). `--openers` counts the readings that would remain if the listed Slot 2 words always began a new phrase.
+
+## Open roles and third persons
+
+`scripts/phi_roles.py` counts the two things the reading count leaves out.
+
+An open role is a clause with one bare phrase and a verb that takes an object elsewhere. Phi marks no case and lets an established subject go unsaid, so the phrase is the subject, with nothing said about an object, or the object, with the subject unsaid. `lopia nuola.` is "the child eats" and "(it) eats the child". A relative clause has the same opening when one phrase is left inside it: in `whu mia nila miona`, the person is the one I see or the one who sees me. A passive, a command, or a second bare phrase settles the role.
+
+The lexicon records no valency, so the corpus supplies it. A verb counts as taking an object when it appears at least once in the passive, with two bare phrases that cannot be read as one (`mia thia nila.`), or in a command over a noun phrase (`no shelu theo.`), in a clause that has a single structural reading. A verb never witnessed that way is treated as taking no object, so the count leans low for rare verbs.
+
+A contested third person is a `shia`, or an unsaid subject, at a point where two or more third persons are live. A third person here is the head of a clause-initial bare phrase that is a noun or a name, and it stays live for three further sentences. The tracker knows nothing of animacy or plausibility. It also counts clauses with two separate `shia`, where the listener has to tell them apart inside one clause.
+
+Both counts are indicators of exposure. A first-person `mia nila.` is an open role by this definition and no reader stumbles on it, so the report also gives the open roles whose phrase is not `mia` or `thia`.
+
+## The phrase-reading ledger
+
+`documents/validation/phrase_readings_baseline.txt` holds one row per file: sentences, sentences with more than one division on each count, open roles, relative clauses with an open head, uses of `shia`, contested uses, and clauses with two `shia`. Every dictionary example is gathered into one `vocabulary/` row. CI regenerates the ledger and fails on any difference.
+
+```bash
+python3 scripts/audit_phrase_readings.py --output documents/validation/phrase_readings_baseline.txt
+python3 scripts/audit_phrase_readings.py --check
+```
+
+The figures are for watching a trend, text by text. A row usually changes only when its file does. The open-role columns can also move when another file adds the first witness that a verb takes an object.
+
 ## Limits
 
 The parser knows grammar, not the English translation beside it. It cannot decide whether an evidential claim is warranted, whether an honorific tells the truth about a relationship, or whether a source sentence has been translated faithfully.

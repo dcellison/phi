@@ -119,6 +119,20 @@ python3 scripts/audit_phonetic_neighbors.py --candidate proposed_word
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
 
+## audit_phrase_readings.py
+
+Measures where sentences leave structure to the listener, over the lexicon's examples and the active Markdown. `phi_readings.py` counts the ways each clause divides into subject, adjuncts, object, and manner, and the places each dependent clause could end. `phi_roles.py` counts clauses whose one bare phrase may be subject or object, and uses of `shia` while two or more third persons are live. The report gives tables by corpus and by text; the committed ledger, which CI checks, gives one row per file. None of the counts uses meanings, so each is an upper bound. `documents/validation/sentence_validator.md` describes the models and their limits.
+
+```bash
+python3 scripts/audit_phrase_readings.py
+python3 scripts/audit_phrase_readings.py --sentence "phao lopia shelu theo."
+python3 scripts/audit_phrase_readings.py --openers ha ra lo
+python3 scripts/audit_phrase_readings.py --output documents/validation/phrase_readings_baseline.txt
+python3 scripts/audit_phrase_readings.py --check
+python3 scripts/test_phi_readings.py
+python3 scripts/test_phi_roles.py
+```
+
 ## audit_sentence_order.py
 
 Lists every sentence in the lexicon and the active Markdown that parses and still has a reading under which canon's order is broken: a manner word outside the Slot 1 block (`PHL001`), a direct object before a prepositional phrase (`PHL002`), a period before `sho` (`PHL003`), an adjunct before the subject (`PHL004`), or a past `lu` condition with no habit marked (`PHL005`). The parser has no verb valency and cannot choose between the readings, so the list is for a person. CI regenerates the committed ledger and fails on any difference.
