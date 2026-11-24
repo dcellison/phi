@@ -60,11 +60,37 @@ Diagnostic codes begin with `PHS`. They are stable enough for regression tests a
 
 `PHS085` catches the clearest missing question frame: a top-level gap-word is followed by a visibly finite inner predicate and then a matrix predicate. The diagnostic points back to `pha ... pho` without pretending that every unmarked verb has a known valency.
 
+## Order advisories
+
+`shia siora to phaelo.` (they felt joy) and `shia pakiro to whano.` have the same shape: an adjective directly before the Slot 1 stack. In the first, the adjective is a quality noun and the verb's object. In the second it is a manner word, and canon puts manner inside the stack: `shia to pakiro whano.` Choosing between them takes verb valency, which the lexicon does not record, so the parser accepts both.
+
+It also reports both. An advisory marks a sentence that parses and has a second reading under which canon's order is broken. Advisories carry `PHL` codes, print as `REVIEW` lines, and never change an exit code.
+
+| Code | Shape | The order canon asks for, if the doubtful reading is the intended one |
+|---|---|---|
+| `PHL001` | An adjective stands directly before the Slot 1 stack of a verb other than `nai` or `kelu` | A manner or depictive word stands inside the stack, directly before the verb |
+| `PHL002` | A noun or pronoun stands between a clause-initial `mia`, `thia`, or `shia` (or `lo` with one of them) and a phrase opened by a preposition, `pheo`, or `phoe` | A direct object follows its adjuncts: S PP O V |
+
+The checks stay quiet where the surface settles the reading. For `PHL001` that means a name atom, or an adjective marked as a noun phrase by a preposition, `lo`, a numeral, a quantifier, a classifier, or coordination with a noun. For `PHL002` it means a gapped relative clause, a compound subject, and a bare time phrase such as `nosa` or `wireo philo`, which is an adjunct like the phrase after it. The cost of the last exemption is that a time noun used as a real object before an adjunct passes unseen.
+
+```bash
+python3 scripts/validate_sentences.py --sentence "shia pakiro to whano."
+python3 scripts/validate_sentences.py --paths texts/example.md --lint
+python3 scripts/audit_sentence_order.py --output documents/validation/sentence_order_baseline.txt
+python3 scripts/audit_sentence_order.py --check
+```
+
+A literal `--sentence` always prints its advisories. Corpus runs print them with `--lint`.
+
+`documents/validation/sentence_order_baseline.txt` is the review ledger. It lists every advisory in the lexicon and the active Markdown, keyed by code, flagged word, file, and sentence, with no line numbers, so unrelated edits leave it alone. CI regenerates it and fails on any difference. A new candidate therefore reaches review as one added line, and a repaired sentence as one removed line.
+
+The ledger mixes two kinds of line: sentences whose order is right under the reading their author meant, and sentences that still need repair. Presence in the ledger means a sentence has been seen, not that it has been cleared. Lines from `texts/` wait for the two-phase translation process before any change.
+
 ## Limits
 
 The parser knows grammar, not the English translation beside it. It cannot decide whether an evidential claim is warranted, whether an honorific tells the truth about a relationship, or whether a source sentence has been translated faithfully.
 
-Some attachment remains ambiguous on the Phi surface. A clause-initial pronoun can head a possessive phrase when later structure forces that reading, while event nouns and quality nouns retain their verb or adjective spelling. Embedded questions no longer add another uncertain boundary: `pha` opens the complete question and `pho` returns the listener to the surrounding clause. The parser accepts any legal surface parse instead of inventing semantic valency. It can enforce `misa` against a visible preposition, complement frame, or Slot 1 stack, but a bare noun chain may admit more than one legal subject-object reading. A sentence whose intended object order depends only on the English translation still needs a human reading. The machine catches determinate modifier-first failures and leaves genuine lexical ambiguity visible.
+Some attachment remains ambiguous on the Phi surface. A clause-initial pronoun can head a possessive phrase when later structure forces that reading, while event nouns and quality nouns retain their verb or adjective spelling. Embedded questions no longer add another uncertain boundary: `pha` opens the complete question and `pho` returns the listener to the surrounding clause. The parser accepts any legal surface parse instead of inventing semantic valency. It can enforce `misa` against a visible preposition, complement frame, or Slot 1 stack, but a bare noun chain may admit more than one legal subject-object reading. A sentence whose intended object order depends only on the English translation still needs a human reading; the order advisories above collect the two commonest cases for that reading. The machine catches determinate modifier-first failures and leaves genuine lexical ambiguity visible.
 
 ## Corpus adoption
 

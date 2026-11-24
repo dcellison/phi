@@ -56,6 +56,7 @@ EPILOG = """examples:
   python3 scripts/validate_sentences.py --sentence "mia thia nila."
   python3 scripts/validate_sentences.py --sentence "henoi." --fragment
   python3 scripts/validate_sentences.py --sentence "mia thia nila." --show-tree
+  python3 scripts/validate_sentences.py --paths pamphlets --lint
 """
 
 
@@ -190,6 +191,13 @@ def render_errors(source: SentenceSource, result: ParseResult) -> list[str]:
     ]
 
 
+def render_advisories(source: SentenceSource, result: ParseResult) -> list[str]:
+    return [
+        f"{source.label}: {advisory.render(result.tokens)}"
+        for advisory in result.advisories
+    ]
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=DESCRIPTION,
@@ -227,6 +235,12 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="print the syntax tree for a valid --sentence",
     )
+    parser.add_argument(
+        "--lint",
+        action="store_true",
+        help="also print order advisories (PHL codes) for sentences that parse; "
+        "advisories never change the exit code",
+    )
     args = parser.parse_args()
     if args.docs and args.docs_only:
         parser.error("--docs and --docs-only are alternatives")
@@ -256,6 +270,10 @@ def main() -> int:
             SentenceSource("<argument>", args.sentence, args.fragment), result
         ):
             print(f"ERROR   {error}")
+        for advisory in render_advisories(
+            SentenceSource("<argument>", args.sentence, args.fragment), result
+        ):
+            print(f"REVIEW  {advisory}")
         if result.ok and args.show_tree and result.tree:
             print(format_tree(result.tree))
         print(f"{'Valid' if result.ok else 'Invalid'} Phi utterance.")
@@ -274,6 +292,7 @@ def main() -> int:
         )
 
     errors = []
+    advisories = []
     seen = set()
     checked = 0
     for source in sources:
@@ -284,10 +303,16 @@ def main() -> int:
         checked += 1
         result = parser.parse(source.text, allow_fragments=source.allow_fragments)
         errors.extend(render_errors(source, result))
+        if args.lint:
+            advisories.extend(render_advisories(source, result))
 
     for error in errors:
         print(f"ERROR   {error}")
+    for advisory in advisories:
+        print(f"REVIEW  {advisory}")
     print(f"\n{checked} complete Phi example(s) parsed. {len(errors)} error(s).")
+    if args.lint:
+        print(f"{len(advisories)} order advisory line(s) for review.")
     return 1 if errors else 0
 
 

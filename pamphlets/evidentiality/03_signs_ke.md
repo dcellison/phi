@@ -7,8 +7,8 @@
 The elder at the well gives the inference and the observations separate clauses:
 
 ```
-suliwa ke nai. mia suliwa ma nila. mia ruela mua muila nila.
-snake INFER be. 1SG snake NEG see. 1SG path LOC earth see.
+suliwa ke nai. mia suliwa ma nila. mia mua muila ruela nila.
+snake INFER be. 1SG snake NEG see. 1SG LOC earth path see.
 (There is a snake; I infer it. I do not see the snake. I see the trail in the earth.)
 ```
 

@@ -53,16 +53,16 @@ The `sha ... sho` frame preserves an evidential that was spoken; it does not add
 ### Error 4: `hi` supported only by a trace
 
 ```
-suliwa to hi shua. mia suliwa ruela mua muila nila.
-snake PST DIR come. 1SG snake path LOC earth see.
+suliwa to hi shua. mia mua muila suliwa ruela nila.
+snake PST DIR come. 1SG LOC earth snake path see.
 (A snake came; I witnessed it. I see a snake's trail in the earth.)
 ```
 
 If the trail is the speaker's only source for the coming, the first clause should take `ke`:
 
 ```
-suliwa to ke shua. mia suliwa ruela mua muila nila.
-snake PST INFER come. 1SG snake path LOC earth see.
+suliwa to ke shua. mia mua muila suliwa ruela nila.
+snake PST INFER come. 1SG LOC earth snake path see.
 (I infer that a snake came. I see a snake's trail in the earth.)
 ```
 

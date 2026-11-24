@@ -61,5 +61,6 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Four-syllable migration ledger](validation/four_syllable_migration.tsv) | Verified record of the completed lexical replacements. |
 | [Retired forms](validation/retired_forms.txt) | Shorter forms barred from lexical reassignment without restricting productive names. |
 | [Sentence validator](validation/sentence_validator.md) | Executable full-utterance grammar, diagnostic contract, commands, and known limits. |
+| [Sentence-order ledger](validation/sentence_order_baseline.txt) | Every sentence that parses but may hold a manner word outside the Slot 1 block or an object before a prepositional phrase; CI compares it. |
 
 The [project index](../project/) holds the records that govern work around these materials.

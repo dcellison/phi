@@ -385,6 +385,96 @@ class SentenceParserTest(unittest.TestCase):
         self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
         self.assertIn("0 error(s)", completed.stdout)
 
+    def assertAdvisories(self, text, expected):
+        result = self.assertValid(text)
+        found = [
+            (advisory.code, result.tokens[advisory.token_index].text)
+            for advisory in result.advisories
+        ]
+        self.assertEqual(expected, found, text)
+
+    def test_manner_advisory(self):
+        for text, word in (
+            ("shia pakiro to whano.", "pakiro"),
+            ("shia taleri ro phoa.", "taleri"),
+            ("howeli mo kema to whesu.", "kema"),
+            ("lo miona ha ru kuewa so nila.", "kuewa"),
+            ("shia shena nela thaemu to haolu.", "thaemu"),
+            ("mia tha shia pakiro to whano tho remo.", "pakiro"),
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [("PHL001", word)])
+
+    def test_manner_advisory_stays_quiet(self):
+        for text in (
+            "shia to pakiro whano.",
+            "shia ro taleri phoa.",
+            "shia pakiro whano.",
+            "shia mioru to nai.",
+            "shia serao to kelu.",
+            "mia mua waora to maeli manolu.",
+            "mia lo newu po pilu.",
+            "mia wiloru nela kuewa to phaelo.",
+            "ne sulae so shua.",
+            "mia shea to phaelo.",
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [])
+
+    def test_adjunct_order_advisory(self):
+        for text, word in (
+            ("mia soeli nia palu thinu.", "soeli"),
+            ("mia ruela mua muila nila.", "ruela"),
+            ("lo mia shelu wei melu to loa.", "shelu"),
+            ("shia miso mue lona lokue to ka roke.", "miso"),
+            ("mia shelu pheo wi philo so theo.", "shelu"),
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [("PHL002", word)])
+
+    def test_adjunct_order_advisory_stays_quiet(self):
+        for text in (
+            "mia nia palu soeli thinu.",
+            "mia mua muila ruela nila.",
+            "mia kau silawo wepu.",
+            "shia mue lona lokue miso to ka roke.",
+            "mia nela thia kau silawo wepu.",
+            "thia misa mua thepalu lopia nila.",
+            "melu shelu wei lopia loa.",
+            "mia melu mua womu nai.",
+            "mia pheo wi philo so shua.",
+            "mia nosa kau silawo wepu.",
+            "lo mia wireo philo kau moriwhe kerime so wepu.",
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [])
+
+    def test_adjunct_order_advisory_skips_gapped_relatives(self):
+        self.assertAdvisories("whu mia shelu wei loa melu shua.", [])
+
+    def test_advisories_need_a_clean_parse(self):
+        result = self.parser.parse("shia pakiro to whano to.", allow_fragments=False)
+        self.assertFalse(result.ok)
+        self.assertEqual([], result.advisories)
+
+    def test_lint_flag_reports_without_failing(self):
+        completed = subprocess.run(
+            [
+                sys.executable,
+                str(PROJECT_ROOT / "scripts" / "validate_sentences.py"),
+                "--sentence",
+                "shia pakiro to whano.",
+            ],
+            cwd=PROJECT_ROOT,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+        self.assertIn("REVIEW", completed.stdout)
+        self.assertIn("PHL001", completed.stdout)
+        self.assertIn("Valid Phi utterance.", completed.stdout)
+
     def test_sentence_cli_fragment_mode(self):
         command = [
             sys.executable,

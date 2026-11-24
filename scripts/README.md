@@ -119,6 +119,16 @@ python3 scripts/audit_phonetic_neighbors.py --candidate proposed_word
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
 
+## audit_sentence_order.py
+
+Lists every sentence in the lexicon and the active Markdown that parses and still has a reading under which canon's order is broken: a manner word outside the Slot 1 block (`PHL001`) or a direct object before a prepositional phrase (`PHL002`). The parser has no verb valency and cannot choose between the readings, so the list is for a person. CI regenerates the committed ledger and fails on any difference.
+
+```bash
+python3 scripts/audit_sentence_order.py --output documents/validation/sentence_order_baseline.txt
+python3 scripts/audit_sentence_order.py --check
+python3 scripts/validate_sentences.py --paths pamphlets --lint
+```
+
 ## translation_layers.py
 
 Builds the isolated working views required by D102. The source-to-Phi view exposes only numbered Phi units and their decoded source citations. That view can itself become the input to the Phi-to-English phase, so a new translation may begin in the same two-layer format before any gloss or natural English exists.
