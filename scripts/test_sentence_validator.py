@@ -452,6 +452,45 @@ class SentenceParserTest(unittest.TestCase):
     def test_adjunct_order_advisory_skips_gapped_relatives(self):
         self.assertAdvisories("whu mia shelu wei loa melu shua.", [])
 
+    def test_quote_period_advisory(self):
+        self.assertAdvisories(
+            "shia sha kona phewani. teku wishe to nai. sho to haolu.",
+            [("PHL003", "nai")],
+        )
+        self.assertAdvisories("ne kulo sha lia. mia so shua sho to haolu.", [])
+        self.assertAdvisories("sha lu thia shewo nai. thia rohemi ma sone sho to haolu.", [])
+
+    def test_fronted_adjunct_advisory(self):
+        for text, word in (
+            ("pheo teku shemu lo miona lo mia lo manuwe to pilu.", "pheo"),
+            ("mua nu ta shemu mia meraho to kelu.", "mua"),
+            ("mua ha lokue ne kulo to whano.", "mua"),
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [("PHL004", word)])
+        for text in (
+            "lo miona pheo teku shemu lo mia lo manuwe to pilu.",
+            "mia mua nu ta shemu meraho to kelu.",
+            "mua womu therilu.",
+            "no wei mia shua.",
+            "pheo wi philo so shua.",
+            "pheo teku shemu kau womu to wepu.",
+            "pheo melu to kamo lo mia to haolu.",
+        ):
+            with self.subTest(text=text):
+                self.assertAdvisories(text, [])
+
+    def test_reflexive_and_reciprocal_beyond_the_object(self):
+        for text in (
+            "shia miso womu to nila.",
+            "shia neo miso to nila.",
+            "lo miona wiso lo remo sheluo.",
+            "lo miona lue wiso to shonela.",
+            "thiku ne tupiwa to nulae.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+
     def test_advisories_need_a_clean_parse(self):
         result = self.parser.parse("shia pakiro to whano to.", allow_fragments=False)
         self.assertFalse(result.ok)
@@ -479,9 +518,9 @@ class SentenceParserTest(unittest.TestCase):
         for text in (
             "mia pheo wi philo so shua.",
             "melu phoe wi philo to kamo.",
-            "pheo teku shemu lo miona shua.",
-            "pheo laeno thimu shia to turema.",
-            "phoe ra thimu mua ra lokue repha to whano.",
+            "lo miona pheo teku shemu shua.",
+            "shia pheo laeno thimu to turema.",
+            "repha phoe ra thimu mua ra lokue to whano.",
             "mia phoe ha shemu thia to ma thilou.",
             "pheo shia ha to haolu kohura mosha to nai.",
             "pheo ha shero wepu shia to nulae.",

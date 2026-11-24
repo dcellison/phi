@@ -26,6 +26,16 @@ mia sha mia thia lothea sho to shemui.
 
 Inside the frame, pronouns, tense, and clause force remain as spoken. The first quotation therefore keeps **mia**, the original speaker's "I," and the second keeps its direct-question particle **wa**.
 
+A speech does not have to be one sentence. The frame stays open until the speaker has finished. Each sentence inside ends in its own period, and **sho** comes straight after the last quoted word, with no period before it:
+
+```
+ne sulae sha mia so wepu. mia wireo philo so turema sho to shemui.
+NAME sulae QUOT.COMP 1SG FUT go. 1SG future day FUT return QUOT.COMP.CLOSE PST utter.
+(sulae said, "I will go. I will return tomorrow.")
+```
+
+None of the speech stands outside the frame. A listener hears **sha**, then someone else's words, then **sho**, and never has to guess whose **mia** is speaking.
+
 The claim of exactness applies to grammatical Phi wording. If the source used another language or a form that depends on its own script, the original remains outside the Phi sentence. A Phi rendering may translate or report it, but **sha ... sho** does not turn a translation into the source's exact words.
 
 ## Indirect speech: `tha ... tho`

@@ -244,7 +244,7 @@
       "variant": "scenario"
     },
     "pamphlets/naming/02_the_announcing_ne.md": {
-      "shape": "h1,3,3,3,3,3;t-;f3,3,11,7,3,7,3;q-;u-;o-;r0;s-",
+      "shape": "h1,3,3,3,3,3,3;t-;f3,3,11,7,3,7,3,3;q-;u-;o-;r0;s-",
       "variant": "lesson"
     },
     "pamphlets/naming/03_calling_kona.md": {
@@ -346,11 +346,11 @@
       "variant": "lesson"
     },
     "pamphlets/pronouns_topic_drop/04_back_to_yourself_miso.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "shape": "h1,3,3,3,3;t-;f3,3,3,3,3,3,3,3;q-;u-;o4;r0;s1",
       "variant": "lesson"
     },
     "pamphlets/pronouns_topic_drop/05_between_each_other_wiso.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "shape": "h1,3,3,3,3;t-;f3,3,3,3,3,3,3,3;q-;u-;o4;r0;s1",
       "variant": "lesson"
     },
     "pamphlets/pronouns_topic_drop/06_pointing_ha_ra.md": {
@@ -475,7 +475,7 @@
       "variant": "lesson"
     },
     "pamphlets/spoken_punctuation/03_the_quotation_marks.md": {
-      "shape": "h1,3,3,3,3,3;t-;f3,3,3;q-;u-;o-;r0;s-",
+      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3;q-;u-;o-;r0;s-",
       "variant": "lesson"
     },
     "pamphlets/spoken_punctuation/04_comma_of_address_capital.md": {

@@ -13,7 +13,7 @@
   ],
   "description": "A grammatical Phi quotation opened by 'sha' (QUOT.COMP) reaches its boundary at 'sho'. The surrounding clause then resumes with a verb that says whether those words were spoken or heard.",
   "articulatory_notes": "The grooved postalveolar hiss of 'sh' begins the word with the lips already slightly rounded. They keep that rounding as the tongue lowers into voiced mid back 'o', so one lip posture covers the whole syllable. Full stress.",
-  "usage_notes": "'haolu', 'shemui', and 'thilou' report spoken words; 'hea' reports words received by hearing. Slot 1 marking stands between 'sho' and that verb where it normally belongs. When quotations nest, this closer matches the nearest open 'sha'.",
+  "usage_notes": "'haolu', 'shemui', and 'thilou' report spoken words; 'hea' reports words received by hearing. Slot 1 marking stands between 'sho' and that verb where it normally belongs. When quotations nest, this closer matches the nearest open 'sha'. In a speech of several sentences each inner sentence keeps its period, and 'sho' then stands directly after the quotation's final word with no period between.",
   "examples": [
     {
       "phi": "mia sha thia ha nai sho to hea.",

@@ -211,7 +211,7 @@ shia sha mia so wepu. mia kau womu na turema. no thia towe nai sho to haolu
 (They said: "I will leave. I must return home. Be well.")
 ```
 
-The `sho` closes all the quoted material, however long.
+The `sho` closes all the quoted material, however long. The closer comes right after the end of the speech with no period in front of it, and nothing the speaker said is left outside the frame.
 
 ## Quotation within quotation
 

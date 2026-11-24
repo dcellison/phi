@@ -6,7 +6,7 @@ This document provides a complete inventory of all particles in Phi, organized b
 
 Particles appear in a fixed order based on their slot:
 
-**[Slot 0] [Subject] [Adjuncts] [Object] [Slot 1 stack] [Verb]** — Slot 2 particles attach directly before whichever word they modify; adjunct prepositional phrases stand before the direct object (S PP O V)
+**[Slot 0] [Subject] [Adjuncts] [Object] [Slot 1 stack] [Verb]** — Slot 2 particles attach directly before whichever word they modify; adjunct prepositional phrases stand before the direct object (S PP O V) An adjunct that is not a clause follows an explicit subject and does not open the sentence ahead of it. A clause under `lao`, `pheo`, `phoe`, `shai`, or `whau` comes first and carries its own tense, counted from the moment of speaking; a `lila` clause carries none.
 
 Example:
 ```
@@ -471,7 +471,7 @@ Both also stand alone, with no noun after them: `ha` (this), `ra` (that), and wi
 
 #### `ne` - Proper Name (NAME)
 **Function**: Announces that the following atom is a proper designation, not ordinary vocabulary
-**Position**: Before the name atom (and before any honorific)
+**Position**: Before the name atom (and before any honorific). A describer stands before `ne`, as before any noun: `thiku ne tupiwa` (little tupiwa)
 **Example**:
 ```
 ne keruko shua.

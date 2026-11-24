@@ -26,7 +26,7 @@ ANT PL 1SG PST speak 1SG PST prepare.
 (Before we spoke, I prepared.)
 ```
 
-Each clause carries the tense appropriate to its own event. The dependent verb marks the point at which the main clause begins; neither relator takes a closer.
+Each clause carries the tense appropriate to its own event, counted from the moment of speaking as if the clause stood alone. An earlier event therefore takes **to** even when the main clause has one already. The dependent verb marks the point at which the main clause begins; neither relator takes a closer.
 
 The same words can stand over a time phrase instead of a clause:
 
@@ -77,8 +77,8 @@ SIMUL parent lantern hold apprentice ON shelf search.
 Neither event is earlier and neither causes the other. Aspect is free on both verbs, and **si** on the framing verb adds that its event was already under way:
 
 ```
-whau pheralu si lepa lo mia mua keritha to manolu.
-SIMUL rain IPFV fall PL 1SG LOC workshop PST stay.
+whau pheralu to si lepa lo mia mua keritha to manolu.
+SIMUL rain PST IPFV fall PL 1SG LOC workshop PST stay.
 (While the rain was falling, we stayed in the workshop.)
 ```
 

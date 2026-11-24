@@ -84,6 +84,16 @@ rabbit joy PST feel.
 
 A cloth did not become sulae's because she exists. Across the shelf the cast's syllables keep working unannounced: the North Wind's traveler wraps their warm `wethalu` (garment) tighter, the velveteen rabbit's hind legs have a `siora` of their own, and the sutta keeps its gentle speech. The lexicon serves both masters without strain, because `ne`, and only `ne`, says which master is speaking. The same announcement serves any proper name the language needs to carry, a village as readily as a person; the mechanism does not care what kind of someone follows.
 
+### Describing the named
+
+A name takes a describer the way any noun does, in front. The describer stands before `ne`, and `ne` stays against the name:
+
+```
+thiku ne tupiwa to nulae.
+small NAME tupiwa PST sleep.
+(Little tupiwa slept.)
+```
+
 ### Drill: the width of one particle
 
 For each pair, say both meanings aloud, then name what the particle settled.

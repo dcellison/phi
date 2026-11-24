@@ -13,10 +13,10 @@
     "one another",
     "mutual action"
   ],
-  "description": "Reciprocal object pronoun 'wiso' says that members of a plural subject act upon one another. The subject may be a plural pronoun or a coordinated group, but a single participant cannot license the form. By contrast, 'miso' (REFL) returns an action to its actor.",
+  "description": "Reciprocal pronoun 'wiso' says that members of a plural subject act upon one another. The subject may be a plural pronoun or a coordinated group, but a single participant cannot license the form. By contrast, 'miso' (REFL) returns an action to its actor.",
   "articulatory_notes": "Voiced 'w' starts with rounded lips and a high rear tongue position. As the rounding releases, the tongue moves forward to 'i'; a narrow unvoiced 's' then leads into rounded true-mid 'o'. Stress belongs to 'wi'.",
   "sound_symbolism": "The opening syllable is also the complete word 'wi' (two), an audible kinship that makes a handy mnemonic for mutual action. The final 'so' keeps the form paired by sound with the reflexive.",
-  "usage_notes": "The reciprocal takes object position before the verb stack. It brings no plurality with it; 'lo' (PL) or coordination must already make the subject plural.",
+  "usage_notes": "The reciprocal takes object position before the verb stack. It also follows a preposition ('lue wiso', from each other) and stands as possessor before the whole phrase it owns ('wiso lo remo', each other's thoughts). It brings no plurality with it; 'lo' (PL) or coordination must already make the subject plural.",
   "examples": [
     {
       "phi": "lo mia wiso lothea.",
@@ -25,6 +25,10 @@
     {
       "phi": "mia nela thia wiso lothea.",
       "translation": "You and I love each other."
+    },
+    {
+      "phi": "lo miona wiso lo remo sheluo.",
+      "translation": "The people listen to each other's thoughts."
     }
   ],
   "pillars": {

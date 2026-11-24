@@ -22,6 +22,18 @@ The subject supplies person and number, so **miso** never changes:
 
 With a plural subject, **miso** returns the action to each acting member. Action among the members belongs instead to **wiso**.
 
+## Their own, and in front of themselves
+
+**miso** has two more places to stand. After a preposition it is the subject met again:
+
+**shia neo miso nila.** — They look in front of themselves.
+
+Before a noun it marks the thing as the subject's own:
+
+**shia miso womu to nila.** — They saw their own home.
+
+A plain **shia** in that place would point at someone else's home. Most of the time context already supplies the owner and nothing needs adding. **miso** is for the sentence where two people are in the room and the owner is the point.
+
 ## Sound family
 
 **miso** and **wiso** share final **so**, which makes the pair easy to recognize. The ending is an audible family mark, not a productive suffix and not the future particle hidden inside a pronoun. The closed-lip beginning of **miso** gives it a more inward whole-word contour, an aid to memory rather than part of its definition.

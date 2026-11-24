@@ -72,8 +72,10 @@ It also reports both. An advisory marks a sentence that parses and has a second 
 |---|---|---|
 | `PHL001` | An adjective stands directly before the Slot 1 stack of a verb other than `nai` or `kelu` | A manner or depictive word stands inside the stack, directly before the verb |
 | `PHL002` | A noun or pronoun stands between a clause-initial `mia`, `thia`, or `shia` (or `lo` with one of them) and a phrase opened by a preposition, `pheo`, or `phoe` | A direct object follows its adjuncts: S PP O V |
+| `PHL003` | A period stands before `sho` | The closer follows the last quoted word. This one has no second reading: every line is a fault awaiting repair |
+| `PHL004` | A prepositional phrase opens a clause that then names a pronoun or a name, or a `pheo` or `phoe` time phrase opens a sentence and a noun phrase follows | An adjunct that is not a clause follows an explicit subject |
 
-The checks stay quiet where the surface settles the reading. For `PHL001` that means a name atom, or an adjective marked as a noun phrase by a preposition, `lo`, a numeral, a quantifier, a classifier, or coordination with a noun. For `PHL002` it means a gapped relative clause, a compound subject, and a bare time phrase such as `nosa` or `wireo philo`, which is an adjunct like the phrase after it. The cost of the last exemption is that a time noun used as a real object before an adjunct passes unseen.
+The checks stay quiet where the surface settles the reading. For `PHL001` that means a name atom, or an adjective marked as a noun phrase by a preposition, `lo`, a numeral, a quantifier, a classifier, or coordination with a noun. For `PHL002` it means a gapped relative clause, a compound subject, and a bare time phrase such as `nosa` or `wireo philo`, which is an adjunct like the phrase after it. The cost of the last exemption is that a time noun used as a real object before an adjunct passes unseen. `PHL004` stays quiet when no subject follows the opening phrase (`mua womu therilu.`, `no wei mia shua.`), and it does not see a fronted place phrase whose subject is an ordinary noun. Unframed speech and an untensed dependent clause leave no mark the parser can find; both need a reader.
 
 ```bash
 python3 scripts/validate_sentences.py --sentence "shia pakiro to whano."

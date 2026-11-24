@@ -13,7 +13,7 @@
   ],
   "description": "A Slot 2 particle announcing that the next Phi token is a proper designation. The token may be a content word borne as a name or a productive onym with no dictionary entry. The marker changes how the listener receives the form; it assigns no meaning or kind to the bearer.",
   "articulatory_notes": "For 'n', the tongue rests against the upper teeth while voice resonates through the nose. The contact releases into the mid-front vowel 'e', all within one stressed syllable.",
-  "usage_notes": "The particle comes before any honorific and then the name atom. Published and machine-validated Phi keeps 'ne' at every mention; established conversation may omit it while the referent remains clear. A productive onym has two, three, or four legal Phi syllables, while a source name outside that shape remains outside the Phi passage unless its bearer accepts an adaptation.",
+  "usage_notes": "The particle comes before any honorific and then the name atom. A describer stands before the particle, as before any noun: 'thiku ne tupiwa' is little Tupiwa. Published and machine-validated Phi keeps 'ne' at every mention; established conversation may omit it while the referent remains clear. A productive onym has two, three, or four legal Phi syllables, while a source name outside that shape remains outside the Phi passage unless its bearer accepts an adaptation.",
   "examples": [
     {
       "phi": "ne sulae shua.",

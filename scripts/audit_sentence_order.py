@@ -2,9 +2,11 @@
 """List sentences that parse but may break canon's word order.
 
 The sentence parser accepts every sentence listed here. Each one also has a
-reading under which a manner word stands outside the Slot 1 block (PHL001) or
-a direct object stands before a prepositional phrase (PHL002). The parser has
-no verb valency, so it cannot choose between the readings; a person can.
+reading under which a manner word stands outside the Slot 1 block (PHL001), a direct
+object stands before a prepositional phrase (PHL002), or an adjunct stands
+before the subject (PHL004). The parser has no verb valency, so it cannot
+choose between the readings; a person can. PHL003 marks a period before sho,
+which is a fault with no second reading.
 
 The committed ledger records the candidates already seen. Continuous
 integration regenerates it and fails on any difference, so a new candidate
@@ -38,6 +40,12 @@ HEADER = """\
 #         prepositional phrase. As a direct object it belongs after the phrase
 #         (S PP O V). The order stands when pronoun and noun form one possessed
 #         subject.
+# PHL003  a period stands before sho. The closer follows the last quoted word.
+#         Every line with this code is a known fault awaiting repair.
+# PHL004  a prepositional phrase, or a pheo or phoe time phrase, opens a
+#         sentence and a noun phrase follows it. An adjunct that is not a
+#         clause follows an explicit subject. The order stands only when the
+#         following phrase is not the subject.
 #
 # Columns: code, flagged word, file, occurrences in that file, sentence.
 """

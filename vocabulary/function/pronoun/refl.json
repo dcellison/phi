@@ -12,10 +12,10 @@
     "oneself",
     "self-directed action"
   ],
-  "description": "The reflexive object pronoun 'miso' says that the subject acts upon itself. The subject supplies person and number, so one form covers every English self-pronoun. Its partner 'wiso' (RECP) carries action from one group member to another instead.",
+  "description": "The reflexive pronoun 'miso' points back to the subject. As an object it says that the subject acts upon itself; before a noun it marks the thing as the subject's own. The subject supplies person and number, so one form covers every English self-pronoun. Its partner 'wiso' (RECP) carries action from one group member to another instead.",
   "articulatory_notes": "Voiced 'm' resonates through the nose behind closed lips, which open into unrounded high 'i'. For 'so', the tongue makes a narrow alveolar groove before rounded lips form an 'o' at true-mid height. Stress rests on 'mi'.",
   "sound_symbolism": "Final 'so' is the audible family mark shared with the reciprocal. The hum behind closed lips gives 'miso' the more inward contour of the pair.",
-  "usage_notes": "In a clause, 'miso' takes the direct object's place ahead of any verb particles. It never supplies the subject. When the subject is plural, the action returns to each acting member; 'wiso' expresses action between members.",
+  "usage_notes": "In a clause, 'miso' takes the direct object's place ahead of any verb particles. It also follows a preposition ('neo miso', in front of oneself) and stands before a noun as possessor. It never supplies the subject. When the subject is plural, the action returns to each acting member; 'wiso' expresses action between members.",
   "examples": [
     {
       "phi": "mia miso nila.",
@@ -24,6 +24,10 @@
     {
       "phi": "lo mia miso nila.",
       "translation": "We see ourselves."
+    },
+    {
+      "phi": "shia miso womu to nila.",
+      "translation": "They saw their own home."
     }
   ]
 }
