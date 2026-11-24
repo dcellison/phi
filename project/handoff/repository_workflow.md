@@ -101,9 +101,13 @@ python3 scripts/test_sentence_validator.py
 python3 scripts/validate_sentences.py --sentence "thepalu thiku to nai." --show-tree
 python3 scripts/validate_sentences.py --paths texts/example.md
 python3 scripts/validate_sentences.py --docs
+python3 scripts/validate_sentences.py --paths texts/example.md --lint
+python3 scripts/audit_sentence_order.py --output documents/validation/sentence_order_baseline.txt
 ```
 
 The full active Markdown scan remains a migration command because the evaluation corpus predates the parser. As of D113, `--docs` parses 5,532 complete examples and reports two diagnostics in `documents/evaluation/narrative_test_corpus.md`: PHS103 at line 46 and PHS115 at line 212. Triage each as parser or corpus before editing it. The parser's boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
+
+`--lint` adds order advisories (`PHL001`, `PHL002`) for sentences that parse but may break canon's order under a second reading. `scripts/audit_sentence_order.py` writes them to `documents/validation/sentence_order_baseline.txt`, which CI compares. Regenerate that ledger after any change to Phi sentences and read each added line before committing it.
 
 ## Focused test suites
 
@@ -315,6 +319,7 @@ python3 scripts/test_content_vocabulary_decisions.py
 python3 scripts/test_name_forms.py
 python3 scripts/audit_phonetic_neighbors.py --output /tmp/phonetic_neighbors_baseline.txt
 diff -u documents/validation/phonetic_neighbors_baseline.txt /tmp/phonetic_neighbors_baseline.txt
+python3 scripts/audit_sentence_order.py --check
 python3 scripts/generate_reference.py
 python3 scripts/build_site.py
 git diff --check

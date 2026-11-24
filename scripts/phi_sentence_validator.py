@@ -81,6 +81,10 @@ NUMERAL_SCALES = {"rei": 4, "lau": 3, "phoi": 2, "shao": 1}
 
 PREDICATIVE_VERBS = frozenset({"nai", "kelu"})
 
+SUBJECT_PRONOUNS = frozenset({"mia", "thia", "shia"})
+ADVISORY_MANNER = "PHL001"
+ADVISORY_ADJUNCT_ORDER = "PHL002"
+
 
 @dataclass(frozen=True)
 class Token:
@@ -120,6 +124,7 @@ class ParseResult:
     tokens: list[Token]
     tree: SyntaxNode | None
     diagnostics: list[Diagnostic]
+    advisories: list[Diagnostic] = field(default_factory=list)
 
     @property
     def ok(self) -> bool:
@@ -133,6 +138,7 @@ class Lexeme:
     gloss: str
     slot: int | None = None
     slot1_rank: str | None = None
+    temporal: bool = False
 
 
 class Lexicon:
@@ -161,6 +167,11 @@ class Lexicon:
         self.interjections = self.by_pos.get("interjection", frozenset())
         self.interrogatives = self.by_pos.get("interrogative", frozenset())
         self.pronouns = self.by_pos.get("pronoun", frozenset())
+        self.temporal_nouns = frozenset(
+            word
+            for word, entry in self.entries.items()
+            if entry.pos == "noun" and entry.temporal
+        )
 
     @classmethod
     def load(cls, root: Path = VOCABULARY_ROOT) -> "Lexicon":
@@ -178,6 +189,7 @@ class Lexicon:
                     gloss=data.get("gloss", ""),
                     slot=data.get("slot"),
                     slot1_rank=data.get("slot1_rank"),
+                    temporal="temporal" in data.get("semantic_domains", {}),
                 )
             )
         return cls(entries)
@@ -224,7 +236,11 @@ class PhiParser:
         tree = None
         if not self.diagnostics:
             tree = self._parse_sequence(0, len(self.tokens), allow_fragments)
-        return ParseResult(text, self.tokens, tree, self._deduplicate(self.diagnostics))
+        diagnostics = self._deduplicate(self.diagnostics)
+        advisories = (
+            self._collect_advisories(tree) if tree is not None and not diagnostics else []
+        )
+        return ParseResult(text, self.tokens, tree, diagnostics, advisories)
 
     def _tokenize(self, text: str) -> list[Token]:
         return [
@@ -1361,6 +1377,153 @@ class PhiParser:
                     "before the predicate stack",
                     index,
                 )
+
+    def _collect_advisories(self, tree: SyntaxNode) -> list[Diagnostic]:
+        """Review points on an accepted parse.
+
+        A sentence with an advisory is grammatical under at least one reading.
+        The parser has no verb valency, so it cannot tell a quality noun used
+        as an object from a manner word, or a possessed subject from a subject
+        followed by its object. Each advisory names the reading that would
+        break canon's order and leaves the judgement to a person.
+        """
+        found: list[Diagnostic] = []
+
+        def visit(node: SyntaxNode, gapped: bool) -> None:
+            if node.kind == "core-clause":
+                found.extend(self._advise_core_clause(node, gapped))
+                for child in node.children:
+                    visit(child, False)
+                return
+            inside_relative = gapped or node.kind == "relative-phrase"
+            for child in node.children:
+                visit(child, inside_relative)
+
+        visit(tree, False)
+        return self._deduplicate(sorted(found, key=lambda item: item.token_index))
+
+    def _advise_core_clause(self, node: SyntaxNode, gapped: bool) -> list[Diagnostic]:
+        start, end = node.start, node.end
+        predicate_index = end - 1
+        if self._word(predicate_index) in PREDICATIVE_VERBS:
+            return []
+        nested = self._nested_mask(start, end)
+        for child in node.children:
+            if child.kind == "relative-phrase" and child.children:
+                nested.update(range(child.start + 1, child.children[0].end))
+        top_level = [
+            index
+            for index in range(start, predicate_index)
+            if index not in nested and self._word(index) != "."
+        ]
+        slot1_indices = [
+            index for index in top_level if self._word(index) in self.lexicon.slot1_words
+        ]
+        boundary = slot1_indices[0] if slot1_indices else predicate_index
+        advisories = []
+        if slot1_indices:
+            manner = self._advise_manner(start, boundary, nested)
+            if manner is not None:
+                advisories.append(manner)
+        if not gapped:
+            order = self._advise_adjunct_order(
+                start, [index for index in top_level if index < boundary]
+            )
+            if order is not None:
+                advisories.append(order)
+        return advisories
+
+    def _advise_manner(
+        self, start: int, stack_start: int, nested: set[int]
+    ) -> Diagnostic | None:
+        """Flag an adjective that stands directly before the Slot 1 stack."""
+        index = stack_start - 1
+        if index < start or index in nested or index in self.name_atoms:
+            return None
+        word = self._word(index)
+        if self.lexicon.pos(word) != "adjective":
+            return None
+
+        # A word that marks a noun phrase settles the reading: the adjective is
+        # a quality noun, so there is nothing to review.
+        marker_index = index - 1
+        while (
+            marker_index >= start
+            and self._word(marker_index) in SLOT2_DEGREE | SLOT2_FOCUS
+        ):
+            marker_index -= 1
+        if marker_index >= start and marker_index not in nested:
+            marker = self._word(marker_index)
+            if (
+                marker in self.lexicon.prepositions
+                or marker in self.lexicon.quantifiers
+                or marker in self.lexicon.classifiers
+                or marker == "lo"
+                or self.lexicon.pos(marker) == "numeral"
+            ):
+                return None
+            if (
+                marker in COORDINATORS
+                and marker_index > start
+                and self.lexicon.pos(self._word(marker_index - 1)) == "noun"
+            ):
+                return None
+        return Diagnostic(
+            ADVISORY_MANNER,
+            f"adjective '{word}' stands directly before the Slot 1 stack; a manner or "
+            "depictive word belongs inside it, directly before the verb. The order "
+            f"stands only if '{word}' is a quality noun serving as the verb's object",
+            index,
+        )
+
+    def _advise_adjunct_order(
+        self, start: int, before: Sequence[int]
+    ) -> Diagnostic | None:
+        """Flag a noun between a clause-initial subject pronoun and an adjunct."""
+        if not before or before[0] != start:
+            return None
+        words = [self._word(index) for index in before]
+        if words[0] in SUBJECT_PRONOUNS:
+            subject_end = 1
+        elif len(words) > 1 and words[0] == "lo" and words[1] in SUBJECT_PRONOUNS:
+            subject_end = 2
+        else:
+            return None
+        adjunct = next(
+            (
+                position
+                for position in range(subject_end, len(words))
+                if words[position] in self.lexicon.prepositions
+                or words[position] in TEMPORAL_NP_RELATORS
+            ),
+            None,
+        )
+        if adjunct is None or adjunct == subject_end:
+            return None
+        if words[subject_end] in COORDINATORS:
+            return None
+        nominal = [
+            index
+            for index in before[subject_end:adjunct]
+            if index in self.name_atoms
+            or self.lexicon.pos(self._word(index))
+            in {"noun", "verb", "adjective", "pronoun"}
+        ]
+        if not nominal:
+            return None
+        index = nominal[-1]
+        if self._word(index) in self.lexicon.temporal_nouns:
+            # A bare time phrase is an adjunct too, not an object out of place.
+            return None
+        subject = " ".join(words[:subject_end])
+        return Diagnostic(
+            ADVISORY_ADJUNCT_ORDER,
+            f"'{self._word(index)}' stands between subject '{subject}' and the phrase "
+            f"opened by '{words[adjunct]}'; a direct object follows its adjuncts "
+            "(S PP O V). The order stands only if the words before the phrase form "
+            "one possessed subject",
+            index,
+        )
 
     def _is_licensed_fragment(self, start: int, end: int) -> bool:
         words = self._words(start, end)
