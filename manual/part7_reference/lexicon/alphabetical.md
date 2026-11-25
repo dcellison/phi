@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1320 words.*
+*1321 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -377,6 +377,7 @@
 | `mio` | mmhm | /ˈmi.o̞/ | interjection |
 | `miona` | person | /mi.ˈo̞.n̪ä/ | noun |
 | `mioru` | beautiful | /mi.ˈo̞.ru/ | adjective |
+| `mipi` | baby | /ˈmi.pi/ | noun |
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
 | `mirela` | state | /mi.ˈre̞.lä/ | noun |

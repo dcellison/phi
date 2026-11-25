@@ -113,6 +113,8 @@ D138 coins `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposit
 
 The primer, the pamphlets, and the Short Road do not teach these six words either.
 
+D139 coins `mipi` (baby) and records how nine other words for people and places are already said. No source line says baby or infant, so the word leaves no text line behind. The texts already render the other nine by the recorded devices; a confirming read of `news_from_nowhere/chapter_04` 51 and `chapter_06` 7 (crowd) is all that is owed. The teaching documents do not teach `mipi`.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.

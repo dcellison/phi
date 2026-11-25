@@ -1169,6 +1169,22 @@
         "CV-ORD-27",
         "CV-ORD-28"
       ]
+    },
+    {
+      "id": "ordinary-words-third-set",
+      "heading": "Ordinary words, third set",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ORD-29",
+        "CV-ORD-30",
+        "CV-ORD-31",
+        "CV-ORD-32",
+        "CV-ORD-33",
+        "CV-ORD-34",
+        "CV-ORD-35",
+        "CV-ORD-36"
+      ]
     }
   ],
   "candidates": [
@@ -6310,7 +6326,7 @@
       "concept": "the remaining ordinary words listed by the November 2026 assessment",
       "status": "deferred",
       "placement": "base vocabulary, each to be decided as covered, composed, coined, or refused",
-      "summary": "Not yet examined one by one: baby, owner, doctor, leader, city, town, school, world, crowd, group; map, list, line, hole, half, corner, gate, ladder, fence, stairs, ore; bend, bury, destroy, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, ugly, blind, deaf; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first two sets showed that most such items are covered and lack only a search term or a line of usage, so the list is a set of questions and not a set of coinages.",
+      "summary": "Not yet examined one by one: map, list, line, hole, half, corner, gate, ladder, fence, stairs, ore; bend, bury, destroy, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, ugly, blind, deaf; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first three sets showed that most such items are covered and lack only a search term or a line of usage, so the list is a set of questions and not a set of coinages.",
       "revisit_when": "The maintainer commissions the next ordinary-vocabulary set for assessment recommendation 22.",
       "batches": [
         "ordinary-words-first-set"
@@ -6555,6 +6571,125 @@
       ],
       "batches": [
         "ordinary-words-second-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-29",
+      "concept": "baby, infant, and newborn",
+      "status": "implemented",
+      "placement": "base family vocabulary",
+      "summary": "The lexicon had `lopia` (child), `phomila` (offspring), and `limu` (young), and no entry mentioned an infant. Noun `mipi` is a child in the first stretch of life, still carried and fed and not yet walking or talking. It is kept for people; a young animal takes `limu`. `newu mipi` is a newborn.",
+      "implementation": {
+        "words": [
+          "mipi"
+        ],
+        "files": [
+          "vocabulary/content/baby.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-30",
+      "concept": "owner and own",
+      "status": "compositional",
+      "placement": "base `phelu` and `woru`; module `phenori`",
+      "summary": "Canon's gift economy speaks of holding and keeping, and context supplies a possessor. An owner is whoever has the thing in their keeping, said with a relative clause over `phelu`, and a keeper who claims no ownership is `woru`. The socially defined property relation is module `phenori`, which the Gibran translations already use for possessions.",
+      "expressions": [
+        "whu ku ha lohau phelu miona",
+        "sua ha kiru phelu",
+        "thepalu woru"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-31",
+      "concept": "doctor and healer",
+      "status": "compositional",
+      "placement": "base `theala` in a relative clause",
+      "summary": "The maintainer ruled on 2026-11-25 that `CV-MED-09` stands: care roles are composed and no base noun for a healer is coined. A doctor is the person who heals, as The Velveteen Rabbit already writes it. Doctor and healer become search terms on `theala`.",
+      "expressions": [
+        "whu theala miona",
+        "whu theala miona to shua"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-32",
+      "concept": "leader",
+      "status": "compositional",
+      "placement": "base `kulo`; module `karami` and `thorae`",
+      "summary": "Canon refuses the vocabulary of rule and rejects `kulo` as a softened word for dominion, so English leader divides. One who shows the way is `whu kulo miona`. One who holds power to decide is described with module `karami`, as the Tao Te Ching translation does for rulers, and one who tends a group's process is module `thorae`.",
+      "expressions": [
+        "whu kulo miona",
+        "whu punoa karami phelu miona"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-33",
+      "concept": "city and town",
+      "status": "compositional",
+      "placement": "base `silawo` with `whalo`",
+      "summary": "Already decided under `CV-SETTLE-01`: `whalo silawo` gives scale where English says town or city, and the texts use it for Babel and for the holy city. The gap was a missing search term on `silawo`.",
+      "expressions": [
+        "whalo silawo",
+        "lo shia mua whalo silawo menui"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-34",
+      "concept": "school",
+      "status": "compositional",
+      "placement": "base `shonela` with `lokue`",
+      "summary": "A place is described by what happens in it, so a school is a place of learning. The *News from Nowhere* lines keep `shonela sholei` where Morris plays on a school of herring and a school of children, and `thumela lokue` for the schools the narrator remembers.",
+      "expressions": [
+        "shonela lokue",
+        "lo lopia mua shonela lokue nai"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-35",
+      "concept": "world",
+      "status": "compositional",
+      "placement": "base `muila` with `theula`",
+      "summary": "The entry for `muila` already widens earth to the Earth as a whole, and most of the sixteen source lines with world are rendered with it. The whole world is `theula muila`, the planet as a named body is `ne muila`, and `nowari` stays any planet. The gap was a missing search term.",
+      "expressions": [
+        "theula muila",
+        "shia theula muila nila rinu",
+        "mo welao muila"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-36",
+      "concept": "crowd and group",
+      "status": "compositional",
+      "placement": "base `sholei` in noun position",
+      "summary": "The event noun of `sholei` is a gathering, which serves for a group of people or things, and a large one is a crowd. The texts already write `sheloi miona sholei` for many groups. A group held together by shared life is `sila`.",
+      "expressions": [
+        "miona sholei",
+        "whalo miona sholei",
+        "ta miona sholei mua ruela to hasi"
+      ],
+      "batches": [
+        "ordinary-words-third-set"
       ]
     }
   ],

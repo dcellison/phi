@@ -54,6 +54,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Small words and clause relations | **DONE** | Base `ture` gives again and additive another. Still, not yet, already, even, at once, and soon are registered compounds over existing words; no longer, instead, except, and the clause relations from when to whether-or-not compose with existing grammar, with `tei` licensed over a clause. Other and else were then settled by `tasa` under `CV-SMALL-07`. |
 | Ordinary words, first set | **DONE** | Base `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki` (warn), and `soaru` (apologize) fill six gaps; promise, allow and forbid, suffer, part, lend and borrow, witness and testify, and show, seem, and decide were already sayable and gain search terms. The rest of the assessment's list waits under `CV-ORD-13`. |
 | Ordinary words, second set | **DONE** | Base `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposite), `hatura` (urgent), and `sekuna` (accuse, which also carries blame) fill six gaps; remind, important, similar, false, early and late, expect, guess, succeed, and survive were already sayable and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
+| Ordinary words, third set | **DONE** | Base `mipi` (baby) fills the one gap among the people and places; owner, doctor, leader, city and town, school, world, and crowd and group were already sayable and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1956,6 +1957,23 @@ The second set takes the abstract, everyday, and social words that remained on t
 
 The batch adds six base roots and search terms or a line of usage on seventeen existing entries. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
 
+## Ordinary words, third set
+
+The third set takes the people and places on the November 2026 assessment's list: baby, owner, doctor, leader, city, town, school, world, crowd, and group. Each was checked the same three ways as before. One was a real gap. The others were already sayable, two of them under earlier decisions, and several of them because canon had already chosen how Phi sees the thing. The maintainer approved the form `mipi` on 2026-11-25 and ruled that doctor stays composed.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| A child in the first stretch of life | new base `mipi` and `CV-ORD-29` | **IMPLEMENTED** | No gloss, search term, or description mentioned an infant. `lopia` is childhood, `phomila` is descent, and `limu` is the wider quality. The word is kept for people. |
+| Owner, own | `phelu` in a relative clause, `woru`, and module `phenori`, under `CV-ORD-30` | **COMPOSITIONAL** | Canon's gift economy speaks of holding and keeping. The Gibran translations already render possessions and belonging with `phenori` and `phelu`. |
+| Doctor, healer | `whu theala miona`, under `CV-ORD-31` | **COMPOSITIONAL** | `CV-MED-09` composed care roles, and the maintainer ruled that it stands. The Velveteen Rabbit already writes the doctor this way. |
+| Leader | `whu kulo miona`, module `karami`, and module `thorae`, under `CV-ORD-32` | **COMPOSITIONAL** | Canon refuses the vocabulary of rule. One who shows the way and one who holds power to decide are said differently, as the Tao Te Ching translation already does for rulers. |
+| City, town | `whalo silawo`, under `CV-ORD-33` | **COMPOSITIONAL** | Decided earlier under `CV-SETTLE-01` and used in the Babel text. A search term was missing. |
+| School | `shonela lokue`, under `CV-ORD-34` | **COMPOSITIONAL** | A place is described by what happens there. The Morris lines keep `shonela sholei` for the play on a school of herring. |
+| World | `muila` and `theula muila`, under `CV-ORD-35` | **COMPOSITIONAL** | The entry for `muila` already reaches the Earth as a whole, and most of the sixteen source lines with world use it. A search term was missing. |
+| Crowd, group | `sholei` in noun position, under `CV-ORD-36` | **COMPOSITIONAL** | A gathering is a group, and a large one is a crowd. The texts already write `sheloi miona sholei` for many groups. |
+
+The batch adds one base root and search terms or a line of usage on eight existing entries. It changes no text, and no source line says baby or infant.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -2047,4 +2065,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 88 implemented decisions and 147 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,320 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 89 implemented decisions and 154 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,321 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

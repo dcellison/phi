@@ -1,0 +1,40 @@
+{
+  "word": "mipi",
+  "gloss": "baby",
+  "ipa": "/ˈmi.pi/",
+  "syllables": [
+    "mi",
+    "pi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "infant",
+    "newborn"
+  ],
+  "description": "A 'mipi' is still carried and fed by others and does not yet walk or talk: a child in the first stretch of life. The word marks that stage as 'lopia' (child) marks childhood, and 'phomila' (offspring) is the word for whose baby it is. Once the child is up and answering back, 'lopia' takes over.",
+  "articulatory_notes": "The lips close for 'm' while the voice hums through the nose, then open on high front 'i', which takes the stress. They close again for voiceless 'p' and release into the same vowel, unstressed.",
+  "sound_symbolism": "Both consonants are made at the lips, where a baby's own first syllables tend to come from, so 'mipi' is a word a baby might nearly say.",
+  "usage_notes": "'newu mipi' is a newborn. The word is for people; a young animal takes 'limu' (young) before its name, as in 'limu lohau'.",
+  "examples": [
+    {
+      "phi": "mipi nulae.",
+      "translation": "The baby is asleep."
+    },
+    {
+      "phi": "phao ku mipi kolua.",
+      "translation": "The parent carries the baby."
+    },
+    {
+      "phi": "ha mipi tei nosa ma thalo.",
+      "translation": "This baby does not walk yet."
+    },
+    {
+      "phi": "mua lo mia womu newu mipi nai.",
+      "translation": "There is a newborn in our home."
+    }
+  ],
+  "semantic_domains": {
+    "community": "the youngest person in a family or household, in everyone's care",
+    "temporal": "the first span of a person's life, before walking and speech"
+  }
+}
