@@ -649,6 +649,13 @@ class SentenceParserTest(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertInvalid(text, code)
 
+    def test_an_object_on_an_intransitive_verb_is_advised(self):
+        self.assertAdvisories("mia ku lopia nulae.", [("PHL006", "ku")])
+        self.assertAdvisories("lopia to se nulae.", [("PHL006", "se")])
+        self.assertAdvisories("mia ku lopia ka nulae.", [])
+        self.assertAdvisories("mia ku lopia nila.", [])
+        self.assertAdvisories("wolea to se thape.", [])
+
     def test_a_marked_object_is_not_a_manner_candidate(self):
         self.assertAdvisories("shia welao to thumela.", [("PHL001", "welao")])
         self.assertAdvisories("shia ku welao to thumela.", [])

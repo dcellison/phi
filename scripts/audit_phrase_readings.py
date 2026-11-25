@@ -9,8 +9,9 @@ and measured three ways.
   end. The conservative count lets only nouns, pronouns, and names end a
   phrase freely; the full count also lets an event or quality noun head a
   phrase with modifiers of its own.
-* **Open roles** (``phi_roles``): clauses whose one bare phrase may be
-  subject or object, because the verb takes an object elsewhere.
+* **Open roles** (``phi_roles``): clauses with one bare phrase before a verb
+  entered as transitive. Canon reads the phrase as the subject in a main or
+  dependent clause; in a relative clause the head may be either.
 * **Third persons** (``phi_roles``): uses of ``shia``, and unsaid subjects,
   while two or more third persons are live in the text, and uses of ``hia``.
 
@@ -38,6 +39,7 @@ from phi_roles import (
     object_taking_verbs,
     open_role,
     settled,
+    transitive_verbs,
 )
 from phi_sentence_validator import Lexicon, PROJECT_ROOT
 import validate_sentences
@@ -74,7 +76,8 @@ LEDGER_HEADER = """\
 # divided     sentences with more than one division into phrases, counting
 #             only nouns, pronouns, and names as free phrase ends
 # full        the same, also letting an event or quality noun head a phrase
-# roles       clauses whose one bare phrase may be subject or object
+# roles       clauses with one bare phrase before a transitive verb; by
+#             canon the phrase is the subject, and a lone object takes ku
 # relroles    relative clauses whose head may be subject or object
 # shia        uses of shia
 # contested   uses of shia while two or more third persons are live
@@ -139,6 +142,7 @@ def collect(openers: frozenset[str] = frozenset()) -> tuple[list[Row], Counter[s
             rows.append(Row(path, part))
 
     verbs = object_taking_verbs(row.sentence for row in rows)
+    role_verbs = transitive_verbs(lexicon)
     tracker = ReferenceTracker()
     current = None
     for row in rows:
@@ -147,7 +151,7 @@ def collect(openers: frozenset[str] = frozenset()) -> tuple[list[Row], Counter[s
         # the clause structure is settled.
         if settled(row.sentence):
             for clause in row.sentence.clauses:
-                kind = open_role(clause, verbs)
+                kind = open_role(clause, role_verbs)
                 if kind:
                     row.roles.append(kind)
                     row.role_verbs.append(clause.verb)
@@ -160,6 +164,29 @@ def collect(openers: frozenset[str] = frozenset()) -> tuple[list[Row], Counter[s
             current = row.path
         row.reference = tracker.observe(row.sentence)
     return rows, verbs
+
+
+def valency_line(witnessed: Counter[str]) -> str:
+    """Set the entries' valency beside what the corpus shows."""
+    lexicon = Lexicon.load()
+    counts = Counter(
+        entry.valency for entry in lexicon.entries.values() if entry.pos == "verb"
+    )
+    strays = sorted(
+        verb for verb in witnessed if lexicon.valency(verb) == "intransitive"
+    )
+    line = (
+        f"Verbs entered as transitive: {counts['transitive']}; intransitive: "
+        f"{counts['intransitive']}; both: {counts['both']}; complement: "
+        f"{counts['complement']}. Verbs the corpus shows with an object: {len(witnessed)}."
+    )
+    if strays:
+        line += (
+            " Entered as intransitive but shown with an object: "
+            + ", ".join(f"`{verb}` ({witnessed[verb]})" for verb in strays)
+            + "."
+        )
+    return line
 
 
 def percent(part: int, whole: int) -> str:
@@ -258,9 +285,9 @@ def render_report(rows: list[Row], verbs: Counter[str], top: int) -> str:
         "",
         "## Open roles",
         "",
-        f"Verbs the corpus shows with an object: {len(verbs)}.",
+        valency_line(verbs),
         "",
-        "| Corpus | Clauses | One bare phrase, subject or object | "
+        "| Corpus | Clauses | One bare phrase before a transitive verb | "
         "Of which not `mia` or `thia` | Relative clauses, head subject or object | "
         "Sentences with either |",
         "|---|---:|---:|---:|---:|---:|",
@@ -283,7 +310,7 @@ def render_report(rows: list[Row], verbs: Counter[str], top: int) -> str:
         )
     lines += [
         "",
-        "Verbs most often found with an open role: "
+        "Verbs most often found with a lone phrase: "
         + ", ".join(f"`{verb}` ({count})" for verb, count in role_verbs.most_common(15))
         + ".",
     ]

@@ -1015,375 +1015,377 @@
 
 ## verb (367)
 
-| Word | Gloss |
-|---|---|
-| `halemu` | remember |
-| `haolu` | speak |
-| `haromi` | meet |
-| `hasi` | wait |
-| `hea` | hear |
-| `hekawi` | find |
-| `helaki` | amend |
-| `helanu` | recover |
-| `helolu` | redress |
-| `helui` | change |
-| `heno` | satisfy |
-| `hewe` | wipe |
-| `hinawu` | accommodate |
-| `hinolu` | adapt |
-| `hiru` | intuit |
-| `hola` | laugh |
-| `howela` | receive |
-| `kaeli` | like |
-| `kalei` | climb |
-| `kamo` | arrive |
-| `kanelu` | err |
-| `kanu` | choose |
-| `kanuwa` | authorize |
-| `kapura` | shout |
-| `kasira` | vote |
-| `kati` | cut |
-| `kawepa` | catch |
-| `kawhera` | coerce |
-| `kealo` | create |
-| `kehota` | cough |
-| `kela` | rejoice |
-| `kelai` | equals |
-| `kelitho` | function |
-| `kelomi` | accept |
-| `kelu` | become |
-| `keluro` | honor |
-| `kesiri` | shrink |
-| `kethira` | infer |
-| `ketora` | control |
-| `ketumi` | hiccup |
-| `kire` | shape |
-| `kirothe` | define |
-| `kisome` | assess |
-| `kithawu` | triage |
-| `kithero` | diagnose |
-| `kiwate` | bite |
-| `koema` | enter |
-| `kolua` | carry |
-| `koluma` | unite |
-| `korei` | fulfill |
-| `kulo` | guide |
-| `kuneshi` | kneel |
-| `kupe` | hide |
-| `kuremi` | grind |
-| `kureno` | wither |
-| `laniru` | journey |
-| `lei` | harmony |
-| `leiro` | release |
-| `lepa` | fall |
-| `lesawi` | consent |
-| `lilea` | clarify |
-| `liona` | live |
-| `lisaku` | lick |
-| `loa` | give |
-| `loatho` | delegate |
-| `lomare` | embrace |
-| `lonae` | respond |
-| `lorea` | connect |
-| `lorima` | build |
-| `lothea` | love |
-| `lumeo` | die |
-| `lumera` | nourish |
-| `lupaki` | fold |
-| `lupho` | float |
-| `makelu` | abstain |
-| `malomi` | balance |
-| `manawi` | compromise |
-| `manolu` | stay |
-| `masue` | measure |
-| `masuro` | calibrate |
-| `meilo` | sit |
-| `meliho` | sing |
-| `meloa` | persevere |
-| `menai` | dedicate |
-| `menui` | dwell |
-| `meropi` | cherish |
-| `mesatu` | try |
-| `milau` | drink |
-| `miratu` | recognize |
-| `misharo` | consult |
-| `mishoa` | express |
-| `molawi` | cooperate |
-| `molei` | evolve |
-| `moluki` | transform |
-| `mophiku` | shear |
-| `morae` | sense |
-| `morashi` | relapse |
-| `moreko` | articulate |
-| `morume` | decompose |
-| `muholi` | dig |
-| `mukesi` | spoil |
-| `mupelo` | vomit |
-| `muraki` | harvest |
-| `murase` | swell |
-| `nai` | be |
-| `napako` | bake |
-| `naphe` | help |
-| `nashaku` | enforce |
-| `nathelo` | lean |
-| `natheri` | entail |
-| `natu` | pull |
-| `nawea` | respect |
-| `naweri` | refuse |
-| `nawo` | agree |
-| `nelore` | preserve |
-| `nelu` | revere |
-| `nephoru` | treat |
-| `nila` | see |
-| `nilaki` | inspect |
-| `nishoku` | sneeze |
-| `nohero` | believe |
-| `nolami` | bond |
-| `noluha` | swallow |
-| `nomela` | encourage |
-| `nomira` | collect |
-| `noporu` | design |
-| `norelu` | form |
-| `nosheku` | retract |
-| `nowae` | awaken |
-| `nuhemi` | grieve |
-| `nuhewa` | weep |
-| `nulae` | sleep |
-| `numea` | nestle |
-| `numelo` | nurture |
-| `numike` | negotiate |
-| `nuola` | eat |
-| `nurima` | wander |
-| `palo` | touch |
-| `panoru` | support |
-| `parelu` | deserve |
-| `pashenu` | petition |
-| `pawela` | participate |
-| `peki` | squeeze |
-| `perawi` | expose |
-| `pesa` | push |
-| `pesenu` | pollute |
-| `peshu` | lie |
-| `phae` | open |
-| `phaelo` | feel |
-| `phaluwe` | flood |
-| `phamo` | console |
-| `phanoi` | portion |
-| `phanuli` | allocate |
-| `pharelo` | cook |
-| `pharomu` | exclude |
-| `pharuki` | celebrate |
-| `pharune` | include |
-| `pheloma` | serve |
-| `phelona` | require |
-| `phelu` | hold |
-| `phelure` | store |
-| `phemiru` | visit |
-| `pherami` | depend |
-| `pheru` | endure |
-| `phesari` | flee |
-| `phesua` | inspire |
-| `phiketu` | contradict |
-| `phimela` | kiss |
-| `phiremo` | relate |
-| `phirena` | meditate |
-| `phoa` | do |
-| `pholeni` | depart |
-| `phowe` | share |
-| `phurewa` | sweep |
-| `phuro` | renew |
-| `pilewa` | make |
-| `pilora` | exploit |
-| `pilu` | take |
-| `pina` | sew |
-| `pisha` | split |
-| `pothu` | stink |
-| `pukate` | break |
-| `pukeri` | damage |
-| `pula` | wish |
-| `pumari` | suck |
-| `pumeli` | knead |
-| `puse` | spit |
-| `pushali` | overload |
-| `rashelo` | run |
-| `rato` | turn |
-| `remo` | think |
-| `renoa` | liberate |
-| `reo` | meaning |
-| `repora` | propose |
-| `rihe` | rise |
-| `rilowa` | assign |
-| `rinu` | want |
-| `riola` | labor |
-| `rohemi` | wear down |
-| `rohi` | rub |
-| `roke` | move |
-| `romishe` | contemplate |
-| `rotiku` | dance |
-| `ruemi` | lie down |
-| `ruloi` | flourish |
-| `rumeka` | belch |
-| `runaki` | wayfind |
-| `ruweli` | access |
-| `sahu` | forget |
-| `sano` | know |
-| `sawa` | wash |
-| `sekaru` | transfer |
-| `selomi` | weave |
-| `selu` | flow |
-| `seluto` | pour |
-| `seniku` | smile |
-| `sepho` | send |
-| `sephori` | supply |
-| `seru` | commit |
-| `sethoni` | handoff |
-| `sewaro` | transmit |
-| `shalori` | represent |
-| `shane` | tell |
-| `shanewi` | notify |
-| `sharemi` | persuade |
-| `shareo` | discuss |
-| `sharoi` | exceed |
-| `shaweri` | advocate |
-| `shelo` | signify |
-| `sheloa` | bloom |
-| `shelomu` | understand |
-| `sheluo` | listen |
-| `shemoli` | harmonize |
-| `shemui` | utter |
-| `sheori` | communicate |
-| `sheraki` | search |
-| `sherewa` | claim |
-| `shimalo` | discipline |
-| `shireku` | sift |
-| `shiroka` | repair |
-| `shiwolu` | integrate |
-| `sholei` | gather |
-| `shonela` | learn |
-| `shorai` | commune |
-| `shoraku` | interpret |
-| `shorema` | contribute |
-| `shorupo` | protect |
-| `shua` | come |
-| `shuneki` | vaccinate |
-| `sikanu` | certify |
-| `sirami` | record |
-| `sirelu` | disclose |
-| `sitheku` | transcribe |
-| `soki` | settle |
-| `solae` | explain |
-| `soliru` | hope |
-| `somaki` | test |
-| `somela` | observe |
-| `someru` | supervise |
-| `somethi` | monitor |
-| `sonari` | isolate |
-| `sone` | value |
-| `soranu` | screen |
-| `sorila` | cultivate |
-| `soweri` | reach |
-| `sunoe` | regenerate |
-| `talome` | restore |
-| `tapu` | close |
-| `tawemi` | cover |
-| `tawi` | count |
-| `temoe` | tend |
-| `teru` | process |
-| `teshori` | quarantine |
-| `thalo` | walk |
-| `thape` | burn |
-| `thapori` | thresh |
-| `theala` | heal |
-| `theama` | care |
-| `thekamu` | intervene |
-| `thekao` | acknowledge |
-| `thekasi` | caption |
-| `thekiro` | write |
-| `theko` | craft |
-| `thelima` | describe |
-| `thelu` | dialogue |
-| `themio` | reflect |
-| `themui` | faith |
-| `thenoi` | falls-short |
-| `thenoki` | sustain |
-| `theo` | read |
-| `theomi` | trust |
-| `theonu` | attend |
-| `therapi` | boil |
-| `therilu` | rest |
-| `thilonu` | prepare |
-| `thilou` | inquire |
-| `thinu` | put |
-| `thiranu` | maintain |
-| `thiru` | exit |
-| `thiwera` | scatter |
-| `thola` | bring |
-| `thole` | practice |
-| `tholira` | forgive |
-| `thonuki` | fail |
-| `thophe` | sow |
-| `thorai` | bless |
-| `thorelu` | converse |
-| `thorima` | taste |
-| `thowia` | born |
-| `thueli` | intend |
-| `thuleni` | comfort |
-| `thumela` | teach |
-| `thunaro` | train |
-| `thuo` | prosper |
-| `thuroa` | grow |
-| `thusemi` | point |
-| `tiripe` | quiver |
-| `tisharu` | puncture |
-| `tiwa` | tie |
-| `tukelu` | recycle |
-| `tukiro` | review |
-| `tupi` | jump |
-| `turema` | return |
-| `wakomi` | surprise |
-| `wapho` | throw |
-| `wapi` | fly |
-| `warosha` | reconcile |
-| `welira` | thrive |
-| `welotu` | mix |
-| `welura` | spread |
-| `wema` | belong |
-| `weni` | imagine |
-| `wenola` | collaborate |
-| `wenuha` | wear |
-| `wephari` | coordinate |
-| `wepu` | go |
-| `wepuri` | progress |
-| `wesaki` | lose |
-| `weshapi` | decorate |
-| `wesho` | locate |
-| `whakeru` | object |
-| `whaline` | thank |
-| `whamoi` | doubt |
-| `whano` | stand |
-| `whekate` | refute |
-| `whelani` | welcome |
-| `whemura` | dream |
-| `wheparu` | discriminate |
-| `whepelo` | retaliate |
-| `wheraku` | erode |
-| `whesu` | blow |
-| `whetuma` | appeal |
-| `whinu` | smell |
-| `whishela` | whisper |
-| `whola` | invite |
-| `whori` | mend |
-| `whunei` | breathe |
-| `wilanu` | dissolve |
-| `wilao` | long-for |
-| `wile` | play |
-| `winora` | plan |
-| `wiresu` | postpone |
-| `wishe` | swim |
-| `wisola` | exchange |
-| `woraka` | appreciate |
-| `wosanu` | absorb |
-| `wurashi` | crave |
+*The last column says what each verb takes. A verb marked either way lets the thing affected stand alone as its subject or be the object of whoever acts on it.*
+
+| Word | Gloss | Takes |
+|---|---|---|
+| `halemu` | remember | a subject and an object |
+| `haolu` | speak | a subject and an object |
+| `haromi` | meet | a subject and an object |
+| `hasi` | wait | a subject |
+| `hea` | hear | a subject and an object |
+| `hekawi` | find | a subject and an object |
+| `helaki` | amend | a subject and an object |
+| `helanu` | recover | a subject |
+| `helolu` | redress | a subject and an object |
+| `helui` | change | either way |
+| `heno` | satisfy | a subject and an object |
+| `hewe` | wipe | a subject and an object |
+| `hinawu` | accommodate | a subject and an object |
+| `hinolu` | adapt | either way |
+| `hiru` | intuit | a subject and an object |
+| `hola` | laugh | a subject |
+| `howela` | receive | a subject and an object |
+| `kaeli` | like | a subject and an object |
+| `kalei` | climb | a subject and an object |
+| `kamo` | arrive | a subject |
+| `kanelu` | err | a subject |
+| `kanu` | choose | a subject and an object |
+| `kanuwa` | authorize | a subject and an object |
+| `kapura` | shout | a subject and an object |
+| `kasira` | vote | a subject and an object |
+| `kati` | cut | a subject and an object |
+| `kawepa` | catch | a subject and an object |
+| `kawhera` | coerce | a subject and an object |
+| `kealo` | create | a subject and an object |
+| `kehota` | cough | a subject |
+| `kela` | rejoice | a subject |
+| `kelai` | equals | a subject |
+| `kelitho` | function | a subject |
+| `kelomi` | accept | a subject and an object |
+| `kelu` | become | a complement |
+| `keluro` | honor | a subject and an object |
+| `kesiri` | shrink | a subject |
+| `kethira` | infer | a subject and an object |
+| `ketora` | control | a subject and an object |
+| `ketumi` | hiccup | a subject |
+| `kire` | shape | a subject and an object |
+| `kirothe` | define | a subject and an object |
+| `kisome` | assess | a subject and an object |
+| `kithawu` | triage | a subject and an object |
+| `kithero` | diagnose | a subject and an object |
+| `kiwate` | bite | a subject and an object |
+| `koema` | enter | a subject |
+| `kolua` | carry | a subject and an object |
+| `koluma` | unite | either way |
+| `korei` | fulfill | a subject and an object |
+| `kulo` | guide | a subject and an object |
+| `kuneshi` | kneel | a subject |
+| `kupe` | hide | a subject and an object |
+| `kuremi` | grind | a subject and an object |
+| `kureno` | wither | a subject |
+| `laniru` | journey | a subject |
+| `lei` | harmony | a subject |
+| `leiro` | release | a subject and an object |
+| `lepa` | fall | a subject |
+| `lesawi` | consent | a subject and an object |
+| `lilea` | clarify | a subject and an object |
+| `liona` | live | a subject |
+| `lisaku` | lick | a subject and an object |
+| `loa` | give | a subject and an object |
+| `loatho` | delegate | a subject and an object |
+| `lomare` | embrace | a subject and an object |
+| `lonae` | respond | a subject |
+| `lorea` | connect | a subject and an object |
+| `lorima` | build | a subject and an object |
+| `lothea` | love | a subject and an object |
+| `lumeo` | die | a subject |
+| `lumera` | nourish | a subject and an object |
+| `lupaki` | fold | a subject and an object |
+| `lupho` | float | a subject |
+| `makelu` | abstain | a subject |
+| `malomi` | balance | a subject and an object |
+| `manawi` | compromise | a subject |
+| `manolu` | stay | a subject |
+| `masue` | measure | a subject and an object |
+| `masuro` | calibrate | a subject and an object |
+| `meilo` | sit | a subject |
+| `meliho` | sing | a subject and an object |
+| `meloa` | persevere | a subject |
+| `menai` | dedicate | a subject and an object |
+| `menui` | dwell | a subject |
+| `meropi` | cherish | a subject and an object |
+| `mesatu` | try | a subject and an object |
+| `milau` | drink | a subject and an object |
+| `miratu` | recognize | a subject and an object |
+| `misharo` | consult | a subject and an object |
+| `mishoa` | express | a subject and an object |
+| `molawi` | cooperate | a subject |
+| `molei` | evolve | a subject |
+| `moluki` | transform | either way |
+| `mophiku` | shear | a subject and an object |
+| `morae` | sense | a subject and an object |
+| `morashi` | relapse | a subject |
+| `moreko` | articulate | a subject and an object |
+| `morume` | decompose | a subject |
+| `muholi` | dig | a subject and an object |
+| `mukesi` | spoil | a subject |
+| `mupelo` | vomit | a subject |
+| `muraki` | harvest | a subject and an object |
+| `murase` | swell | a subject |
+| `nai` | be | a complement |
+| `napako` | bake | a subject and an object |
+| `naphe` | help | a subject and an object |
+| `nashaku` | enforce | a subject and an object |
+| `nathelo` | lean | a subject |
+| `natheri` | entail | a subject and an object |
+| `natu` | pull | a subject and an object |
+| `nawea` | respect | a subject and an object |
+| `naweri` | refuse | a subject and an object |
+| `nawo` | agree | a subject and an object |
+| `nelore` | preserve | a subject and an object |
+| `nelu` | revere | a subject and an object |
+| `nephoru` | treat | a subject and an object |
+| `nila` | see | a subject and an object |
+| `nilaki` | inspect | a subject and an object |
+| `nishoku` | sneeze | a subject |
+| `nohero` | believe | a subject and an object |
+| `nolami` | bond | a subject and an object |
+| `noluha` | swallow | a subject and an object |
+| `nomela` | encourage | a subject and an object |
+| `nomira` | collect | a subject and an object |
+| `noporu` | design | a subject and an object |
+| `norelu` | form | a subject and an object |
+| `nosheku` | retract | a subject and an object |
+| `nowae` | awaken | a subject |
+| `nuhemi` | grieve | a subject |
+| `nuhewa` | weep | a subject |
+| `nulae` | sleep | a subject |
+| `numea` | nestle | a subject |
+| `numelo` | nurture | a subject and an object |
+| `numike` | negotiate | a subject and an object |
+| `nuola` | eat | a subject and an object |
+| `nurima` | wander | a subject |
+| `palo` | touch | a subject and an object |
+| `panoru` | support | a subject and an object |
+| `parelu` | deserve | a subject and an object |
+| `pashenu` | petition | a subject and an object |
+| `pawela` | participate | a subject |
+| `peki` | squeeze | a subject and an object |
+| `perawi` | expose | a subject and an object |
+| `pesa` | push | a subject and an object |
+| `pesenu` | pollute | a subject and an object |
+| `peshu` | lie | a subject |
+| `phae` | open | either way |
+| `phaelo` | feel | a subject and an object |
+| `phaluwe` | flood | a subject and an object |
+| `phamo` | console | a subject |
+| `phanoi` | portion | a subject and an object |
+| `phanuli` | allocate | a subject and an object |
+| `pharelo` | cook | a subject and an object |
+| `pharomu` | exclude | a subject and an object |
+| `pharuki` | celebrate | a subject and an object |
+| `pharune` | include | a subject and an object |
+| `pheloma` | serve | a subject and an object |
+| `phelona` | require | a subject and an object |
+| `phelu` | hold | a subject and an object |
+| `phelure` | store | a subject and an object |
+| `phemiru` | visit | a subject and an object |
+| `pherami` | depend | a subject and an object |
+| `pheru` | endure | a subject and an object |
+| `phesari` | flee | a subject |
+| `phesua` | inspire | a subject and an object |
+| `phiketu` | contradict | a subject and an object |
+| `phimela` | kiss | a subject and an object |
+| `phiremo` | relate | a subject and an object |
+| `phirena` | meditate | a subject |
+| `phoa` | do | a subject and an object |
+| `pholeni` | depart | a subject |
+| `phowe` | share | a subject and an object |
+| `phurewa` | sweep | a subject and an object |
+| `phuro` | renew | a subject and an object |
+| `pilewa` | make | a subject and an object |
+| `pilora` | exploit | a subject and an object |
+| `pilu` | take | a subject and an object |
+| `pina` | sew | a subject and an object |
+| `pisha` | split | either way |
+| `pothu` | stink | a subject |
+| `pukate` | break | a subject |
+| `pukeri` | damage | a subject |
+| `pula` | wish | a subject and an object |
+| `pumari` | suck | a subject and an object |
+| `pumeli` | knead | a subject and an object |
+| `puse` | spit | a subject and an object |
+| `pushali` | overload | a subject and an object |
+| `rashelo` | run | a subject |
+| `rato` | turn | either way |
+| `remo` | think | a subject and an object |
+| `renoa` | liberate | a subject and an object |
+| `reo` | meaning | a subject and an object |
+| `repora` | propose | a subject and an object |
+| `rihe` | rise | a subject |
+| `rilowa` | assign | a subject and an object |
+| `rinu` | want | a subject and an object |
+| `riola` | labor | a subject and an object |
+| `rohemi` | wear down | a subject |
+| `rohi` | rub | a subject and an object |
+| `roke` | move | a subject |
+| `romishe` | contemplate | a subject and an object |
+| `rotiku` | dance | a subject |
+| `ruemi` | lie down | a subject |
+| `ruloi` | flourish | a subject |
+| `rumeka` | belch | a subject |
+| `runaki` | wayfind | a subject |
+| `ruweli` | access | a subject and an object |
+| `sahu` | forget | a subject and an object |
+| `sano` | know | a subject and an object |
+| `sawa` | wash | a subject and an object |
+| `sekaru` | transfer | a subject and an object |
+| `selomi` | weave | a subject and an object |
+| `selu` | flow | a subject |
+| `seluto` | pour | a subject and an object |
+| `seniku` | smile | a subject |
+| `sepho` | send | a subject and an object |
+| `sephori` | supply | a subject and an object |
+| `seru` | commit | a subject and an object |
+| `sethoni` | handoff | a subject and an object |
+| `sewaro` | transmit | either way |
+| `shalori` | represent | a subject and an object |
+| `shane` | tell | a subject and an object |
+| `shanewi` | notify | a subject and an object |
+| `sharemi` | persuade | a subject and an object |
+| `shareo` | discuss | a subject and an object |
+| `sharoi` | exceed | a subject |
+| `shaweri` | advocate | a subject and an object |
+| `shelo` | signify | a subject and an object |
+| `sheloa` | bloom | a subject |
+| `shelomu` | understand | a subject and an object |
+| `sheluo` | listen | a subject and an object |
+| `shemoli` | harmonize | a subject and an object |
+| `shemui` | utter | a subject and an object |
+| `sheori` | communicate | a subject and an object |
+| `sheraki` | search | a subject and an object |
+| `sherewa` | claim | a subject and an object |
+| `shimalo` | discipline | a subject and an object |
+| `shireku` | sift | a subject and an object |
+| `shiroka` | repair | a subject and an object |
+| `shiwolu` | integrate | a subject and an object |
+| `sholei` | gather | either way |
+| `shonela` | learn | a subject and an object |
+| `shorai` | commune | a subject and an object |
+| `shoraku` | interpret | a subject and an object |
+| `shorema` | contribute | a subject and an object |
+| `shorupo` | protect | a subject and an object |
+| `shua` | come | a subject |
+| `shuneki` | vaccinate | a subject and an object |
+| `sikanu` | certify | a subject and an object |
+| `sirami` | record | a subject and an object |
+| `sirelu` | disclose | a subject and an object |
+| `sitheku` | transcribe | a subject and an object |
+| `soki` | settle | a subject |
+| `solae` | explain | a subject and an object |
+| `soliru` | hope | a subject and an object |
+| `somaki` | test | a subject and an object |
+| `somela` | observe | a subject and an object |
+| `someru` | supervise | a subject and an object |
+| `somethi` | monitor | a subject and an object |
+| `sonari` | isolate | a subject and an object |
+| `sone` | value | a subject and an object |
+| `soranu` | screen | a subject and an object |
+| `sorila` | cultivate | a subject and an object |
+| `soweri` | reach | a subject |
+| `sunoe` | regenerate | either way |
+| `talome` | restore | a subject and an object |
+| `tapu` | close | a subject and an object |
+| `tawemi` | cover | a subject and an object |
+| `tawi` | count | a subject and an object |
+| `temoe` | tend | a subject and an object |
+| `teru` | process | a subject and an object |
+| `teshori` | quarantine | a subject and an object |
+| `thalo` | walk | a subject |
+| `thape` | burn | either way |
+| `thapori` | thresh | a subject and an object |
+| `theala` | heal | either way |
+| `theama` | care | a subject and an object |
+| `thekamu` | intervene | a subject and an object |
+| `thekao` | acknowledge | a subject and an object |
+| `thekasi` | caption | a subject and an object |
+| `thekiro` | write | a subject and an object |
+| `theko` | craft | a subject and an object |
+| `thelima` | describe | a subject and an object |
+| `thelu` | dialogue | a subject |
+| `themio` | reflect | a subject and an object |
+| `themui` | faith | a subject and an object |
+| `thenoi` | falls-short | a subject |
+| `thenoki` | sustain | a subject and an object |
+| `theo` | read | a subject and an object |
+| `theomi` | trust | a subject and an object |
+| `theonu` | attend | a subject and an object |
+| `therapi` | boil | either way |
+| `therilu` | rest | a subject |
+| `thilonu` | prepare | a subject and an object |
+| `thilou` | inquire | a subject and an object |
+| `thinu` | put | a subject and an object |
+| `thiranu` | maintain | a subject and an object |
+| `thiru` | exit | a subject |
+| `thiwera` | scatter | either way |
+| `thola` | bring | a subject and an object |
+| `thole` | practice | a subject and an object |
+| `tholira` | forgive | a subject and an object |
+| `thonuki` | fail | a subject |
+| `thophe` | sow | a subject and an object |
+| `thorai` | bless | a subject and an object |
+| `thorelu` | converse | a subject |
+| `thorima` | taste | a subject and an object |
+| `thowia` | born | a subject |
+| `thueli` | intend | a subject and an object |
+| `thuleni` | comfort | a subject and an object |
+| `thumela` | teach | a subject and an object |
+| `thunaro` | train | a subject and an object |
+| `thuo` | prosper | a subject |
+| `thuroa` | grow | a subject |
+| `thusemi` | point | a subject |
+| `tiripe` | quiver | a subject |
+| `tisharu` | puncture | a subject and an object |
+| `tiwa` | tie | a subject and an object |
+| `tukelu` | recycle | a subject and an object |
+| `tukiro` | review | a subject and an object |
+| `tupi` | jump | a subject |
+| `turema` | return | a subject |
+| `wakomi` | surprise | a subject and an object |
+| `wapho` | throw | a subject and an object |
+| `wapi` | fly | a subject |
+| `warosha` | reconcile | a subject and an object |
+| `welira` | thrive | a subject |
+| `welotu` | mix | a subject and an object |
+| `welura` | spread | either way |
+| `wema` | belong | a subject |
+| `weni` | imagine | a subject and an object |
+| `wenola` | collaborate | a subject and an object |
+| `wenuha` | wear | a subject and an object |
+| `wephari` | coordinate | a subject and an object |
+| `wepu` | go | a subject |
+| `wepuri` | progress | a subject |
+| `wesaki` | lose | a subject and an object |
+| `weshapi` | decorate | a subject and an object |
+| `wesho` | locate | a subject and an object |
+| `whakeru` | object | a subject and an object |
+| `whaline` | thank | a subject and an object |
+| `whamoi` | doubt | a subject and an object |
+| `whano` | stand | a subject |
+| `whekate` | refute | a subject and an object |
+| `whelani` | welcome | a subject and an object |
+| `whemura` | dream | a subject and an object |
+| `wheparu` | discriminate | a subject and an object |
+| `whepelo` | retaliate | a subject and an object |
+| `wheraku` | erode | a subject and an object |
+| `whesu` | blow | a subject |
+| `whetuma` | appeal | a subject and an object |
+| `whinu` | smell | a subject and an object |
+| `whishela` | whisper | a subject and an object |
+| `whola` | invite | a subject and an object |
+| `whori` | mend | a subject and an object |
+| `whunei` | breathe | a subject |
+| `wilanu` | dissolve | a subject |
+| `wilao` | long-for | a subject and an object |
+| `wile` | play | a subject |
+| `winora` | plan | a subject and an object |
+| `wiresu` | postpone | a subject and an object |
+| `wishe` | swim | a subject |
+| `wisola` | exchange | a subject and an object |
+| `woraka` | appreciate | a subject and an object |
+| `wosanu` | absorb | a subject and an object |
+| `wurashi` | crave | a subject and an object |
 
 ## vocative (1)
 

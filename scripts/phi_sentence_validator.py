@@ -95,6 +95,7 @@ ADVISORY_ADJUNCT_ORDER = "PHL002"
 ADVISORY_QUOTE_PERIOD = "PHL003"
 ADVISORY_FRONTED_ADJUNCT = "PHL004"
 ADVISORY_PAST_CONDITION = "PHL005"
+ADVISORY_INTRANSITIVE_OBJECT = "PHL006"
 
 
 @dataclass(frozen=True)
@@ -150,6 +151,8 @@ class Lexeme:
     slot: int | None = None
     slot1_rank: str | None = None
     temporal: bool = False
+    # What a verb takes: intransitive, transitive, both, or complement.
+    valency: str | None = None
 
 
 class Lexicon:
@@ -201,6 +204,7 @@ class Lexicon:
                     slot=data.get("slot"),
                     slot1_rank=data.get("slot1_rank"),
                     temporal="temporal" in data.get("semantic_domains", {}),
+                    valency=data.get("valency"),
                 )
             )
         return cls(entries)
@@ -208,6 +212,10 @@ class Lexicon:
     def pos(self, word: str) -> str | None:
         entry = self.entries.get(word)
         return entry.pos if entry else None
+
+    def valency(self, word: str) -> str | None:
+        entry = self.entries.get(word)
+        return entry.valency if entry else None
 
     def is_nominal(self, word: str) -> bool:
         pos = self.pos(word)
@@ -1612,9 +1620,8 @@ class PhiParser:
         """Review points on an accepted parse.
 
         A sentence with an advisory is grammatical under at least one reading.
-        The parser has no verb valency, so it cannot tell a quality noun used
-        as an object from a manner word, or a possessed subject from a subject
-        followed by its object. Each advisory names the reading that would
+        The parser cannot tell a quality noun used as an object from a manner
+        word, or a possessed subject from a subject followed by its object. Each advisory names the reading that would
         break canon's order and leaves the judgement to a person.
         """
         found: list[Diagnostic] = []
@@ -1668,6 +1675,11 @@ class PhiParser:
         ]
         boundary = slot1_indices[0] if slot1_indices else predicate_index
         advisories = []
+        object_on_intransitive = self._advise_intransitive_object(
+            predicate_index, top_level, slot1_indices
+        )
+        if object_on_intransitive is not None:
+            advisories.append(object_on_intransitive)
         if slot1_indices and not predicative:
             manner = self._advise_manner(start, boundary, nested)
             if manner is not None:
@@ -1681,6 +1693,48 @@ class PhiParser:
             if fronted is not None:
                 advisories.append(fronted)
         return advisories
+
+    def _advise_intransitive_object(
+        self,
+        predicate_index: int,
+        top_level: Sequence[int],
+        slot1_indices: Sequence[int],
+    ) -> Diagnostic | None:
+        """Flag ku or passive se on a verb whose entry gives it no object.
+
+        An intransitive verb takes an object only through causative ka. The
+        entry may be what is wrong, so this advises and does not reject.
+        """
+        predicate = self._word(predicate_index)
+        if self.lexicon.valency(predicate) != "intransitive":
+            return None
+        slot1 = {self._word(index) for index in slot1_indices}
+        if "ka" in slot1:
+            return None
+        mark = next(
+            (
+                index
+                for index in top_level
+                if index not in self.name_atoms and self._word(index) in SLOT2_OBJECT
+            ),
+            None,
+        )
+        if mark is not None:
+            return Diagnostic(
+                ADVISORY_INTRANSITIVE_OBJECT,
+                f"'{predicate}' is entered as intransitive, so it takes an object only "
+                "with ka; either the clause or the entry's valency needs a look",
+                mark,
+            )
+        if "se" in slot1:
+            passive = next(index for index in slot1_indices if self._word(index) == "se")
+            return Diagnostic(
+                ADVISORY_INTRANSITIVE_OBJECT,
+                f"'{predicate}' is entered as intransitive, so it has no object for "
+                "the passive to promote; either the clause or the entry needs a look",
+                passive,
+            )
+        return None
 
     def _advise_past_condition(self, node: SyntaxNode) -> Diagnostic | None:
         """Flag a lu condition whose two sentences are past with no habit marked.

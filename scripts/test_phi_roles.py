@@ -8,7 +8,7 @@ import tempfile
 import unittest
 
 from phi_readings import ReadingCounter
-from phi_roles import ReferenceTracker, object_taking_verbs, open_role
+from phi_roles import ReferenceTracker, object_taking_verbs, open_role, transitive_verbs
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -88,6 +88,16 @@ class RoleTests(unittest.TestCase):
         tracker = ReferenceTracker()
         (sentence,) = self.sentences("shia roa shia to pa rato.")
         self.assertEqual(1, tracker.observe(sentence).doubled_clauses)
+
+    def test_the_role_counter_reads_valency_from_the_entries(self):
+        verbs = transitive_verbs(self.counter.lexicon)
+        self.assertIn("nila", verbs)
+        self.assertNotIn("wepu", verbs)
+        self.assertNotIn("thape", verbs)
+        self.assertNotIn("nai", verbs)
+        lone = self.sentences("lopia to nila.", "lopia to wepu.", "wolea to thape.")
+        kinds = [open_role(part.clauses[0], verbs) for part in lone]
+        self.assertEqual(["main", None, None], kinds)
 
     def test_the_other_pronoun_is_counted_apart_from_shia(self):
         tracker = ReferenceTracker()

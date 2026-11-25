@@ -110,7 +110,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | NAME | ne | proper-name token | Announces that the following Phi token is a proper designation. The token may be a content word or a productive Phi-form onym of two, three, or four syllables with no lexicon meaning. |
 | NEC | na | necessity | Marks that an action is necessary or obligatory: `mia na naphe` is I must help. |
 | NEG | ma | negation | Negation. It always comes last in a stack of Slot 1 particles, after tense, aspect, voice, evidentiality, and modality. |
-| OBJ | ku | object opener | Optional. Opens the direct object phrase where its edge or its role needs saying: `phao lopia ku shelu theo` is the parent's child reads the book, and `phao ku lopia shelu theo` is the parent reads the child's book. |
+| OBJ | ku | object opener | Opens the direct object phrase. Optional where a subject is said, and needed when an object stands alone: `phao lopia ku shelu theo` is the parent's child reads the book, and `phao ku lopia shelu theo` is the parent reads the child's book. |
 | OPT | su | optative | Announces a wish, hope, or prayer: `su sila towe nai` is may the community be well. |
 | ORD | nu | ordinal | Marks that the numeral before a noun gives its position, not its quantity: `nu ta lopia` is the first child, not one child. |
 | PASS | se | passive | The passive voice, promoting the object of an action to subject: `mia nophi kealo` (I create the story) becomes `nophi se kealo` (the story is created). |

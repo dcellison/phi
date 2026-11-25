@@ -76,6 +76,7 @@ It also reports both. An advisory marks a sentence that parses and has a second 
 | `PHL003` | A period stands before `sho` | The closer follows the last quoted word. This one has no second reading: every line is a fault awaiting repair |
 | `PHL004` | A prepositional phrase opens a clause that then names a pronoun or a name, or a `pheo` or `phoe` time phrase opens a sentence and a noun phrase follows | An adjunct that is not a clause follows an explicit subject |
 | `PHL005` | A `lu` condition and its consequence both carry `to`, and neither carries `ro` | `lu` states an open condition or a habit. One past occasion, the English "when", takes `pheo` for sequence or `whau` for overlap. The sentence stands when the speaker really does not know whether the condition held |
+| `PHL006` | `ku` or passive `se` stands with a verb entered as intransitive, and no `ka` | An intransitive verb takes an object only through `ka`. Either the clause needs `ka` or the entry's valency is wrong |
 
 The checks stay quiet where the surface settles the reading. For `PHL001` that means a name atom, or an adjective marked as a noun phrase by a preposition, `lo`, a numeral, a quantifier, a classifier, or coordination with a noun. For `PHL002` it means a gapped relative clause, a compound subject, and a bare time phrase such as `nosa` or `wireo philo`, which is an adjunct like the phrase after it. The cost of the last exemption is that a time noun used as a real object before an adjunct passes unseen. `PHL004` stays quiet when no subject follows the opening phrase (`mua womu therilu.`, `no wei mia shua.`), and it does not see a fronted place phrase whose subject is an ordinary noun. Unframed speech and an untensed dependent clause leave no mark the parser can find; both need a reader.
 
@@ -104,7 +105,7 @@ Two counts are reported. The conservative count lets a noun, pronoun, or name en
 
 What the figure is not:
 
-- It is an upper bound on structural choice. The counter has no verb valency and no meanings, so `mia nosa thole.` counts "my now practices" beside "I practice now". It does not estimate how often a reader goes wrong.
+- It is an upper bound on structural choice. The division count uses no verb valency and no meanings, so `mia nosa thole.` counts "my now practices" beside "I practice now". It does not estimate how often a reader goes wrong.
 - It does not count bracketing inside a phrase, the role of a clause's only bare phrase (subject or object), or which referent a pronoun picks out. The last two are where the certified texts' recorded misreadings fall, and the next section counts them.
 - It follows the parser's choice for clause coordination, and a small share of sentences in the texts fall outside its clause model; the report lists them as not modelled.
 
@@ -121,9 +122,9 @@ The last form is a what-if. Canon lets a possessor stand before a phrase that op
 
 `scripts/phi_roles.py` counts the two things the reading count leaves out.
 
-An open role is a clause with one bare phrase and a verb that takes an object elsewhere. Phi marks no case and lets an established subject go unsaid, so the phrase is the subject, with nothing said about an object, or the object, with the subject unsaid. `lopia nuola.` is "the child eats" and "(it) eats the child". A relative clause has the same opening when one phrase is left inside it: in `whu mia nila miona`, the person is the one I see or the one who sees me. A passive, a command, or a second bare phrase settles the role.
+The role count finds clauses with one bare phrase before a transitive verb. Phi marks no case and lets a subject or an object go unsaid, so such a phrase could in principle be either. Canon settles it in a main or dependent clause: the lone phrase is the subject, and an object standing alone is opened by `ku`. `lopia nuola.` is "the child eats". The count therefore lists the clauses that rule decides, which is where a writer who meant the object has to have said so. A relative clause is outside the rule: in `whu mia nila miona`, the person is the one I see or the one who sees me. A passive, a command, `ku`, or a second bare phrase settles the role.
 
-The lexicon records no valency, so the corpus supplies it. A verb counts as taking an object when it appears at least once in the passive, with two bare phrases that cannot be read as one (`mia thia nila.`), or in a command over a noun phrase (`no shelu theo.`), in a clause that has a single structural reading. A verb never witnessed that way is treated as taking no object, so the count leans low for rare verbs.
+Each verb entry records its valency, and the count reads it. Only a verb entered as `transitive` leaves a lone phrase to the rule; an `intransitive` verb has only a subject, and with a verb entered as `both` the lone phrase is the affected thing on either reading. The corpus is still asked which verbs it shows with an object (in the passive, with `ku`, with two bare phrases that cannot be read as one, or in a command over a noun phrase), and the report names any verb entered as intransitive that the corpus shows with one.
 
 A contested third person is a `shia`, or an unsaid subject, at a point where two or more third persons are live. A third person here is the head of a clause-initial bare phrase that is a noun or a name, and it stays live for three further sentences. The tracker knows nothing of animacy or plausibility. It also counts clauses with two separate `shia`, where the listener has to tell them apart inside one clause.
 
@@ -138,7 +139,7 @@ python3 scripts/audit_phrase_readings.py --output documents/validation/phrase_re
 python3 scripts/audit_phrase_readings.py --check
 ```
 
-The figures are for watching a trend, text by text. A row usually changes only when its file does. The open-role columns can also move when another file adds the first witness that a verb takes an object.
+The figures are for watching a trend, text by text. A row usually changes only when its file does. The role columns also move when a verb's entry changes its valency.
 
 ## Limits
 

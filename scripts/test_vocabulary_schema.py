@@ -146,6 +146,32 @@ class VocabularySchemaTests(unittest.TestCase):
         entry["slot1_rank"] = "tense"
         self.assert_invalid(entry, "should not be valid")
 
+    def test_a_verb_requires_valency(self):
+        entry = copy.deepcopy(self.by_word["nila"])
+        del entry["valency"]
+        self.assert_invalid(entry, "valency")
+
+    def test_valency_is_forbidden_outside_verbs(self):
+        entry = copy.deepcopy(self.by_word["shelu"])
+        entry["valency"] = "transitive"
+        self.assert_invalid(entry, "should not be valid")
+
+    def test_valency_takes_only_its_four_values(self):
+        entry = copy.deepcopy(self.by_word["nila"])
+        entry["valency"] = "ditransitive"
+        self.assert_invalid(entry, "ditransitive")
+
+    def test_valency_values_cover_every_verb(self):
+        counts = {}
+        for _rel, data in self.entries:
+            if data.get("pos") == "verb":
+                counts[data["valency"]] = counts.get(data["valency"], 0) + 1
+        self.assertEqual({"nai", "kelu"}, {
+            data["word"] for _rel, data in self.entries if data.get("valency") == "complement"
+        })
+        self.assertGreater(counts["transitive"], counts["intransitive"])
+        self.assertIn("both", counts)
+
     def test_slot_1_metadata_matches_canonical_categories(self):
         expected = {
             "tense": {"to", "so"},
