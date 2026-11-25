@@ -1,0 +1,36 @@
+{
+  "word": "kitenu",
+  "gloss": "corner",
+  "ipa": "/ki.ˈt̪e̞.n̪u/",
+  "syllables": [
+    "ki",
+    "te",
+    "nu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "angle",
+    "nook"
+  ],
+  "description": "Sweep a room and the dust ends up in a 'kitenu'. That is where two walls or two edges of a thing meet and turn, and the word works from inside and from outside alike: a table has four, and the wind comes round the 'kitenu' of the house. A bend in a path is 'ruela rato' (path turn).",
+  "articulatory_notes": "The back of the tongue stops the air at the soft palate for 'k' and opens on high front 'i'. The tongue tip then closes against the upper teeth for 't', releases into stressed mid front 'e', and returns to the teeth for voiced 'n'. The lips round for final high back 'u'.",
+  "usage_notes": "'womu kitenu' is the corner of the house and 'wonepa kitenu' the corner of the table. Something in a corner takes 'mua' (LOC), and going round one takes 'roa' (AROUND).",
+  "examples": [
+    {
+      "phi": "misuki mua kitenu nulae.",
+      "translation": "The mouse is asleep in the corner."
+    },
+    {
+      "phi": "no mua kitenu ku wiru thinu.",
+      "translation": "Put the basket in the corner."
+    },
+    {
+      "phi": "lopia roa womu kitenu to rashelo.",
+      "translation": "The child ran around the corner of the house."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the part of a table, a cloth, or a building where two of its sides turn",
+    "spatial": "the place where two walls or two edges meet"
+  }
+}

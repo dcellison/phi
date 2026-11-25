@@ -255,7 +255,7 @@ one three-group THING.CLF bowl COORD two spread. two three-group THING.CLF bowl 
 (Three bowls multiplied by two results in six bowls.)
 ```
 
-Phi currently defines no negative numeral or fractional numeral syntax. Subtraction stated entirely in Phi therefore assumes a nonnegative result, and non-even division uses an integer quotient plus a separately stated remainder. Preserve a negative, fractional, higher-precision, or out-of-range calculation in source material when its exact form matters.
+Phi currently defines no negative numeral or fractional numeral syntax. Subtraction stated entirely in Phi therefore assumes a nonnegative result, and non-even division uses an integer quotient plus a separately stated remainder. Preserve a negative, fractional, higher-precision, or out-of-range calculation in source material when its exact form matters. The everyday noun `mepe` (half) is a content word for one of two equal parts, as in `napa mepe` (half the bread); it is not a numeral and takes no part in the arithmetic described here.
 
 The operation words supply metaphors, not guarantees. `sholei` does not make gathering cooperative, `leiro` does not make loss generous, `welura` does not make growth beneficial, and `phanoi` does not make equal portions just or sufficient. A speaker must state or examine those claims separately.
 

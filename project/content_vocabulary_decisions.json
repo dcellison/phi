@@ -3361,10 +3361,8 @@
       "concept": "corners, bends, and intersections",
       "status": "compositional",
       "placement": "base descriptions",
-      "summary": "English corner covers several shapes. Two joined edges or walls make one kind, a path's turn makes another, and connected paths make a third. Keeping those structures visible is clearer than asking one root to hide all three.",
+      "summary": "English corner covers several shapes. Two joined edges or walls make one kind, a path's turn makes another, and connected paths make a third. Keeping those structures visible is clearer than asking one root to hide all three. Amended on 2026-11-25 by `CV-ORD-43`: the joined edges and joined walls now have the noun `kitenu`, while a path's turn and connected paths stay composed.",
       "expressions": [
-        "wi shuna lorea",
-        "wi moru lorea",
         "ruela rato",
         "wi ruela lorea"
       ],
@@ -6802,32 +6800,38 @@
     {
       "id": "CV-ORD-42",
       "concept": "list",
-      "status": "compositional",
-      "placement": "base `sirami` in noun position; module `sitawi`",
-      "summary": "A list is a record of items set down one after another, so the noun use of `sirami` serves with what is listed before it. A record of items held in stock is module `sitawi`. No source line says list.",
-      "expressions": [
-        "nomei sirami",
-        "mia nomei sirami to thekiro"
-      ],
+      "status": "implemented",
+      "placement": "base communication vocabulary",
+      "summary": "The batch first recorded list as `sirami` (record) in noun position. Nothing in `nomei sirami` says that several items are set down one after another, and readers gave a record of the name as its other reading. By the maintainer's ruling of 2026-11-25 noun `sikuno` is items set out one by one, written or said aloud. `sirami` keeps the account of something that happened and module `sitawi` the record of what a store holds; the three share a first syllable.",
       "batches": [
         "ordinary-words-fourth-set"
-      ]
+      ],
+      "implementation": {
+        "words": [
+          "sikuno"
+        ],
+        "files": [
+          "vocabulary/content/list.json"
+        ]
+      }
     },
     {
       "id": "CV-ORD-43",
       "concept": "corner",
-      "status": "compositional",
-      "placement": "base `shuna`, `moru`, and `lorea`",
-      "summary": "Already decided under `CV-SPACE-02`: two joined edges, two joined walls, and a path's turn are said separately. The texts write `shuna` for the corner of an apron. The gap was a missing search term on `shuna`.",
-      "expressions": [
-        "wi shuna lorea",
-        "wi moru lorea",
-        "ruela rato",
-        "wonepa mua wi moru lorea whano"
-      ],
+      "status": "implemented",
+      "placement": "base spatial vocabulary",
+      "summary": "`CV-SPACE-02` composed corner as two joined edges or two joined walls, and source-blind readers took `wi moru lorea` as the corner of a room at only 70 percent. By the maintainer's instruction of 2026-11-25 noun `kitenu` is the place where two walls or two edges of a thing meet and turn, seen from inside or outside. A bend in a path stays `ruela rato` and crossing paths stay `wi ruela lorea`.",
       "batches": [
         "ordinary-words-fourth-set"
-      ]
+      ],
+      "implementation": {
+        "words": [
+          "kitenu"
+        ],
+        "files": [
+          "vocabulary/content/corner.json"
+        ]
+      }
     },
     {
       "id": "CV-ORD-44",

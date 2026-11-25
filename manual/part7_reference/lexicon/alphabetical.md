@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1326 words.*
+*1328 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -171,6 +171,7 @@
 | `kisholu` | specification | /ki.ˈʃo̞.lu/ | noun |
 | `kishu` | thirsty | /ˈki.ʃu/ | adjective |
 | `kisome` | assess | /ki.ˈso̞.me̞/ | verb |
+| `kitenu` | corner | /ki.ˈt̪e̞.n̪u/ | noun |
 | `kithawu` | triage | /ki.ˈθä.wu/ | verb |
 | `kithela` | valid | /ki.ˈθe̞.lä/ | adjective |
 | `kithero` | diagnose | /ki.ˈθe̞.ro̞/ | verb |
@@ -945,6 +946,7 @@
 | `sihewa` | breeze | /si.ˈhe̞.wä/ | noun |
 | `sikanu` | certify | /si.ˈkä.n̪u/ | verb |
 | `sikoru` | itch | /si.ˈko̞.ru/ | noun |
+| `sikuno` | list | /si.ˈku.n̪o̞/ | noun |
 | `sila` | community | /ˈsi.lä/ | noun |
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |

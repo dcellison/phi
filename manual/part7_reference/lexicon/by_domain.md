@@ -680,7 +680,7 @@
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 | `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
-## communication (141)
+## communication (142)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -783,6 +783,7 @@
 | `shoraku` | interpret | carrying meaning between languages or communication modes |
 | `shorema` | contribute | contributing words or information to a shared exchange |
 | `sikanu` | certify | an attributed statement that selected criteria were met |
+| `sikuno` | list | items set down one after another so that they can be read back or checked |
 | `sirami` | record | an account preserved in a form that others can receive later |
 | `sirelu` | disclose | making information known to a new recipient |
 | `siru` | marker | an agreed object that can indicate a location, boundary, or stage |
@@ -1682,7 +1683,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (525)
+## physical (526)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1754,6 +1755,7 @@
 | `kiru` | chisel | a tool that concentrates guided pressure at a shaped cutting edge |
 | `kirua` | sand | a granular material of small durable particles |
 | `kishu` | thirsty | the need for water or another drink as felt in the body |
+| `kitenu` | corner | the part of a table, a cloth, or a building where two of its sides turn |
 | `kiwate` | bite | tooth contact strong enough to grip or mark |
 | `koewi` | input | matter or energy crossing into a selected system |
 | `kohura` | noise | sound heard as irregular, indistinct, or interfering in context |
@@ -2293,7 +2295,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (188)
+## spatial (189)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2312,6 +2314,7 @@
 | `keruma` | illumination | the distribution of light across a place or surface |
 | `kesho` | middle | an interior position between relevant outer parts |
 | `kirato` | lock | a mechanism controlling passage through an opening |
+| `kitenu` | corner | the place where two walls or two edges meet |
 | `koema` | enter | movement from outside to inside |
 | `kolua` | carry | transport through space under continuous support |
 | `komalu` | pillow | a small support placed within a sleeping or resting place |

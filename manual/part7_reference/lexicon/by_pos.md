@@ -322,7 +322,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (589)
+## noun (591)
 
 | Word | Gloss |
 |---|---|
@@ -401,6 +401,7 @@
 | `kiru` | chisel |
 | `kirua` | sand |
 | `kisholu` | specification |
+| `kitenu` | corner |
 | `koewi` | input |
 | `kohura` | noise |
 | `kolai` | pigment |
@@ -759,6 +760,7 @@
 | `shuroa` | shelter |
 | `sihewa` | breeze |
 | `sikoru` | itch |
+| `sikuno` | list |
 | `sila` | community |
 | `silawo` | village |
 | `sileo` | silk |
