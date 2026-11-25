@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1328 words.*
+*1337 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -374,6 +374,7 @@
 | `meshoi` | cheek | /me̞.ˈʃo̞.i/ | noun |
 | `mewali` | interested | /me̞.ˈwä.li/ | adjective |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
+| `mihonu` | deaf | /mi.ˈho̞.n̪u/ | adjective |
 | `mikasu` | dose | /mi.ˈkä.su/ | noun |
 | `milaro` | message | /mi.ˈlä.ro̞/ | noun |
 | `milau` | drink | /mi.ˈlä.u/ | verb |
@@ -398,6 +399,7 @@
 | `moenu` | culture | /mo̞.ˈe̞.n̪u/ | noun |
 | `moesha` | still | /mo̞.ˈe̞.ʃä/ | adjective |
 | `moesu` | wax | /mo̞.ˈe̞.su/ | noun |
+| `mohula` | loose | /mo̞.ˈhu.lä/ | adjective |
 | `mokanu` | disease | /mo̞.ˈkä.n̪u/ | noun |
 | `mokathi` | faeces | /mo̞.ˈkä.θi/ | noun |
 | `mokela` | sick | /mo̞.ˈke̞.lä/ | adjective |
@@ -473,6 +475,7 @@
 | `naphelu` | assistive | /n̪ä.ˈɸe̞.lu/ | adjective |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
 | `naremu` | guilt | /n̪ä.ˈre̞.mu/ | noun |
+| `narine` | blind | /n̪ä.ˈri.n̪e̞/ | adjective |
 | `naropu` | feedforward | /n̪ä.ˈro̞.pu/ | noun |
 | `naseru` | obligation | /n̪ä.ˈse̞.ru/ | noun |
 | `nashaku` | enforce | /n̪ä.ˈʃä.ku/ | verb |
@@ -791,6 +794,7 @@
 | `reteru` | model | /re̞.ˈt̪e̞.ru/ | noun |
 | `rewa` | oar | /ˈre̞.wä/ | noun |
 | `rihe` | rise | /ˈri.he̞/ | verb |
+| `rikina` | twist | /ri.ˈki.n̪ä/ | verb |
 | `rilowa` | assign | /ri.ˈlo̞.wä/ | verb |
 | `rimawu` | drudgery | /ri.ˈmä.wu/ | noun |
 | `rinoka` | project | /ri.ˈn̪o̞.kä/ | noun |
@@ -973,6 +977,7 @@
 | `solae` | explain | /so̞.ˈlä.e̞/ | verb |
 | `solai` | gold | /so̞.ˈlä.i/ | noun |
 | `soleha` | luck | /so̞.ˈle̞.hä/ | noun |
+| `soleki` | follow | /so̞.ˈle̞.ki/ | verb |
 | `soli` | SOME | /ˈso̞.li/ | quantifier |
 | `soliru` | hope | /so̞.ˈli.ru/ | verb |
 | `somaki` | test | /so̞.ˈmä.ki/ | verb |
@@ -989,6 +994,7 @@
 | `sorila` | cultivate | /so̞.ˈri.lä/ | verb |
 | `soriu` | yellow | /so̞.ˈri.u/ | adjective |
 | `sorui` | circle | /so̞.ˈru.i/ | noun |
+| `sotira` | hang | /so̞.ˈt̪i.rä/ | verb |
 | `sowelu` | disabled | /so̞.ˈwe̞.lu/ | adjective |
 | `soweri` | reach | /so̞.ˈwe̞.ri/ | verb |
 | `su` | OPT | /ˈsu/ | particle |
@@ -1006,6 +1012,7 @@
 | `sumeri` | temperature | /su.ˈme̞.ri/ | noun |
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
+| `supili` | wrap | /su.ˈpi.li/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |
 | `sute` | happen | /ˈsu.t̪e̞/ | verb |
 | `ta` | one | /ˈt̪ä/ | numeral |
@@ -1031,6 +1038,7 @@
 | `teluno` | amphibian | /t̪e̞.ˈlu.n̪o̞/ | noun |
 | `temoe` | tend | /t̪e̞.ˈmo̞.e̞/ | verb |
 | `temu` | guild | /ˈt̪e̞.mu/ | noun |
+| `teneki` | tight | /t̪e̞.ˈn̪e̞.ki/ | adjective |
 | `tenoa` | tool | /t̪e̞.ˈn̪o̞.ä/ | noun |
 | `teo` | watch out | /ˈt̪e̞.o̞/ | interjection |
 | `teoki` | warn | /t̪e̞.ˈo̞.ki/ | verb |
@@ -1200,6 +1208,7 @@
 | `tulawe` | reversible | /t̪u.ˈlä.we̞/ | adjective |
 | `tuleno` | frog | /t̪u.ˈle̞.n̪o̞/ | noun |
 | `tulira` | tail | /t̪u.ˈli.rä/ | noun |
+| `tumana` | bend | /t̪u.ˈmä.n̪ä/ | verb |
 | `tumeki` | root | /t̪u.ˈme̞.ki/ | noun |
 | `tumoa` | heavy | /t̪u.ˈmo̞.ä/ | adjective |
 | `tupeka` | burden | /t̪u.ˈpe̞.kä/ | noun |

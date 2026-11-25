@@ -1,0 +1,41 @@
+{
+  "word": "soleki",
+  "gloss": "follow",
+  "ipa": "/so̞.ˈle̞.ki/",
+  "syllables": [
+    "so",
+    "le",
+    "ki"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "go after",
+    "come after",
+    "keep to"
+  ],
+  "description": "The duckling goes where the duck goes and stops when she stops. To 'soleki' is to take one's way from another: to go where they go because they go there. The same verb keeps to a path, a river, or a piece of advice. 'noe' (BEHIND) only says where someone is, and a person can be behind another without following them.",
+  "articulatory_notes": "Voiceless 's' leads into mid back 'o' with the lips rounded. The tongue tip touches the ridge for 'l' and the lips relax for stressed mid front 'e'. The back of the tongue closes on the soft palate for 'k', and the word ends on high front 'i'.",
+  "usage_notes": "The one followed is the object: 'mia thia soleki' (I follow you). With a path, a guide's words, or a method as object, it means keeping to it. The verb says nothing of being made to follow.",
+  "examples": [
+    {
+      "phi": "no ku mia soleki.",
+      "translation": "Follow me."
+    },
+    {
+      "phi": "lohau ku lopia to soleki.",
+      "translation": "The dog followed the child."
+    },
+    {
+      "phi": "lo mia kau silawo ku luphore so soleki.",
+      "translation": "We will follow the river to the village."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Following is something the follower does. The verb gives the one in front no hold over the one behind."
+  },
+  "semantic_domains": {
+    "activity": "keeping to a path, a guide, or advice",
+    "spatial": "moving along the course that another person or thing takes"
+  }
+}

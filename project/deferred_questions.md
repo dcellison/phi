@@ -126,6 +126,19 @@ D140 coins `hopu` (hole), `riti` (line), `lakari` (map), `ripati` (ladder), `mep
 
 The teaching documents do not teach these seven words.
 
+D141 coins `tumana` (bend), `sotira` (hang), `rikina` (twist), `supili` (wrap), `teneki` (tight), `mohula` (loose), `soleki` (follow), `narine` (blind), and `mihonu` (deaf). The same parking applies and nothing in the texts was changed. Each list is a word match on the source line. No source line says twist, bury as a verb of its own, or deaf.
+
+- Bend, where the texts write `luwi ka kelu`, and bow as a greeting, written `koma mulu kiroa loa`, to be read for `tumana` and `mulu tumana`: `gibran/on_children` 16, 17; `news_from_nowhere/chapter_03` 189, 205, 232.
+- Hang, written `ka ruemi`, `leo ... nai`, or `ka ralu manolu`, now `sotira`: `news_from_nowhere/chapter_03` 186; `chapter_05` 54; `north_wind_and_sun` 11.
+- Follow, written `noe` with a motion verb or `ruela thalo`, to be read for `soleki`: `gibran/on_giving` 6; `gibran/on_love` 3; `news_from_nowhere/chapter_02` 141; `chapter_06` 35.
+- Wrap, where `se lomare` for a body in a cloak may rightly stay, to be read against `supili`: `north_wind_and_sun` 2, 6; `velveteen_rabbit` 295.
+- Tight and loose, written `mo noshi`, `kema`, and `ralu`, to be read for `teneki` and `mohula`: `north_wind_and_sun` 7, 11; `velveteen_rabbit` 74, 112.
+- Translate, written `solae` (explain), to be read for `shoraku`: `news_from_nowhere/chapter_05` 121.
+- Fill, lift, and shine, which the texts already render by the recorded devices and which need only a confirming read: `gibran/on_giving` 26; `news_from_nowhere/chapter_02` 3; `chapter_03` 44; `chapter_06` 55; `north_wind_and_sun` 10; `tao_te_ching` 50; `velveteen_rabbit` 385, 400, 403.
+- Blind as a figure, in Gibran's all urge is blind, which rightly keeps `mawha keiro nila` and is not `narine`: `gibran/on_work` 14.
+
+Several of these units are in certified works and need fresh source-blind derivation under D102 if they change. The teaching documents do not teach these nine words.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.

@@ -1,0 +1,37 @@
+{
+  "word": "supili",
+  "gloss": "wrap",
+  "ipa": "/su.ˈpi.li/",
+  "syllables": [
+    "su",
+    "pi",
+    "li"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "wind around",
+    "bundle",
+    "swaddle"
+  ],
+  "description": "Bread goes into a cloth, the cloth goes round it, and the ends are tucked under. 'supili' is that whole act: a soft covering put all the way round a thing so that it is held inside. 'tawemi' (cover) lays something over the top, and 'lomare' (embrace) is arms, or a cloak, drawn round a body.",
+  "articulatory_notes": "A groove in the tongue directs air for 's' while the lips round closely for high back 'u'. The lips close for 'p' and spread as they open on stressed high front 'i'. The tongue tip touches the ridge for 'l', the voice passes round its sides, and 'i' returns.",
+  "usage_notes": "The thing wrapped is the object and the wrapping takes 'roe' (INS). When a cord is wound round a post, the cord is the object and the post takes 'roa' (AROUND). Unwrapping is 'phae' (open).",
+  "examples": [
+    {
+      "phi": "mia roe wetha ku napa to supili.",
+      "translation": "I wrapped the bread in a cloth."
+    },
+    {
+      "phi": "phao roe sulae wetha ku mipi supili.",
+      "translation": "The parent wraps the baby in a warm cloth."
+    },
+    {
+      "phi": "no roa manuwe ku nira supili.",
+      "translation": "Wind the cord around your hand."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "enclosing a thing in cloth, leaf, or paper to carry or keep it"
+  }
+}
