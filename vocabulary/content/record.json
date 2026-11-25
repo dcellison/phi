@@ -11,12 +11,13 @@
   "valency": "transitive",
   "search_terms": [
     "document",
-    "make a record"
+    "make a record",
+    "list"
   ],
   "description": "Someone records a meeting's decision where the group can return to it. 'sirami' creates or keeps a durable account of an event, observation, or decision. 'thekiro' (write) makes written language; a record may use writing or another medium, and durability alone gives it no authority.",
   "articulatory_notes": "Start 'si' by grooving unvoiced airflow between the raised tongue blade and alveolar ridge, then lift the tongue into high-front 'i'. For stressed 'ra', briefly tap or trill against the ridge before opening fully into central 'a'. End 'mi' by closing the lips while nasal voice continues into high-front unrounded 'i'.",
   "sound_symbolism": "A fine trace opens in 'si', broadens through stressed 'ra', and comes to rest behind the closed lips of 'mi'. The shape suits an account meant to remain.",
-  "usage_notes": "The event, decision, observation, or other matter recorded precedes the verb. A nearby account can supply source, time, version, and access when those details matter. 'nelore' (preserve) protects an existing thing from loss; 'sirami' concerns the account itself.",
+  "usage_notes": "The event, decision, observation, or other matter recorded precedes the verb. A nearby account can supply source, time, version, and access when those details matter. 'nelore' (preserve) protects an existing thing from loss; 'sirami' concerns the account itself. In noun position 'sirami' is a record, and a record of items set down one after another is a list: 'nomei sirami' (a list of names).",
   "examples": [
     {
       "phi": "mia nophi sirami.",

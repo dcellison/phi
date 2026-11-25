@@ -1,0 +1,36 @@
+{
+  "word": "lakari",
+  "gloss": "map",
+  "ipa": "/lä.ˈkä.ri/",
+  "syllables": [
+    "la",
+    "ka",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "chart",
+    "plan of a place"
+  ],
+  "description": "Someone who knows the valley scratches it on bark for someone who does not: the river here and the ford there. That is a 'lakari', a drawing of where things are, made to find the way by. A picture of the same valley shows how it looks. A 'lakari' gives up the look to keep the layout.",
+  "articulatory_notes": "The tongue tip rests on the ridge for 'l' while the voice flows past its sides into open central 'a'. The back of the tongue closes on the soft palate for 'k' and opens into the same vowel, now stressed. A single tap of the tip gives 'r', and the tongue rises for high front 'i'.",
+  "usage_notes": "'silawo lakari' is a map of the village. A map is drawn with 'kire' (shape). Exact coordinates and grid references stay in the map's own notation.",
+  "examples": [
+    {
+      "phi": "wa thia tomora lakari phelu.",
+      "translation": "Do you have a map of the mountain?"
+    },
+    {
+      "phi": "wheo mua muila ku lakari to kire.",
+      "translation": "The elder drew a map on the ground."
+    },
+    {
+      "phi": "ha ruela mua lakari ma nai.",
+      "translation": "This path is not on the map."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "a record that tells a traveler how a place is laid out",
+    "spatial": "a drawing of where places lie in relation to one another"
+  }
+}

@@ -55,6 +55,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Ordinary words, first set | **DONE** | Base `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki` (warn), and `soaru` (apologize) fill six gaps; promise, allow and forbid, suffer, part, lend and borrow, witness and testify, and show, seem, and decide were already sayable and gain search terms. The rest of the assessment's list waits under `CV-ORD-13`. |
 | Ordinary words, second set | **DONE** | Base `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposite), `hatura` (urgent), and `sekuna` (accuse, which also carries blame) fill six gaps; remind, important, similar, false, early and late, expect, guess, succeed, and survive were already sayable and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
 | Ordinary words, third set | **DONE** | Base `mipi` (baby) fills the one gap among the people and places; owner, doctor, leader, city and town, school, world, and crowd and group were already sayable and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
+| Ordinary words, fourth set | **DONE** | Base `hopu` (hole), `riti` (line), `lakari` (map), `ripati` (ladder), and `mepe` (half) fill five gaps among ordinary things; list, corner, gate, fence, stairs, and ore were already sayable, four of them under earlier decisions, and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1974,6 +1975,24 @@ The third set takes the people and places on the November 2026 assessment's list
 
 The batch adds one base root and search terms or a line of usage on eight existing entries. It changes no text, and no source line says baby or infant.
 
+## Ordinary words, fourth set
+
+The fourth set takes the things on the November 2026 assessment's list: map, list, line, hole, half, corner, gate, ladder, fence, stairs, and ore. Each was checked the same three ways as before, and against the register first. Four of the eleven had been decided in earlier batches and lacked only a search term. Five were real gaps. The maintainer approved the forms on 2026-11-25 and ruled that half takes an ordinary content noun.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| An opening through a thing or a hollow in it | new base `hopu` and `CV-ORD-37` | **IMPLEMENTED** | The lexicon had verbs for making a hole (`tisharu`, `muholi`) and no noun for the hole. The Velveteen Rabbit keeps `nowhu` (cave) for a burrow. |
+| A drawn line, a row, a line of text | new base `riti` and `CV-ORD-38` | **IMPLEMENTED** | Three source lines with line or row stretch `sima` (thread). Technical geometry stays deferred under `CV-GEOM-01`. |
+| A drawing made to find the way by | new base `lakari` and `CV-ORD-39` | **IMPLEMENTED** | `lokue kire` reads as readily as a picture of a place. Exact map references stay source-bound under `CV-SPACE-03`. |
+| A portable frame for climbing | new base `ripati` and `CV-ORD-40` | **IMPLEMENTED** | Stairs are `rihe ruela`, built into a place. One source line writes `kalei thena` for a boat's steps. |
+| One of two equal parts | new base `mepe` and `CV-ORD-41` | **IMPLEMENTED** | A content noun beside `phanoi`, by the maintainer's ruling; the numeral system and its refusal of fractions are untouched. Half as a degree stays `la` or `kesho`, as the texts have it. |
+| List | `sirami` in noun position, module `sitawi`, under `CV-ORD-42` | **COMPOSITIONAL** | A list is a record of items set down in order. |
+| Corner | `wi shuna lorea`, `wi moru lorea`, `ruela rato`, under `CV-ORD-43` | **COMPOSITIONAL** | Decided earlier under `CV-SPACE-02`. A search term was missing. |
+| Gate, fence, stairs | `norui ponu`, `norui moru`, `rihe ruela`, under `CV-ORD-44` | **COMPOSITIONAL** | Registered compounds since `CV-DWELL-01`. No search term led to them. |
+| Ore | `keluo kerou`, under `CV-ORD-45` | **COMPOSITIONAL** | Metal stone, with the metal's own name where it matters. |
+
+The batch adds five base roots and search terms or a line of usage on eleven existing entries. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -2065,4 +2084,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 89 implemented decisions and 154 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,321 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 94 implemented decisions and 158 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,326 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

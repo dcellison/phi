@@ -1185,6 +1185,23 @@
         "CV-ORD-35",
         "CV-ORD-36"
       ]
+    },
+    {
+      "id": "ordinary-words-fourth-set",
+      "heading": "Ordinary words, fourth set",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ORD-37",
+        "CV-ORD-38",
+        "CV-ORD-39",
+        "CV-ORD-40",
+        "CV-ORD-41",
+        "CV-ORD-42",
+        "CV-ORD-43",
+        "CV-ORD-44",
+        "CV-ORD-45"
+      ]
     }
   ],
   "candidates": [
@@ -6326,7 +6343,7 @@
       "concept": "the remaining ordinary words listed by the November 2026 assessment",
       "status": "deferred",
       "placement": "base vocabulary, each to be decided as covered, composed, coined, or refused",
-      "summary": "Not yet examined one by one: map, list, line, hole, half, corner, gate, ladder, fence, stairs, ore; bend, bury, destroy, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, ugly, blind, deaf; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first three sets showed that most such items are covered and lack only a search term or a line of usage, so the list is a set of questions and not a set of coinages.",
+      "summary": "Not yet examined one by one: bend, bury, destroy, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, ugly, blind, deaf; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first four sets showed that most such items are covered and lack only a search term or a line of usage, so the list is a set of questions and not a set of coinages.",
       "revisit_when": "The maintainer commissions the next ordinary-vocabulary set for assessment recommendation 22.",
       "batches": [
         "ordinary-words-first-set"
@@ -6690,6 +6707,157 @@
       ],
       "batches": [
         "ordinary-words-third-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-37",
+      "concept": "hole, gap, hollow, and pit",
+      "status": "implemented",
+      "placement": "base physical vocabulary",
+      "summary": "The lexicon had the verbs `tisharu` (puncture) and `muholi` (dig), `nowhu` (cave), and `wira` (window), and no noun for the opening or hollow itself. Noun `hopu` is a place where the stuff of a thing is missing, whether it goes through or only in. The thing that has the hole stands before it.",
+      "implementation": {
+        "words": [
+          "hopu"
+        ],
+        "files": [
+          "vocabulary/content/hole.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-38",
+      "concept": "line and row",
+      "status": "implemented",
+      "placement": "base spatial vocabulary",
+      "summary": "Three text lines stretch `sima` (thread) to a row of lights, a row of houses, and a line on a face. Noun `riti` is anything long and thin enough to follow with the eye: a drawn mark, things in a row, or a line of written words. `sima` keeps the strand that can be picked up and `shuna` the edge. The defined lines of technical geometry stay deferred under `CV-GEOM-01`.",
+      "implementation": {
+        "words": [
+          "riti"
+        ],
+        "files": [
+          "vocabulary/content/line.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-39",
+      "concept": "map",
+      "status": "implemented",
+      "placement": "base spatial vocabulary",
+      "summary": "A drawing of a place is `lokue kire`, which is as readily a picture of how the place looks. Noun `lakari` is a drawing of where things are, made to find the way by. Exact coordinates and map references stay source-bound under `CV-SPACE-03`.",
+      "implementation": {
+        "words": [
+          "lakari"
+        ],
+        "files": [
+          "vocabulary/content/map.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-40",
+      "concept": "ladder",
+      "status": "implemented",
+      "placement": "base tool vocabulary",
+      "summary": "Stairs are the registered compound `rihe ruela`, a route built into a place, and one text line writes `kalei thena` (climbing thing) for a boat's steps. Noun `ripati` is the portable frame of two poles and rungs, climbed with `roe` and leaned with `nathelo`.",
+      "implementation": {
+        "words": [
+          "ripati"
+        ],
+        "files": [
+          "vocabulary/content/ladder.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-41",
+      "concept": "half",
+      "status": "implemented",
+      "placement": "base quantity vocabulary",
+      "summary": "Canon keeps fractional numerals and exact fractions out of Phi's numeral syntax. By the maintainer's ruling of 2026-11-25 an ordinary content noun is coined and the numeral system is untouched: `mepe` is one of two equal parts of a thing, a span, or a group, used like the result noun of `phanoi`. English half as a degree, as in half asleep or a half smile, stays `la` or `kesho`.",
+      "implementation": {
+        "words": [
+          "mepe"
+        ],
+        "files": [
+          "vocabulary/content/half.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-42",
+      "concept": "list",
+      "status": "compositional",
+      "placement": "base `sirami` in noun position; module `sitawi`",
+      "summary": "A list is a record of items set down one after another, so the noun use of `sirami` serves with what is listed before it. A record of items held in stock is module `sitawi`. No source line says list.",
+      "expressions": [
+        "nomei sirami",
+        "mia nomei sirami to thekiro"
+      ],
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-43",
+      "concept": "corner",
+      "status": "compositional",
+      "placement": "base `shuna`, `moru`, and `lorea`",
+      "summary": "Already decided under `CV-SPACE-02`: two joined edges, two joined walls, and a path's turn are said separately. The texts write `shuna` for the corner of an apron. The gap was a missing search term on `shuna`.",
+      "expressions": [
+        "wi shuna lorea",
+        "wi moru lorea",
+        "ruela rato",
+        "wonepa mua wi moru lorea whano"
+      ],
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-44",
+      "concept": "gate, fence, and stairs",
+      "status": "compositional",
+      "placement": "registered compounds over `norui`, `ponu`, `moru`, `rihe`, and `ruela`",
+      "summary": "Already decided under `CV-DWELL-01` and registered as compounds: a gate is a boundary door, a fence a boundary wall, and stairs a rising path. *News from Nowhere* already writes `norui ponu`. The gap was that no search term on `ponu`, `moru`, or `ruela` led to them.",
+      "expressions": [
+        "norui ponu",
+        "norui moru",
+        "rihe ruela",
+        "wheo rihe ruela to kalei"
+      ],
+      "batches": [
+        "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-45",
+      "concept": "ore",
+      "status": "compositional",
+      "placement": "base `keluo` with `kerou`",
+      "summary": "Ore is the stone a metal is won from, said as metal stone, with the metal's own name where it matters (`tesu kerou`, iron ore). No source line says ore.",
+      "expressions": [
+        "keluo kerou",
+        "tesu kerou",
+        "lo miona lue tomora keluo kerou thola"
+      ],
+      "batches": [
+        "ordinary-words-fourth-set"
       ]
     }
   ],

@@ -10,11 +10,12 @@
   "pos": "noun",
   "search_terms": [
     "metallic material",
-    "metal material"
+    "metal material",
+    "ore"
   ],
   "description": "A material in the broad metallic class is 'keluo'. Metals commonly conduct heat and electricity and can often be shaped without breaking, though each metal and alloy behaves differently. Ore is rock containing material from which a metal may be obtained, not the metal itself.",
   "articulatory_notes": "The back of the tongue closes against the soft palate for unvoiced 'k' and releases into front 'e'. Lateral 'l' begins stressed rounded 'u', and the voice crosses a clear hiatus into final rounded 'o'.",
-  "usage_notes": "The noun can refer to metal generally or to an unidentified piece. Specific words such as 'tesu' (iron), 'roena' (copper), and 'teshilo' (steel) replace it when material identity affects the account.",
+  "usage_notes": "The noun can refer to metal generally or to an unidentified piece. Specific words such as 'tesu' (iron), 'roena' (copper), and 'teshilo' (steel) replace it when material identity affects the account. Ore, the stone a metal is won from, is 'keluo kerou'.",
   "examples": [
     {
       "phi": "mia keluo kire.",

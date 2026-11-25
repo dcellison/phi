@@ -1,0 +1,37 @@
+{
+  "word": "ripati",
+  "gloss": "ladder",
+  "ipa": "/ri.ˈpä.t̪i/",
+  "syllables": [
+    "ri",
+    "pa",
+    "ti"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "stepladder",
+    "rungs"
+  ],
+  "description": "A 'ripati' is climbed and then carried away. Two long poles with short bars between them lean against the apple tree today and the barn tomorrow, which is what sets the thing apart from 'rihe ruela' (stairs), built into the place where they stand. A rope one is still a 'ripati'.",
+  "articulatory_notes": "A tap of the tongue tip on the ridge makes 'r', followed by high front 'i'. The lips close and burst open for 'p' on stressed open central 'a'. The tongue tip then meets the upper teeth for 't' and lets go into a second 'i'.",
+  "sound_symbolism": "Said slowly, its three even syllables can be counted off like rungs.",
+  "usage_notes": "'kalei' (climb) takes the ladder with 'roe' (INS): 'mia roe ripati kalei' (I climb by the ladder). A ladder set against something is said with 'nathelo' (lean).",
+  "examples": [
+    {
+      "phi": "mia roe ripati kau toru kalei.",
+      "translation": "I climb to the roof by the ladder."
+    },
+    {
+      "phi": "ripati sio lureko shiro nathelo.",
+      "translation": "The ladder leans against the fruit tree."
+    },
+    {
+      "phi": "no ripati thola.",
+      "translation": "Bring the ladder."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "the tool for reaching fruit, a roof, or a loft",
+    "physical": "a portable frame of two poles and the rungs between them"
+  }
+}

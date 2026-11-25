@@ -52,16 +52,16 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,321 | 1,321 | 0 |
-| Content vocabulary | 1,185 | 1,185 | 0 |
-| Base content vocabulary | 908 | 908 | 0 |
+| Entire lexicon | 1,326 | 1,326 | 0 |
+| Content vocabulary | 1,190 | 1,190 | 0 |
+| Base content vocabulary | 913 | 913 | 0 |
 | Optional-module content vocabulary | 277 | 277 | 0 |
 | Function vocabulary | 116 | 116 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-D139 adds base `mipi` (baby), now the latest base addition, and records owner, doctor, leader, city, town, school, world, crowd, and group as already sayable. D138 adds six more base words from the same list: `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposite), `hatura` (urgent), and `sekuna` (accuse, which also carries blame), and remind, important, similar, false, early, late, expect, guess, succeed, and survive are recorded as already sayable. D137 adds six base words for ordinary gaps the November 2026 assessment named: `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki` (warn), and `soaru` (apologize). D136 gives every verb entry a `valency` and rules that a lone bare phrase before a verb is its subject, so that an object standing alone takes `ku`. D135 adds `hia`, a second third-person pronoun for the other of two, and states that an unsaid subject is the subject of the sentence before. D134 adds the optional object particle `ku`, the first amendment to the closed particle inventory, which now holds thirty-nine. The latest base addition is D131's `ture` again, coined on the maintainer's ruling after the November 2026 assessment found no word for it; D130 records the small-word and clause-relation rulings it belongs to, including `tei` over a clause. The latest source-led vocabulary addition is D100's Ecological `lomathu` manure, prompted by chapter 5's use of animal faeces for material gathered for the soil. The same decision moves `tomewu` urine and `mokathi` faeces from base study into Medical and Bodily Care. D099's Work `toreku` arch remains the previous source-led addition, and D077's `ratenu` steep and `salenu` unclothed remain the latest base additions. D078 through D084 changed literary method and completed two post-conversion sweeps without adding vocabulary. D085 through D096 translated and fidelity-swept the first six *News from Nowhere* chapters without adding a root, module membership, registered compound, or grammar. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+D140 adds five base nouns for ordinary things: `hopu` (hole), `riti` (line), `lakari` (map), `ripati` (ladder), and `mepe` (half); these are now the latest base additions, and list, corner, gate, fence, stairs, and ore are recorded as already sayable. D139 adds base `mipi` (baby) and records owner, doctor, leader, city, town, school, world, crowd, and group as already sayable. D138 adds six more base words from the same list: `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposite), `hatura` (urgent), and `sekuna` (accuse, which also carries blame), and remind, important, similar, false, early, late, expect, guess, succeed, and survive are recorded as already sayable. D137 adds six base words for ordinary gaps the November 2026 assessment named: `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki` (warn), and `soaru` (apologize). D136 gives every verb entry a `valency` and rules that a lone bare phrase before a verb is its subject, so that an object standing alone takes `ku`. D135 adds `hia`, a second third-person pronoun for the other of two, and states that an unsaid subject is the subject of the sentence before. D134 adds the optional object particle `ku`, the first amendment to the closed particle inventory, which now holds thirty-nine. The latest base addition is D131's `ture` again, coined on the maintainer's ruling after the November 2026 assessment found no word for it; D130 records the small-word and clause-relation rulings it belongs to, including `tei` over a clause. The latest source-led vocabulary addition is D100's Ecological `lomathu` manure, prompted by chapter 5's use of animal faeces for material gathered for the soil. The same decision moves `tomewu` urine and `mokathi` faeces from base study into Medical and Bodily Care. D099's Work `toreku` arch remains the previous source-led addition, and D077's `ratenu` steep and `salenu` unclothed remain the latest base additions. D078 through D084 changed literary method and completed two post-conversion sweeps without adding vocabulary. D085 through D096 translated and fidelity-swept the first six *News from Nowhere* chapters without adding a root, module membership, registered compound, or grammar. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -69,10 +69,10 @@ D139 adds base `mipi` (baby), now the latest base addition, and records owner, d
 
 | Item | Count |
 |---|---:|
-| Registered batches | 86 |
-| Decisions | 323 |
-| Implemented | 89 |
-| Compositional | 154 |
+| Registered batches | 87 |
+| Decisions | 332 |
+| Implemented | 94 |
+| Compositional | 158 |
 | Deferred with return condition | 32 |
 | Source-bound | 44 |
 | Declined | 4 |
@@ -233,7 +233,7 @@ The live entries are:
 | Entrance and index pages | Complete | Kia, the Short Road, and the Phi Book contents page are finished without source decoration. Kia has its doorway masthead, two Tengwar greetings, six numbered encounters, and seven broad destination links. The Short Road has a twelve-stop map, joined waypoints, thirteen interlinear figures, and a final invitation in both hands. The book contents page maps the argument from boatman to door. Four movements hold its fourteen chapters, and the bibliography stays apart. Strict shape checks guard all three renderings, including exact agreement between the README's reading order and the published files. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
-| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,321 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
+| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,326 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |
 
 Speech evidence, outside learner evidence, community governance, and a maintained print publication pipeline remain evidence-gated or deferred in the roadmap. The one-off book PDF does not close PUB-03 or create PUB-04 review evidence. Do not mark an evidence item complete because tools or materials exist, and do not invent participants, observations, or adoption.

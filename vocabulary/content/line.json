@@ -1,0 +1,37 @@
+{
+  "word": "riti",
+  "gloss": "line",
+  "ipa": "/ˈri.t̪i/",
+  "syllables": [
+    "ri",
+    "ti"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "row",
+    "stroke",
+    "streak",
+    "queue"
+  ],
+  "description": "A stick drawn through sand leaves a 'riti'. Houses built side by side along a river make one, and so does a poet who stops and begins again underneath. The word is for anything long and thin enough to follow with the eye, whether one mark or many things in a row. 'sima' (thread) is a strand that can be picked up, and 'shuna' (edge) is where a thing stops.",
+  "articulatory_notes": "The tongue tip taps the ridge once for 'r', and the body of the tongue rises close to the palate for stressed high front 'i'. The tip then stops the air against the upper teeth for 't' and releases into the same vowel.",
+  "usage_notes": "What makes up the line comes first: 'shiro riti' (a line of trees), 'phelui riti' (a line of words). 'tekari riti' is a straight line.",
+  "examples": [
+    {
+      "phi": "lopia mua kirua ku laeno riti to kire.",
+      "translation": "The child drew a long line in the sand."
+    },
+    {
+      "phi": "womu riti nia kerime whano.",
+      "translation": "A line of houses stands on the shore."
+    },
+    {
+      "phi": "no nu wi riti theo.",
+      "translation": "Read the second line."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "one row of words in a written text",
+    "spatial": "marks or things set one after another in a single direction"
+  }
+}

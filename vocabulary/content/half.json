@@ -1,0 +1,35 @@
+{
+  "word": "mepe",
+  "gloss": "half",
+  "ipa": "/ˈme̞.pe̞/",
+  "syllables": [
+    "me",
+    "pe"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "one of two equal parts",
+    "halve"
+  ],
+  "description": "A 'mepe' is one of two equal parts of a thing, a span, or a group: two people share a loaf and cut it so that neither piece is bigger. 'phanoi' (portion) is a part of any size. The word belongs to everyday speech and is no numeral, so an exact fraction in a record or a recipe keeps its own notation.",
+  "articulatory_notes": "Voiced 'm' is hummed behind closed lips, which open on stressed mid front 'e'. A second closure, this time without voice, makes 'p', and the same vowel follows unstressed.",
+  "sound_symbolism": "Two lip consonants and one vowel said twice: the word comes close to being two equal parts itself.",
+  "usage_notes": "The whole stands before it: 'napa mepe' (half the bread), 'philo mepe' (half a day). People and countable things are plural there: 'lo miona mepe' (half of the people). Cutting a thing in half is 'muo wi mepe' with 'kati' (cut) or 'pisha' (split).",
+  "examples": [
+    {
+      "phi": "mia napa mepe to nuola.",
+      "translation": "I ate half the bread."
+    },
+    {
+      "phi": "lo miona mepe to manolu. tasa mepe to wepu.",
+      "translation": "Half of the people stayed. The other half left."
+    },
+    {
+      "phi": "no muo wi mepe ku ha lureko kati.",
+      "translation": "Cut this fruit into two halves."
+    }
+  ],
+  "semantic_domains": {
+    "quantity": "one of two equal parts of a whole"
+  }
+}
