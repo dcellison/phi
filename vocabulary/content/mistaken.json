@@ -11,12 +11,14 @@
   "search_terms": [
     "in error",
     "factually wrong",
-    "incorrectly understood"
+    "incorrectly understood",
+    "false",
+    "untrue"
   ],
   "description": "'phelira' says that a person, belief, statement, or direction contains an error or has departed from the relevant facts. It names a correctable state, not moral fault or anyone's worth. 'kanelu' (err) is the event of making an error, 'telua' (accurate) gives the corresponding quality of agreement, and 'theali' (fitting) asks another question about context or purpose.",
   "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then use true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l' and continue into stressed unrounded high-front 'i'. Make a tap or short trill at the same ridge for 'r', then finish with open unrounded 'a'.",
   "sound_symbolism": "A soft bilabial breath moves into the liquid centre of 'li', then the tongue returns for the tap of 'r' before broad 'a'. The course bends without becoming harsh, a shape that can recall noticing an error and turning towards repair.",
-  "usage_notes": "The word belongs with a stated belief, claim, perception, calculation, or course. It also serves a calm self-correction: 'mia phelira nai' says I am mistaken without shame or evasion.",
+  "usage_notes": "The word belongs with a stated belief, claim, perception, calculation, or course. It also serves a calm self-correction: 'mia phelira nai' says I am mistaken without shame or evasion. A false statement is 'phelira haolu'. Something that only passes for the real thing takes 'shewo ma nai'.",
   "examples": [
     {
       "phi": "mia phelira nai.",

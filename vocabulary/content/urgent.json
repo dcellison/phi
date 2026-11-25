@@ -1,0 +1,36 @@
+{
+  "word": "hatura",
+  "gloss": "urgent",
+  "ipa": "/hä.ˈt̪u.rä/",
+  "syllables": [
+    "ha",
+    "tu",
+    "ra"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "pressing",
+    "cannot wait",
+    "urgency"
+  ],
+  "description": "What is 'hatura' has to be met soon, because waiting lets a harm or a loss grow: the pot boiling over, the child walking toward the riverbank. Urgency is about how little time a matter leaves, whatever its size, so a small leak can be urgent while a great question waits. 'noetha' (essential) is what cannot be done without, and 'hatura' is what cannot be put off.",
+  "articulatory_notes": "An open glottis lets breath through for 'h' on open central 'a'. The tongue tip stops the air at the upper teeth for 't' and releases into stressed high back 'u' with the lips closely rounded. One tap on the ridge gives 'r', and the jaw opens again for the final 'a'.",
+  "usage_notes": "'hatura riola' is urgent work. As a predicate it comes before 'nai', and 'wei' (DAT) can add the person asked to act. The quality noun is urgency. When the danger is already here, the cry is 'teo' (watch out).",
+  "examples": [
+    {
+      "phi": "ha hatura nai. no nosa shua.",
+      "translation": "This is urgent. Come now."
+    },
+    {
+      "phi": "ha riola hatura ma nai. thia po therilu.",
+      "translation": "This work is not urgent. You can rest."
+    },
+    {
+      "phi": "mia hatura thilou phelu.",
+      "translation": "I have an urgent question."
+    }
+  ],
+  "semantic_domains": {
+    "temporal": "how little time a matter leaves before it has to be met"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "word": "tetaru",
+  "gloss": "opposite",
+  "ipa": "/t̪e̞.ˈt̪ä.ru/",
+  "syllables": [
+    "te",
+    "ta",
+    "ru"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "contrary",
+    "reverse",
+    "facing"
+  ],
+  "description": "North is 'tetaru' to south, and hard is 'tetaru' to easy. Each pair sits at the two ends of one line: a direction and the way back, a quality and its reverse, a riverbank and the bank that faces it. Opposites share the line they are on, which is why hot has an opposite and a stone has none. 'phirae' (different) finds any distinction at all.",
+  "articulatory_notes": "The tongue tip meets the backs of the upper teeth twice. The first 't' releases into mid front 'e', and the second into stressed open central 'a' as the jaw drops. A single tap of the tip on the ridge makes 'r', and the lips round closely for high back 'u'.",
+  "sound_symbolism": "The word says 't' twice and follows it with a different vowel each time, which a speaker may hear as two unlike things on one stem.",
+  "usage_notes": "Before a noun it picks out the facing or reverse one: 'tetaru kerime' (the opposite shore), 'tetaru keiro' (the opposite way). As a predicate it stands before 'nai', and 'lue' (ABL) marks the other end, as it does with 'phirae'. In noun position 'tetaru' is the opposite of something already said.",
+  "examples": [
+    {
+      "phi": "nitho lue ronua tetaru nai.",
+      "translation": "North is the opposite of south."
+    },
+    {
+      "phi": "lo shia mua tetaru kerime menui.",
+      "translation": "They live on the opposite shore."
+    },
+    {
+      "phi": "mia tha shia so naweri tho to remo. tetaru thena to sute.",
+      "translation": "I thought they would refuse. The opposite happened."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "the far end of a scale on which two qualities are compared",
+    "spatial": "the facing side of a river, a road, or a room, and the direction that reverses another"
+  }
+}

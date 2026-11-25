@@ -44,10 +44,14 @@ Three of the four measure against `nosa`, now: until now, until now and not, bef
 | at once, immediately | `pheo mu thimu` | `lo mia pheo mu thimu to wepu.` (We left at once.) |
 | soon | `pheo teku shemu`, with `so` | `melu pheo teku shemu so kamo.` (The friend will arrive soon.) |
 | as soon as | a `pheo` clause, then `pheo mu thimu` | `pheo melu to kamo lo mia pheo mu thimu to wepu.` (As soon as the friend arrived, we left.) |
+| early | `phoe theali thimu` | `pheralu phoe theali thimu to shua.` (The rain came early.) |
+| late | `pheo theali thimu` | `melu pheo theali thimu to kamo.` (The friend arrived late.) |
 | since then | `lue` with a time, then `tei nosa` | `mia lue ra philo tei nosa shia ma nila.` (I have not seen them since that day.) |
 | since something happened | a `pheo` clause, then `tei nosa` | `pheo melu to wepu mia tei nosa ma nulae.` (I have not slept since the friend left.) |
 
 `pheo mu thimu` is after zero time, a count that comes to nothing. It says how short the wait was. How fast the going was is `reshi`, and the two can disagree.
+
+Early and late measure against `theali thimu`, the fitting time: when the rain was looked for, or when the meal was to begin. Phi keeps no clock to be late by, so the standard is whatever the speakers took to be the right moment. The early part of a span is a different matter and is simply its beginning, as in `kelua thorui` for early morning.
 
 ## Adding, excepting, replacing
 

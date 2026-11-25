@@ -1,0 +1,43 @@
+{
+  "word": "kothe",
+  "gloss": "problem",
+  "ipa": "/ˈko̞.θe̞/",
+  "syllables": [
+    "ko",
+    "the"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "difficulty",
+    "trouble",
+    "issue"
+  ],
+  "description": "The cart has a cracked wheel and the harvest is ready. That is a 'kothe': a state of affairs lying between people and something they need, and it will lie there until someone answers it. The word is about the wheel and the harvest, whoever was driving. Module 'kiphira' (fault) is the technical condition under a failure, and 'tupeka' (burden) is the weight a person bears.",
+  "articulatory_notes": "The back of the tongue closes on the soft palate for 'k' and releases into stressed mid back 'o' with the lips rounded. The tongue tip then comes forward to the edge of the upper teeth, breath hisses through the gap for voiceless 'th', and the lips relax for mid front 'e'.",
+  "usage_notes": "Someone with a problem holds it: 'mia kothe phelu'. The question 'kothe hina nai' asks what the problem is. People find a way through with 'keiro hekawi' and mend a broken thing with 'whori' (mend) or 'shiroka' (repair).",
+  "examples": [
+    {
+      "phi": "kothe hina nai.",
+      "translation": "What is the problem?"
+    },
+    {
+      "phi": "mia kothe phelu. wa thia po naphe.",
+      "translation": "I have a problem. Can you help?"
+    },
+    {
+      "phi": "ha kothe whalo ma nai.",
+      "translation": "This is not a big problem."
+    },
+    {
+      "phi": "lo mia roa ha kothe so haolu.",
+      "translation": "We will talk about this problem."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A difficulty set between people can be faced by both of them from one side. 'kothe' gives it that place: the trouble is the cracked wheel, and never the neighbor who drove the cart."
+  },
+  "semantic_domains": {
+    "activity": "whatever stands in the way of something people are trying to do",
+    "cognition": "a matter that has to be worked out before things can go on"
+  }
+}

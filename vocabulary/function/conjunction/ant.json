@@ -12,12 +12,13 @@
     "prior",
     "earlier",
     "ago",
-    "already"
+    "already",
+    "early"
   ],
   "description": "'phoe' orders two events as before. The dependent clause following it supplies the later reference event, and the main clause states what happens earlier. Over a time phrase, it places an event before that span or moment.",
   "articulatory_notes": "Narrow the space between the lips and let unvoiced air pass for 'ph', then round them around mid-back 'o'. Preserve the syllable break while the lips unround and the tongue moves forward into middle-height 'e'. Stress 'pho'.",
   "sound_symbolism": "'phoe' answers 'pheo' (POST) with the same initial consonant and its vowels in reverse. The small audible turn helps the ear keep before and after apart.",
-  "usage_notes": "In clause use, the verb at the end of the dependent event marks where the main assertion begins; no closer appears. With a counted time phrase in adjunct position, 'to' (PST) on the main verb points backward from now. 'phoe ra thimu' is before that time. Like 'pheo' (POST), it stands over a clause or a time noun and over nothing else. 'phoe nosa' is before now; add 'ki' (PFV) to the verb and the sentence means already.",
+  "usage_notes": "In clause use, the verb at the end of the dependent event marks where the main assertion begins; no closer appears. With a counted time phrase in adjunct position, 'to' (PST) on the main verb points backward from now. 'phoe ra thimu' is before that time. Like 'pheo' (POST), it stands over a clause or a time noun and over nothing else. 'phoe nosa' is before now; add 'ki' (PFV) to the verb and the sentence means already. 'phoe theali thimu' (before the fitting time) is early.",
   "examples": [
     {
       "phi": "phoe mia sheluo mia thilonu.",

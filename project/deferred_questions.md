@@ -101,6 +101,18 @@ D137 coins `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki`
 
 Several of these texts are certified. A changed unit there needs fresh source-blind derivation under D102. The primer, the pamphlets, and the Short Road do not teach the six words. What brings this back: the maintainer's word that the language-level items of the November 2026 assessment are settled.
 
+D138 coins `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposite), `hatura` (urgent), and `sekuna` (accuse), and records how ten other words are already said. The same parking applies and nothing in the texts was changed. Each list is again a word match on the source line, so every unit needs reading against its source. No source line says problem, urgent, blame, or accuse.
+
+- Kind of or sort of, to be read for `rese`; several of these use `kire`, and a hedging "a kind of" rightly keeps `phea`: `news_from_nowhere/chapter_02` 163; `chapter_03` 157, 159, 162, 168, 195; `chapter_04` 83, 98; `chapter_05` 243, 257; `chapter_06` 4, 11, 51, 65; `velveteen_rabbit` 198, 284.
+- Opposite or contrary, to be read for `tetaru`: `news_from_nowhere/chapter_01` 63; `chapter_03` 12; `chapter_04` 62; `tao_te_ching` 4.
+- Avoid, now `hanelo`: `solarpunk_manifesto` 13.
+- False, to be read for `phelira` before the noun; the Heart Sutra line is the relative-clause chain the assessment quoted: `heart_sutra` 30; `solarpunk_manifesto` 4.
+- Early and late, to be read against `phoe theali thimu`, `pheo theali thimu`, `thorui`, and `lumae`: `news_from_nowhere/chapter_01` 35; `chapter_02` 16, 25, 62, 176, 181; `chapter_03` 83, 165; `chapter_04` 69, 97; `chapter_05` 132, 186, 187; `chapter_06` 46, 98; `tao_te_ching` 46; `velveteen_rabbit` 321.
+- Expect and guess, to be read against `ho`, `remo` with `so`, `hasi`, and `hiru`: `news_from_nowhere/chapter_01` 6; `chapter_02` 33, 58; `chapter_04` 3, 82, 83, 106; `chapter_06` 4.
+- Remind, similar, succeed, survive, and important, which the texts already render by the recorded devices and which need only a confirming read: `news_from_nowhere/chapter_03` 16, 102, 209; `chapter_06` 112; `tao_te_ching` 28, 29.
+
+The primer, the pamphlets, and the Short Road do not teach these six words either.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.
