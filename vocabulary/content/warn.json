@@ -1,0 +1,38 @@
+{
+  "word": "teoki",
+  "gloss": "warn",
+  "ipa": "/t̪e̞.ˈo̞.ki/",
+  "syllables": [
+    "te",
+    "o",
+    "ki"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "caution",
+    "alert",
+    "warning"
+  ],
+  "description": "A loose stone is about to fall and someone calls 'teo'. Telling a neighbor the day before that the wall is loose is 'teoki'. The verb tells a person of a danger or a likely harm early enough for them to act, and it leaves the acting to them. 'shane' (tell) passes on any account; 'teoki' is telling for the sake of someone's safety.",
+  "articulatory_notes": "The tongue tip releases from the upper teeth for 't' into mid front 'e', and the lips round for a separate, stressed mid back 'o'. The back of the tongue then closes on the soft palate for 'k' and opens into high front 'i'. Stress falls on 'o', the middle of three syllables.",
+  "sound_symbolism": "The cry 'teo' (watch out) is audible in the first two syllables of 'teoki', so the verb sounds like what it reports.",
+  "usage_notes": "The person warned stands directly before 'teoki', and 'roa' (AROUND) can name the danger: 'mia roa luphore thia teoki' (I warn you about the river). The danger can also follow in a sentence of its own. In noun position 'teoki' is a warning. Module 'shanewi' (notify) is formal notice under an arrangement.",
+  "examples": [
+    {
+      "phi": "wheo roa reshi luphore lo lopia to teoki.",
+      "translation": "The elder warned the children about the fast river."
+    },
+    {
+      "phi": "mia thia teoki. ha repha kema ma nai.",
+      "translation": "I warn you: this bridge is not strong."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A warning names the danger and stops there. Whether to turn back or go on stays with the person warned."
+  },
+  "semantic_domains": {
+    "communication": "telling someone of a danger before it reaches them",
+    "ethics": "care for another person's safety that leaves the choice with them"
+  }
+}

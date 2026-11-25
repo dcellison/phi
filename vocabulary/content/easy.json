@@ -1,0 +1,36 @@
+{
+  "word": "seme",
+  "gloss": "easy",
+  "ipa": "/ˈse̞.me̞/",
+  "syllables": [
+    "se",
+    "me"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "effortless",
+    "not hard",
+    "ease"
+  ],
+  "description": "A path is 'seme' when walking it asks little of the walker, and a task is 'seme' when it can be done without strain. The word is about effort, measured against the one doing the thing. 'siloma' (simple) counts parts and steps, so a simple job may still be hard. For effort its opposite is 'kethua' (hard).",
+  "articulatory_notes": "Both syllables keep the tongue forward. Voiceless alveolar 's' opens into stressed mid front 'e', the lips close for nasal 'm', and the vowel is said again without stress.",
+  "sound_symbolism": "Its two syllables share one vowel and neither asks the tongue to travel far, so the word is itself easy to say.",
+  "usage_notes": "As a predicate it stands before 'nai', and 'wei' (DAT) names the one for whom the thing is easy. Directly before a verb, inside the Slot 1 block, it is manner: 'to seme kalei' (climbed easily). The quality noun is ease.",
+  "examples": [
+    {
+      "phi": "ha ruela seme nai.",
+      "translation": "This path is easy."
+    },
+    {
+      "phi": "ha riola wei mia seme nai.",
+      "translation": "This work is easy for me."
+    },
+    {
+      "phi": "lopia molira to seme kalei.",
+      "translation": "The child climbed the hill easily."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "how little effort a task or a route asks of the one doing it"
+  }
+}

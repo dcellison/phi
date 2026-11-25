@@ -1,6 +1,6 @@
 # Finding the small word
 
-A child laughs, stops, and laughs again. Halfway through putting a morning like that into Phi, a learner looks up still, already, even, and unless, and finds no entry for any of them. English keeps a drawer of such words. Phi gives one of them a word of its own, `ture` for again, and builds the rest from words you already know.
+A child laughs, stops, and laughs again. Halfway through putting a morning like that into Phi, a learner looks up still, already, even, and unless, and finds no entry for any of them. English keeps a drawer of such words. Phi gives two of them words of their own, `ture` for again and `tasa` for other, and builds the rest from words you already know.
 
 This page is the registry for those builds. The left column is what you want to say, the middle column is how Phi makes it, and the example shows it in a sentence. Each line is settled, so two speakers who need the same small word will make it the same way.
 
@@ -14,6 +14,17 @@ This page is the registry for those builds. The left column is what you want to 
 | back again | the verb `turema` | `melu to turema.` (The friend came back.) |
 
 `ture` stands with the manner words, after any particles and against the verb. `we` is a different tool. It adds someone or something else, and it has its own table below.
+
+## Saying which one
+
+| You want to say | Reach for | Example |
+|---|---|---|
+| the other, the others | `tasa`, before the noun | `ta tupiwa to tupi. lo tasa tupiwa to manolu.` (One rabbit jumped. The other rabbits stayed.) |
+| something else, someone else | `tasa` with `thena` or `miona` | `wa thia tasa thena rinu.` (Do you want anything else?) |
+| the other one, with no noun | the pronoun `hia` | `wheo wei lopia to haolu. hia to hola.` (The elder spoke to the child. The child laughed.) |
+| a different one | `phirae` | `mia phirae ruela rinu.` (I want a different path.) |
+
+English "another" is three words in Phi. One more of the same is `ture`, one unlike this is `phirae`, and the one left over is `tasa`.
 
 ## Saying where things stand
 

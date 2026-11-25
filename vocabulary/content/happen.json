@@ -1,0 +1,36 @@
+{
+  "word": "sute",
+  "gloss": "happen",
+  "ipa": "/ˈsu.t̪e̞/",
+  "syllables": [
+    "su",
+    "te"
+  ],
+  "pos": "verb",
+  "valency": "intransitive",
+  "search_terms": [
+    "occur",
+    "take place",
+    "event"
+  ],
+  "description": "A branch falls in the night and nobody did it. It happened. 'sute' says that an event took place, with the event or the thing that occurred as its subject. 'phoa' (do) needs someone acting, and 'sute' needs only the event. In noun position it is a happening.",
+  "articulatory_notes": "A narrow alveolar groove makes voiceless 's' while the lips round closely for stressed high back 'u'. The tongue tip then stops the air at the upper teeth for 't' and releases into mid front 'e' with the lips relaxed.",
+  "usage_notes": "'sute' is intransitive. The one an event befalls takes 'wei' (DAT): 'ha wei mia to sute' (this happened to me). 'hina to sute' asks what happened. What exists or holds is 'nai' (be), and something turning into a state is 'kelu' (become).",
+  "examples": [
+    {
+      "phi": "hina to sute.",
+      "translation": "What happened?"
+    },
+    {
+      "phi": "ta kuewa thena mua shelira to sute.",
+      "translation": "A strange thing happened in the forest."
+    },
+    {
+      "phi": "ha sheloi shemu ro sute.",
+      "translation": "This often happens."
+    }
+  ],
+  "semantic_domains": {
+    "temporal": "an event's taking place at some time"
+  }
+}

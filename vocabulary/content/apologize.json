@@ -1,0 +1,38 @@
+{
+  "word": "soaru",
+  "gloss": "apologize",
+  "ipa": "/so̞.ˈä.ru/",
+  "syllables": [
+    "so",
+    "a",
+    "ru"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "say sorry",
+    "apology",
+    "make amends"
+  ],
+  "description": "'soa' is the word said in the moment, and 'soaru' is the act: going to the person harmed and owning what one did. An apology states regret and responsibility to the one it concerns. The mending is further work, for which 'whori' (mend) or module 'helolu' (redress) may follow, and 'tholira' (forgive) is the other person's to give.",
+  "articulatory_notes": "Voiceless alveolar 's' opens into mid back rounded 'o', and the jaw drops for a separate, stressed open 'a'. The tongue tip taps once for 'r' and the lips round closely for final 'u'.",
+  "sound_symbolism": "'soaru' begins with the whole of 'soa' (sorry) and goes on past it, as an apology goes on past the word.",
+  "usage_notes": "The person apologized to stands directly before 'soaru', as with 'whaline' (thank), and a 'lao' clause before the sentence can say what the apology is for. In noun position 'soaru' is an apology.",
+  "examples": [
+    {
+      "phi": "mia thia soaru.",
+      "translation": "I apologize to you."
+    },
+    {
+      "phi": "lopia ku wheo to soaru.",
+      "translation": "The child apologized to the elder."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Repair begins when the one who caused harm says so to the one harmed. 'soaru' is that step, kept apart from forgiveness so that neither can be claimed for the other."
+  },
+  "semantic_domains": {
+    "communication": "saying to someone that one regrets a harm and owns it",
+    "ethics": "taking responsibility before the person who was harmed"
+  }
+}

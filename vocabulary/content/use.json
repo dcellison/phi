@@ -1,0 +1,36 @@
+{
+  "word": "pumi",
+  "gloss": "use",
+  "ipa": "/ˈpu.mi/",
+  "syllables": [
+    "pu",
+    "mi"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "employ",
+    "make use of",
+    "borrow"
+  ],
+  "description": "Someone picks up a chisel to cut wood, or takes a boat to get across the river. Each is put to work for an end, and 'pumi' is that putting to work: it employs a thing as the means of doing something. 'roe' (INS) names the means inside a sentence about some other action.",
+  "articulatory_notes": "The lips close and release for voiceless 'p' into stressed high back rounded 'u'. They close again for 'm', with the voice passing through the nose, and open on unrounded high front 'i'.",
+  "usage_notes": "The thing used is the direct object, and a 'lila' clause before the sentence can give the purpose. Passive 'se pumi' says that something is in use. With 'po' and a 'tei' phrase it asks for the loan of a thing: 'wa mia tei wireo philo thia kiru po pumi' (may I use your chisel until tomorrow). In noun position 'pumi' is use. Module 'ruweli' (access) concerns reaching and using something provided under conditions.",
+  "examples": [
+    {
+      "phi": "wa mia thia luphonu po pumi.",
+      "translation": "May I use your boat?"
+    },
+    {
+      "phi": "mia serao kiru pumi.",
+      "translation": "I use an old chisel."
+    },
+    {
+      "phi": "ha tomi sui sheloi torua to se pumi.",
+      "translation": "This pot was used for many years."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "putting a tool, a material, or any means to work"
+  }
+}
