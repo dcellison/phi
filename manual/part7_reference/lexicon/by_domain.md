@@ -823,7 +823,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (275)
+## community (276)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -896,6 +896,7 @@
 | `menui` | dwell | residence among other people or beings in a place |
 | `meropi` | cherish | tender regard sustained within a particular relationship |
 | `miona` | person | a human participant in social and relational life |
+| `mipi` | baby | the youngest person in a family or household, in everyone's care |
 | `mirewu` | private | a personal or shared boundary respected by other people |
 | `misharo` | consult | considering an affected person's knowledge or experience |
 | `misheko` | cat | a cat participating in or near human households |
@@ -2476,7 +2477,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (159)
+## temporal (160)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2533,6 +2534,7 @@
 | `meluna` | season | a recurring portion of the year |
 | `meluri` | climate | conditions analyzed over an explicitly long period |
 | `mikasu` | dose | an amount tied to one administration |
+| `mipi` | baby | the first span of a person's life, before walking and speech |
 | `mirela` | state | conditions attributed to a particular time |
 | `moenu` | culture | learned practices carried forward while continuing to change |
 | `molei` | evolve | many changes accumulating over an extended span |

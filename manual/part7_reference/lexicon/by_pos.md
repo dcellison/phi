@@ -322,7 +322,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (583)
+## noun (584)
 
 | Word | Gloss |
 |---|---|
@@ -509,6 +509,7 @@
 | `milaro` | message |
 | `milura` | milk |
 | `miona` | person |
+| `mipi` | baby |
 | `mirae` | eye |
 | `mirela` | state |
 | `mirulo` | berry |
