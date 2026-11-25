@@ -1,0 +1,35 @@
+{
+  "word": "rese",
+  "gloss": "sort",
+  "ipa": "/ˈre̞.se̞/",
+  "syllables": [
+    "re",
+    "se"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "kind",
+    "type",
+    "variety"
+  ],
+  "description": "A basket can hold two 'rese' of apple: the sour green ones and the yellow ones that keep until spring. A 'rese' is a set of things alike in some way that marks them off from others of the same name. The likeness is whatever the speaker is sorting by, and a neighbor may sort the same basket another way. For the biological grouping that a stated source defines, the word is module 'likori' (species).",
+  "articulatory_notes": "The tongue tip taps the ridge once for 'r' and drops into stressed mid front 'e'. Air then runs along a narrow groove in the tongue for voiceless 's', and the same vowel comes back unstressed.",
+  "usage_notes": "'rese' comes before the noun it sorts, after 'ha' (PROX) or 'hina' (what): 'ha rese lureko' (this sort of fruit), 'hina rese miona' (what sort of person). To count sorts, put the noun first: 'wi lureko rese' (two sorts of fruit). The loose English 'a kind of', said when a name only nearly fits, is 'phea' (AS).",
+  "examples": [
+    {
+      "phi": "thia hina rese hasumi rinu.",
+      "translation": "What sort of tea would you like?"
+    },
+    {
+      "phi": "mia ha rese riola kaeli.",
+      "translation": "I like this sort of work."
+    },
+    {
+      "phi": "mua ha thepalu wi lureko rese nai.",
+      "translation": "There are two sorts of fruit in this garden."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "grouping things by a likeness the speaker has picked out"
+  }
+}

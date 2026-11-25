@@ -8,11 +8,12 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (223)
+## adjective (225)
 
 | Word | Gloss |
 |---|---|
 | `hasoru` | pending |
+| `hatura` | urgent |
 | `heloi` | generous |
 | `helu` | smooth |
 | `hewasu` | audible |
@@ -179,6 +180,7 @@
 | `tekari` | straight |
 | `teku` | short |
 | `telua` | accurate |
+| `tetaru` | opposite |
 | `thaemo` | precious |
 | `thaemu` | sincere |
 | `thasu` | modest |
@@ -320,7 +322,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (581)
+## noun (583)
 
 | Word | Gloss |
 |---|---|
@@ -412,6 +414,7 @@
 | `korua` | heart |
 | `kosha` | field |
 | `koshira` | grove |
+| `kothe` | problem |
 | `kowanu` | governance |
 | `kowela` | council |
 | `kulai` | tooth |
@@ -699,6 +702,7 @@
 | `remotha` | reason |
 | `remuma` | conclusion |
 | `repha` | bridge |
+| `rese` | sort |
 | `reteru` | model |
 | `rewa` | oar |
 | `rimawu` | drudgery |
@@ -1015,13 +1019,14 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (371)
+## verb (373)
 
 *The last column says what each verb takes. A verb marked either way lets the thing affected stand alone as its subject or be the object of whoever acts on it.*
 
 | Word | Gloss | Takes |
 |---|---|---|
 | `halemu` | remember | a subject and an object |
+| `hanelo` | avoid | a subject and an object |
 | `haolu` | speak | a subject and an object |
 | `haromi` | meet | a subject and an object |
 | `hasi` | wait | a subject |
@@ -1234,6 +1239,7 @@
 | `sano` | know | a subject and an object |
 | `sawa` | wash | a subject and an object |
 | `sekaru` | transfer | a subject and an object |
+| `sekuna` | accuse | a subject and an object |
 | `selomi` | weave | a subject and an object |
 | `selu` | flow | a subject |
 | `seluto` | pour | a subject and an object |

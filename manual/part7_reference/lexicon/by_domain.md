@@ -8,10 +8,11 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (331)
+## activity (333)
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `hanelo` | avoid | keeping clear of a thing, a place, or an outcome on purpose |
 | `haromi` | meet | encountering another participant in concurrent presence or exchange |
 | `hasenu` | recess | a pause held inside a larger proceeding |
 | `hasi` | wait | continuing through an interval in expectation |
@@ -60,6 +61,7 @@
 | `kolupe` | bucket | a handled container used while carrying liquid or loose material |
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `korei` | fulfill | a purpose or undertaking carried into actual performance |
+| `kothe` | problem | whatever stands in the way of something people are trying to do |
 | `kowanu` | governance | the continuing practice through which collective decisions are made and carried out |
 | `kuneshi` | kneel | work and attention carried out close to the ground |
 | `kupe` | hide | deliberately placing a person or thing beyond an observer's perception |
@@ -422,7 +424,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (247)
+## cognition (250)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -463,6 +465,7 @@
 | `kithero` | diagnose | forming a clinical conclusion from evidence and criteria |
 | `koewi` | input | information or influence classified relative to an analytical boundary |
 | `koluri` | reliable | an evidence-bounded claim about performance under conditions |
+| `kothe` | problem | a matter that has to be worked out before things can go on |
 | `kuelo` | curious | interest directed towards learning or examining what is not yet known |
 | `kuewa` | strange | something outside a stated person's or community's present familiarity |
 | `kupela` | secret | information known by some people and deliberately withheld from others |
@@ -562,6 +565,7 @@
 | `remotha` | reason | a consideration used to justify a belief, claim, choice, or action |
 | `remuma` | conclusion | the proposition reached from stated premises |
 | `reo` | meaning | a sense understood in relation to an expression or symbol |
+| `rese` | sort | grouping things by a likeness the speaker has picked out |
 | `reteru` | model | a structured representation used for explanation, comparison, exploration, or prediction |
 | `rinu` | want | directing ordinary desire towards a thing, action, or outcome |
 | `romishe` | contemplate | sustained consideration directed towards a subject or question |
@@ -617,6 +621,7 @@
 | `telua` | accurate | agreement between a representation and the fact or reference it represents |
 | `teru` | process | ordered handling of information |
 | `terura` | system | a bounded unit selected for analysis and explanation |
+| `tetaru` | opposite | the far end of a scale on which two qualities are compared |
 | `theali` | fitting | a contextual judgement of suitability rather than factual accuracy |
 | `thekao` | acknowledge | recognising a person, message, act, or account as present |
 | `thekopa` | recipe | remembered or recorded knowledge for preparing food |
@@ -674,7 +679,7 @@
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 | `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
-## communication (138)
+## communication (139)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -752,6 +757,7 @@
 | `repora` | propose | putting a possible action before others for response |
 | `roela` | scroll | a rolled carrier that can hold writing or images |
 | `samethu` | equivalent | comparison between different expressions or formats |
+| `sekuna` | accuse | saying that a named person is answerable for a harm |
 | `selomi` | weave | the established extension from interlaced thread to a story woven from events |
 | `seniku` | smile | a visible facial expression interpreted within an interaction |
 | `sepho` | send | sending a message, letter, or other communicative object |
@@ -1370,10 +1376,11 @@
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 | `wurashi` | crave | desire experienced as pressure that is hard to set aside |
 
-## ethics (40)
+## ethics (42)
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `hanelo` | avoid | holding back from an act judged harmful |
 | `heloi` | generous | readiness to give or share without erasing the giver's own limits |
 | `kasuno` | selfish | one's own gain given priority over another person's relevant interests |
 | `kawhera` | coerce | the removal of practical choice through power or threat |
@@ -1395,6 +1402,7 @@
 | `renoa` | liberate | an imposed constraint removed so that another person's course opens |
 | `rolia` | worth | a claim of worth independent of utility, rank, or merit earned |
 | `ruesha` | compassionate | a response that treats suffering as a reason for concern and possible care |
+| `sekuna` | accuse | holding someone to answer for what was done |
 | `serathi` | principled | fidelity between ethical commitment and conduct when the commitment is tested |
 | `sharino` | conscience | moral self-appraisal of intended or completed conduct |
 | `sherelo` | right (normative) | a claim that can place a duty or limit on conduct |
@@ -2278,7 +2286,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (184)
+## spatial (185)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2421,6 +2429,7 @@
 | `tekari` | straight | a course that does not curve or turn over the relevant extent |
 | `teku` | short | limited end-to-end extent in a path or object |
 | `teshori` | quarantine | a temporary boundary around contact and movement |
+| `tetaru` | opposite | the facing side of a river, a road, or a room, and the direction that reverses another |
 | `thalo` | walk | a walking route across a place |
 | `thaluro` | ocean | a global water expanse divided into named regions by convention |
 | `thelomi` | lake | water contained within a surrounding area of land |
@@ -2467,7 +2476,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (158)
+## temporal (159)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2475,6 +2484,7 @@
 | `hasenu` | recess | a bounded interval with an expected return |
 | `hasi` | wait | an interval oriented towards a later person, event, or condition |
 | `hasoru` | pending | an open matter whose status may change after a later event |
+| `hatura` | urgent | how little time a matter leaves before it has to be met |
 | `helanu` | recover | an uneven health course unfolding over time |
 | `helia` | youth | the life period between childhood and adulthood |
 | `helui` | change | difference between an earlier and a later state |

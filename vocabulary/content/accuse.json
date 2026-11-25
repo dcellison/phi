@@ -1,0 +1,45 @@
+{
+  "word": "sekuna",
+  "gloss": "accuse",
+  "ipa": "/se̞.ˈku.n̪ä/",
+  "syllables": [
+    "se",
+    "ku",
+    "na"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "blame",
+    "hold responsible",
+    "accusation"
+  ],
+  "description": "To 'sekuna' is to name a person as the one answerable for a harm or a wrong, aloud before others or silently to oneself: the jar is broken, and one child points at the other. The naming is all the verb reports, and its truth stays open. What was seen and who was present are 'thesori' (evidence), and they belong to the sentences that follow.",
+  "articulatory_notes": "A narrow groove along the tongue makes voiceless 's', which opens into mid front 'e'. The tongue's back rises to the soft palate, holds the air for 'k', and lets it go into stressed high back 'u' as the lips round. The tip then touches the upper teeth for dental 'n', voice passing through the nose, and the word ends on open central 'a'.",
+  "usage_notes": "The person named stands directly before 'sekuna', and 'roa' (AROUND) names the matter: 'shia roa ha pukate mia to sekuna' (they blamed me for this breakage). With 'miso' (REFL) the blame is turned on oneself. In noun position 'sekuna' is an accusation or blame. Someone who takes a matter up willingly is 'thonai' (responsible).",
+  "examples": [
+    {
+      "phi": "no ku lopia ma sekuna.",
+      "translation": "Do not blame the child."
+    },
+    {
+      "phi": "shia roa ha pukate mia to sekuna.",
+      "translation": "They blamed me for this breakage."
+    },
+    {
+      "phi": "ta miona ku woru to sekuna. sila thesori to sheraki.",
+      "translation": "Someone accused the keeper. The community looked for evidence."
+    },
+    {
+      "phi": "mia miso ma sekuna.",
+      "translation": "I do not blame myself."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Accountability needs a way to say who is being held answerable, and fairness needs that saying kept apart from proof. 'sekuna' does the first and claims nothing about the second."
+  },
+  "semantic_domains": {
+    "communication": "saying that a named person is answerable for a harm",
+    "ethics": "holding someone to answer for what was done"
+  }
+}

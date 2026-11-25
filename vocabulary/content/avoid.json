@@ -1,0 +1,41 @@
+{
+  "word": "hanelo",
+  "gloss": "avoid",
+  "ipa": "/hä.ˈn̪e̞.lo̞/",
+  "syllables": [
+    "ha",
+    "ne",
+    "lo"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "keep away from",
+    "steer clear of",
+    "refrain from"
+  ],
+  "description": "A walker sees the mud ahead and takes to the grass. To 'hanelo' is to keep clear of something on purpose, whether a place, a person, an act, or an outcome, by going around it or by leaving undone what would bring it about. 'phesari' (flee) leaves a danger that has already arrived, and 'naweri' (refuse) answers something offered. 'hanelo' needs neither: the mud made no offer.",
+  "articulatory_notes": "Breath passes the open glottis for 'h' and takes the shape of open central 'a'. The tongue tip rests on the backs of the upper teeth for voiced dental 'n', which opens into stressed mid front 'e'. The tip then moves up to the ridge for 'l', the voice flows past its sides, and the lips round for final mid back 'o'.",
+  "usage_notes": "Whatever is avoided is the direct object. An act one keeps from doing goes there as an event noun: 'mia peshu hanelo' (I avoid lying). Used as a noun, 'hanelo' is avoidance.",
+  "examples": [
+    {
+      "phi": "mia muphia hanelo.",
+      "translation": "I avoid the mud."
+    },
+    {
+      "phi": "shia sui whoa philo mia to hanelo.",
+      "translation": "They avoided me all day."
+    },
+    {
+      "phi": "no peloma haolu hanelo.",
+      "translation": "Avoid harmful speech."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Right Speech is first taught as four abstentions: from false, divisive, harsh, and idle talk. With an event noun before it, 'hanelo' is how Phi says such an undertaking."
+  },
+  "semantic_domains": {
+    "activity": "keeping clear of a thing, a place, or an outcome on purpose",
+    "ethics": "holding back from an act judged harmful"
+  }
+}

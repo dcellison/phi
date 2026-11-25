@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1314 words.*
+*1320 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | `halemu` | remember | /hä.ˈle̞.mu/ | verb |
 | `halu` | aww | /ˈhä.lu/ | interjection |
 | `haluma` | language | /hä.ˈlu.mä/ | noun |
+| `hanelo` | avoid | /hä.ˈn̪e̞.lo̞/ | verb |
 | `hao` | pardon | /ˈhä.o̞/ | interjection |
 | `haolu` | speak | /hä.ˈo̞.lu/ | verb |
 | `haoni` | voice | /hä.ˈo̞.n̪i/ | noun |
@@ -24,6 +25,7 @@
 | `hasi` | wait | /ˈhä.si/ | verb |
 | `hasoru` | pending | /hä.ˈso̞.ru/ | adjective |
 | `hasumi` | tea | /hä.ˈsu.mi/ | noun |
+| `hatura` | urgent | /hä.ˈt̪u.rä/ | adjective |
 | `he` | IRR | /ˈhe̞/ | particle |
 | `hea` | hear | /ˈhe̞.ä/ | verb |
 | `hei` | hey | /ˈhe̞.i/ | interjection |
@@ -196,6 +198,7 @@
 | `korua` | heart | /ko̞.ˈru.ä/ | noun |
 | `kosha` | field | /ˈko̞.ʃä/ | noun |
 | `koshira` | grove | /ko̞.ˈʃi.rä/ | noun |
+| `kothe` | problem | /ˈko̞.θe̞/ | noun |
 | `kowanu` | governance | /ko̞.ˈwä.n̪u/ | noun |
 | `kowela` | council | /ko̞.ˈwe̞.lä/ | noun |
 | `ku` | OBJ | /ˈku/ | particle |
@@ -778,6 +781,7 @@
 | `reo` | meaning | /ˈre̞.o̞/ | verb |
 | `repha` | bridge | /ˈre̞.ɸä/ | noun |
 | `repora` | propose | /re̞.ˈpo̞.rä/ | verb |
+| `rese` | sort | /ˈre̞.se̞/ | noun |
 | `reshi` | fast | /ˈre̞.ʃi/ | adjective |
 | `reteru` | model | /re̞.ˈt̪e̞.ru/ | noun |
 | `rewa` | oar | /ˈre̞.wä/ | noun |
@@ -830,6 +834,7 @@
 | `sawathi` | soap | /sä.ˈwä.θi/ | noun |
 | `se` | PASS | /ˈse̞/ | particle |
 | `sekaru` | transfer | /se̞.ˈkä.ru/ | verb |
+| `sekuna` | accuse | /se̞.ˈku.n̪ä/ | verb |
 | `selawi` | slippery | /se̞.ˈlä.wi/ | adjective |
 | `seloi` | insightful | /se̞.ˈlo̞.i/ | adjective |
 | `selomi` | weave | /se̞.ˈlo̞.mi/ | verb |
@@ -1026,6 +1031,7 @@
 | `teshilo` | steel | /t̪e̞.ˈʃi.lo̞/ | noun |
 | `teshori` | quarantine | /t̪e̞.ˈʃo̞.ri/ | verb |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
+| `tetaru` | opposite | /t̪e̞.ˈt̪ä.ru/ | adjective |
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |
 | `tha` | DECL.COMP | /ˈθä/ | complementizer |
 | `thaemo` | precious | /θä.ˈe̞.mo̞/ | adjective |
