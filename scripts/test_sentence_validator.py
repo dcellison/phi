@@ -277,6 +277,7 @@ class SentenceParserTest(unittest.TestCase):
         self.assertEqual(["PHS085"], [item.code for item in result.diagnostics])
         self.assertValid("mia sua shua sano.")
         self.assertInvalid("mia sha kia sho remo.", "PHS081")
+        self.assertValid("shia sha mia kumoli nai sho to manushi.")
 
     def test_slot_two_and_quantity_errors(self):
         self.assertInvalid("lo ha melu shua.", "PHS111")

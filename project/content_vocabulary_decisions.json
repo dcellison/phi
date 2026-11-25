@@ -7072,8 +7072,8 @@
       "id": "CV-ORD-57",
       "concept": "translate",
       "status": "compositional",
-      "placement": "module `shoraku`",
-      "summary": "Accessibility `shoraku` conveys meaning between languages or modes while keeping the two expressions distinct, which is translation as well as interpretation. Readers took `mia ha nophi to shoraku` as interpreted or translated this story at 85 and 90 percent. Translate becomes a search term, and the word stays a module word; whether it should be base vocabulary is left to the maintainer.",
+      "placement": "base `shoraku`, moved from the accessibility module",
+      "summary": "`shoraku` conveys meaning between languages or modes while keeping the two expressions distinct, which is translation as well as interpretation. Readers took `mia ha nophi to shoraku` as interpreted or translated this story at 85 and 90 percent. Translate becomes a search term. By the maintainer's instruction of 2026-11-25 the word leaves the accessibility module and becomes base vocabulary, because carrying a text or an utterance into another language is ordinary work for any speaker; the module guide now lists it among the core words it uses.",
       "expressions": [
         "mia ha nophi to shoraku"
       ],
@@ -7084,16 +7084,20 @@
     {
       "id": "CV-ORD-58",
       "concept": "signing: using a signed language",
-      "status": "compositional",
-      "placement": "base `sheori` with `roe manuwe`",
-      "summary": "Noticed while writing the entry for `mihonu`. `haolu` (speak) is defined by the voice and `thorelu` (converse) as spoken conversation, so neither says signing. The mode-neutral verb `sheori` (communicate) does, with the hands as the means. Whether signing should have a verb of its own, or `haolu` and `thorelu` should be widened beyond the voice, is put to the maintainer in the pull request.",
-      "expressions": [
-        "lo mia roe manuwe sheori",
-        "shia roe manuwe wei mia to sheori"
-      ],
+      "status": "implemented",
+      "placement": "base communication vocabulary",
+      "summary": "Noticed while writing the entry for `mihonu`. `haolu` (speak) is defined by the voice and `thorelu` (converse) as spoken conversation, so neither says signing, and the first repair used the mode-neutral `sheori` with the hands as the means. By the maintainer's instruction of 2026-11-25 transitive `manushi`, built audibly on `manuwe` (hand), is to say something in a signed language, with what is signed as its object. By a second ruling the same day it joins canon's quotative frame verbs, so that exact signed words can be quoted.",
       "batches": [
         "ordinary-words-fifth-set"
-      ]
+      ],
+      "implementation": {
+        "words": [
+          "manushi"
+        ],
+        "files": [
+          "vocabulary/content/sign-language.json"
+        ]
+      }
     }
   ],
   "prompt_sources": [

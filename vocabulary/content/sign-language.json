@@ -1,0 +1,41 @@
+{
+  "word": "manushi",
+  "gloss": "sign (language)",
+  "ipa": "/mä.ˈn̪u.ʃi/",
+  "syllables": [
+    "ma",
+    "nu",
+    "shi"
+  ],
+  "pos": "verb",
+  "valency": "transitive",
+  "search_terms": [
+    "use a signed language",
+    "sign language",
+    "signing"
+  ],
+  "description": "Two friends talk across a noisy room without raising their voices: their hands and faces carry every word. To 'manushi' is to say something in a signed language. It stands to such a 'haluma' (language) as 'haolu' (speak) stands to a voiced one, and it takes what is said as its object in the same way.",
+  "articulatory_notes": "The lips close for 'm' and part on open central 'a'. The tongue tip meets the upper teeth for 'n' while the lips round for stressed high back 'u'. The tongue then draws back from the ridge, breath rushes over it for 'sh', and the lips spread on high front 'i'.",
+  "sound_symbolism": "Its first two syllables are those of 'manuwe' (hand), so the hand can be heard in the word.",
+  "usage_notes": "What is signed is the object, and 'wei' (DAT) marks the person signed to. Quoted signing takes 'sha ... sho' and reported signing 'tha ... tho', as speech does. In noun position 'manushi' is signing, or something signed.",
+  "examples": [
+    {
+      "phi": "wa thia po manushi.",
+      "translation": "Can you sign?"
+    },
+    {
+      "phi": "shia wei lopia ku nophi manushi.",
+      "translation": "They sign a story to the child."
+    },
+    {
+      "phi": "shia sha mia kumoli nai sho to manushi.",
+      "translation": "They signed, \"I am hungry.\""
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Signing has a verb of its own beside 'haolu', so a signed sentence is said in full and is never a gesture standing in for speech."
+  },
+  "semantic_domains": {
+    "communication": "producing language in a signed mode"
+  }
+}

@@ -46,7 +46,7 @@ Complementizers are one-syllable function words that introduce subordinate claus
 **Position**: `sha` opens the quoted material; `sho` closes it. The main verb follows `sho`.
 **Structure**: `[Subject] sha [Quote] sho [Verb of speaking or receiving speech]`
 
-The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`) or of receiving speech (`hea`): the quote is bounded by `sho` either way, and hearing exact words is as sayable as speaking them.
+The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`), of signing (`manushi`), or of receiving speech (`hea`): the quote is bounded by `sho` either way, and hearing exact words is as sayable as speaking them.
 
 **`sho` is required.** It marks where the quotation ends so the main verb can follow unambiguously.
 

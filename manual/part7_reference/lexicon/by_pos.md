@@ -1031,7 +1031,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (378)
+## verb (379)
 
 *The last column says what each verb takes. A verb marked either way lets the thing affected stand alone as its subject or be the object of whoever acts on it.*
 
@@ -1116,6 +1116,7 @@
 | `malomi` | balance | a subject and an object |
 | `manawi` | compromise | a subject |
 | `manolu` | stay | a subject |
+| `manushi` | sign (language) | a subject and an object |
 | `masue` | measure | a subject and an object |
 | `masuro` | calibrate | a subject and an object |
 | `meilo` | sit | a subject |

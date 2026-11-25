@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1337 words.*
+*1338 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -342,6 +342,7 @@
 | `malomi` | balance | /mä.ˈlo̞.mi/ | verb |
 | `manawi` | compromise | /mä.ˈn̪ä.wi/ | verb |
 | `manolu` | stay | /mä.ˈn̪o̞.lu/ | verb |
+| `manushi` | sign (language) | /mä.ˈn̪u.ʃi/ | verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
 | `maruko` | bear | /mä.ˈru.ko̞/ | noun |
 | `mashuri` | flesh | /mä.ˈʃu.ri/ | noun |

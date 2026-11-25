@@ -4,7 +4,7 @@ The meeting notice arrives after the meeting has begun. The doorway opens, but t
 
 Accessibility and Participation gives Phi speakers optional words for that route: what can be reached or used, what gets in the way, how information arrives, how time is arranged, and whose direction governs support. It uses ordinary Phi grammar throughout, and a speaker who has not learned it can always ask for a core paraphrase.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 46 words; the complete list is under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation).
+The chapter table below introduces 29 roots. Shared classifications bring the current learning list to 45 words; the complete list is under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation).
 
 ## Core vocabulary used by the module
 
@@ -14,7 +14,7 @@ The module begins with the words already in the room: a new access term does not
 |---|---|
 | Agency | `kanu` choose, `lesawi` consent, `naweri` refuse, `nawo` agree, `kelomi` accept, `thekao` acknowledge, `ralu` free, `phelona` require, `kawhera` coerce, `whepelo` retaliate |
 | Participation | `pawela` participate, `shorema` contribute, `pharune` include, `nuawe` together, `panoru` support, `naphe` help |
-| Communication | `sheori` communicate, `haolu` speak, `hea` hear, `thekiro` write, `theo` read, `shelomu` understand, `lilea` clarify, `shorela` rephrase, `shelao` summarize |
+| Communication | `sheori` communicate, `haolu` speak, `hea` hear, `thekiro` write, `theo` read, `shelomu` understand, `lilea` clarify, `shorela` rephrase, `shoraku` interpret, `shelao` summarize |
 | Time | `thimu` time, `phoe` before, `pheo` after, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow, `winora` plan, `hasoru` pending |
 | Movement and place | `ponu` door, `ruela` path, `shoeka` route, `lokue` place, `koema` enter, `wepu` go, `losha` wide, `hieru` narrow |
 | Safety and evidence | `shurano` safe, `pukea` danger, `masue` measure, `siru` marker, `sirami` record, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption |
@@ -52,7 +52,6 @@ The word leaves the choice of identity with the person. It can sit beside a more
 | `phelotu` | noun | format in which content is presented and received | The format can change while wording, language, and practical effect remain open questions. |
 | `thekasi` | verb | caption speech and meaningful sound in time with an event | `sitheku` can preserve language in writing without following the event's timing. |
 | `sitheku` | verb | transcribe language into stable text | A transcription can stand after the speech; captions travel beside it. |
-| `shoraku` | verb | interpret between languages or communication modes | `shorela` rephrases; interpretation crosses a language or mode boundary. |
 | `palethu` | adjective | tactile enough for touch to do the relevant perceptual work | `palo` names contact; `palethu` names information available through that contact. |
 | `samethu` | adjective | equivalent in a selected meaning, function, or effect | Equivalent forms can remain different; `senao` makes a broader sameness claim. |
 | `thewuni` | adjective | legible to a stated reader under stated conditions | Reading is the act; legibility belongs to what meets the reader. |
@@ -185,7 +184,7 @@ shia ha haolu sitheku.
 (They transcribe this speech.)
 ```
 
-`shoraku` carries meaning between languages or modes. The interpreter's choices remain open to correction, and interpreting does not turn into representing someone merely because their words pass through another person.
+Core `shoraku` carries meaning between languages or modes. The interpreter's choices remain open to correction, and interpreting does not turn into representing someone merely because their words pass through another person.
 
 ```
 shia ha lo phelui shoraku.

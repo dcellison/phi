@@ -1,6 +1,6 @@
 # Accessibility and Participation
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 46 current memberships, and shared-core `sowelu` disabled.
+**Status:** **Established vocabulary module** with 29 module roots coined here, 45 current memberships, and shared-core `sowelu` disabled and `shoraku` interpret.
 
 ## Charter
 
@@ -57,12 +57,12 @@ The first pass admits 30 optional words. It also places `sowelu` disabled in sha
 | Access relation | `ruweli` access, `lokane` accessible, `kopharu` barrier, `hinawu` accommodate | Reach and use can be distinguished from participation; a barrier can sit in architecture, communication, timing, or procedure; an accommodation names the particular change. |
 | Function and direction | `murethi` impairment, `ralemi` independent, `naphelu` assistive | Functional difference stays separate from disability, independence can include support, and a tool can be described by the chosen function it assists. |
 | Practical fit | `kelasu` usable, `thosami` compatible, `loshenu` clearance, `runaki` wayfind | A person can challenge provision at the point of use, compare technical fit, name movement room, and describe finding a route without surrendering direction to a guide. |
-| Communication | `phelotu` format, `thekasi` caption, `sitheku` transcribe, `shoraku` interpret | Content can change form, follow an event in timed text, become a stable transcript, or cross a language or mode boundary. |
+| Communication | `phelotu` format, `thekasi` caption, `sitheku` transcribe | Content can change form, follow an event in timed text, or become a stable transcript. Base `shoraku` interpret carries it across a language or mode boundary. |
 | Perceptual properties | `palethu` tactile, `samethu` equivalent, `thewuni` legible, `hewasu` audible | Touch, reading, hearing, and bounded equivalence become properties that can be tested for a stated person and purpose. |
 | Time and demand | `thimelo` pace, `hasenu` recess, `wiresu` postpone, `thunesi` asynchronous, `sanowu` predictable, `pushali` overload | An activity's speed, an internal pause, a moved event, participation across different times, advance knowability, and excess demand no longer share the single verb `hasi` wait. |
 | Participation and power | `misharo` consult, `pharomu` exclude, `wheparu` discriminate, `sirelu` disclose, `shaweri` advocate | Speakers can say whether an affected view informed action, who was kept out, how a category shaped harm, where private information traveled, and whose position received active support. |
 
-All 30 roots coined in this pass carry `accessibility-and-participation`. `sowelu` carries no module field and appears in the base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
+Of the 30 roots coined in this pass, 29 carry `accessibility-and-participation`. `shoraku` interpret became base vocabulary on 2026-11-25 under D141, because carrying a text or an utterance into another language is ordinary work for any speaker. `sowelu` carries no module field and appears in the base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
 ## Current prose and completeness
 

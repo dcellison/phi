@@ -137,7 +137,7 @@ D141 coins `tumana` (bend), `sotira` (hang), `rikina` (twist), `supili` (wrap), 
 - Fill, lift, and shine, which the texts already render by the recorded devices and which need only a confirming read: `gibran/on_giving` 26; `news_from_nowhere/chapter_02` 3; `chapter_03` 44; `chapter_06` 55; `north_wind_and_sun` 10; `tao_te_ching` 50; `velveteen_rabbit` 385, 400, 403.
 - Blind as a figure, in Gibran's all urge is blind, which rightly keeps `mawha keiro nila` and is not `narine`: `gibran/on_work` 14.
 
-Several of these units are in certified works and need fresh source-blind derivation under D102 if they change. The teaching documents do not teach these nine words.
+Several of these units are in certified works and need fresh source-blind derivation under D102 if they change. The teaching documents do not teach these nine words or `manushi` (sign). Two parked pamphlet pages name the quotative frame verbs as four and now understate canon, which lists `manushi` as a fifth: `pamphlets/spoken_punctuation/03_the_quotation_marks.md` and `pamphlets/complementizers/05_quotative_sha_sho.md`.
 
 ### Text lines awaiting the small-words sweep
 

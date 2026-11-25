@@ -37,7 +37,7 @@ NOMINAL_POS = frozenset(
 
 COMPLEMENT_PAIRS = {"tha": "tho", "pha": "pho", "sha": "sho"}
 COMPLEMENT_CLOSERS = {closer: opener for opener, closer in COMPLEMENT_PAIRS.items()}
-QUOTE_MATRIX_VERBS = frozenset({"haolu", "shemui", "thilou", "hea"})
+QUOTE_MATRIX_VERBS = frozenset({"haolu", "shemui", "thilou", "hea", "manushi"})
 
 SLOT0_SINGLE = frozenset({"wa", "no", "su"})
 SLOT0_WORDS = frozenset({"pi", "wa", "no", "su", "lu", "he"})
@@ -1080,7 +1080,7 @@ class PhiParser:
             if matrix not in QUOTE_MATRIX_VERBS:
                 self._error(
                     "PHS081",
-                    "sha ... sho must modify haolu, shemui, thilou, or hea",
+                    "sha ... sho must modify haolu, shemui, thilou, hea, or manushi",
                     end - 1,
                 )
         return nodes

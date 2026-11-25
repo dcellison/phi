@@ -10,7 +10,7 @@
 
 ## Accessibility and Participation
 
-*46 words in this learning path.*
+*45 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -45,7 +45,6 @@
 | `shalori` | represent | verb |
 | `shanewi` | notify | verb |
 | `shaweri` | advocate | verb |
-| `shoraku` | interpret | verb |
 | `sirelu` | disclose | verb |
 | `sitheku` | transcribe | verb |
 | `somaki` | test | verb |

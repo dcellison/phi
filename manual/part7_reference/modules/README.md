@@ -12,7 +12,7 @@ Every module word is an ordinary part of the lexicon. The [module lexicon](../le
 | Commons and Collective Governance | [Commons and Collective Governance](commons_and_collective_governance.md) | 29 | 55 | `sirami` record, `kawhera` coerce, `whepelo` retaliate |
 | Work, Craft, and Repair | [Work, Craft, and Repair](work_craft_and_repair.md) | 28 | 77 | `winora` plan, `hasoru` pending |
 | Medical and Bodily Care | [Medical and Bodily Care](medical_and_bodily_care.md) | 30 | 54 | `lesawi` consent |
-| Accessibility and Participation | [Accessibility and Participation](accessibility_and_participation.md) | 30 | 46 | `sowelu` disabled |
+| Accessibility and Participation | [Accessibility and Participation](accessibility_and_participation.md) | 29 | 45 | `sowelu` disabled, `shoraku` interpret |
 | Household and Daily Life | [Household and Daily Life](household_and_daily_life.md) | 30 | 47 | `mirewu` private |
 
 All eight active profiles now have speaker-facing chapters.

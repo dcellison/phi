@@ -684,7 +684,7 @@
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 | `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
-## communication (143)
+## communication (144)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -718,6 +718,7 @@
 | `lophae` | storyteller | a person who gives narrative a spoken or written telling |
 | `lumishe` | mentor | continuing guidance through demonstration, questions, and counsel |
 | `manawi` | compromise | an outcome of negotiating differing aims |
+| `manushi` | sign (language) | producing language in a signed mode |
 | `menoa` | face | the region where much visible human expression appears |
 | `menua` | counselor | a role that offers considered guidance through listening, questions, or advice |
 | `mihonu` | deaf | a condition that shapes the mode in which a person speaks and is spoken to |
