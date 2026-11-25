@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (333)
+## activity (334)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -199,6 +199,7 @@
 | `rimawu` | drudgery | work experienced or structured as depleting |
 | `rinoka` | project | a bounded undertaking made from related tasks |
 | `riola` | labor | sustained purposeful work rather than one bounded task |
+| `ripati` | ladder | the tool for reaching fruit, a roof, or a loft |
 | `riporu` | task | one bounded unit of intended or discussed work |
 | `ritako` | workload | the combined demand of work under stated conditions |
 | `rohi` | rub | working through repeated or sustained sliding contact |
@@ -679,7 +680,7 @@
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 | `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
-## communication (139)
+## communication (142)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -704,6 +705,7 @@
 | `kithero` | diagnose | stating a potentially revisable health conclusion |
 | `kowela` | council | a continuing body in which collective deliberation may occur |
 | `kupela` | secret | a chosen limit on whether particular information is told |
+| `lakari` | map | a record that tells a traveler how a place is laid out |
 | `lathoe` | tongue | a speech organ that shapes breath into articulated sound |
 | `lesawi` | consent | giving, withholding, or withdrawing a bounded answer |
 | `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
@@ -755,6 +757,7 @@
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
 | `reo` | meaning | the relation through which an expression or symbol carries a sense |
 | `repora` | propose | putting a possible action before others for response |
+| `riti` | line | one row of words in a written text |
 | `roela` | scroll | a rolled carrier that can hold writing or images |
 | `samethu` | equivalent | comparison between different expressions or formats |
 | `sekuna` | accuse | saying that a named person is answerable for a harm |
@@ -780,6 +783,7 @@
 | `shoraku` | interpret | carrying meaning between languages or communication modes |
 | `shorema` | contribute | contributing words or information to a shared exchange |
 | `sikanu` | certify | an attributed statement that selected criteria were met |
+| `sikuno` | list | items set down one after another so that they can be read back or checked |
 | `sirami` | record | an account preserved in a form that others can receive later |
 | `sirelu` | disclose | making information known to a new recipient |
 | `siru` | marker | an agreed object that can indicate a location, boundary, or stage |
@@ -1679,7 +1683,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (523)
+## physical (526)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1705,6 +1709,7 @@
 | `hiso` | clean | surfaces, objects, or materials free of unwanted matter for their present use |
 | `hisophi` | contaminant | an agent present in a sample, place, body, or process |
 | `hola` | laugh | breath released through the characteristic bodily act of laughing |
+| `hopu` | hole | a gap or hollow in a material thing |
 | `horae` | radiant | light visibly extending from a source |
 | `horuma` | thunder | a pressure wave heard and sometimes felt as vibration |
 | `howela` | receive | taking delivery of a material object or substance |
@@ -1750,6 +1755,7 @@
 | `kiru` | chisel | a tool that concentrates guided pressure at a shaped cutting edge |
 | `kirua` | sand | a granular material of small durable particles |
 | `kishu` | thirsty | the need for water or another drink as felt in the body |
+| `kitenu` | corner | the part of a table, a cloth, or a building where two of its sides turn |
 | `kiwate` | bite | tooth contact strong enough to grip or mark |
 | `koewi` | input | matter or energy crossing into a selected system |
 | `kohura` | noise | sound heard as irregular, indistinct, or interfering in context |
@@ -2015,6 +2021,7 @@
 | `reshi` | fast | a high rate of bodily or material movement |
 | `rewa` | oar | a long water-moving tool with a flattened blade |
 | `rihe` | rise | a body or material becoming higher |
+| `ripati` | ladder | a portable frame of two poles and the rungs between them |
 | `rishonu` | charge | a property of matter involved in electrical interaction and current |
 | `roela` | scroll | a sheet or strip stored by winding it around itself or a support |
 | `roena` | copper | a conductive metallic element with characteristic colour and patina |
@@ -2207,7 +2214,7 @@
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 | `wurashi` | crave | craving felt through bodily appetite or urge |
 
-## quantity (44)
+## quantity (45)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2223,6 +2230,7 @@
 | `maewo` | threshold | a stated point whose crossing changes a classification or response |
 | `malomi` | balance | proportions adjusted so their effects remain workable together |
 | `masue` | measure | measurement that produces or compares a magnitude |
+| `mepe` | half | one of two equal parts of a whole |
 | `mu` | zero | the exact numerical value for no counted members |
 | `murase` | swell | an overall size or volume becoming greater |
 | `noa` | position | an ordinal place within a counted sequence |
@@ -2287,7 +2295,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (185)
+## spatial (189)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2296,6 +2304,7 @@
 | `hieru` | narrow | limited span from one side to the other |
 | `hinawu` | accommodate | altering an environment or route for access |
 | `hirawo` | distance | separation between places, objects, or other spatial referents |
+| `hopu` | hole | an opening that something can pass through or fall into |
 | `kalei` | climb | travel from a lower position towards a higher one |
 | `kamo` | arrive | arrival at a destination |
 | `kelo` | frame | a structure defining the extent of an opening |
@@ -2305,6 +2314,7 @@
 | `keruma` | illumination | the distribution of light across a place or surface |
 | `kesho` | middle | an interior position between relevant outer parts |
 | `kirato` | lock | a mechanism controlling passage through an opening |
+| `kitenu` | corner | the place where two walls or two edges meet |
 | `koema` | enter | movement from outside to inside |
 | `kolua` | carry | transport through space under continuous support |
 | `komalu` | pillow | a small support placed within a sleeping or resting place |
@@ -2316,6 +2326,7 @@
 | `kuri` | right | a body-relative side extended to an oriented scene |
 | `laeno` | long | substantial end-to-end extent in a path or object |
 | `laenu` | commons | a place may be organised as a commons for shared use |
+| `lakari` | map | a drawing of where places lie in relation to one another |
 | `laniru` | journey | a passage across a substantial route |
 | `lawe` | left | a body-relative side extended to an oriented scene |
 | `leko` | surface | an extended face with edges and an orientation |
@@ -2399,6 +2410,7 @@
 | `rato` | turn | a change of facing or direction |
 | `repha` | bridge | a crossing over an obstacle or gap |
 | `rihe` | rise | a path from a lower position to a higher one |
+| `riti` | line | marks or things set one after another in a single direction |
 | `roke` | move | change of position within space |
 | `rolutha` | wagon | a vehicle used to move people or goods along the ground |
 | `ronua` | south | the southward cardinal direction |

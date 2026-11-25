@@ -11,12 +11,13 @@
   "search_terms": [
     "trail",
     "road",
-    "walkway"
+    "walkway",
+    "stairs"
   ],
   "description": "The traversable line itself is 'ruela': ground worn by feet, a trail through woods, a made walkway, or a road prepared for travel. The word can extend to a path of practice when the sequence has the felt continuity of something followed. 'shoeka' (route) is the selected course across such paths, while 'keiro' (way) is the manner or guiding approach.",
   "articulatory_notes": "Tap the tongue tip at the alveolar ridge for 'r' and round into high-back 'u'. Keep 'u' and the following stressed mid-front 'e' as two syllables with a clean hiatus, then form alveolar lateral 'l' and finish on open 'a'.",
   "sound_symbolism": "The open hiatus in the middle of 'ruela' interrupts its two liquids without stopping the airflow. That small crossing can echo a path that continues through a change in ground.",
-  "usage_notes": "The noun covers footpaths, trails, walkways, and roads at the shared level of traversable ground. Surface, construction, permitted users, condition, and accessibility remain available as separate descriptions.",
+  "usage_notes": "The noun covers footpaths, trails, walkways, and roads at the shared level of traversable ground. Surface, construction, permitted users, condition, and accessibility remain available as separate descriptions. 'rihe ruela' (rising path) is a flight of stairs.",
   "examples": [
     {
       "phi": "ruela laeno nai.",

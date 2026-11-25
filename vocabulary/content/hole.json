@@ -1,0 +1,38 @@
+{
+  "word": "hopu",
+  "gloss": "hole",
+  "ipa": "/ˈho̞.pu/",
+  "syllables": [
+    "ho",
+    "pu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "opening",
+    "gap",
+    "hollow",
+    "pit"
+  ],
+  "description": "A sock has one at the heel, and a tree has one where the owl lives. A 'hopu' is a place where the stuff of a thing is missing: an opening that goes through it, or a hollow that goes in. 'nowhu' (cave) is a whole chamber in rock or earth, and 'wira' (window) is an opening made on purpose for light.",
+  "articulatory_notes": "Breath passes the open glottis for 'h' as the lips round for stressed mid back 'o'. The lips close to stop the air for 'p' and part again, still rounded, on high back 'u'.",
+  "sound_symbolism": "The lips stay rounded from the first vowel to the last, so the mouth holds the shape of an opening for the whole word.",
+  "usage_notes": "'moru hopu' is a hole in the wall: the thing that has the hole goes before it. Making one is 'tisharu' (puncture) through a material and 'muholi' (dig) into the ground.",
+  "examples": [
+    {
+      "phi": "mua mia palowe hopu nai.",
+      "translation": "There is a hole in my shoe."
+    },
+    {
+      "phi": "lohau mua thepalu to muholi. nosa mua thepalu whalo hopu nai.",
+      "translation": "The dog dug in the garden. Now there is a big hole in the garden."
+    },
+    {
+      "phi": "misuki thue moru hopu to wepu.",
+      "translation": "The mouse went through a hole in the wall."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a gap or hollow in a material thing",
+    "spatial": "an opening that something can pass through or fall into"
+  }
+}

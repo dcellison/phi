@@ -9,11 +9,12 @@
   "pos": "noun",
   "search_terms": [
     "entry panel",
-    "movable closure"
+    "movable closure",
+    "gate"
   ],
   "description": "Passage through an entrance is controlled by 'ponu', a movable panel or other closure. The door is the object that opens or closes, not the opening around it. 'maewo' (threshold) marks the crossing, and Household 'kirato' (lock) holds a closure in a chosen state.",
   "articulatory_notes": "Close both lips for unvoiced 'p', release into stressed mid-back rounded 'o', then place the tongue tip at the upper teeth for voiced dental nasal 'n'. Finish with high-back rounded 'u'.",
-  "usage_notes": "A door can stand in a wall, fence, vehicle, or container. Opening and lock state belong to the object; access and permission belong to the situation.",
+  "usage_notes": "A door can stand in a wall, fence, vehicle, or container. Opening and lock state belong to the object; access and permission belong to the situation. The door at a boundary is a gate: 'norui ponu'.",
   "examples": [
     {
       "phi": "no ponu tapu.",

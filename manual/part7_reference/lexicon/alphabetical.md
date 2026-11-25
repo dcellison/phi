@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1321 words.*
+*1328 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -67,6 +67,7 @@
 | `hola` | laugh | /ˈho̞.lä/ | verb |
 | `holia` | festival | /ho̞.ˈli.ä/ | noun |
 | `holume` | loss | /ho̞.ˈlu.me̞/ | noun |
+| `hopu` | hole | /ˈho̞.pu/ | noun |
 | `horae` | radiant | /ho̞.ˈrä.e̞/ | adjective |
 | `horathe` | dawn | /ho̞.ˈrä.θe̞/ | noun |
 | `horuma` | thunder | /ho̞.ˈru.mä/ | noun |
@@ -170,6 +171,7 @@
 | `kisholu` | specification | /ki.ˈʃo̞.lu/ | noun |
 | `kishu` | thirsty | /ˈki.ʃu/ | adjective |
 | `kisome` | assess | /ki.ˈso̞.me̞/ | verb |
+| `kitenu` | corner | /ki.ˈt̪e̞.n̪u/ | noun |
 | `kithawu` | triage | /ki.ˈθä.wu/ | verb |
 | `kithela` | valid | /ki.ˈθe̞.lä/ | adjective |
 | `kithero` | diagnose | /ki.ˈθe̞.ro̞/ | verb |
@@ -225,6 +227,7 @@
 | `la` | ATTEN | /ˈlä/ | particle |
 | `laeno` | long | /lä.ˈe̞.n̪o̞/ | adjective |
 | `laenu` | commons | /lä.ˈe̞.n̪u/ | noun |
+| `lakari` | map | /lä.ˈkä.ri/ | noun |
 | `laniru` | journey | /lä.ˈn̪i.ru/ | verb |
 | `lao` | BECAUSE | /ˈlä.o̞/ | conjunction |
 | `larewu` | liquid | /lä.ˈre̞.wu/ | noun |
@@ -362,6 +365,7 @@
 | `menua` | counselor | /me̞.ˈn̪u.ä/ | noun |
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
 | `menuro` | habitat | /me̞.ˈn̪u.ro̞/ | noun |
+| `mepe` | half | /ˈme̞.pe̞/ | noun |
 | `mera` | net | /ˈme̞.rä/ | noun |
 | `meraho` | relieved | /me̞.ˈrä.ho̞/ | adjective |
 | `meraku` | brain | /me̞.ˈrä.ku/ | noun |
@@ -792,9 +796,11 @@
 | `rinoka` | project | /ri.ˈn̪o̞.kä/ | noun |
 | `rinu` | want | /ˈri.n̪u/ | verb |
 | `riola` | labor | /ri.ˈo̞.lä/ | verb |
+| `ripati` | ladder | /ri.ˈpä.t̪i/ | noun |
 | `riporu` | task | /ri.ˈpo̞.ru/ | noun |
 | `rishonu` | charge | /ri.ˈʃo̞.n̪u/ | noun |
 | `ritako` | workload | /ri.ˈt̪ä.ko̞/ | noun |
+| `riti` | line | /ˈri.t̪i/ | noun |
 | `ro` | HAB | /ˈro̞/ | particle |
 | `roa` | AROUND | /ˈro̞.ä/ | preposition |
 | `roe` | INS | /ˈro̞.e̞/ | preposition |
@@ -940,6 +946,7 @@
 | `sihewa` | breeze | /si.ˈhe̞.wä/ | noun |
 | `sikanu` | certify | /si.ˈkä.n̪u/ | verb |
 | `sikoru` | itch | /si.ˈko̞.ru/ | noun |
+| `sikuno` | list | /si.ˈku.n̪o̞/ | noun |
 | `sila` | community | /ˈsi.lä/ | noun |
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |

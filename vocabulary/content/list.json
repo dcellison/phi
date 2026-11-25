@@ -1,0 +1,36 @@
+{
+  "word": "sikuno",
+  "gloss": "list",
+  "ipa": "/si.ˈku.n̪o̞/",
+  "syllables": [
+    "si",
+    "ku",
+    "no"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "catalogue",
+    "items in order"
+  ],
+  "description": "Before a journey someone says what to bring, one thing after another, and someone else writes it down as a 'sikuno': items set out one by one so that none is forgotten. It may be written, or held in the head and said aloud. 'sirami' (record) keeps an account of something that happened, and module 'sitawi' (inventory) is a record of what a store holds.",
+  "articulatory_notes": "Air runs along a groove in the tongue for voiceless 's' and into high front 'i'. For 'k' the tongue's back shuts against the soft palate, then drops away into stressed high back 'u' as the lips round. The tongue tip touches the upper teeth for 'n', and the lips stay rounded for final mid back 'o'.",
+  "sound_symbolism": "It shares its first syllable with 'sirami' (record) and 'sitawi' (inventory), so the three words for things set down sound like kin.",
+  "usage_notes": "What is listed goes before it: 'nomei sikuno' (a list of names). A thing is on the list with 'mua' (LOC), and 'nu' (ORD) gives its place, as in 'nu ta' for the first.",
+  "examples": [
+    {
+      "phi": "mia nomei sikuno to thekiro.",
+      "translation": "I wrote a list of names."
+    },
+    {
+      "phi": "wa hasumi mua sikuno nai.",
+      "translation": "Is tea on the list?"
+    },
+    {
+      "phi": "ha sikuno laeno nai.",
+      "translation": "This list is long."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "items set down one after another so that they can be read back or checked"
+  }
+}

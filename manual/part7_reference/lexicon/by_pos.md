@@ -322,7 +322,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (584)
+## noun (591)
 
 | Word | Gloss |
 |---|---|
@@ -348,6 +348,7 @@
 | `hisophi` | contaminant |
 | `holia` | festival |
 | `holume` | loss |
+| `hopu` | hole |
 | `horathe` | dawn |
 | `horuma` | thunder |
 | `hosari` | correlation |
@@ -400,6 +401,7 @@
 | `kiru` | chisel |
 | `kirua` | sand |
 | `kisholu` | specification |
+| `kitenu` | corner |
 | `koewi` | input |
 | `kohura` | noise |
 | `kolai` | pigment |
@@ -428,6 +430,7 @@
 | `kuroi` | muscle |
 | `kurona` | horn |
 | `laenu` | commons |
+| `lakari` | map |
 | `larewu` | liquid |
 | `lathoe` | tongue |
 | `lau` | twenty-seven-group |
@@ -502,6 +505,7 @@
 | `menoa` | face |
 | `menua` | counselor |
 | `menuro` | habitat |
+| `mepe` | half |
 | `mera` | net |
 | `meraku` | brain |
 | `meshoi` | cheek |
@@ -708,9 +712,11 @@
 | `rewa` | oar |
 | `rimawu` | drudgery |
 | `rinoka` | project |
+| `ripati` | ladder |
 | `riporu` | task |
 | `rishonu` | charge |
 | `ritako` | workload |
+| `riti` | line |
 | `roela` | scroll |
 | `roena` | copper |
 | `rokai` | back |
@@ -754,6 +760,7 @@
 | `shuroa` | shelter |
 | `sihewa` | breeze |
 | `sikoru` | itch |
+| `sikuno` | list |
 | `sila` | community |
 | `silawo` | village |
 | `sileo` | silk |

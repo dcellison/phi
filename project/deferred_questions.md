@@ -115,6 +115,17 @@ The primer, the pamphlets, and the Short Road do not teach these six words eithe
 
 D139 coins `mipi` (baby) and records how nine other words for people and places are already said. No source line says baby or infant, so the word leaves no text line behind. The texts already render the other nine by the recorded devices; a confirming read of `news_from_nowhere/chapter_04` 51 and `chapter_06` 7 (crowd) is all that is owed. The teaching documents do not teach `mipi`.
 
+D140 coins `hopu` (hole), `riti` (line), `lakari` (map), `ripati` (ladder), `mepe` (half), `kitenu` (corner), and `sikuno` (list). The same parking applies and nothing in the texts was changed. Each list is a word match on the source line. No source line says map, list, ladder, fence, or ore.
+
+- Line or row, where three units stretch `sima` (thread) and are now `riti`: `news_from_nowhere/chapter_01` 53; `chapter_02` 123; `chapter_03` 137, 229.
+- Half, to be read for `mepe`; half as a degree (half awake, a half smile) rightly keeps `la` or `kesho`: `gibran/on_work` 30; `news_from_nowhere/chapter_02` 5, 40, 48, 136; `velveteen_rabbit` 285.
+- Steps let down into a boat, written `kalei thena`, to be read for `ripati`: `news_from_nowhere/chapter_02` 51.
+- Burrow, which keeps `nowhu` (cave) and needs only a confirming read against `hopu`: `velveteen_rabbit` 122, 147.
+- Corner, where the texts write `shuna` (edge) or `phanoi` (portion) and are now to be read for `kitenu`: `news_from_nowhere/chapter_03` 37, 217; `velveteen_rabbit` 150, 329.
+- Gate, which the texts already render by the registered compound or a temple phrase and which needs only a confirming read: `gibran/on_work` 29; `news_from_nowhere/chapter_04` 96.
+
+The teaching documents do not teach these seven words.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.
