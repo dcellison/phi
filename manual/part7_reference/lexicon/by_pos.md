@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (221)
+## adjective (223)
 
 | Word | Gloss |
 |---|---|
@@ -146,6 +146,7 @@
 | `selawi` | slippery |
 | `seloi` | insightful |
 | `selua` | aware |
+| `seme` | easy |
 | `senao` | same |
 | `serao` | old |
 | `serathi` | principled |
@@ -173,6 +174,7 @@
 | `sukaro` | hot |
 | `sulae` | warm |
 | `taleri` | virtuous |
+| `tasa` | other |
 | `tawimo` | foolish |
 | `tekari` | straight |
 | `teku` | short |
@@ -1013,7 +1015,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (367)
+## verb (371)
 
 *The last column says what each verb takes. A verb marked either way lets the thing affected stand alone as its subject or be the object of whoever acts on it.*
 
@@ -1205,6 +1207,7 @@
 | `pula` | wish | a subject and an object |
 | `pumari` | suck | a subject and an object |
 | `pumeli` | knead | a subject and an object |
+| `pumi` | use | a subject and an object |
 | `puse` | spit | a subject and an object |
 | `pushali` | overload | a subject and an object |
 | `rashelo` | run | a subject |
@@ -1272,6 +1275,7 @@
 | `sirami` | record | a subject and an object |
 | `sirelu` | disclose | a subject and an object |
 | `sitheku` | transcribe | a subject and an object |
+| `soaru` | apologize | a subject and an object |
 | `soki` | settle | a subject |
 | `solae` | explain | a subject and an object |
 | `soliru` | hope | a subject and an object |
@@ -1285,11 +1289,13 @@
 | `sorila` | cultivate | a subject and an object |
 | `soweri` | reach | a subject |
 | `sunoe` | regenerate | either way |
+| `sute` | happen | a subject |
 | `talome` | restore | a subject and an object |
 | `tapu` | close | a subject and an object |
 | `tawemi` | cover | a subject and an object |
 | `tawi` | count | a subject and an object |
 | `temoe` | tend | a subject and an object |
+| `teoki` | warn | a subject and an object |
 | `teru` | process | a subject and an object |
 | `teshori` | quarantine | a subject and an object |
 | `thalo` | walk | a subject |

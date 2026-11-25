@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1308 words.*
+*1314 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -751,6 +751,7 @@
 | `pula` | wish | /ˈpu.lä/ | verb |
 | `pumari` | suck | /pu.ˈmä.ri/ | verb |
 | `pumeli` | knead | /pu.ˈme̞.li/ | verb |
+| `pumi` | use | /ˈpu.mi/ | verb |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
 | `punoki` | institution | /pu.ˈn̪o̞.ki/ | noun |
 | `puro` | strength | /ˈpu.ro̞/ | noun |
@@ -836,6 +837,7 @@
 | `selua` | aware | /se̞.ˈlu.ä/ | adjective |
 | `seluto` | pour | /se̞.ˈlu.t̪o̞/ | verb |
 | `seluwhe` | outage | /se̞.ˈlu.ʍe̞/ | noun |
+| `seme` | easy | /ˈse̞.me̞/ | adjective |
 | `sena` | pattern | /ˈse̞.n̪ä/ | noun |
 | `senalu` | style | /se̞.ˈn̪ä.lu/ | noun |
 | `senao` | same | /se̞.ˈn̪ä.o̞/ | adjective |
@@ -951,6 +953,7 @@
 | `siwe` | sweat | /ˈsi.we̞/ | noun |
 | `so` | FUT | /ˈso̞/ | particle |
 | `soa` | sorry | /ˈso̞.ä/ | interjection |
+| `soaru` | apologize | /so̞.ˈä.ru/ | verb |
 | `soeli` | cup | /so̞.ˈe̞.li/ | noun |
 | `soki` | settle | /ˈso̞.ki/ | verb |
 | `sola` | DISJ | /ˈso̞.lä/ | conjunction |
@@ -991,6 +994,7 @@
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |
+| `sute` | happen | /ˈsu.t̪e̞/ | verb |
 | `ta` | one | /ˈt̪ä/ | numeral |
 | `takori` | load | /t̪ä.ˈko̞.ri/ | noun |
 | `taleri` | virtuous | /t̪ä.ˈle̞.ri/ | adjective |
@@ -999,6 +1003,7 @@
 | `tapu` | close | /ˈt̪ä.pu/ | verb |
 | `tapulo` | jar | /t̪ä.ˈpu.lo̞/ | noun |
 | `tapuri` | lid | /t̪ä.ˈpu.ri/ | noun |
+| `tasa` | other | /ˈt̪ä.sä/ | adjective |
 | `tawemi` | cover | /t̪ä.ˈwe̞.mi/ | verb |
 | `tawi` | count | /ˈt̪ä.wi/ | verb |
 | `tawimo` | foolish | /t̪ä.ˈwi.mo̞/ | adjective |
@@ -1015,6 +1020,7 @@
 | `temu` | guild | /ˈt̪e̞.mu/ | noun |
 | `tenoa` | tool | /t̪e̞.ˈn̪o̞.ä/ | noun |
 | `teo` | watch out | /ˈt̪e̞.o̞/ | interjection |
+| `teoki` | warn | /t̪e̞.ˈo̞.ki/ | verb |
 | `teru` | process | /ˈt̪e̞.ru/ | verb |
 | `terura` | system | /t̪e̞.ˈru.rä/ | noun |
 | `teshilo` | steel | /t̪e̞.ˈʃi.lo̞/ | noun |

@@ -1124,6 +1124,28 @@
         "CV-SMALL-06",
         "CV-SMALL-07"
       ]
+    },
+    {
+      "id": "ordinary-words-first-set",
+      "heading": "Ordinary words, first set",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-SMALL-07",
+        "CV-ORD-01",
+        "CV-ORD-02",
+        "CV-ORD-03",
+        "CV-ORD-04",
+        "CV-ORD-05",
+        "CV-ORD-06",
+        "CV-ORD-07",
+        "CV-ORD-08",
+        "CV-ORD-09",
+        "CV-ORD-10",
+        "CV-ORD-11",
+        "CV-ORD-12",
+        "CV-ORD-13"
+      ]
     }
   ],
   "candidates": [
@@ -6052,12 +6074,223 @@
     {
       "id": "CV-SMALL-07",
       "concept": "other and else, and another as a different one",
-      "status": "deferred",
-      "placement": "base vocabulary, undecided between `phirae` and a new word",
-      "summary": "The texts use `phirae` (different) for other, another, and else. `ture` now carries the additive another. Whether the remaining sense needs its own word belongs with the ordinary-vocabulary gaps of the November 2026 assessment.",
-      "revisit_when": "The ordinary-vocabulary step for assessment recommendation 22 (other, part, happen, use, and their neighbours) begins.",
+      "status": "implemented",
+      "placement": "base quantity vocabulary",
+      "summary": "The texts used `phirae` (different) for other, another, and else, and source-blind readers kept taking `lo phirae tupiwa` as rabbits that differ in kind. Adjective `tasa` picks out what is left of a set already in view. `phirae` keeps different, `ture` keeps one more of a kind, and the pronoun `hia` is the other one where no noun is said.",
+      "implementation": {
+        "words": [
+          "tasa"
+        ],
+        "files": [
+          "vocabulary/content/other.json"
+        ]
+      },
       "batches": [
-        "small-words-and-clause-relations"
+        "small-words-and-clause-relations",
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-01",
+      "concept": "happen, occur, and take place",
+      "status": "implemented",
+      "placement": "base temporal vocabulary",
+      "summary": "The texts wrote `nai`, `kelu`, and `phoa` for one meaning. Intransitive `sute` says that an event took place, with the event as subject and `wei` for the one it befalls. `phoa` keeps an agent acting, `nai` what exists or holds, and `kelu` a change into a stated condition.",
+      "implementation": {
+        "words": [
+          "sute"
+        ],
+        "files": [
+          "vocabulary/content/happen.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-02",
+      "concept": "use as a verb",
+      "status": "implemented",
+      "placement": "base activity vocabulary",
+      "summary": "Base Phi had the instrument preposition `roe` and module `ruweli` and no verb for putting a thing to work. Transitive `pumi` employs a thing as the means of doing something. `roe` still names the means inside a sentence about another action.",
+      "implementation": {
+        "words": [
+          "pumi"
+        ],
+        "files": [
+          "vocabulary/content/use.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-03",
+      "concept": "easy",
+      "status": "implemented",
+      "placement": "base activity vocabulary",
+      "summary": "The texts wrote `kethua ma` (not hard) and `reshi` (fast). Adjective `seme` is little effort for the one doing the thing, the opposite of `kethua` in its sense of effort. `siloma` keeps few parts and `reshi` keeps speed.",
+      "implementation": {
+        "words": [
+          "seme"
+        ],
+        "files": [
+          "vocabulary/content/easy.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-04",
+      "concept": "warn",
+      "status": "implemented",
+      "placement": "base communication vocabulary",
+      "summary": "The development protocol names warning among the words Phi keeps, and base Phi had only the interjection `teo` and module `shanewi`. Transitive `teoki`, built audibly on `teo`, tells a person of a danger early enough to act and leaves the acting to them.",
+      "implementation": {
+        "words": [
+          "teoki"
+        ],
+        "files": [
+          "vocabulary/content/warn.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-05",
+      "concept": "apologize",
+      "status": "implemented",
+      "placement": "base communication vocabulary",
+      "summary": "Phi had verbs for thank, forgive, mend, and reconcile and only the interjection `soa` for apology. Transitive `soaru`, built audibly on `soa`, states regret and responsibility to the person harmed, who stands directly before it as with `whaline`.",
+      "implementation": {
+        "words": [
+          "soaru"
+        ],
+        "files": [
+          "vocabulary/content/apologize.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-06",
+      "concept": "promise",
+      "status": "compositional",
+      "placement": "base `seru` and `korei`",
+      "summary": "`seru` (commit) is a self-binding undertaking to a stated course, which is a promise, and `korei` (fulfill) keeps it. The texts already render promise this way. The gap was a missing search term.",
+      "expressions": [
+        "mia tha mia so shua tho seru",
+        "shia miso seru to korei"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-07",
+      "concept": "allow, permit, and forbid",
+      "status": "compositional",
+      "placement": "base `lesawi`, `po`, and `na ma`",
+      "summary": "Permission over what affects oneself is `lesawi` (consent), and refusing it is `ma lesawi`. A bare may is `po`, and a rule against something is `na ma`. Granted institutional power is module `kanuwa`. Phi frames permission as consent and does not coin a verb for one person licensing another's conduct.",
+      "expressions": [
+        "mia ha palo lesawi",
+        "mia ha palo ma lesawi",
+        "thia po wepu",
+        "thia na ma wepu"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-08",
+      "concept": "suffer",
+      "status": "compositional",
+      "placement": "base `kipona` with `phaelo`, and `pheru`",
+      "summary": "`kipona` is bodily or emotional pain and already renders suffering in the Heart Sutra. Feeling it is `kipona phaelo`, and remaining through it is `pheru`. The gap was a missing search term.",
+      "expressions": [
+        "shia kipona phaelo",
+        "shia sui laeno thimu to pheru"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-09",
+      "concept": "part of a whole",
+      "status": "compositional",
+      "placement": "base `phanoi` in noun position; module `monaki`",
+      "summary": "The result noun of `phanoi` (portion) serves for a part of a larger whole, as the texts already use it, and `soli` gives some of a mass or group. A part identified by its function in a system is module `monaki`.",
+      "expressions": [
+        "shelira phanoi",
+        "moru phanoi",
+        "soli miona"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-10",
+      "concept": "lend and borrow",
+      "status": "compositional",
+      "placement": "base `phowe` and `pumi` with `tei`",
+      "summary": "Canon refuses debt. Lending without it is sharing with an end in view, `phowe` with a `tei` phrase, and borrowing is asking to use a thing until a stated time. `turema` is the thing coming back.",
+      "expressions": [
+        "mia tei wireo philo wei thia kiru phowe",
+        "wa mia tei wireo philo thia kiru po pumi"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-11",
+      "concept": "witness and testify",
+      "status": "compositional",
+      "placement": "base `somela`, `shane`, and `thesori`",
+      "summary": "A witness is one who observed, `whu somela miona`, and testifying is telling that account, `shane`; what is offered enters assessment as `thesori`. The evidential `hi` marks what the speaker perceived. No separate verb is coined while these read plainly.",
+      "expressions": [
+        "whu ha to somela miona",
+        "shia wei sila ha to shane"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-12",
+      "concept": "show, seem, and decide",
+      "status": "compositional",
+      "placement": "causative `ka nila`, evidential `ke`, and base `kanu`",
+      "summary": "Showing is causing to see, seeming is the inferential `ke` on the verb, and deciding is `kanu` (choose), with module `kanuro` for a decision given settled status. The texts use all three without strain.",
+      "expressions": [
+        "mia thia shelu ka nila",
+        "shia nuhe ke phaelo",
+        "mia to kanu"
+      ],
+      "batches": [
+        "ordinary-words-first-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-13",
+      "concept": "the remaining ordinary words listed by the November 2026 assessment",
+      "status": "deferred",
+      "placement": "base vocabulary, each to be decided as covered, composed, coined, or refused",
+      "summary": "Not yet examined one by one: blame, accuse, remind, avoid, important, problem, similar, opposite, false, early, late, expect, guess, succeed, survive, urgent, kind or sort; baby, owner, doctor, leader, city, town, school, world, crowd, group; map, list, line, hole, half, corner, gate, ladder, fence, stairs, ore; bend, bury, destroy, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, ugly, blind, deaf; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first set showed that most such items are covered and lack only a search term, so the list is a set of questions and not a set of coinages.",
+      "revisit_when": "The maintainer commissions the next ordinary-vocabulary set for assessment recommendation 22.",
+      "batches": [
+        "ordinary-words-first-set"
       ]
     }
   ],

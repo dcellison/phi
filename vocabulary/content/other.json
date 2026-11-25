@@ -1,0 +1,37 @@
+{
+  "word": "tasa",
+  "gloss": "other",
+  "ipa": "/ˈt̪ä.sä/",
+  "syllables": [
+    "ta",
+    "sa"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "the rest",
+    "remaining",
+    "else",
+    "another"
+  ],
+  "description": "A child holds an apple in one hand and reaches out with the other: that second hand is the 'tasa' hand. The word picks out whatever is left of a set already in view once one or some of it has been named. 'phirae' (different) compares two things and finds a distinction, and 'ture' (again) adds one more of a kind; 'tasa' only says which members remain.",
+  "articulatory_notes": "The tongue tip meets the backs of the upper teeth for voiceless 't' and opens into stressed open central 'a'. A narrow alveolar groove makes 's', and the same open vowel returns unstressed.",
+  "sound_symbolism": "A speaker may hear 'ta' (one) in the first syllable and take the rest of the word as a step past it, which suits counting one and then the others.",
+  "usage_notes": "'tasa' stands before its noun, after 'lo' (PL) or a numeral: 'lo tasa tupiwa' (the other rabbits), 'tasa manuwe' (the other hand). With 'thena' (thing) or 'miona' (person) it gives something else and someone else. Where no noun is said, the pronoun 'hia' (3ALT) is the other one.",
+  "examples": [
+    {
+      "phi": "mia roe ta manuwe kolupe phelu. mia roe tasa manuwe ponu phae.",
+      "translation": "I hold the bucket with one hand. I open the door with the other."
+    },
+    {
+      "phi": "ta tupiwa to tupi. lo tasa tupiwa to manolu.",
+      "translation": "One rabbit jumped. The other rabbits stayed."
+    },
+    {
+      "phi": "wa thia tasa thena rinu.",
+      "translation": "Do you want anything else?"
+    }
+  ],
+  "semantic_domains": {
+    "quantity": "what remains of a set after part of it has been named"
+  }
+}

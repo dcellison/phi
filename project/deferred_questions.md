@@ -87,6 +87,20 @@ Status: Parked with the rest of the teaching pass, by the maintainer's instructi
 
 Canon and the manual's page on building sentences teach the rule and the three kinds of verb. The primer, the Short Road, and the Three Slots, Relative Clauses, and Pronouns pamphlets do not. Where one of them shows `ku` before a lone phrase as a free choice, it now understates the rule.
 
+### Text lines awaiting the ordinary-words sweep
+
+Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.
+
+D137 coins `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki` (warn), and `soaru` (apologize). The texts were written before them and keep their earlier devices. Nothing in them was changed. Each list is a word match on the source line, so every unit needs reading against its source: many lines with "other" rightly keep `phirae` where the sense is different, and many with "use" are "used to", which is habit. Unit numbers count the aligned blocks of each file in order.
+
+- `phirae` where the source says other, another, or else, some of which are now `tasa`: `babel_text` 7; `gibran/on_giving` 25; `gibran/on_work` 6, 17; `heart_sutra` 33; `metta_sutta` 9, 22, 23, 24; `news_from_nowhere/chapter_01` 21, 77; `chapter_02` 209; `chapter_03` 1, 44, 119, 120, 161, 175, 183; `chapter_04` 72; `chapter_05` 4, 22, 75, 144, 147, 152, 167, 213, 250, 258, 273; `chapter_06` 5, 20, 26, 72, 74, 98, 113; `solarpunk_manifesto` 32; `velveteen_rabbit` 12, 29, 46, 57, 215, 263, 327, 345, 409, 413, 420. One line already improvises `phirae shia` for "the other", which is now `hia`.
+- `nai`, `kelu`, `phoa`, or `shua` where the source says happen, now `sute`: `news_from_nowhere/chapter_01` 2; `chapter_02` 119; `chapter_06` 14, 43; `solarpunk_manifesto` 38; `velveteen_rabbit` 63, 69, 70, 72, 85, 90, 160, 356.
+- `kethua ma`, `reshi`, or another device where the source says easy or easily, now `seme`: `metta_sutta` 4; `news_from_nowhere/chapter_01` 77; `chapter_02` 103, 189; `chapter_05` 136, 164, 268; `chapter_06` 97; `tao_te_ching` 36, 38, 42, 43; `velveteen_rabbit` 72, 204.
+- Use as a verb, to be read for `pumi`: `news_from_nowhere/chapter_01` 19; `chapter_02` 88; `chapter_03` 20, 156, 159, 169, 187; `chapter_05` 99, 135, 181, 189, 199, 232, 242, 272; `chapter_06` 72; `solarpunk_manifesto` 32, 33; `tao_te_ching` 16, 18, 20; `velveteen_rabbit` 352, 407.
+- Warn and sorry: `news_from_nowhere/chapter_05` 76; `chapter_06` 74; `solarpunk_manifesto` 3.
+
+Several of these texts are certified. A changed unit there needs fresh source-blind derivation under D102. The primer, the pamphlets, and the Short Road do not teach the six words. What brings this back: the maintainer's word that the language-level items of the November 2026 assessment are settled.
+
 ### Text lines awaiting the small-words sweep
 
 Status: Parked by the maintainer's instruction of 2026-11-24 that the language is settled first and the texts are swept once afterwards.

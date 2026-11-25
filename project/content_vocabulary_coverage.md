@@ -51,7 +51,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Gibran's On Love fidelity repair | **DONE** | The complete 35-unit source stream remains exact. Nineteen units change; base `ratenu` and `salenu` replace two material workarounds, while direct current vocabulary repairs loudness, sufficiency, desire, waking, midday, lips, portion, and deservingness. |
 | Architectural arch repair | **DONE** | Work `toreku` replaces the recurring rainbow comparison in five *News from Nowhere* chapters. Arcade and cloister remain arrangements of arches, roof, path, and surrounding building rather than second names for the span. |
 | Bodily waste placement and manure | **DONE** | `tomewu` urine and `mokathi` faeces now belong to Medical and Bodily Care, Household `muneki` remains the ordinary latrine word, bodily acts compose with existing grammar, and Ecological `lomathu` names manure as material gathered for soil use. |
-| Small words and clause relations | **DONE** | Base `ture` gives again and additive another. Still, not yet, already, even, at once, and soon are registered compounds over existing words; no longer, instead, except, and the clause relations from when to whether-or-not compose with existing grammar, with `tei` licensed over a clause. Other and else stay deferred under `CV-SMALL-07`. |
+| Small words and clause relations | **DONE** | Base `ture` gives again and additive another. Still, not yet, already, even, at once, and soon are registered compounds over existing words; no longer, instead, except, and the clause relations from when to whether-or-not compose with existing grammar, with `tei` licensed over a clause. Other and else were then settled by `tasa` under `CV-SMALL-07`. |
+| Ordinary words, first set | **DONE** | Base `tasa` (other), `sute` (happen), `pumi` (use), `seme` (easy), `teoki` (warn), and `soaru` (apologize) fill six gaps; promise, allow and forbid, suffer, part, lend and borrow, witness and testify, and show, seem, and decide were already sayable and gain search terms. The rest of the assessment's list waits under `CV-ORD-13`. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1903,9 +1904,32 @@ The November 2026 assessment found no settled way to say again, still, already, 
 | At once, soon | registered `pheo mu thimu` and `pheo teku shemu` under `CV-SMALL-04` | **IMPLEMENTED** | The first already stood in a certified text. `nosa` and `reshi` are now and fast. |
 | Instead, except | negation with `thona` or `whekai`; `li` with the predicate turned, under `CV-SMALL-05` | **COMPOSITIONAL** | Both read without doubt. The place calque for instead read as a location. |
 | When, whenever, until with a clause, since, unless, even if, whether or not, only if, as soon as | `pheo`, `whau`, `lu`, `shai`, `sola`, and `tei` over a clause, under `CV-SMALL-06` | **COMPOSITIONAL** | No relator is coined for when. `tei` over a clause is a grammar extension the maintainer opened; the relator set stays six. |
-| Other, else, another as a different one | Existing `phirae`; `CV-SMALL-07` | **DEFERRED** | The remaining sense waits for the ordinary-vocabulary step of the same assessment. |
+| Other, else, another as a different one | new base `tasa` and `CV-SMALL-07` | **IMPLEMENTED** | Settled in the ordinary-words set that followed: `tasa` is what is left of a set in view, and `phirae` keeps different. |
 
 The batch adds one base root, five registered compounds, and one grammar extension. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
+
+## Ordinary words, first set
+
+The November 2026 assessment listed about a hundred and twenty ordinary English words for which no entry is glossed and no search term leads to one, and asked that the set begin with warn, witness, testify, allow, forbid, promise, apologize, lend, borrow, other, part, happen, use, easy, and suffer. Each was checked three ways: against every gloss, search term, and description in the lexicon; against how the aligned texts render the source word today; and against canon's refusals. Most turned out to be sayable already and only hard to find. Six were real gaps. The maintainer approved the six forms on 2026-11-24.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| The rest of a set in view: other, the others, else | new base `tasa` and `CV-SMALL-07` | **IMPLEMENTED** | Forty-four of sixty-five source lines with other, another, or else use `phirae`, and source-blind readers kept taking `lo phirae tupiwa` as rabbits differing in kind. `phirae` keeps different, `ture` one more, and the pronoun `hia` the other one. |
+| An event taking place | new base `sute` and `CV-ORD-01` | **IMPLEMENTED** | Thirteen source lines with happen use `nai`, `kelu`, `phoa`, and `shua` between them. `sute` takes the event as subject. |
+| Putting a thing to work | new base `pumi` and `CV-ORD-02` | **IMPLEMENTED** | Base Phi had `roe` for the means inside another action and no verb. `pumi` with `tei` also asks for the loan of a thing. |
+| Little effort | new base `seme` and `CV-ORD-03` | **IMPLEMENTED** | Fourteen source lines with easy use `kethua ma` or `reshi`. `seme` is the opposite of `kethua` for effort. |
+| Telling someone of a danger | new base `teoki` and `CV-ORD-04` | **IMPLEMENTED** | Only the interjection `teo` and module `shanewi` existed. The verb is built audibly on `teo`. |
+| Owning a harm to the one harmed | new base `soaru` and `CV-ORD-05` | **IMPLEMENTED** | Only the interjection `soa` existed beside verbs for thank, forgive, mend, and reconcile. The verb is built audibly on `soa`. |
+| Promise | `seru` and `korei`, under `CV-ORD-06` | **COMPOSITIONAL** | The texts already render promise as `seru`. A search term was missing. |
+| Allow, permit, forbid | `lesawi`, `ma lesawi`, `po`, and `na ma`, under `CV-ORD-07` | **COMPOSITIONAL** | Permission over what affects oneself is consent. No verb is coined for one person licensing another's conduct. |
+| Suffer | `kipona` with `phaelo`, and `pheru`, under `CV-ORD-08` | **COMPOSITIONAL** | `kipona` already renders suffering in the Heart Sutra. |
+| Part of a whole | `phanoi` in noun position, `soli`, and module `monaki`, under `CV-ORD-09` | **COMPOSITIONAL** | Six of fourteen source lines with part already use `phanoi`. |
+| Lend, borrow | `phowe` and `pumi` with `tei`, under `CV-ORD-10` | **COMPOSITIONAL** | Canon refuses debt. Lending is sharing with an end in view. |
+| Witness, testify | `somela`, `shane`, and `thesori`, under `CV-ORD-11` | **COMPOSITIONAL** | One who observed tells the account, and what is offered is evidence. |
+| Show, seem, decide | `ka nila`, `ke`, and `kanu`, under `CV-ORD-12` | **COMPOSITIONAL** | The texts use all three without strain. |
+| The rest of the assessment's list | `CV-ORD-13` | **DEFERRED** | About a hundred words not yet examined one by one. The first set suggests most are findability gaps. |
+
+The batch adds six base roots and search terms or a cross-reference on fifteen existing entries. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
 
 ## Resolved review decisions
 
@@ -1998,4 +2022,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 76 implemented decisions and 131 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,308 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 82 implemented decisions and 138 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,314 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

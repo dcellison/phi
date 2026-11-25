@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (329)
+## activity (331)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -183,6 +183,7 @@
 | `pukate` | break | an event in which a whole loses the structure or continuity that held it together |
 | `pumari` | suck | drawing inward with the mouth around a person, object, or substance |
 | `pumeli` | knead | repeatedly pressing, folding, and turning a soft mass |
+| `pumi` | use | putting a tool, a material, or any means to work |
 | `puse` | spit | expelling material from the mouth |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
 | `ralemi` | independent | an action directed by the person carrying it out |
@@ -213,6 +214,7 @@
 | `selu` | flow | continuous movement treated as an ongoing process |
 | `seluto` | pour | directing material out of a container |
 | `seluwhe` | outage | cessation or inadequate provision of a technical function |
+| `seme` | easy | how little effort a task or a route asks of the one doing it |
 | `sephaki` | current | movement of electric charge through a material or space |
 | `sepho` | send | causing someone or something to travel away towards a destination |
 | `sephori` | supply | making a resource available for a stated practical use |
@@ -672,7 +674,7 @@
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 | `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
-## communication (136)
+## communication (138)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -776,8 +778,10 @@
 | `sirelu` | disclose | making information known to a new recipient |
 | `siru` | marker | an agreed object that can indicate a location, boundary, or stage |
 | `sitheku` | transcribe | carrying spoken or signed expression into writing |
+| `soaru` | apologize | saying to someone that one regrets a harm and owns it |
 | `solae` | explain | an account of why or how offered to another person |
 | `teli` | bell | an audible object used to call, warn, or mark an event |
+| `teoki` | warn | telling someone of a danger before it reaches them |
 | `thaemu` | sincere | expression that matches the feeling or intention it presents |
 | `thasu` | modest | ability, achievement, or certainty presented without exaggeration |
 | `theisa` | loud | high perceived intensity in a voice or spoken utterance |
@@ -1366,7 +1370,7 @@
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 | `wurashi` | crave | desire experienced as pressure that is hard to set aside |
 
-## ethics (38)
+## ethics (40)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1394,7 +1398,9 @@
 | `serathi` | principled | fidelity between ethical commitment and conduct when the commitment is tested |
 | `sharino` | conscience | moral self-appraisal of intended or completed conduct |
 | `sherelo` | right (normative) | a claim that can place a duty or limit on conduct |
+| `soaru` | apologize | taking responsibility before the person who was harmed |
 | `taleri` | virtuous | ethical excellence attributed to a person, act, or pattern of conduct |
+| `teoki` | warn | care for another person's safety that leaves the choice with them |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
 | `thaweno` | reward | a reward whose fairness and claimed deservingness remain open questions |
 | `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
@@ -2192,7 +2198,7 @@
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 | `wurashi` | crave | craving felt through bodily appetite or urge |
 
-## quantity (43)
+## quantity (44)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2226,6 +2232,7 @@
 | `sharoi` | exceed | one amount standing above another amount or threshold |
 | `sholei` | gather | addition expressed as the combination of commensurable quantities |
 | `ta` | one | the exact quantity one and the coefficient one in ternary numerals |
+| `tasa` | other | what remains of a set after part of it has been named |
 | `tawi` | count | determining how many members a set contains |
 | `thenoi` | falls-short | one amount remaining below another amount or threshold |
 | `thiku` | small | a small amount when the comparison concerns quantity rather than spatial extent |
@@ -2460,7 +2467,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (157)
+## temporal (158)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2579,6 +2586,7 @@
 | `sonari` | isolate | separation for a stated period |
 | `suloru` | fever | a temperature state observed over a stated period |
 | `sunoe` | regenerate | recovery that accumulates over a stated span |
+| `sute` | happen | an event's taking place at some time |
 | `talome` | restore | a present condition compared with an earlier one |
 | `teku` | short | a brief duration or interval |
 | `telui` | rhythm | a pattern organised through recurring intervals or beats |
