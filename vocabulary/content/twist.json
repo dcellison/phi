@@ -1,0 +1,38 @@
+{
+  "word": "rikina",
+  "gloss": "twist",
+  "ipa": "/ri.ˈki.n̪ä/",
+  "syllables": [
+    "ri",
+    "ki",
+    "na"
+  ],
+  "pos": "verb",
+  "valency": "both",
+  "search_terms": [
+    "wring",
+    "twine",
+    "spin fibre"
+  ],
+  "description": "Hold a wet cloth at both ends and turn one hand against the other: the water runs out and the cloth winds on itself. That turning of one part of a thing against another is 'rikina', and it is what a spinner does to wool and a rope-maker to strands. 'rato' (turn) moves the whole thing round together.",
+  "articulatory_notes": "A tap of the tongue tip opens into high front 'i'. The back of the tongue rises to the soft palate for 'k' and falls away into a second 'i', which carries the stress. The tip then rests on the upper teeth for 'n', and the word ends on open central 'a'.",
+  "usage_notes": "A rope can twist by itself, as subject, or be twisted, as object. Strands twisted into one thing take 'muo' (INTO) for the result. In noun position 'rikina' is a twist.",
+  "examples": [
+    {
+      "phi": "mia wirua wetha to rikina.",
+      "translation": "I wrung the wet cloth."
+    },
+    {
+      "phi": "shia muo nira ku lo sima rikina.",
+      "translation": "They twist the threads into cord."
+    },
+    {
+      "phi": "ha suro to rikina.",
+      "translation": "This rope twisted."
+    }
+  ],
+  "semantic_domains": {
+    "creation": "turning fibres against each other to make thread, cord, or rope",
+    "physical": "one part of a thing turned against another"
+  }
+}

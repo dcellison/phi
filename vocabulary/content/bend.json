@@ -1,0 +1,38 @@
+{
+  "word": "tumana",
+  "gloss": "bend",
+  "ipa": "/t̪u.ˈmä.n̪ä/",
+  "syllables": [
+    "tu",
+    "ma",
+    "na"
+  ],
+  "pos": "verb",
+  "valency": "both",
+  "search_terms": [
+    "curve",
+    "bow",
+    "flex"
+  ],
+  "description": "A branch under snow curves towards the ground and comes back when the snow slides off. To 'tumana' is to go from straight to curved, or to make something do so, whether or not it springs back: a bent nail stays bent. 'luwi' (flexible) is the quality that lets a thing bend without breaking.",
+  "articulatory_notes": "The tongue tip leaves the upper teeth for 't' as the lips round for high back 'u'. The lips close for 'm' and open wide on stressed open central 'a'. The tip returns to the teeth for 'n', and the same vowel closes the word.",
+  "usage_notes": "The thing that bends is the subject, or the object when someone bends it. A person bending down is 'mulu tumana', with 'mulu' (low) as the manner. In noun position 'tumana' is a bend or a curve, though the turn of a path stays 'ruela rato'.",
+  "examples": [
+    {
+      "phi": "loremi mua howeli tumana.",
+      "translation": "The branch bends in the wind."
+    },
+    {
+      "phi": "mia roe toka ku keluo to tumana.",
+      "translation": "I bent the metal with a hammer."
+    },
+    {
+      "phi": "wheo to mulu tumana nela ku wiru to pilu.",
+      "translation": "The elder bent down and picked up the basket."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "curving the body or a material on purpose",
+    "physical": "a straight thing taking a curve under force"
+  }
+}

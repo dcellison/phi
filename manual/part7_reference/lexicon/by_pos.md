@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (225)
+## adjective (229)
 
 | Word | Gloss |
 |---|---|
@@ -69,9 +69,11 @@
 | `mehalu` | busy |
 | `meraho` | relieved |
 | `mewali` | interested |
+| `mihonu` | deaf |
 | `mioru` | beautiful |
 | `mirewu` | private |
 | `moesha` | still |
+| `mohula` | loose |
 | `mokela` | sick |
 | `moli` | gentle |
 | `monae` | integral |
@@ -86,6 +88,7 @@
 | `muro` | stubborn |
 | `muroa` | fertile |
 | `naphelu` | assistive |
+| `narine` | blind |
 | `nathoku` | contraindicated |
 | `nemo` | grateful |
 | `neri` | cool |
@@ -180,6 +183,7 @@
 | `tekari` | straight |
 | `teku` | short |
 | `telua` | accurate |
+| `teneki` | tight |
 | `tetaru` | opposite |
 | `thaemo` | precious |
 | `thaemu` | sincere |
@@ -1027,7 +1031,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (373)
+## verb (378)
 
 *The last column says what each verb takes. A verb marked either way lets the thing affected stand alone as its subject or be the object of whoever acts on it.*
 
@@ -1230,6 +1234,7 @@
 | `reo` | meaning | a subject and an object |
 | `repora` | propose | a subject and an object |
 | `rihe` | rise | a subject |
+| `rikina` | twist | either way |
 | `rilowa` | assign | a subject and an object |
 | `rinu` | want | a subject and an object |
 | `riola` | labor | a subject and an object |
@@ -1292,6 +1297,7 @@
 | `soaru` | apologize | a subject and an object |
 | `soki` | settle | a subject |
 | `solae` | explain | a subject and an object |
+| `soleki` | follow | a subject and an object |
 | `soliru` | hope | a subject and an object |
 | `somaki` | test | a subject and an object |
 | `somela` | observe | a subject and an object |
@@ -1301,8 +1307,10 @@
 | `sone` | value | a subject and an object |
 | `soranu` | screen | a subject and an object |
 | `sorila` | cultivate | a subject and an object |
+| `sotira` | hang | either way |
 | `soweri` | reach | a subject |
 | `sunoe` | regenerate | either way |
+| `supili` | wrap | a subject and an object |
 | `sute` | happen | a subject |
 | `talome` | restore | a subject and an object |
 | `tapu` | close | a subject and an object |
@@ -1360,6 +1368,7 @@
 | `tiwa` | tie | a subject and an object |
 | `tukelu` | recycle | a subject and an object |
 | `tukiro` | review | a subject and an object |
+| `tumana` | bend | either way |
 | `tupi` | jump | a subject |
 | `turema` | return | a subject |
 | `wakomi` | surprise | a subject and an object |

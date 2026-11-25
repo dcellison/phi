@@ -1,0 +1,36 @@
+{
+  "word": "teneki",
+  "gloss": "tight",
+  "ipa": "/t̪e̞.ˈn̪e̞.ki/",
+  "syllables": [
+    "te",
+    "ne",
+    "ki"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "taut",
+    "snug",
+    "firmly fixed"
+  ],
+  "description": "A knot is 'teneki' when it will not slip, a lid when it will not turn, a rope when it is pulled until it hums, and a shoe when the foot has no room. In each the thing is held or stretched so closely that nothing gives. Its opposite is 'mohula' (loose). 'kema' (strong) is how much force a thing can bear.",
+  "articulatory_notes": "The tongue tip presses the upper teeth for 't' and again, with voice through the nose, for 'n'. Mid front 'e' follows each, the second time stressed. The back of the tongue then shuts against the soft palate for 'k' and opens on high front 'i'.",
+  "usage_notes": "Before a verb it is manner: 'to teneki tiwa' (tied tightly). 'wei' (DAT) gives the person a garment is tight on. The quality noun is tightness.",
+  "examples": [
+    {
+      "phi": "ha tiwa teneki nai.",
+      "translation": "This knot is tight."
+    },
+    {
+      "phi": "mia suro to teneki tiwa.",
+      "translation": "I tied the rope tightly."
+    },
+    {
+      "phi": "ha lo palowe wei mia teneki nai.",
+      "translation": "These shoes are tight on me."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "held, stretched, or fitted so closely that nothing gives"
+  }
+}

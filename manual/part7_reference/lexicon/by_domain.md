@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (334)
+## activity (338)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -242,14 +242,17 @@
 | `sithora` | role | a position defined through its expected or permitted work |
 | `siwe` | sweat | a bodily substance often produced during physical exertion |
 | `soki` | settle | beginning or establishing continuing residence |
+| `soleki` | follow | keeping to a path, a guide, or advice |
 | `somaki` | test | performing a defined evidential procedure |
 | `someru` | supervise | attention to another participant's work under a claimed responsibility |
 | `somethi` | monitor | planned repeated observation, measurement, sampling, or recording |
 | `sonari` | isolate | separating a known or suspected carrier from transmission pathways |
 | `soranu` | screen | a systematic health check with a stated follow-up path |
 | `sorila` | cultivate | deliberate repeated work that supports development |
+| `sotira` | hang | putting washing, tools, or food up to dry or to keep |
 | `soweri` | reach | an attempt to touch or take within arm's range |
 | `sulopa` | soup | a dish prepared, served, and eaten as food |
+| `supili` | wrap | enclosing a thing in cloth, leaf, or paper to carry or keep it |
 | `takori` | load | required work or throughput relative to a technical function |
 | `talome` | restore | work directed towards a stated earlier or reference condition |
 | `tapu` | close | the act that brings an opening or access point into a closed state |
@@ -308,6 +311,7 @@
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
 | `tukiro` | review | systematically reconsidering an earlier decision, record, or action |
 | `tulawe` | reversible | acts and changes that admit a way back to the earlier condition |
+| `tumana` | bend | curving the body or a material on purpose |
 | `tumoa` | heavy | work or obligation experienced as burdensome through metaphorical weight |
 | `tupeka` | burden | a difficult demand borne through action or responsibility |
 | `tupi` | jump | a jump treated as one bounded bodily act |
@@ -680,7 +684,7 @@
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 | `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
-## communication (142)
+## communication (143)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -716,6 +720,7 @@
 | `manawi` | compromise | an outcome of negotiating differing aims |
 | `menoa` | face | the region where much visible human expression appears |
 | `menua` | counselor | a role that offers considered guidance through listening, questions, or advice |
+| `mihonu` | deaf | a condition that shapes the mode in which a person speaks and is spoken to |
 | `milaro` | message | a bounded expression directed towards a recipient |
 | `mirewu` | private | chosen limits on access to a conversation, record, or information |
 | `misharo` | consult | an exchange intended to inform later action |
@@ -827,7 +832,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (276)
+## community (277)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -913,6 +918,7 @@
 | `motu` | humble | a stance that does not place one's importance above other people's |
 | `muraki` | harvest | a harvest carried out or marked by a household or community |
 | `naphe` | help | help directed towards another person or shared undertaking |
+| `narine` | blind | a word people use of themselves and of one another without apology |
 | `naseru` | obligation | a requirement borne by a person, role, or institution under a social source |
 | `nashaku` | enforce | institutional enforcement with stated methods and review |
 | `nasholu` | rule | a requirement, permission, or prohibition claimed within a social process |
@@ -1108,7 +1114,7 @@
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `woru` | keeper | a person recognised as responsible for stated continuing care |
 
-## creation (176)
+## creation (177)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1221,6 +1227,7 @@
 | `pumeli` | knead | working dough, clay, or similar material towards a usable condition |
 | `repha` | bridge | a built span that supports passage |
 | `reteru` | model | a deliberately constructed representation with selected features and relations |
+| `rikina` | twist | turning fibres against each other to make thread, cord, or rope |
 | `rinoka` | project | work gathered towards a stated result |
 | `roena` | copper | a workable metal used for vessels, tools, ornament, and conductors |
 | `rolu` | wheel | a rotating component used in craft, transport, or machinery |
@@ -1683,7 +1690,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (526)
+## physical (532)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1839,6 +1846,7 @@
 | `mera` | net | a flexible open structure used to hold, carry, support, separate, or filter |
 | `meraku` | brain | the organ of the nervous system within the head |
 | `meshoi` | cheek | the soft region on either side of the face |
+| `mihonu` | deaf | the body's hearing, absent or too slight to rely on |
 | `mikasu` | dose | an amount intended or delivered to a body |
 | `milau` | drink | oral intake of liquid |
 | `milura` | milk | milk handled as food, drink, or ingredient |
@@ -1848,6 +1856,7 @@
 | `moeli` | hearth | the floor or enclosure where fuel burns |
 | `moesha` | still | absence of movement at the relevant bodily or material scale |
 | `moesu` | wax | a water-repelling material that softens over a modest temperature range |
+| `mohula` | loose | held with room to move, sag, or slip |
 | `mokanu` | disease | a pattern or process affecting bodily health or function |
 | `mokathi` | faeces | material expelled from the digestive tract |
 | `mokela` | sick | illness experienced as a bodily or whole-person state |
@@ -1888,6 +1897,7 @@
 | `napewa` | husk | a removable fibrous, leaflike, or shell-like layer |
 | `naphelu` | assistive | support for a bodily or sensory function |
 | `napuro` | grain | grain handled as a crop, stored material, or food |
+| `narine` | blind | the body's sight, absent or too slight to rely on |
 | `nathelo` | lean | weight given at an angle to a supporting surface |
 | `nathoku` | contraindicated | advice based on the relation between an intervention and bodily conditions |
 | `natu` | pull | force that draws a body or object along its line of contact |
@@ -2021,6 +2031,7 @@
 | `reshi` | fast | a high rate of bodily or material movement |
 | `rewa` | oar | a long water-moving tool with a flattened blade |
 | `rihe` | rise | a body or material becoming higher |
+| `rikina` | twist | one part of a thing turned against another |
 | `ripati` | ladder | a portable frame of two poles and the rungs between them |
 | `rishonu` | charge | a property of matter involved in electrical interaction and current |
 | `roela` | scroll | a sheet or strip stored by winding it around itself or a support |
@@ -2102,6 +2113,7 @@
 | `tawemi` | cover | one thing lying over another so that view or contact is limited |
 | `tekari` | straight | an extended object or edge continuing without a bend |
 | `telui` | rhythm | recurrence felt through bodily movement, breath, or contact |
+| `teneki` | tight | held, stretched, or fitted so closely that nothing gives |
 | `tenoa` | tool | a tangible implement handled by a user |
 | `teru` | process | material passing through a set of operations |
 | `teshilo` | steel | an iron-based alloy whose properties depend on composition and processing |
@@ -2158,6 +2170,7 @@
 | `tukelu` | recycle | a material process with inputs, outputs, losses, and changed properties |
 | `tuko` | sour | gustatory acidity such as citrus or vinegar |
 | `tulira` | tail | a body structure used in varied forms of movement, balance, or signalling |
+| `tumana` | bend | a straight thing taking a curve under force |
 | `tumeki` | root | a branching structure often extending through soil or another medium |
 | `tumoa` | heavy | weight that requires substantial force to move or support |
 | `tupeka` | burden | a weight supported by a living body |
@@ -2295,7 +2308,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (189)
+## spatial (191)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2435,8 +2448,10 @@
 | `silawo` | village | a shared locality containing a village settlement |
 | `siru` | marker | a placed reference used in wayfinding or position |
 | `soki` | settle | transition into residence at a location |
+| `soleki` | follow | moving along the course that another person or thing takes |
 | `sonari` | isolate | a bounded separation between a carrier and possible hosts |
 | `sorui` | circle | an arrangement around an interior region or point |
+| `sotira` | hang | held from above with nothing beneath |
 | `tapu` | close | passage or access ended at a boundary |
 | `tawemi` | cover | an overlying relation that limits view or contact |
 | `tekari` | straight | a course that does not curve or turn over the relevant extent |

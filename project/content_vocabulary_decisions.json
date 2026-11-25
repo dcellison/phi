@@ -1202,6 +1202,27 @@
         "CV-ORD-44",
         "CV-ORD-45"
       ]
+    },
+    {
+      "id": "ordinary-words-fifth-set",
+      "heading": "Ordinary words, fifth set",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ORD-46",
+        "CV-ORD-47",
+        "CV-ORD-48",
+        "CV-ORD-49",
+        "CV-ORD-50",
+        "CV-ORD-51",
+        "CV-ORD-52",
+        "CV-ORD-53",
+        "CV-ORD-54",
+        "CV-ORD-55",
+        "CV-ORD-56",
+        "CV-ORD-57",
+        "CV-ORD-58"
+      ]
     }
   ],
   "candidates": [
@@ -5430,7 +5451,7 @@
       "concept": "following: moving along a path because another is moving along it",
       "status": "compositional",
       "placement": "base",
-      "summary": "'noe' (BEHIND) with a motion verb says the apprentice went behind the parent, which is what following looks like from outside. What it leaves unstated is that one path depends on the other. The diagnostic judged the loss small; a root waits for a passage where the dependence carries weight.",
+      "summary": "'noe' (BEHIND) with a motion verb says the apprentice went behind the parent, which is what following looks like from outside. What it leaves unstated is that one path depends on the other. The diagnostic judged the loss small; a root waits for a passage where the dependence carries weight. Amended on 2026-11-25 by `CV-ORD-51`: the verb `soleki` (follow) now states the dependence, and `noe` with a motion verb keeps plain position behind.",
       "expressions": [
         "noe",
         "wepu",
@@ -6341,7 +6362,7 @@
       "concept": "the remaining ordinary words listed by the November 2026 assessment",
       "status": "deferred",
       "placement": "base vocabulary, each to be decided as covered, composed, coined, or refused",
-      "summary": "Not yet examined one by one: bend, bury, destroy, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, ugly, blind, deaf; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first four sets showed that most such items are covered and lack only a search term or a line of usage, so the list is a set of questions and not a set of coinages.",
+      "summary": "Not yet examined one by one: destroy and ugly, which the maintainer set aside on 2026-11-25 when the other actions and qualities were examined; vegetable, sugar, spice, pig, chicken, fox, lizard, turtle, louse, thigh, eyebrow; compost, farm, bicycle, battery, turbine, engine, internet, street, shop, hospital, news, photograph; and steal, win, law, god, and pray, where a recorded ruling would help. The first five sets showed that about half of such items are covered and lack only a search term or a line of usage, so the list is a set of questions and not a set of coinages.",
       "revisit_when": "The maintainer commissions the next ordinary-vocabulary set for assessment recommendation 22.",
       "batches": [
         "ordinary-words-first-set"
@@ -6862,6 +6883,216 @@
       ],
       "batches": [
         "ordinary-words-fourth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-46",
+      "concept": "bend and curve",
+      "status": "implemented",
+      "placement": "base physical vocabulary",
+      "summary": "The entry for `luwi` gave `luwi kelu` (become flexible) for bend, and a source-blind reader took `shiro loremi luwi to kelu` as bent at only 60 percent against became flexible. Verb `tumana` works both ways: a thing goes from straight to curved, or someone makes it do so, whether or not it springs back. `luwi` keeps the quality, a path's turn stays `ruela rato`, and bending down is `mulu tumana`.",
+      "implementation": {
+        "words": [
+          "tumana"
+        ],
+        "files": [
+          "vocabulary/content/bend.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-47",
+      "concept": "hang",
+      "status": "implemented",
+      "placement": "base spatial vocabulary",
+      "summary": "Nothing in the lexicon said that a thing is held from above and free below; the texts wrote `ka ruemi` (make lie), `leo ... nai` (be above), and `ka ralu manolu` (let stay free). Verb `sotira` works both ways, for the thing that hangs and for the person who hangs it, with `lue` for what it hangs from.",
+      "implementation": {
+        "words": [
+          "sotira"
+        ],
+        "files": [
+          "vocabulary/content/hang.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-48",
+      "concept": "twist, wring, and twine",
+      "status": "implemented",
+      "placement": "base physical and craft vocabulary",
+      "summary": "`rato` (turn) moves a whole thing round together. Verb `rikina` turns one part of a thing against another, as in wringing a cloth and in twisting fibres into thread or strands into rope, and it works both ways. No source line says twist.",
+      "implementation": {
+        "words": [
+          "rikina"
+        ],
+        "files": [
+          "vocabulary/content/twist.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-49",
+      "concept": "wrap",
+      "status": "implemented",
+      "placement": "base activity vocabulary",
+      "summary": "The first sorting composed wrap as `tawemi` (cover) with `roe`. Both source-blind readers took `mia roe wetha ku napa to tawemi` as covered the bread with a cloth, and neither offered wrapped. Transitive `supili` puts a soft covering all the way round a thing. `tawemi` keeps laying over the top, and `lomare` keeps a garment drawn round a body, as the texts have it.",
+      "implementation": {
+        "words": [
+          "supili"
+        ],
+        "files": [
+          "vocabulary/content/wrap.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-50",
+      "concept": "tight and loose",
+      "status": "implemented",
+      "placement": "base physical vocabulary",
+      "summary": "The texts wrote `mo noshi phelu` (hold nearer) and `kema` (strong) for tight and `ralu` (free) for loose. Adjective `teneki` is held, stretched, or fitted so closely that nothing gives. Adjective `mohula` is still held but with room to shift, which separates it from `ralu`, held by nothing. The pair were chosen to sound unlike each other. The entries for `luwi` and `ralu` now point to `mohula` for fit and slackness.",
+      "implementation": {
+        "words": [
+          "teneki",
+          "mohula"
+        ],
+        "files": [
+          "vocabulary/content/tight.json",
+          "vocabulary/content/loose.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-51",
+      "concept": "follow",
+      "status": "implemented",
+      "placement": "base spatial vocabulary",
+      "summary": "`CV-BODY-15` composed following as `noe` (behind) with a motion verb and said a root should wait for a passage where the dependence matters. Source-blind readers took `lopia noe phao to thalo` as walked behind the parent, and one noted that followed would add an intent the Phi does not state. By the maintainer's ruling of 2026-11-25 transitive `soleki` is to go where another goes because they go there, and by extension to keep to a path, a guide, or advice. It says nothing of being made to follow. `noe` keeps plain position.",
+      "implementation": {
+        "words": [
+          "soleki"
+        ],
+        "files": [
+          "vocabulary/content/follow.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-52",
+      "concept": "blind and deaf",
+      "status": "implemented",
+      "placement": "base bodily vocabulary",
+      "summary": "`CV-MED-13` describes function with `murethi` and identity with `sowelu`, and `CV-ACCESS-17` leaves exact identity terms to their source. Source-blind readers took `po ma nila` and `po ma hea` as cannot see and cannot hear, with may not and cannot just now as other readings. By the maintainer's ruling of 2026-11-25 base adjectives `narine` (blind) and `mihonu` (deaf) are plain words a person can use of themself, on the model of `sowelu`. Degree and naming stay with the person, community and legal identity terms stay source-bound, and neither word is used as a figure for not noticing or not listening.",
+      "implementation": {
+        "words": [
+          "narine",
+          "mihonu"
+        ],
+        "files": [
+          "vocabulary/content/blind.json",
+          "vocabulary/content/deaf.json"
+        ]
+      },
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-53",
+      "concept": "lift and raise",
+      "status": "compositional",
+      "placement": "causative `ka rihe`",
+      "summary": "`CV-BODY-14` stands. Source-blind readers took `mia whalo kerou to ka rihe` as lifted or raised the large stone at 90 and 92 percent. Lift and raise become search terms on `rihe`.",
+      "expressions": [
+        "mia whalo kerou to ka rihe"
+      ],
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-54",
+      "concept": "fill",
+      "status": "compositional",
+      "placement": "base `pheno` with `ka kelu`",
+      "summary": "Canon makes causing a state `ka kelu` with the quality before it, and the texts already fill a cup and a basket this way. Readers took `mia soeli pheno to ka kelu` as filled the cup at 90 percent.",
+      "expressions": [
+        "mia soeli pheno to ka kelu"
+      ],
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-55",
+      "concept": "bury",
+      "status": "compositional",
+      "placement": "base `tawemi` with `roe muila`",
+      "summary": "Burying is covering with earth, which the entry for `tawemi` already illustrates with a seed. Readers took `lohau roe muila ku tholau to tawemi` as covered the bone with earth, or buried it, at 95 percent. A burial rite stays under the declined `CV-RITE-01`.",
+      "expressions": [
+        "lohau roe muila ku tholau to tawemi"
+      ],
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-56",
+      "concept": "shine",
+      "status": "compositional",
+      "placement": "registered compound `keru loa`",
+      "summary": "To shine is to give brightness, a registered compound that four text lines use. Readers took `sileta keru loa` as the sun shines at 93 percent. Shine becomes a search term on `keru`.",
+      "expressions": [
+        "keru loa",
+        "sileta keru loa"
+      ],
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-57",
+      "concept": "translate",
+      "status": "compositional",
+      "placement": "module `shoraku`",
+      "summary": "Accessibility `shoraku` conveys meaning between languages or modes while keeping the two expressions distinct, which is translation as well as interpretation. Readers took `mia ha nophi to shoraku` as interpreted or translated this story at 85 and 90 percent. Translate becomes a search term, and the word stays a module word; whether it should be base vocabulary is left to the maintainer.",
+      "expressions": [
+        "mia ha nophi to shoraku"
+      ],
+      "batches": [
+        "ordinary-words-fifth-set"
+      ]
+    },
+    {
+      "id": "CV-ORD-58",
+      "concept": "signing: using a signed language",
+      "status": "compositional",
+      "placement": "base `sheori` with `roe manuwe`",
+      "summary": "Noticed while writing the entry for `mihonu`. `haolu` (speak) is defined by the voice and `thorelu` (converse) as spoken conversation, so neither says signing. The mode-neutral verb `sheori` (communicate) does, with the hands as the means. Whether signing should have a verb of its own, or `haolu` and `thorelu` should be widened beyond the voice, is put to the maintainer in the pull request.",
+      "expressions": [
+        "lo mia roe manuwe sheori",
+        "shia roe manuwe wei mia to sheori"
+      ],
+      "batches": [
+        "ordinary-words-fifth-set"
       ]
     }
   ],

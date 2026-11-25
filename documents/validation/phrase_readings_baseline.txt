@@ -276,4 +276,4 @@ texts/the_mended_wall.md	57	25	45	2	0	1	1	0	0
 texts/the_report_at_dusk.md	56	30	47	3	0	2	2	0	0
 texts/the_worth_of_a_fallen_branch.md	56	26	42	0	0	1	1	0	0
 texts/velveteen_rabbit.md	530	223	323	24	4	376	158	25	0
-vocabulary/	1545	639	986	68	2	0	0	0	0
+vocabulary/	1574	643	998	70	2	0	0	0	0

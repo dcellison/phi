@@ -56,6 +56,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Ordinary words, second set | **DONE** | Base `rese` (sort), `kothe` (problem), `hanelo` (avoid), `tetaru` (opposite), `hatura` (urgent), and `sekuna` (accuse, which also carries blame) fill six gaps; remind, important, similar, false, early and late, expect, guess, succeed, and survive were already sayable and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
 | Ordinary words, third set | **DONE** | Base `mipi` (baby) fills the one gap among the people and places; owner, doctor, leader, city and town, school, world, and crowd and group were already sayable and gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
 | Ordinary words, fourth set | **DONE** | Base `hopu` (hole), `riti` (line), `lakari` (map), `ripati` (ladder), `mepe` (half), `kitenu` (corner), and `sikuno` (list) fill seven gaps among ordinary things; gate, fence, and stairs were already registered compounds and ore composes, and all four gain search terms or a line of usage. The rest of the assessment's list still waits under `CV-ORD-13`. |
+| Ordinary words, fifth set | **DONE** | Base `tumana` (bend), `sotira` (hang), `rikina` (twist), `supili` (wrap), `teneki` (tight), `mohula` (loose), `soleki` (follow), `narine` (blind), and `mihonu` (deaf) fill nine gaps among ordinary actions and qualities; lift, fill, bury, shine, and translate were already sayable and gain search terms or a line of usage. Destroy and ugly were set aside by the maintainer and wait with the rest under `CV-ORD-13`. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1993,6 +1994,28 @@ The fourth set takes the things on the November 2026 assessment's list: map, lis
 
 The batch adds seven base roots, one canon ruling, and search terms or a line of usage on eleven existing entries. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
 
+## Ordinary words, fifth set
+
+The fifth set takes the actions and qualities on the November 2026 assessment's list: bend, bury, fill, lift, hang, follow, wrap, twist, shine, translate, tight, loose, blind, and deaf. The maintainer set destroy and ugly aside. The order of work changed for this set: after the register, the lexicon, the texts, and canon had been searched, the existing compositions were given to two source-blind readers before anything was sorted, so that a weak composition reached the maintainer as a question and not as a finding after the fact. Five compositions held, two did not, and two went to the maintainer with their figures. The maintainer approved the nine forms on 2026-11-25.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Going from straight to curved | new base `tumana` and `CV-ORD-46` | **IMPLEMENTED** | `luwi kelu` (become flexible) was read as bent at 60 percent by one reader. `luwi` keeps the quality. |
+| Held from above, free below | new base `sotira` and `CV-ORD-47` | **IMPLEMENTED** | The texts wrote `ka ruemi`, `leo ... nai`, and `ka ralu manolu`. The verb works both ways. |
+| One part turned against another | new base `rikina` and `CV-ORD-48` | **IMPLEMENTED** | `rato` turns the whole thing together. Wringing and the twisting of fibre and rope had no verb. |
+| A covering put all the way round | new base `supili` and `CV-ORD-49` | **IMPLEMENTED** | Both readers took `roe wetha tawemi` as covered with a cloth and neither offered wrapped. |
+| Held closely; held with room to shift | new base `teneki` and `mohula`, under `CV-ORD-50` | **IMPLEMENTED** | The texts wrote `kema` and `mo noshi phelu` for tight and `ralu` (free) for loose. `ralu` keeps held by nothing. |
+| Going where another goes because they go there | new base `soleki` and `CV-ORD-51` | **IMPLEMENTED** | `CV-BODY-15` composed it with `noe`. Readers took that as walked behind, and the maintainer ruled for a verb. |
+| Blind, deaf | new base `narine` and `mihonu`, under `CV-ORD-52` | **IMPLEMENTED** | `po ma nila` and `po ma hea` read as cannot see and cannot hear, with may not as another reading. The maintainer ruled for plain adjectives on the model of `sowelu`. |
+| Lift, raise | `ka rihe`, under `CV-ORD-53` | **COMPOSITIONAL** | `CV-BODY-14` stands; readers took it as lifted at 90 and 92 percent. |
+| Fill | `pheno ka kelu`, under `CV-ORD-54` | **COMPOSITIONAL** | Read as filled at 90 percent; the texts already use it. |
+| Bury | `roe muila tawemi`, under `CV-ORD-55` | **COMPOSITIONAL** | Read as covered with earth, or buried, at 95 percent. |
+| Shine | registered `keru loa`, under `CV-ORD-56` | **COMPOSITIONAL** | Read as shines at 93 percent. A search term was missing. |
+| Translate | module `shoraku`, under `CV-ORD-57` | **COMPOSITIONAL** | Read as interpreted or translated at 85 and 90 percent. The word stays in the accessibility module pending the maintainer's word on placement. |
+| Signing | `roe manuwe sheori`, under `CV-ORD-58` | **COMPOSITIONAL** | Noticed on the way: `haolu` and `thorelu` are defined by the voice. Put to the maintainer. |
+
+The batch adds nine base roots and search terms or a line of usage on eleven existing entries. It changes no text; the affected lines are listed in `project/deferred_questions.md`.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -2084,4 +2107,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 96 implemented decisions and 156 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,328 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 103 implemented decisions and 162 compositional decisions. It also preserves 32 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,337 lexicon entries follow the target prose contract. Eighteen post-migration literary retrofits complete the shelf, including the cross-chapter arch repair, the manure correction in *News from Nowhere* chapter 5, and the grain-work additions for Gibran's *On Love*. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the D102 text certification queue, then translate *News from Nowhere* chapter 7. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

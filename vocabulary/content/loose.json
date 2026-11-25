@@ -1,0 +1,36 @@
+{
+  "word": "mohula",
+  "gloss": "loose",
+  "ipa": "/mo̞.ˈhu.lä/",
+  "syllables": [
+    "mo",
+    "hu",
+    "la"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "slack",
+    "not firmly fixed",
+    "baggy"
+  ],
+  "description": "A child's tooth that moves under the tongue is 'mohula', and so is a rope with a sag in it. The thing is still held, but with room to shift, and that separates it from 'ralu' (free), which nothing holds at all. A coat can be either: 'mohula' if it is too big, 'ralu' if it is unfastened. Its opposite is 'teneki' (tight).",
+  "articulatory_notes": "The lips close for 'm' and round as they open on mid back 'o'. Breath alone makes 'h', and the lips stay rounded for stressed high back 'u'. The tongue tip lifts to the ridge for 'l', and the mouth opens on final central 'a'.",
+  "usage_notes": "'to mohula tiwa' is tied loosely. Coming loose is 'mohula kelu', and loosening a thing is 'mohula ka kelu'. The quality noun is looseness.",
+  "examples": [
+    {
+      "phi": "lopia kulai mohula nai.",
+      "translation": "The child's tooth is loose."
+    },
+    {
+      "phi": "ha tiwa mohula to kelu.",
+      "translation": "This knot came loose."
+    },
+    {
+      "phi": "ha wethalu wei mia mohula nai.",
+      "translation": "This garment is loose on me."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "held with room to move, sag, or slip"
+  }
+}

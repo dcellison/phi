@@ -1,0 +1,39 @@
+{
+  "word": "narine",
+  "gloss": "blind",
+  "ipa": "/n̪ä.ˈri.n̪e̞/",
+  "syllables": [
+    "na",
+    "ri",
+    "ne"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "sightless",
+    "without sight"
+  ],
+  "description": "A person who is 'narine' does not see, or sees too little to go by sight, and finds the way by hand, ear, cane, or memory. It is a plain word that a person can use of themself. How much someone sees, and what they call it, is theirs to say, and a community's name for itself stays in its own words. 'po ma nila' is a different statement: cannot see just now, or may not.",
+  "articulatory_notes": "The tongue tip rests on the upper teeth for voiced 'n' and opens on open central 'a'. A single tap on the ridge makes 'r', which leads into stressed high front 'i'. The tip returns to the teeth for a second 'n', and the word ends on mid front 'e'.",
+  "usage_notes": "'narine miona' is a blind person, and 'mia narine nai' is I am blind. The quality noun is blindness. English also says blind for failing to notice or to understand; Phi says those with 'ma nila' and 'ma shelomu'.",
+  "examples": [
+    {
+      "phi": "mia narine nai. mia roe manuwe theo.",
+      "translation": "I am blind. I read with my hands."
+    },
+    {
+      "phi": "narine wheo ha ruela sano.",
+      "translation": "The blind elder knows this path."
+    },
+    {
+      "phi": "shia lue thowia narine nai.",
+      "translation": "They have been blind from birth."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "English makes blindness a figure for ignorance. 'narine' is kept for a person's sight, so that no one's body is turned into a reproach."
+  },
+  "semantic_domains": {
+    "community": "a word people use of themselves and of one another without apology",
+    "physical": "the body's sight, absent or too slight to rely on"
+  }
+}

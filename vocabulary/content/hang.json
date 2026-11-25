@@ -1,0 +1,38 @@
+{
+  "word": "sotira",
+  "gloss": "hang",
+  "ipa": "/so̞.ˈt̪i.rä/",
+  "syllables": [
+    "so",
+    "ti",
+    "ra"
+  ],
+  "pos": "verb",
+  "valency": "both",
+  "search_terms": [
+    "suspend",
+    "dangle",
+    "hang up"
+  ],
+  "description": "Washing on a line and a lantern from a beam are each held from above and left free below. That is 'sotira', for the thing that hangs and for the person who hangs it. 'ruemi' (lie down) rests a thing on what is under it, and 'nathelo' (lean) rests it against something beside it.",
+  "articulatory_notes": "Air hisses through a groove in the tongue for 's' and the lips round for mid back 'o'. The tongue tip stops against the upper teeth for 't' and releases into stressed high front 'i'. One tap on the ridge makes 'r', and the jaw drops for final open central 'a'.",
+  "usage_notes": "What a thing hangs from takes 'lue' (ABL). When someone does the hanging, the thing hung is the object.",
+  "examples": [
+    {
+      "phi": "luma lue toru sotira.",
+      "translation": "The lamp hangs from the roof."
+    },
+    {
+      "phi": "mia mua thepalu ku wetha to sotira.",
+      "translation": "I hung the cloth in the garden."
+    },
+    {
+      "phi": "lo lureko lue loremi sotira.",
+      "translation": "The fruit hang from the branch."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "putting washing, tools, or food up to dry or to keep",
+    "spatial": "held from above with nothing beneath"
+  }
+}
